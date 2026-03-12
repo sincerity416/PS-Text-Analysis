@@ -1,0 +1,1871 @@
+              Managing the risk of learning: Psychological safety in work teams
+
+
+
+
+                                        Amy C. Edmondson
+
+   Associate Professor, Harvard Business School, Morgan Hall T93, Boston, MA 02163, USA
+
+                                             @hbs.edu
+
+
+
+                                          March 15, 2002
+
+
+
+
+Forthcoming in West, M. (Ed) International Handbook of Organizational Teamwork, London:
+Blackwell.
+
+
+                                             Abstract
+
+This social psychological analysis explores themes of trust and collective learning in teams. I
+
+describe interpersonal risks that can inhibit collective learning, distinguish psychological safety
+
+from trust, and explain why psychological safety mitigates interpersonal risks and facilitates a
+
+structured learning process in teams. Examples from field studies in several organizational
+
+settings are used to support a new theoretical model and show how leaders can help their teams
+
+manage the risks of learning.
+
+
+
+
+                                                                                                      1
+
+                                           Introduction
+
+
+       This paper explores how members of organizational work teams can overcome the
+
+interpersonal risks they face every day at work, to help themselves, their teams and their
+
+organizations to learn. Over the past few years I have been developing a model of learning in the
+
+work group setting that stems from the underlying premise that people are (both conscious and
+
+unconscious) impression managers – reluctant to engage in behaviors that could threaten the
+
+image others hold of them. Although few of us are without concern about others’ impressions,
+
+our immediate social context can mitigate – or exacerbate – the reluctance to relax our guard. In
+
+field studies in several organizational contexts, I have found enormous differences across teams
+
+in people's willingness to engage in behavior for which the outcomes are both uncertain and
+
+potentially harmful to their image.
+
+       An extensive literature on organizational culture examines how norms, values and beliefs
+
+arise in organizations to reduce the anxiety people feel confronting ambiguity and uncertainty
+
+(Schein 1985). In times of significant organizational or environmental change the potential for
+
+anxiety is increased because people must take action without knowing whether things will work
+
+out as expected. Organizational culture, for all its complexity, cannot fully mitigate the anxiety
+
+and uncertainty that accompany novel behaviors or activities. For example, a team launching a
+
+new product targeted for unfamiliar customers faces considerable technical and business risk.
+
+This can provoke feelings of anxiety in the team, but these risks can be minimized by formal risk
+
+assessment methods and explicit discussion. At the same time, all individuals in organizations
+
+constantly face more subtle interpersonal risks that provoke anxiety and yet tend to remain tacit
+
+and undiscussed.
+
+       Some years ago I became intrigued by the small risks people face every day at work,
+
+
+
+                                                                                                     2
+
+when interacting with others and facing change, uncertainty, or ambiguity. To take action in
+
+such situations involves learning behavior, including asking questions, seeking help,
+
+experimenting with unproven actions, or seeking feedback. Although these activities are
+
+associated with such desired outcomes as innovation and performance, (e.g., Edmondson 1999;
+
+West 2000), engaging in them carries a risk for the individual of being seen as ignorant,
+
+incompetent, or perhaps just disruptive. Most people feel a need to manage this risk to minimize
+
+harm to their image, especially in the workplace and especially in the presence of those who
+
+formally evaluate them. This is both instrumental (promotions and other valued rewards may be
+
+dependent on impressions held by bosses and others) and socio-emotional (we prefer others'
+
+approval than disapproval). One solution to minimizing risk to one’s image is simply to avoid
+
+engaging in interpersonal behaviors for which outcomes are uncertain. The problem with this
+
+solution is that it precludes learning. Another solution—to create conditions in which perceived
+
+interpersonal risk is reasonably low—is explored in this paper.
+
+       Most people in organizations are being evaluated—whether frequently or infrequently,
+
+overtly or implicitly—in an ongoing way. The presence of others with more power or status
+
+makes the threat of evaluation especially salient, but it by no means disappears in the presence of
+
+peers and subordinates. This salience of evaluation in organizations intensifies the problem of
+
+image risk that people also confront in every day lives (Snyder 1974; de Cremer, Snyder et al.
+
+2001; Turnley and Bolino 2001). Here I posit four specific risks to image that people face at
+
+work: being seen as ignorant, incompetent, negative, or disruptive. Each is triggered by
+
+particular behaviors through which individuals and groups learn.
+
+       First, when individuals ask questions or seek information, they run the risk of being seen
+
+as ignorant. Most of us can think of a time when we hesitated to ask a question because it
+
+
+
+
+                                                                                                    3
+
+seemed that no one else was asking, or perhaps we believed that the information was something
+
+we were expected to know already.
+
+       Second, when admitting (or simply calling attention to) mistakes, asking for help, or
+
+accepting the high probability of failure that comes with experimenting, people risk being seen
+
+as incompetent, whether in a narrow, particular domain, or more broadly. Reluctance to take
+
+interpersonal risk can create physical risks in high-risk industries such as nuclear power, where
+
+admitting mistakes and asking for help may be essential for avoiding catastrophe (Weick and
+
+Roberts 1993; Carroll 1998). Similarly, this phenomenon is particularly troubling in
+
+organizations where lives are at stake, such as in hospitals. Reluctance to report mistakes in the
+
+health care setting is widely reported (e.g., Leape et al. 1991). Although this silence limits the
+
+ability of hospitals as organizations to improve through collective learning from mistakes, a goal
+
+most health care professionals would heartily endorse, the perceived need for impression
+
+management to protect one's professional image is extremely high in medicine.
+
+       Third, to learn and improve – as individuals and collectives – it is essential to reflect
+
+critically on current and past performance. The risk of being seen as negative often stops people
+
+from delivering critical assessments of a group or individual’s performance, which limits the
+
+thoroughness and accuracy of collective reflection (Edmondson 2002). Moreover, people strive
+
+to maintain their own and others' face, a tendency that inhibits sharing negative feedback. It is
+
+well known that bad news rarely travels well up the hierarchy, such that in the presence of
+
+supervisors and bosses, the risk of being seen as negative has been shown to be more acute than
+
+it might otherwise be (Reed 1962).
+
+       Fourth, to avoid disrupting or imposing upon others’ time and good will, people will
+
+avoid seeking feedback, information or help (Brown 1990). In particular, individuals are often
+
+
+
+
+                                                                                                     4
+
+reluctant to seek feedback about their performance. Despite the gains that can be obtained from
+
+feedback (Ashford and Cummings 1983), many fail to take advantage of the opportunity.
+
+Although this can be driven by avoidance of the possibility of hearing something we don't want
+
+to hear, it also stems from a wish not to be seen as lacking in self-sufficiency, or as intrusive.
+
+       I have used the term psychological safety (Edmondson 1999; 2002) to capture the degree
+
+to which people perceive their work environment as conducive to taking these interpersonal
+
+risks. In psychologically safe environments, people believe that if they make a mistake others
+
+will not penalize or think less of them for it. They also believe that others will not resent or
+
+penalize them for asking for help, information or feedback. This belief fosters the confidence to
+
+take the risks described above and thereby to gain from the associated benefits of learning.
+
+       I argue that creating conditions of psychological safety is essential to laying a foundation
+
+for effective learning in organizations. I further propose that structuring a collective learning
+
+process at the team or group level is a second critical element for effective organizational
+
+learning, and that a compelling goal is necessary for motivating this collective learning process.
+
+Although human beings are endowed with both desire and ability for learning, collections of
+
+interdependent individuals, whether small groups or large organizations, do not learn
+
+automatically. Not only does interpersonal risk inhibit some of the necessary behaviors, but
+
+organizational routines tend to endure and have a permanence of their own, independent of the
+
+actors who engage in them (Levitt and March 1988; Gersick and Hackman 1990). Moreover,
+
+traditions and beliefs about the appropriateness of the status quo inhibit learning and change
+
+(Levitt and March 1988). Thus, an important aim of this paper is to describe a collective
+
+learning process I observed taking place in similar ways across different contexts in a number of
+
+organizational work teams I have studied over the past few years. Teams are defined as work
+
+
+
+
+                                                                                                      5
+
+groups that exist within the context of a larger organization, have clearly defined membership,
+
+and share responsibility for a team product or service (Alderfer 1987; Hackman 1987).
+
+       In what follows, I describe the construct of psychological safety, the process of team
+
+learning, the role of the team leader, and how these constructs are related – drawing from my
+
+own and others' research. I first discuss psychological safety and how it differs from the related
+
+notion of interpersonal trust, and then describe team learning as an iterative process of action and
+
+reflection. I argue that compelling goals are necessary to motivate this deliberate, effortful
+
+process, and that psychological safety enhances the power of such goals. Without a goal, there is
+
+no clear direction to drive toward and no motivation to do so. However, without psychological
+
+safety, the risks of engaging wholeheartedly in this learning process are simply too great. The
+
+team leader can shape and strengthen the collective learning process both directly and indirectly
+
+by fostering psychological safety, and, in turn, setting goals. This paper thus introduces a new
+
+theoretical model, depicted in figure 1, in which psychological safety moderates the positive
+
+relationship between learning goals and effortful learning behavior to accomplish them. I
+
+conclude with implications for future research and practice.
+
+                                     Insert Figure 1 about here
+
+
+                   Psychological Safety: A Cognitive Group-level Construct
+
+       Psychological safety describes individuals’ perceptions about the consequences of
+
+interpersonal risks in their work environment. It consists of taken-for-granted beliefs about how
+
+others will respond when one puts oneself on the line, such as by asking a question, seeking
+
+feedback, reporting a mistake, or proposing a new idea. I argue that individuals engage in a kind
+
+of tacit calculus at micro-behavioral decision points, in which they assess the interpersonal risk
+
+associated with a given behavior (Edmondson 1999). In this tacit process, one weighs the
+
+
+                                                                                                     6
+
+potential action against the particular interpersonal climate, as in, “If I do this here, will I be hurt,
+
+embarrassed or criticized?” A negative answer to this tacit question allows the actor to proceed.
+
+In this way, an action that might be unthinkable in one work group can be readily taken in
+
+another, due to different beliefs about probable interpersonal consequences.
+
+        The construct of psychological safety has roots in early research on organizational
+
+change, in which Schein and Bennis (1965) discussed the need to create psychological safety for
+
+individuals if they are to feel secure and capable of changing. More recently, Schein (1985)
+
+argued that psychological safety helps people overcome the defensiveness, or “learning anxiety,”
+
+that occurs when people are presented with data that disconfirm their expectations or hopes,
+
+which can thwart productive learning behavior. However necessary the need for a comfortable
+
+learning environment, psychological safety does not imply a cozy environment in which people
+
+are necessarily close friends, nor does it suggest an absence of pressure or problems. Team
+
+psychological safety is distinct from group cohesiveness, as research has shown that
+
+cohesiveness can reduce willingness to disagree and challenge others' views, such as in the
+
+phenomenon of groupthink (Janis 1982)—implying a lack of interpersonal risk-taking.
+
+Psychological safety describes a climate in which the focus can be on productive discussion that
+
+enables early prevention of problems and the accomplishment of shared goals because people are
+
+less likely to focus on self-protection.
+
+Psychological safety versus trust
+
+        The importance of trust in groups and organizations has long been noted by researchers
+
+(Kramer 1999). Trust, defined as the expectation that others' future actions will be favorable to
+
+one's interests, makes one willing to be vulnerable to those actions (Mayer, Davis et al. 1995;
+
+Robinson 1996). The nature of this vulnerability is more narrowly defined for psychological
+
+
+
+
+                                                                                                        7
+
+safety than for trust. The concepts of psychological safety and trust have much in common; they
+
+both describe intrapsychic states involving perceptions of risk or vulnerability, as well as making
+
+choices to minimize negative consequences, and, as explored below, both have potential positive
+
+consequences for work groups and organizations. This section describes conceptual differences
+
+between these related constructs, to argue that they are complementary but distinct interpersonal
+
+beliefs. Three elements of psychological safety are described to distinguish it from trust—the
+
+timeframe, the object of focus, and level of analysis.
+
+       Temporal immediacy. The tacit calculus inherent in perceptions of psychological safety
+
+considers the very short-term interpersonal consequences one expects from engaging in a
+
+specific action. For example, a nurse facing the decision of whether to ask a physician in the unit
+
+about a medication dosage she suspects is erroneous may be so focused on the potential
+
+immediate consequences of asking this question, such as being scolded and humiliated for being
+
+ignorant, that she temporarily discounts the longer-term consequence of not speaking up—that is,
+
+the harm that may be caused to a patient. Although the differential weighting of consequences in
+
+this example is clearly not rational, I have heard countless similar stories in field studies in
+
+markedly different organizational contexts. For example, nurses in one of several hospital teams
+
+in a study of medication error, after embarrassing past encounters with the nurse manager, were
+
+inclined to avoid speaking up about mistakes for fear of getting “put on trial,” thereby
+
+unwittingly discounting the longer-term consequences of silence for patients and for the team
+
+(Edmondson 1996). The construct of trust, in contrast, pertains to anticipated consequences
+
+across a wide temporal range, including the relatively distant future.
+
+       Focus on “self” versus “other.” Trust involves giving others the benefit of the doubt –
+
+indicating a focus on others’ potential actions or trustworthiness. In contrast, in discussing
+
+
+
+
+                                                                                                    8
+
+psychological safety, the question is whether others will give you the benefit of the doubt when,
+
+for instance, you have made a mistake or asked an apparently stupid question. For example, a
+
+member of a production team I studied in a manufacturing company, reported, "I don't have to
+
+wear a mask in this team…it's easy to be myself." When people describe their situation at work
+
+in this way, they are revealing a sense of psychological safety, a sense of comfort expressing
+
+their true selves. The focus is internal, in contrast to the focus on others' future actions implicit
+
+in the construct of trust.
+
+        Levels of analysis. An individual's sense of psychological safety in the workplace is
+
+likely to be shaped by ongoing interpersonal interactions among close coworkers. Although
+
+words and actions of top management may contribute to perceptions of psychological safety (e.g,
+
+Detert 2002), as might individual differences in temperament (Tynan, 1999), the most salient
+
+influence is the perceptions of those individuals with whom an individual works most closely.
+
+Because psychological safety describes beliefs about interpersonal interaction, those interactions
+
+that are best situated to affect these beliefs are contained within a local work group or team.
+
+Moreover, members of teams tend to hold similar perceptions about psychological safety—that
+
+is, about “the way things are around here”—because they are subject to the same set of objective
+
+influences (for example, in having a common manager or a similar level of access to
+
+organizational resources), as well as because many of their beliefs develop out of shared
+
+experiences. Thus, team members of a nurse who reported being “made to feel like a two year
+
+old” when reporting a drug error independently reported similar feelings of discomfort about
+
+speaking up, for example commenting that “nurses are blamed for mistakes” and “[if you make a
+
+mistake here,] doctors bite your head off.” These nurses, either from personal or vicarious
+
+experience, came to the conclusion that, on their team, reporting mistakes was interpersonally
+
+
+
+
+                                                                                                        9
+
+penalized. Consistent with this line of reasoning, in two studies, I have found significant
+
+variance in psychological safety at the group level of analysis (Edmondson 1996, 1999).. In
+
+contrast, trust pertains primarily to a dyadic relationship, even if that dyad is sometimes
+
+conceptualized as consisting of large entities.
+
+       Others have studied both interpersonal trust and psychological safety; for example, in a
+
+recent study, May and Gilson (1999) showed that co-worker trust had a significant positive effect
+
+on psychological safety. Kahn (1990) found that “interpersonal relationships [in an architecture
+
+firm he studied] promoted psychological safety when they were supportive and trusting.”
+
+Informants in his study felt free to share ideas and concepts about designs when they believed
+
+that any criticism would be constructive rather than destructive. The belief that others see one as
+
+competent (an aspect of respect) is particularly salient in this context; those who feel that their
+
+capability is in question are more likely to feel judged or monitored and thus may keep their
+
+opinions to themselves for fear of harming their reputation (Edmondson and Moingeon 1998).
+
+In sum, if relationships within a group are characterized by trust and respect, individuals are
+
+likely to believe they will be given the benefit of the doubt—a defining characteristic of
+
+psychological safety.
+
+Outcomes of psychological safety
+
+       Psychological safety can increase the chances of effortful, interpersonally risky, learning
+
+behavior, such as help seeking, experimentation and discussion of error. Empirical support for
+
+this was found in the manufacturing company study, referenced earlier, in which I collected both
+
+qualitative and quantitative data on 51 teams of four types (management, new product
+
+development, staff services, and production) (Edmondson 1999). These data were analyzed to
+
+show that psychological safety promoted team learning, which in turn facilitated team
+
+
+
+
+                                                                                                      10
+
+performance in teams throughout the organizational hierarchy.
+
+        In a more recent field study of 16 operating room teams learning to use an innovative
+
+(and extremely challenging) new technology for minimally invasive cardiac surgery,
+
+Edmondson, Bohmer, and Pisano (2000) found that psychological safety allowed non-surgeons
+
+to speak up – despite facing longstanding status barriers – with observations, questions or
+
+concerns about the new technology. Established hierarchical roles and routines in the operating
+
+were renegotiated to allow the technology to be implemented successfully (Edmondson, Bohmer
+
+and Pisano, 2001). Rather than only waiting for the chief surgeon to issue commands, all team
+
+members (nurses, perfusionists, and anesthesiologists) had to speak up about and act upon
+
+crucial information from each other. Teams that were able to establish a degree of psychological
+
+safety were better able to renegotiate the ingrained hierarchy within the surgical team, and
+
+speaking up was a predictor of successful implementation of the technology. One of the
+
+successful implementers, for example, reported team members speaking up, even if it meant
+
+correcting a superior. One scrub nurse volunteered a story about her own error and how her
+
+junior, a circulating nurse, pointed it out to her.
+
+        We all have to share the knowledge. For example, in the last case, we needed to reinsert a
+
+        guidewire and I grabbed the wrong wire and I didn’t recognize it at first. And my
+
+        circulating nurse said, ‘Sue, you grabbed the wrong wire.’ This shows how much the
+
+        different roles don’t matter. We all have to know about everything. You have to work as
+
+        a team.
+
+        In contrast, unsuccessful implementers reported great difficulty in doing this. For
+
+example, a nurse in one hospital explained that it was difficult to speak up when she suspected
+
+that something might be wrong,
+
+
+
+
+                                                                                                  11
+
+       I'd tell the adjunct. Or, I might whisper to the anesthesiologist, "does it look like [the
+
+       clamp] migrated?" In fact I've seen that happen. It drives me crazy. They are talking
+
+       about it—the adjunct is whispering to the anesthesiologist, "It looks like it moved" or
+
+       "There is a leak in the ASD" or something, and I'm saying "You've got to tell him! Why
+
+       don't you tell him?'" But they're not used to saying anything. They are afraid to speak out.
+
+       But for this procedure you have to say stuff.
+
+
+       Research has also found that psychological safety can stimulate innovation. For example,
+
+West and Anderson (1996) studied top management teams in British hospitals and found that
+
+organizational support for innovation enabled both "participative safety" and participation, which
+
+led to proposing more innovations. In other studies, participative safety allowed teams both to
+
+generate and integrate innovations into practice (D'Andrea-O'Brien and Buono 1996). Similarly,
+
+in the study of cardiac surgery teams, teams with greater psychological safety were also more
+
+likely to engage in process innovation – another factor associated with successful
+
+implementation of the technology in their hospitals (Edmondson et al, 2001, 2000).
+
+       Removing the fear of speaking up can promote innovation by freeing people up to
+
+suggest novel or unorthodox ideas. For example, in one of the cardiac surgery teams we studied,
+
+where unobtrusive measures revealed the presence of psychological safety (see Edmondson et
+
+al., 2001), a nurse spontaneously suggested solving a particular problem experienced in the new
+
+technology by using a long-forgotten piece of equipment – a clamp nicknamed the “iron intern.”
+
+The nurse’s brainstorm ultimately became a part of that team’s routine. This kind of creative
+
+innovation can be contrasted with the views of members of other teams. For example, an
+
+anesthesiologist in an operating room team lacking psychological safety told the researchers that,
+
+although team members saw opportunities for change and experimentation, “It is best not to stick
+
+
+
+                                                                                                    12
+
+your neck out. Innovation is tolerated at best.” The latter team ranked among the least
+
+successful implementers of the new technology, while the former was one of the best.
+
+
+                             The Collective Learning Process in Teams
+
+        Mitigating the inherent risks of speaking up through psychological safety is only part of
+
+enabling teams to learn. Learning as a team also requires coordination and some degree of
+
+structure, to ensure that insights are gained from members' collective experience and also used to
+
+guide subsequent action. Individual learning is thought of as an iterative process in which
+
+actions are taken, reflected upon, and modified in an ongoing way (Kolb 1984; Schön 1984).
+
+This iterative process does not happen automatically in a team (West, 2000; Edmondson,
+
+Bohmer and Pisano, 2001). This section describes the somewhat structured process through
+
+which teams learn and then discusses factors that contribute to this process, again drawing from
+
+three field studies to illustrate these factors.
+
+Collective learning as an iterative process
+
+        First, organizational learning researchers have described the need for reflection-in-action,
+
+or “double-loop learning” (Argyris and Schön 1978), for effective organizational adaptation.
+
+Reflection-in-action is the critical examination of a process, such that it can be subsequently
+
+adjusted according to new data and knowledge. One component of reflection-in-action is
+
+analogic thinking (Hargadon 1998). Analogic thinking—merging diverse pools of knowledge
+
+and integrating past and present experiences—is a learning strategy particularly relevant to new
+
+product development teams and others that are confronted with a learning challenge.
+
+        The team learning process consists of iterative cycles of action, reflection, and
+
+adjustment. What is being learned, made more effective, or disseminated are routines for
+
+conducting work that accomplishes goals. Although some organizational routines are simple and
+
+
+
+                                                                                                    13
+
+carried out by one person, most require coordinated action from multiple people. The knowledge
+
+needed to carry out these routines is stored in many different forms and locations, including
+
+procedure manuals, physical equipment and layout, and individual minds. Through repeated
+
+action and reflection, teams access this knowledge and learn how to best use it. In developing
+
+this conceptualization of team learning, I draw both from the literature (e.g., West 2000) and
+
+from empirical evidence. In particular in studying cardiac surgery teams, those that successfully
+
+implemented a new technology in their hospitals tended to engage in a qualitatively different
+
+process—one characterized by iterative trial and reflection—than unsuccessful teams
+
+(Edmondson, Bohmer and Pisano, 2001).
+
+       West (2000) states that reflexive learning teams possess self-awareness and the agency to
+
+enable change. Periods of reflection are structured around these questions: “What are we
+
+learning? What can we do better? What should we change?” and are followed by planning and
+
+implementation, or action. Some teams engage in reflection on a daily basis; others reflect at a
+
+natural break in the project, such as at “half-time” for sports teams (Katz 2001); still others
+
+reflect when a project is completed, as in the "after action reviews" conducted by the US Army
+
+following military exercises (Garvin 2000). The chronological midpoint of a project is a crucial
+
+time for reflection and change; anticipating “half-time” allows team members to work towards
+
+mini-deadlines and makes long-term projects approachable (Gersick 1988). Furthermore,
+
+resolution is more easily obtained if occurs “in the moment” because fidelity to data is likely to
+
+be greater.
+
+       Team reflection does not necessarily indicate extensive sessions to thoroughly analyze
+
+team process or performance, but instead can be quick and pragmatic. For example, a production
+
+team responsible for technical support in the manufacturing company included short daily
+
+
+
+
+                                                                                                     14
+
+meetings to check on team progress. Observing one of these meetings, I was struck by the quick
+
+task-focused updates, in which members described problems or solutions that had arisen within
+
+the past day or two, and others asked questions and offered suggestions. For example, after one
+
+member described "printer problems with those labels" and asked, "Who can we ask for help?"
+
+another member, responded, "How about asking the vendors who make the labels? They
+
+probably know how to fix it," and the team leader offered to make a phone call—closing the loop
+
+and dealing with the problem before it escalated in magnitude. Knowing that they would have a
+
+chance to reflect on triumphs and worries, the daily check-in contributed to this team’s success
+
+within the organization.
+
+       For other teams it may be more appropriate to wait for outcomes to be available before
+
+reflecting on the team process. In a study of design firm teams, for example, Busby (1999)
+
+found that periods of collective retrospection after project completion produced cognitive and (to
+
+a lesser extent) behavioral learning. Increases in shared understanding (cognitive learning) were
+
+the most trenchant outcomes of these more extensive reflective sessions, and this shared
+
+understanding allowed team members to act and reflect in a coordinated manner.
+
+Summary of the team learning process
+
+       Across varying forms of team reflection (which differ in the frequency at which it occurs,
+
+at what point(s) in the project it happens, and what its outcomes might be) are some common
+
+themes: collaborating, making changes (whether mid-course or for subsequent projects), and
+
+expecting to encounter problems and make appropriate changes. Reflection-in-action can lead to
+
+increased success in new technology implementation (Edmondson et al., 2001) and in product
+
+development. Reporting on a study of learning in new product development teams, Lynn,
+
+Mazzuca, Morone, and Paulson (1998: 8) concluded, “The key to developing really new products
+
+
+
+
+                                                                                                   15
+
+successfully is the degree to which teams are able to learn from prior steps—frequently in
+
+unpredictable ways—and act on that information.”
+
+
+                                            Learning Goals
+
+       Learning behavior is effortful. Something must motivate individuals to exert the effort to
+
+engage in learning behavior and drive groups to adopt the discipline to enact a collective learning
+
+process. A compelling shared goal motivates teams by establishing positive pressure or stress.
+
+A compelling goal for learning is one that is both meaningful (achieving it would in some way
+
+help the team or the organization accomplish something of generally agreed upon value) and
+
+sufficiently challenging to incur some doubt about its feasibility—but not so much doubt as to
+
+evoke feelings of helplessness (Csikszentmihalyi 1994; Locke 2001). For example, surgeon
+
+leaders of the more successful teams presented the new technology as an opportunity to help
+
+patients (by dramatically reducing the size of the surgical wound) and also stressed the difficulty
+
+of the challenge, explaining that it would require everyone on the team’s active participation to
+
+pull it off. This emphasis on the goal and on the outcomes of their effort helped the team go
+
+through the arduous learning process.
+
+       The motivational power of goals is well established in the literature (Locke 2001).
+
+Research also has shown that goal interdependence enables efficiency in group problem-solving
+
+(Tjosvold 1990), a kind of learning behavior. Other research (Frink and Ferris 1998) suggests
+
+that goal setting and the effort invested in reaching goals is positively correlated to perceptions
+
+of accountability and performance evaluation. Goals also keep a team “on track” by establishing
+
+a benchmark against which its members can measure progress.
+
+The role of shared goals in team learning
+
+       Goals must be reasonably well defined and understood by all team members to foster
+
+
+
+                                                                                                      16
+
+reflection-in-action. For example, in a study of geographically dispersed product development
+
+teams (Sole and Edmondson 2002), one team was working to develop a radical new material for
+
+a large Asian manufacturer. Distant team members had had no direct contact with this customer
+
+yet needed to understand its market strategy to estimate the longer-term commitment required for
+
+the team and its company. Other team members were located near the customer site and seemed
+
+to be in a good position to have the necessary information. After waiting for some time for the
+
+requested information, the distant team members’ frustrations escalated:
+
+       “[We thought] our colleagues weren’t putting priority and effort into it, when actually
+
+       [we later learned] there was a void with the customer being able to articulate that
+
+       themselves.”
+
+An intermediary familiar with both companies became involved and through his probing
+
+discovered that the customer itself had not yet established sales, marketing, or distribution plans,
+
+nor identified people responsible for these activities. A research scientist on the dispersed
+
+development team described this realization as an “ah-ha” moment:
+
+       “That was probably one of the biggest issues, because the customer themselves, for the
+
+       longest time, didn’t have their own strategy clear and we didn’t know it.”
+
+The distant team members had made two assumptions: first that a shared team goal existed and
+
+second that the team members in contact with the customer had data relevant to achieving that
+
+goal. From these assumptions came attributions of non-compliance, leading to negative
+
+emotions within the team. Through better articulation of the team’s shared goals (which would
+
+begin to suggest strategies for obtaining the information needed to achieve them), this
+
+miscommunication would have been less likely to happen. In fact, the act of goal setting can be
+
+as or more important than the goal itself, because it creates shared understanding of the team’s
+
+
+
+
+                                                                                                   17
+
+task and suggests implications for how to work together.
+
+Psychological safety as a moderator
+
+       Social psychologists have investigated relationships between objective goals and
+
+intrapsychic and interpersonal states in a group. For example, Dirks (1999) showed that trust
+
+moderates the relationship between goals and performance: when there is a low level of trust in
+
+a group, contributions of group members were limited to achieving personal rather than
+
+cooperative goals. This can inhibit group-level learning and get in the way of accomplishing a
+
+desired organizational change (Edmondson and Woolley forthcoming). Similarly, in this paper I
+
+propose that psychological safety moderates the positive relationship between a compelling goal
+
+and team learning. When psychological safety is high, this relationship is likely to be strong;
+
+when it is low, the motivating effects of goals are inhibited, as despite the desire to learn,
+
+interpersonal risk may inhibit the necessary behavior. This hypothesis is consistent with existing
+
+theories of task motivation which maintain that behavior and performance are driven by needs,
+
+goals and rewards (Dirks, 1999; Kanfer 1990). Consistent with this, figure 1 presented learning
+
+as motivated by goals, not by psychological safety itself. Psychological safety, when present,
+
+can enhance the motivating effects of goals on behavior, just as trust has been shown to moderate
+
+the effects of task (cognitive) conflict on relationship (affective) conflict (Simons and Peterson
+
+2000). In this study, trust reduced the likelihood of relationship conflict in top management
+
+teams, such that task conflict (productive disagreement over the content of one’s decisions and
+
+ideas that deepen cognitive understanding of the problem) was able to help the team produce
+
+better solutions. Termed “creative abrasion” by Leonard-Barton (1995), task conflict thus may
+
+have to exist within a cushion of psychological safety to enable a learning climate of discussion,
+
+innovation, and productive group thinking. Otherwise such conflict is destructive –
+
+
+
+
+                                                                                                     18
+
+characterized by aggression, harsh language, and the threat of humiliation in front of others.
+
+Similarly, Barsade and her colleagues (2001) found that psychological safety moderates the
+
+effect of conflict on anger. Psychological safety allows groups to set high goals and work
+
+towards them through cycles of learning and collaboration.
+
+       In this way, psychological safety allows the interpersonal risks of learning to be
+
+mitigated. It has very real consequences for the way learning occurs—or fails to occur—in work
+
+teams of all kinds, and thus organizations. As depicted in Figure 1, team leader actions are
+
+predicted to influence goals, psychological safety, and the team learning process, while
+
+psychological safety moderates the relationship between a compelling team goal and a team
+
+learning process—enhancing or inhibiting the effect of goals on team learning.
+
+
+
+      The Role of Team Leaders in Psychological Safety, Learning Process, and Goals
+
+       Factors that shape the team learning process include power relationships and how team
+
+leaders manage them. Above, I argued that psychological safety facilitates freedom and
+
+openness to engage in the interpersonally risky behaviors needed for learning, and also, perhaps
+
+paradoxically, that an effective team learning process is structured and guided, through deliberate
+
+action (West 2000). Managing this apparent tension is the job of a team leader. Further, team
+
+leaders help to articulate or highlight a shared goal for the team.
+
+       The actions and attitudes of the team leader are thus important determinants of the team
+
+learning process. First, team leaders are a critical influence on psychological safety; second,
+
+they can deliberately work to structure a learning process, and third, team leaders play a role in
+
+shaping, or at least communicating, the team's goal. In this section, I develop implications for
+
+team leaders related to managing all three elements of team learning.
+
+
+
+
+                                                                                                     19
+
+Creating psychological safety.
+
+       Team leaders have a powerful effect on psychological safety. Researchers have shown
+
+that team members are particularly aware of the behavior of the leader (Tyler and Lind 1992),
+
+and leaders’ responses to events and behaviors influence (in a way either beneficial or
+
+detrimental to the group) other members' perceptions of appropriate and safe behavior (Winter,
+
+Sarros et al. 1997). Leaders can create environments for learning by acting in ways that promote
+
+psychological safety. Autocratic behavior, inaccessibility, or a failure to acknowledge
+
+vulnerability all can contribute to team members' reluctance to incur the interpersonal risks of
+
+learning behavior (Edmondson 1996; Edmondson, Bohmer and Pisano, 2001). And, when team
+
+leaders are selected solely on the basis of technical expertise, such as skill and knowledge about
+
+a topic, they may lack the interpersonal skills necessary to seek others' input, invite feedback and
+
+ideas, and create an interpersonal climate in which others are willing to speak up with ideas and
+
+concerns.
+
+       Accessibility. Leaders encourage team members to learn together by being accessible and
+
+personally involved. In one of the cardiac surgery teams that promoted organizational learning
+
+(in the form of successfully implementing the challenging new technology), an operating room
+
+nurse implicitly made this association by describing the surgeon leading her team as “very
+
+accessible. He’s in his office, always just two seconds away. He can always take five minutes to
+
+explain something, and he never makes you feel stupid.” In striking contrast, the surgeon in one
+
+of the less successful teams team requested that non-physician team members go through his
+
+residents (junior physicians who are still in training) rather than speak to him directly. Through
+
+their behaviors, these two surgeons conveyed very different messages to their teams. The first
+
+surgeon increased the likelihood that people would come to him with questions or problems, and
+
+
+
+
+                                                                                                   20
+
+more importantly, would speak up quickly and openly in the operating room, with questions and
+
+observations, while the other surgeon made this more difficult (Edmondson, Bohmer and
+
+Pisano, 2001).
+
+       Acknowledging fallibility. To create psychological safety, team leaders also can
+
+demonstrate tolerance of failure, such as by acknowledging one’s own fallibility, taking
+
+interpersonal risks, and religiously avoiding punishing others for well-intentioned risks that
+
+backfire. Self-disclosure by team leaders is one way to do this (Gabarro 1987). For example, one
+
+surgeon team leader repeatedly told his team: “I need to hear from you because I’m likely to
+
+miss things.” The repetition of this phrase was as important as its’ meaning: people tend not to
+
+hear—or not to believe—a message that contradicts old norms when they hear it only once.
+
+Soliciting feedback suggests to others that their opinion is respected; it may also contribute to
+
+establishing a norm of active participation.
+
+        Other vivid examples of purposefully refraining from penalizing failure exist in the
+
+management literature. For example, Brand (1998) reiterates the tale of how innovation at 3M
+
+was fostered by a culture of leaders and management tolerant of mistakes: the adhesive used in
+
+the now-ubiquitous Post-it notes was the botched version of another product development
+
+project. The motto of product-design firm IDEO is “Fail often, so you’ll succeed sooner” (Katz
+
+2001: 61). Similarly, Cannon and Edmondson (2001) describe the “Mistake of the Month” ritual
+
+at a public relations firm, in which certain meetings opened with a review of mistakes – a
+
+lighthearted way to acknowledge the learning value in mistakes, and even for building a sense of
+
+community.
+
+       Psychological safety versus accountability. In supporting a climate of psychological
+
+safety, are leaders sacrificing team member accountability? I argue that this is a false tradeoff.
+
+
+
+
+                                                                                                     21
+
+First, it is inaccurate to equate psychological safety with the removal of consequences for lack of
+
+performance. My research suggests that skilled team leaders can reward excellence, sanction
+
+poor performance, and at the same time embrace the imperfection and error that are inevitable
+
+under conditions of uncertainty and change. Psychological safety is nurtured without sending the
+
+message that "anything goes." In this way, team leaders and other immediate supervisors of
+
+work must communicate clear expectations about performance and accountability, without
+
+communicating that they are closed to, or unwilling to hear, bad news. Psychological safety
+
+means no one will be punished or humiliated for errors, questions, or requests for help, in the
+
+service of reaching ambitious performance goals. To make this work, team leaders must inspire
+
+team members to embrace error and deal with failure in a productive manner. This balancing act
+
+may be difficult to enact without some natural leadership ability or training, or may require
+
+excellent interpersonal skills, and perhaps even humor (Filipowicz 2002).
+
+Managing process.
+
+       To encourage learning, the leader must impose structure on the team to ensure that
+
+reflection follows action and that changes are both suggested and implemented accordingly
+
+(Edmondson 2002). This structured learning process will benefit from the leader's explicit
+
+request for input from the team. Team and organizational-level learning both necessarily depend
+
+on individually-held knowledge, and that there is a large body of valuable, untapped knowledge
+
+within the organization (Macdonald 1995). Leaders must seek out this internal knowledge
+
+especially from lower-status team members (such as nurses and technicians in the context of the
+
+cardiac surgery operating room) who might otherwise be reluctant to speak. Team leaders can
+
+play a role in drawing members' thoughts out by setting up reflective sessions where task and
+
+time pressures are temporarily removed. .
+
+
+
+
+                                                                                                  22
+
+       Power. Leaders can manage power from both directions, first by empowering those in
+
+lower-status positions to speak up and second by minimizing the domineering tendencies of
+
+high-power individuals. For example, in a qualitative study of four production teams in a
+
+manufacturing company, Brooks (1994) described one in which the leader, Dave, used his
+
+position as an engineer as an advantage over lower-status technicians in the team. Dave and
+
+another engineer dominated meetings and regularly belittled their teammates’ contributions. The
+
+leader’s style so swayed the group that Brooks characterized them as the “Lost team,” unable to
+
+set goals or make any real efforts to achieve them. Dominant individuals like Dave can be useful
+
+in prompting team reflection but should not be allowed to dictate the form of subsequent action
+
+(Wageman and Mannix 1998). Power differences can and must be managed to enhance team
+
+learning and performance. Suppressing the input of team members reduces opportunities for
+
+learning, with such consequences as less-robust data or poorly articulated, constructed, and
+
+executed projects.
+
+       Research on power differentials explains such scenarios as the relative presence or
+
+potency of power in a group influences willingness to participate and the type of knowledge that
+
+is produced (Brooks 1994; Dirks 1999; Lee, Edmondson, Thomke and Worline, 2001). Other
+
+research suggests that fear (on an individual or organizational level) impedes collective learning
+
+by marring what Rifkin and Fulop (1997) term a “learning space.” Fear in people holding
+
+subordinate positions within the team causes concealment of one’s identity, blocking “mutual
+
+self-disclosure” (Rifkin and Fulop ,1997) and hindering the process of team learning.
+
+Psychological safety, however, can counteract the debilitating forces of power.
+
+       Structuring a process. The second way that leaders contribute to structuring the learning
+
+process is by guiding the team through preparation and early, sometimes experimental, efforts.
+
+
+
+
+                                                                                                  23
+
+The challenge of learning behaviors such as talking about errors, experimenting, and learning
+
+how to gather data from varied sources is affected by team composition. Knowledge differences,
+
+credentials, length of tenure, gender, and rank within the organization can threaten collective
+
+learning, yet many teams are successful learners in spite of these inequalities. Leaders can help
+
+this come about: in addition to building psychological safety, they can lead training and practice
+
+sessions, use direct, actionable language, and articulate norms for working together. Vignettes
+
+from several field studies illustrate these aspects of the team learning process.
+
+       Structure versus innovation. At first glance it may seem that leaders must sacrifice
+
+innovation by imposing the structure of a learning process. On the one hand, ensuring that action
+
+and reflection occur in a timely and productive way requires the imposition of structure, schedule
+
+and guidance. On the other hand, this process not only allows spontaneity, creativity and process
+
+innovation, it can promote it (West 2000). Enabling innovation thus may require being flexible
+
+while imposing structure, another skillful balancing act that involves prodding the team to
+
+reflect, while remaining open to what transpires in the reflection process.
+
+Setting team goals
+
+       Imposing versus participating. The leader's role in setting team goals also involves a
+
+tension between setting direction unilaterally and allowing group participation in shaping goals.
+
+Clear, compelling goals are considered an essential prerequisite for team effectiveness (Hackman
+
+1987), and imposing a goal from above is often considered effective practice. This imposition
+
+can come at the cost of valuable input from members who may know more about certain facets
+
+of the team's work than the leader does. One factor driving this balance is the role a given team
+
+plays in executing the organization's strategy. If a team's job is defined by organizational
+
+imperatives, its specific goals may be set by senior management but perhaps further developed
+
+
+
+
+                                                                                                    24
+
+by the team leader and team members. An externally imposed goal may also be required if a
+
+team's work must be integrated with the work of other teams. This integration can either be
+
+planned in advance, when enough is known to do so, or coordinated through interaction across
+
+team boundaries throughout different teams' progress on their tasks. In this model, a network of
+
+teams in the organization shares knowledge and works cooperatively towards organizational
+
+goals, in an iterative, learning process. For most teams, team members' input is more important
+
+and more useful for figuring out how goals will be achieved rather than what the goals are – that
+
+is, input is directed into means not ends (Hackman, 1987). Finally, effective goals for learning
+
+must balance radical (“stretch”) and incremental (finite, foothold) goals to measure progress
+
+along the way to achieving goals that seem ambitious if not impossible to achieve at the outset.
+
+
+                             Implications for Theory and Practice
+
+       The model presented in this paper extends previous theory on team learning by
+
+introducing the role of a compelling goal that is both meaningful and challenging as a driver of
+
+the learning process, and by arguing that psychological safety moderates this relationship. I
+
+draw from the literature and from several field studies to illustrate and demonstrate the
+
+plausibility of relationships in the model. These examples are by no means offered as conclusive
+
+evidence of the hypothesized relationships, however, and empirical research is needed to test and
+
+extend the model depicted in figure 1.
+
+The role of psychological safety in team learning
+
+       Field studies in various settings—health care delivery, product development, production,
+
+and management—suggest that, in situations where collaboration is critical to learning, certain
+
+conditions must be present for teams to learn and to work together effectively – especially
+
+psychological safety and (not unrelated) an open, coaching oriented team leader. The construct
+
+
+
+                                                                                                   25
+
+and effects of psychological safety have growing support in the literature (e.g., Kahn, 1990;
+
+Edmondson, 1999; 2002; Barsade etc); however, further research is needed to build on the
+
+studies referenced above.
+
+       Implications of psychological safety as a moderator. Previously, I have discussed
+
+psychological safety as a mechanism that translates supportive inputs into outcomes (Edmondson
+
+1999). This conceptualization makes sense, given inputs that directly help build psychological
+
+safety, but it is incomplete in that it bypasses the issue of motivation. The model presented in
+
+this paper thus may be more accurate and complete. Proposing psychological safety as a
+
+moderator is meant to help explain the differential impact of goals on outcomes and why teams
+
+learn and improve at varying rates. These propositions are offered to encourage additional work
+
+to support a new theory of work motivation in teams, with a focus on motivators and detractors.
+
+       Psychological safety's limitations. Psychological safety is an explanatory construct – a
+
+set of intangible interpersonal beliefs and predictions – rather than a managerial lever or action.
+
+There are actions leaders can take to build psychological safety, as discussed above, but it cannot
+
+be mandated are altered directly. In this sense, theory and practice related to psychological
+
+safety must be advanced by research that investigates effects of leader behavior and other
+
+organizational factors on psychological safety and on more tangible outcomes related to
+
+performance and job satisfaction.
+
+       Research on explanatory constructs like trust and psychological safety (both intrapsychic
+
+states) has a particular burden: to be relevant to practitioners the concepts must be unpacked into
+
+specific, actionable steps and they must be related to other critical variables such as goals and
+
+task design. Such research must balance the development of theoretical bodies of knowledge
+
+and the investigation of ‘real world’ problems (King, Keohane et al. 1994).
+
+
+
+
+                                                                                                      26
+
+Implications for practice
+
+       A few practical suggestions can be gleaned from the ideas and studies reviewed in this
+
+paper. First, we can return to a suggestion raised by Peter Senge (1990) in his influential book
+
+on organizational learning, where he argued that managers lack, yet need, management "practice
+
+fields," where they can participate together in simulated experiences, make and learn from
+
+mistakes without actual harm to the organization, and conduct experiments.
+
+       Practice fields. Leaders of teams can orchestrate explicit sessions for off-line "practice,"
+
+in which the team is able to learn from simulated experiences or from thought experiments,
+
+without risk of harming their real work. Six of the eight successful cardiac surgery teams we
+
+studied used a form of this technique, by engaging in a thorough team practice session, in the
+
+form of a dry run, while six of the eight unsuccessful teams did not engage in a dry run. In these
+
+explicit practice sessions, team members walked through the procedure in “real time,” discussing
+
+what moves each person would be making if a real patient present had been present. Through
+
+this kind of off-line practice, the teams were able to anticipate technical problems that might
+
+arise during surgery and also to get comfortable in new interpersonal roles and relationships
+
+(Edmondson, Bohmer and Pisano, 2001). Similarly, other recent research found that leader
+
+briefings and team training influenced mental model accuracy and were integral to team
+
+performance in new environments (Marks et al., 2000). Practice fields also are likely to foster
+
+psychological safety, not only because real financial or medical consequences are removed, but
+
+because they convey to the members of the team that learning is important and that getting it
+
+right the first time is understood to not always be possible. Team leaders are most often in a
+
+position to suggest and implement practice fields as a tool in promoting team learning.
+
+       Direct language. In addition to setting a context for learning that encourages participation
+
+
+
+
+                                                                                                   27
+
+from all members, using direct, actionable language also contributes to an effective learning
+
+process (Argyris 1993). Teams cannot afford to shirk critiques—the risk of sounding negative,
+
+criticizing the boss or making the company appear fallible. For example, management teams
+
+often face strategic decisions in which they must reflect on the company's current situation and
+
+suggest changes. The challenge in such discussions is to be objective and blunt about problems
+
+and about what is not working. In many such team discussions, however, the language is
+
+anything but direct and clear. For example, a top management teams I studied engaged in a
+
+series of meetings for the explicit purpose of developing a new strategy. In these conversations,
+
+I observed a persistent pattern of using metaphor to evade stating a critical assessment of the
+
+team’s progress. To illustrate, one member commented,
+
+       Listening to Bob talk about the ship, I'd like to explore the difference between the
+
+       metaphor of the ship and how the rudder gets turned and when, in contrast to a flotilla,
+
+       where there's lots of little rudders and we're trying to orchestrate the flotilla. I think this
+
+       contrast is important. At one level, we talk about this ship and all the complexities of
+
+       trying to determine not only its direction but also how to operationalize the ship in total to
+
+       get to a certain place, versus allowing a certain degree of freedom that the flotilla analogy
+
+       evokes.
+
+       Although metaphors such as this can provoke new ideas and creativity, they can also
+
+obscure the real issues and preclude direct or contentious discussion. In this team, members rarely
+
+inquired to clarify the meaning of each other's words, or to seek to identify areas of disagreement.
+
+The team continued to discuss the company and its situation abstractly in this way, avoiding
+
+disagreement and postponing resolution of the self-assessment process, and members tended not to
+
+challenge each other’s abstract language. By the end of six months, little progress and no decisions
+
+
+
+
+                                                                                                         28
+
+had been made. The team's abstract ruminations did not translate easily into action (Edmondson
+
+2002).
+
+         Norms. Finally, team leaders and members can explicitly seek to define objectives and
+
+agreed upon norms for how to work towards them. For example, in the study of geographically
+
+dispersed product development teams cited above, we found that some teams establishing clear
+
+norms for working together and an explicit process for learning from each other (Sole and
+
+Edmondson forthcoming). One team held weekly ‘virtual’ meetings via telephone to share
+
+recently collected data. In contrast, another team had no established routine for collecting and
+
+distributing information, ultimately contributing to mistrust and frustration in the team. Another
+
+way in which the first team encouraged collective learning was by being explicit about goals and
+
+taking inventory of members' capacities and strengths—and weaknesses—what they needed to
+
+know. Based on the results of this informal inventory, the team exercised flexibility and brought
+
+in someone not officially on the team to fill gaps in their knowledge and expertise.
+
+Similarly, differences in technology implementation success in the cardiac surgery study could
+
+be accounted for in part by how the team leader framed the learning challenge. Successful
+
+implementers viewed technology implementation as a team learning project; unsuccessful
+
+implementers viewed it as a technical challenge. These different frames led to different norms
+
+for team member interaction, which ultimately allowed or disallowed a structured team learning
+
+process of testing, reflecting, and modifying the procedure, in an ongoing, participative way.
+
+
+
+                                           Conclusion
+
+         This paper has drawn from teams in many contexts to model the collective learning
+
+process in teams. One the one hand, these teams may seem too diverse to allow useful
+
+
+
+
+                                                                                                   29
+
+comparisons and to develop general insights. The challenges encountered on the factory floor, in
+
+the operating room, and around the glass-topped tables in a management team's conference room
+
+differ substantively. On the other hand, all of the teams studied – whether geographically
+
+dispersed product development teams or co-located nursing teams – struggled with the need for
+
+learning and all struggled with issues of power, trust and psychological safety. In each, it
+
+appeared that team leaders were in positions to play a critical role in shaping the learning
+
+process. The model and guidelines presented above provide team leaders a supportive
+
+framework for understanding and responding to the dynamics of the collective learning process.
+
+       Team leaders can be seen to occupy an increasingly sophisticated and challenging role,
+
+especially when they lead teams that need to learn. These front-line organizational leaders must
+
+continually clarify the meaning and importance of the team's goal, make sure that goal is serving
+
+the organization's strategic aims, and remain open to input from other team members about ways
+
+in which the goal must be modified to meet new changes in the team's environment. This means
+
+setting challenging goals and specific direction without engaging in authoritarian action that
+
+stifles participation. It means allowing team members the latitude for innovation while providing
+
+the structure needed for learning. To do this, I argue, requires enough structure to ensure
+
+inclusiveness and teamwork without restricting the spontaneity and creativity that can produce
+
+unexpected synergies—structure without rigidity. It means creating a climate of psychological
+
+safety that allows people to feel safe taking risks, while also setting high standards that require
+
+enormous effort and preclude settling into a comfort zone— safety without complacency.
+
+
+
+
+                                                                                                      30
+
+References
+
+Alderfer, C. P. (1987). An intergroup perspective on organizational behavior. Handbook of
+
+       organizational behavior. J. W. Lorsch. Englewood Cliffs, NJ, Prentice-Hall.
+
+Argyris, C. (1993) Knowledge for action: A guide to overcoming barriers to organizational
+
+       change. San Fransisco: Jossey- Bass.
+
+Argyris, C. and D. Schön (1978). Organizational learning: A theory of action perspective.
+
+       Reading, MA, Addison-Wesley.
+
+Ashford, S. J. and L. L. Cummings (1983). "Feedback as an individual resource: Personal
+
+       strategies of creating information." Organizational Behavior and Human Performance(
+
+       32): 370-398.
+
+Barsade, S. G., D. E. Gibson, et al. (2001). To Be Angry or Not to be Angry in Groups:
+
+       Examining the Question. Academy of Management, Washington, D.C.
+
+Brand, A. (1998). "Knowledge Management and Innovation at 3M." Journal of Knowledge
+
+       Management 2(1): 17-22.
+
+Brooks, A. K. (1994). "Power and the Production of Knowledge: Collective Team Learning in
+
+       Work Organizations." Human Resource Development Quarterly 5(3): 213-235.
+
+Brown, R. (1990). Politeness theory: Exemplar and exemplary. The legacy of Solomon Asch:
+
+       Essays in cognition and social psychology. I. Rock. Hillsdale, N.J., Lawrence Erlbaum
+
+       Associates: 23-37.
+
+Busby, J. S. (1999). "The effectiveness of collective retrospection as a mechanism of
+
+       organizational learning." Journal of Applied Behavioral Sciences 31(1): 109-129.
+
+Cannon, M. D. and A. C. Edmondson (2001). "Confronting failure: Antecedents and
+
+       consequences of shared beliefs about failure in organizational work groups." Journal of
+
+
+
+
+                                                                                                 31
+
+       Organizational Behavior 22: 161-177.
+
+Carroll, J. S. (1998). "Organizational learning activities in high-hazard industries: The logics
+
+       underlying self-analysis." Journal of Management Studies 35(6): 699-717.
+
+Csikszentmihalyi, M. (1994). Flow: The Psychology of Optimal Experience. New York, Simon
+
+       and Schuster.
+
+D'Andrea-O'Brien, C. and A. F. Buono (1996). "Building effective learning teams: Lessons from
+
+       the field." S.A.M. Advanced Management Journal 61(3): 4-10.
+
+de Cremer, D., M. Snyder, et al. (2001). "'The less I trust, the less I contribute (or not)?' The
+
+       effects of trust, accountability and self-monitoring in social dilemmas." European Journal
+
+       of Social Psychology 31: 93-107.
+
+Detert, J. R. (2002) "Speaking up at Hi-Co". Harvard Business School Working Paper.
+
+Dirks, K. T. (1999). "The effects of interpersonal trust on work group performance." Journal of
+
+       Applied Psychology 84(3): 445-455.
+
+Edmondson, A. (1996). "Learning from mistakes is easier said than done: Group and
+
+       organizational influences on the detection and correction of human error." Journal of
+
+       Applied Behavioral Sciences 32(1): 5-32.
+
+Edmondson, A. (1999). "Psychological safety and learning behavior in work teams."
+
+       Administrative Science Quarterly 44: 350-383.
+
+Edmondson, A. (2002). "The local and variegated nature of learning in organizations: a group-
+
+       level perspective." Organization Science.
+
+Edmondson, A., R. M. J. Bohmer, and G. Pisano. (2000). " Learning new technical and
+
+       interpersonal routines in operating room teams: The case of minimally invasive cardiac
+
+       surgery. In Mannix, B., Neale, M. and Griffith, T. (Eds.) Research on Groups and
+
+
+
+
+                                                                                                    32
+
+       Teams. Greenwich, CT: Jai Press, Inc. pages 29-51.
+
+Edmondson, A., R. M. J. Bohmer, and G. Pisano. (2001). "Disrupted Routines." Administrative
+
+       Science Quarterly.
+
+Edmondson, A. C. and B. Moingeon (1998). "From Organizational Learning to the Learning
+
+       Organization." Management Learning 29(1): 5-20.
+
+Edmondson, A.C. and A. Woolley (forthcoming). Understanding outcomes of organizational
+
+       learning interventions, M. Easterby-Smith, et al., Eds. International Handbook on
+
+       Organizational Learning and Knowledge Management. London: Blackwell.
+
+Filipowicz, A. (2002) The Impact of Humor on Performance in Task-based Interactions: A
+
+       Theoretical Model. Harvard University Working Paper.
+
+Frink, D. D. and G. R. Ferris (1998). "Accountability, impression management, and goal setting
+
+       in the performance evaluation process." Human Relations 51(10): 1259-1283.
+
+Gabarro, J.J. (1987) The development of working relationships. In J. Lorsch, Ed., Handbook of
+
+       organizational behavior (172-189). Englewood Cliffs, NJ: Prentice Hall.
+
+Garvin, D.A. (2000) Learning in Action. Boston: Harvard Business School Press.
+
+Gersick, C. J. G. (1988). Time and transition in work teams: toward a new model of group
+
+       development. Academy of Management Journal (31): 9-41.
+
+Gersick, C. J. G. and J. R. Hackman (1990). "Habitual routines in task-performing teams."
+
+       Organizational Behavior and Human Decision Processes 47(65-97).
+
+Hackman, J. R. (1987). The design of work teams. In J. Lorsch, Ed., Handbook of Organizational
+
+       Behavior (315-342). Englewood Cliffs, NJ, Prentice-Hall.
+
+Hargadon, A. B. (1998). "Firms as Knowledge Brokers: Lessons in pursuing continuous
+
+       innovation." California Management Review 40(3): 209-227.
+
+
+
+
+                                                                                                33
+
+Janis, I. L. (1982). Groupthink: Psychological studies of policy decisions and fiascos. Boston,
+
+       Houghton Mifflin.
+
+Kahn, W. A. (1990). "Psychological conditions of personal engagement and disengagement at
+
+       work." Academy of Management Journal 33(4): 692-724.
+
+Kanfer, R. (1990). Motivation theory and Industrial and Organizational Psychology. Handbook
+
+       of Industrial and Organizational Psychology. M. D. Dunnette and L. M. Hough. Palo
+
+       Alto, Consulting Psychologists Press, Inc. 1: 755.
+
+Katz, N. (2001). "Sports Teams as a model for workplace teams: lessons and liabilities."
+
+       Academy of Management Executive 15(3): 56-67.
+
+King, G., R. Keohane, and S. Verba. (1994) Designing Social Inquiry. Princeton, NJ: Princeton
+
+       University Press.
+
+
+
+Kolb, D. A. (1984). Experiential learning: experience as the source of learning and development.
+
+       Englewood-Cliffs, Prentice-Hall.
+
+Kramer, R. M. (1999). "Trust and distrust in organizations: emerging perspectives, enduring
+
+       questions." Annual Review of Psychology 50: 569-598.
+
+Leape, L. L., T. A. Brennan, et al. (1991). "The nature of adverse events in hospitalized patients:
+
+       Results of the Harvard Medical Practice Study II." New England Journal of Medicine
+
+       324: 377-384.
+
+Lee, F., A. Edmondson, S. Thomke, and M. Worline. (2001). "Promoting Experimentation in
+
+       Organizational Knowledge Creation: Effects of Status, Values and Rewards."
+
+       Management Science.
+
+Leonard-Barton, D. (1995). Wellsprings of knowledge: Building and sustaining the sources of
+
+
+
+
+                                                                                                  34
+
+       innovation. Boston: Harvard Business School Press.
+
+Levitt, B. and J. G. March (1988). Organizational Learning. Annual Review of Sociology 14:
+
+       319-340.
+
+Locke, E. A. (2001). Motivation by goal setting. Handbook of Organizational Behavior. R. T.
+
+       Golembiewski. New York, Marcel Dekker, Inc.: 43-56.
+
+Lynn, G. S., M. Mazzuca, et al. (1998). "Learning is the critical success factor in developing
+
+       truly new products." Research Technology Management 41(3): 45-51.
+
+Macdonald, S. (1995). "Learning to Change: an information perspective on learning in the
+
+       organization." Organization Science 6: 557-568.
+
+Marks, M. A., S. Zaccaro, et al. (2000). "Performance Implications of leader briefings and team-
+
+       interaction training for team adaptation to novel environments." Journal of Applied
+
+       Psychology 85(6): 971-986.
+
+May, D. R., R. L. Gilson, et al. (1999). Engaging the Human Spirit at work: Exploring the
+
+       psychological conditions of meaningfulness, safety and availability. Chicago, IL.,
+
+       National Meeting of the Academy of Management.
+
+Mayer, R. C., J. H. Davis, et al. (1995). "An integrative model of organizational trust." Academy
+
+       of Management Review 20(3): 709-734.
+
+Reed, W.H. (1962). Upward communication in industrial hierarchies. Human Relations (15) 3-
+
+       15.
+
+Rifkin, L. F. and Fulop W. D. (1997). "Representing fear in Learning in Organizations."
+
+       Management Learning 28(1): 45-63.
+
+Robinson, S. L. (1996). "Trust and breach of the psychological contract." Administrative Science
+
+       Quarterly 41(4): 574-599.
+
+
+
+
+                                                                                                 35
+
+Schein, E. H. (1985). Organizational Culture and Leadership. San Francisco, Jossey-Bass
+
+       Publishers.
+
+Schein, E. H. and W. Bennis (1965). Personal and Organizational Change through Group
+
+       Methods. New York, Wiley.
+
+Schön, D. (1984). The reflective practitioner. New York, Basic Books.
+
+Senge, P. (1990). The fifth discipline: The art and practice of the learning organization. New
+
+       York, Doubleday.
+
+Simons, T. L. and R. S. Peterson (2000). "Task conflict and relationship conflict in top
+
+       management teams: The pivotal role of intra-group trust." Journal of Applied Psychology
+
+       85(1): 102-111.
+
+Snyder, M. (1974). "Self-monitoring of expressive behavior." Journal of Personality and Social
+
+       Psychology 30(4): 526-537.
+
+Sole, D. and A. Edmondson (forthcoming, 2002). Bridging Knowledge Gaps: Learning in
+
+       Geographically Dispersed Cross-Functional Development Teams. In The Strategic
+
+       Management of Intellectual Capital and Organizational Knowledge: A Collection of
+
+       Readings, edited by N. Bontis and C. W. Choo. New York: Oxford University Press.
+
+Sole, D. and A. Edmondson (2001). Situated Knowledge and Learning in Dispersed Teams.
+
+       Harvard Business School Working Paper 01-068.
+
+Tjosvold, D. (1990). "Making technological innovations work." Human Resources 43: 1117-
+
+       1131.
+
+Turnley, W. H. and M. C. Bolino (2001). "Achieving desired images while avoiding undesired
+
+       images: exploring the role of self-monitoring in impression management." Journal of
+
+       Applied Psychology 86(2): 351-360.
+
+
+
+
+                                                                                                 36
+
+Tyler, T.R. and E.A. Lind. (1992) A relational model of authority in groups. In M. Zanna, Ed.,
+
+       Advances in Experimental Psychology. New York: Academy.
+
+Tynan, R. The Impact of Threat Sensitivity and Face Giving on Upward Communication. Paper
+
+       presented at the Academy of Management Conference, Chicago IL, 1999.
+
+Wageman, R. and E. A. Mannix, Eds. (1998). Uses and misuses of power in task-performing
+
+       teams. Power and Influence in Organizations. Thousand Oaks, CA: Sage.
+
+Weick, K. E. and K. H. Roberts (1993). "Collective mind in organizations: Heedful interrelating
+
+       on flight decks." Administrative Science Quarterly 38: 357-381.
+
+West, M.A. (2000). Reflexivity, Revolution, and Innovation in Work Teams. In Advances in
+
+       Interdisciplinary Studies of Work Teams, Vol. 5, 1-29. Greenwich: JAI Press.
+
+West, M. and M. Anderson (1996). "Innovations in top management teams." Journal of Applied
+
+       Psychology 31(6): 680-693.
+
+Winter, R. P., J. C. Sarros, et al. (1997). "Reframing managers' control orientations and practices:
+
+       a proposed organizational learning framework." The International Journal of
+
+       Organizational Analysis 5(1): 9-24.
+
+
+
+
+                                                                                                 37
+
+                 Figure 1. Model of Team Learning Process
+
+
+
+
+Team Leader
+  Actions                       Team Learning Process
+              Psychological
+                 Safety            Act     Reflect          Organizational
+                                                            improvement
+      Goal
+
+
+
+
+                                                                         38
+

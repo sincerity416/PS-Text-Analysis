@@ -1,0 +1,1018 @@
+Hunt et al. Int J Ment Health Syst (2021) 15:33
+https://doi.org/10.1186/s13033-021-00439-1                                                                              International Journal of
+                                                                                                                        Mental Health Systems
+
+ REVIEW                                                                                                                                                   Open Access
+
+Enhancing psychological safety in mental
+health services
+D. F. Hunt1,2* , J. Bailey4, B. R. Lennox2,3, M. Crofts2 and C. Vincent1,2
+
+
+
+  Abstract
+  Background: Psychological safety—speaking up about ideas and concerns, free from interpersonal risk—are essen-
+  tial to the high-risk environment, such as healthcare settings. Psychologically safe working is particularly important in
+  mental health where recovery-oriented approaches rely on collaborative efforts of interprofessional teams to make
+  complex decisions. Much research focuses on antecedents and outcomes associated with psychological safety, but
+  little focus on the practical steps for how to increase psychological safety across and at different levels of a healthcare
+  organisation.
+  Aims: We explore how a mental health organisation creates an organisation-wide plan for building the foundations
+  of mental health and how to enhance psychological safety.
+  Methods: This review encompasses strategies across psychological safety and organisational culture change to
+  increase psychological safety at an individual, team and organisational level.
+  Summary: We set out a comprehensive overview of the types of strategies and interventions for increasing the
+  ethos of psychological safety and setting the foundations for delivering an organisation-wide programme on this
+  topic. We also provide a list of key targeted areas in mental health that would maximally benefit from increasing psy-
+  chological safety—both in clinical and non-clinical settings.
+  Conclusions: Psychological safety is a crucial determinant of safe and effective patient care in mental health services.
+  This paper provides the key steps and considerations, creating a large-scale programme in psychological safety with a
+  focus on mental health and drawing from the current literature, providing concrete steps for how our current under-
+  standing of psychological safety into practice.
+
+
+Background                                                                                concerns, errors, or identifying problems. Not only to
+Psychological safety is the shared belief that it is safe to                              feel free from fear but also free from interpersonal, pro-
+engage in interpersonal risk-taking in the workplace and                                  fessional and social threats that could unfairly threaten
+is vital to team learning and performance, and facili-                                    their work status and future professional and occupa-
+tates willingness for workers to contribute towards a                                     tional progression.
+shared goal [1, 2]. Ideally, staff are free from the fear of                                Psychological safety is particularly important in high-
+being rejected for speaking up with suggestions and will                                  risk environments, such as healthcare, that rely on staff
+be treated fairly and compassionately when discussing                                     working in interprofessional and interdisciplinary envi-
+                                                                                          ronments where errors can result in significant harm
+                                                                                          or even death [3–6]. Despite the benefits of psychologi-
+*Correspondence: david.hunt@psy.ox.ac.uk
+1
+                                                                                          cal safety, a culture of blame and fear is still prevalent in
+  Department of Experimental Psychology, Radcliffe Observatory,
+University of Oxford, Anna Watts Building, Woodstock Road, Oxford OX2
+                                                                                          healthcare organisations, which is detrimental to patient
+6GG, UK                                                                                   safety, staff morale and organisational performance, lead-
+Full list of author information is available at the end of the article                    ing to unreported errors and decreased patient safety
+
+                                        © The Author(s) 2021. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,
+                                        adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
+                                        the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material
+                                        in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material
+                                        is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the
+                                        permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://​creat​iveco​
+                                        mmons.​org/​licen​ses/​by/4.​0/. The Creative Commons Public Domain Dedication waiver (http://​creat​iveco​mmons.​org/​publi​cdoma​in/​
+                                        zero/1.​0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+Hunt et al. Int J Ment Health Syst   (2021) 15:33                                                                  Page 2 of 18
+
+
+
+
+[7–10]. This culture of blame and fear possibly com-            achieve in practice and even more difficult to demon-
+pounded in countries that strictly adhere to hierarchical       strate. Recent systematic reviews investigating organisa-
+structures, where structure and control are paramount,          tional cultural change on healthcare performance have
+with little to no opportunity for candid conversations          not shown reliable results on its effectiveness [15, 17].
+across different organisation levels. Countries with mar-       This is echoed in other research, with many attempts fail-
+ket cultures may place competitiveness over the impor-          ing immediately or not sustaining over a long period [18].
+tance of discussing failures, creating a potentially toxic      Underlying these challenges is a longstanding debate
+environment.                                                    whether it is possible to influence culture directly or
+  Psychological safety has an additional resonance and          whether it simply has to be taken into account, like the
+importance in mental health in empowering patients              weather, when planning interventions and change [19].
+and families to voice their suggestions, concerns and             Culture change in healthcare poses additional chal-
+anxieties. Many mental healthcare organisations adopt           lenges. Healthcare needs and behaviours change over
+a recovery-oriented approach, focusing on empowering            time to reflect the complex and diverse nature of patient
+patients with the help of support structures (i.e., family      needs, as well as increasing complexities in healthcare
+and carers) to build on their strengths, make informed          delivery. Typically, healthcare consists of different nested
+choices and play a central role in their health and other       structures, some clinical and others non-clinical, with an
+aspects of life [11].                                           executive core. Any team may deal with a different popu-
+  This paper will discuss the benefits of creating a psy-       lation, provide a different service or be part of several dif-
+chologically safe culture and then tackle the more diffi-       ferent services, and be placed within a particular location
+cult task of how psychological safety can be implemented        and form part of a particular site or be spread across mul-
+organisation-wide. We first consider the challenges of          tiple sites [20]. As well as team heterogeneity, healthcare
+cultural change of any kind, before addressing the par-         organisations have multiple stakeholders’ interests and
+ticular challenge of enhancing psychological safety in          differing levels of interest that can present challenges to
+mental health services. We set out a range of practical         implementing consistent change. All of this has particu-
+proposals to both support a broader organisational ethos        lar resonance and relevance when fostering a culture of
+of psychological safety and complementary initiatives           psychological safety in a healthcare organisation.
+which target settings that could benefit most from this           On an international scale, the prevailing national cul-
+approach. The design simultaneously considers build-            ture will significantly influence whether cultural change
+ing an ethos of psychological safety as well as targeted        is possible in any healthcare organisation in any given
+interventions that can have a measurable and impactful          country. Factors such as individualistic vs collectivist
+change.                                                         ideologies, patriarchal vs matriarchal cultures, levels of
+                                                                tolerance of uncertainty will undoubtedly influence navi-
+The challenges of cultural change                               gating cultural change in terms of what is achievable.
+Organisational culture is the personality or spirit of an
+organisation. It is critical to the engagement and wellbe-      Psychological safety in mental health
+ing of its workforce. More specifically, it is the collective   Creating a psychologically safe culture offers direct ben-
+manifestation of the shared beliefs, behaviours, thoughts,      efits to staff and the healthcare it provides, as well as
+attitudes and norms that permeate throughout the work-          making the foundations required for any future cultural
+place [12]. Schein describes culture as “the pattern of         changes. In healthcare, these benefits can be seen both
+shared basic assumption—invented, discovered or devel-          in the day-to-day management and clinical practice and
+oped by a given group” that new members receive as the          in providing the necessary foundations for longer-term
+“way we do things around here” [13, 14]. Importantly,           improvement and innovation. In this section, we briefly
+this interpretation encompasses the observable socio-           set out areas which have particular relevance in mental
+cognitive, interpersonal and symbolic manifestations of         health services.
+culture [15]. In this sense, organisational culture acts as
+the collective and is the potential driver of wider organi-     Speaking up and error management
+sational innovation and change [16].                            Psychological safety plays a central role in detecting
+  Despite the clear benefits of a positive organisational       errors and near misses [1, 2, 21]. Speaking up is poten-
+culture in healthcare, it has proved very difficult to          tially particularly challenging in situations where there
+
+Hunt et al. Int J Ment Health Syst   (2021) 15:33                                                              Page 3 of 18
+
+
+
+
+are intra-organisational (e.g., issues around patient safety   effort in embedding change. Psychological safety is vital
+and bed capacity) and inter-organisational (e.g., regula-      throughout all QI stages, from candid discussions when
+tory pressures from healthcare inspectorates) pressures.       identifying problems, to taking controlled risks when
+  The importance of speaking up is recognised inter-           experimenting and being free from fear of failure.
+nationally, with concerted efforts to remove barriers in         Psychological safety and its implications to QI are
+healthcare organisations [22, 23]. Across countries and        important in all countries. It is crucial in lower-income
+cultures, there are common barriers such as power and          countries seeking to build and mature an effective health-
+hierarchy, leadership influence, and concerns regard-          care workforce [32]. Both psychological safety and
+ing the negative consequences of speaking up [23].             learning behaviours are key factors for the success of
+Most studies of psychological safety have been carried         newly-formed QI teams in these settings [23, 32].
+out in the United States and Europe, but the impor-              There has been a strong focus on QI in mental health,
+tance of speaking up to prevent errors has been recog-         with many healthcare organisations shifting from away
+nised in diverse clinical settings across the world [22, 24,   from assurance-based reporting. This approach has been
+25]. Patient safety teaching programmes and the World          reflected in healthcare inspectorates and regulators, such
+Health Organisation curriculum guide also recognise the        as the CQC’s evaluation of mental health in the UK,
+critical role played by open communication within teams        emphasising QI approaches [33].
+[26, 27].                                                        Teams characterised by interpersonal trust and respect
+  In mental health, open and candid discussions are cru-       are more likely to engage in QI projects [21, 34, 35]. A
+cial as many clinical decisions are complex and ambigu-        psychologically safe organisation will understand the
+ous, and are a collection of subjective observations of a      importance of learning from failure, and that as organisa-
+patient [28, 29]. Staff should not only be encouraged to       tional changes are difficult, its workforce will understand
+discuss errors, but it should be an organisational cultural    the part they play in its success.
+expectation. In return, staff should receive fair treatment
+and investigations into error will consider all contribut-     Psychological safety and wellbeing
+ing factors (e.g., staffing levels, patient acuity). Rather    Promoting work-based wellbeing requires individuals to
+than error management just serving as an assurance tool        be able to recognise and report when they need help and
+for safe care, psychologically safe organisations use it       are struggling with current work demands. Being able to
+as an opportunity to learn, to improve, and to calibrate       admit that you need help can be viewed as a weakness
+expectations across its workforce.                             with some being fearful that it may affect their reputa-
+  The confidence to voice concerns is especially critical      tion, job stability and future career prospects. However,
+for patients, carers and families in mental health ser-        not being able to speak up can lead to work-related stress,
+vices. However, not all patients and loved ones feel able      which can incubate this problem and lead to more signifi-
+to discuss the difficulties that they have with their men-     cant health problems further down the line [36]. In men-
+tal health issues or experiences of care. This is especially   tal health, speaking up about wellbeing may be incredibly
+important as carers and families form an integral part         difficult for staff as they may support people with similar
+of mental healthcare in the community. Psychologi-             challenges. Moreover, some staff may feel that speaking
+cally safe organisations give patients, family, and carers     up about these issues will affect their perceived compe-
+the opportunities and space to have candid discussions         tence in carrying out their duties.
+and care pathways to be adapted to accommodate these             Confidence for healthcare staff to speak up is especially
+discussions.                                                   crucial during the COVID-19 pandemic, when many staff
+                                                               could be at risk of post-traumatic stress disorder or forms
+Foundations of safety and quality improvement                  of moral injury, subsequently affecting their health and
+Studies in other industries indicate a relationship between    the care they provide (i.e., feelings of guilt in not being
+psychological safety and a capacity for rapid learning and     able to cope with current work conditions [37]).
+innovation [30, 31]. Innovation and quality improvement
+(QI) rely on the workforce having the opportunity to           Principles of psychological safety
+feedback on problem areas that may require attention or        Studies of organisational change in general, and cul-
+that could be improved. Engaged staff who feel a collec-       ture change in particular, suggest that several essential
+tive responsibility provide intelligence on local need and     principles underlie any successful programme. To note,
+
+Hunt et al. Int J Ment Health Syst   (2021) 15:33                                                                                          Page 4 of 18
+
+
+
+
+Table 1 Implementing psychological safety at the individual, team, and organisation level
+Level                                           Description
+
+Individual                                      Feel that it is safe to report near misses or errors, suggestions for improvement; and
+                                                Feel able to engage in discussions regarding the duties of their job and duties beyond their role for
+                                                  the benefit of patients and service users
+                                                Feel empowered to discuss possible improvements and conduct controlled experimentation
+Team                                            Emphasise compassionate and collaborative working
+                                                Empowered to challenge disruptive or uncivil behaviours
+                                                Learning and implementing suggestions for improvement and near misses and/or errors
+                                                Invite innovation and experimentally testing suggestions to promote changes to processes for the
+                                                  future
+Organisation                                    Executive-level leadership modelling psychological safety with strategic focus and investment
+                                                Provide opportunities for individuals to engage in support networks and interprofessional working
+                                                Promote management styles that are collaborative and compassionate
+                                                Policies and procedures that emphasise fairness
+                                                Enable and incentivise opportunities for improvement across the organisation
+
+
+
+a recent systematic review discuss factors that enable                       subculture is psychologically safe will vary. Some teams
+psychological safety [4]. These principles focus on a                        may champion speaking up and open discussion, while
+whole system approach, considering behavioural change                        others may be less psychologically safe. Staff may fear
+towards staff taking interpersonal risks in speaking up,                     the risk of punishment or damage to their job security,
+leadership support to model and enable these changes                         engagement, and future job prospects. Some teams may
+and facilitating environmental and organisational                            be more willing to make changes that increase psycho-
+changes. We summarise the main principles and success                        logical safety. In contrast, some may feel resistant to
+factors here, before turning to the practicalities of map-                   change and hold on to current practice.
+ping and intervention.                                                         Creating a flexible psychological safety programme,
+                                                                             refined to meet local need is crucial to the success of
+Psychological safety at every level                                          an organisation-wide programme. Indeed, teams vary
+Psychological safety must be lived and experienced                           in terms of their beliefs related to psychological safety.
+at every level of the organisation. This is clearly an                       These can be influenced by variance in local manager
+ambitious and idealistic proposition but is vital as a                       styles and the known consequences in taking an inter-
+principle even if it is hard to achieve in practice. Psy-                    personal risk to speak up [2, 40]. Research underpins the
+chological safety will, however, be experienced and                          importance of local leadership behaviours to enhance
+expressed in different ways according to the work con-                       psychological safety; these behaviours include transfor-
+text (Table 1).                                                              mational leadership, leadership inclusiveness, manage-
+  Executive leadership is essential for any large-scale                      rial openness, trustworthiness and behavioural integrity
+change [38, 39]. Any organisation-wide programme                             [21, 41–44]. Furthermore, teams might vary in terms
+requires engagement from the extended executive to                           of the operational processes in place that facilitate psy-
+simultaneously engage stakeholders from different                            chological safety (e.g., meeting structures, content and
+directorates and core operations (i.e., HR, Govern-                          frequency).
+ance). Executive buy-in is necessary at an early stage                         As well as recognising positive leadership styles,
+by discussing the research literature, options avail-                        leadership values and behaviours should align with
+able, and developing an initial work plan with multi-                        psychologically safe practice modelling throughout
+ple streams. Furthermore, it increases the likelihood of                     the organisation at an executive and local level. This
+obtaining an adequate level of investment at an early                        approach requires a balance between not promoting
+stage.                                                                       direct and combative altercations within and between
+                                                                             teams, but equally, not allowing unspoken issues and
+Cultures and sub‑cultures                                                    differences to fester and incubate into much larger
+Healthcare organisations are likely to be comprised                          problems in the future. As such, leaders at all levels
+of many subcultures [19]. The extent to which each                           must provide opportunities for subordinates to speak
+
+Hunt et al. Int J Ment Health Syst   (2021) 15:33                                                                          Page 5 of 18
+
+
+
+
+up, but equally to manage contributions positively             Understanding the current experience and practice
+and collaboratively. Moreover, leaders must also have          of psychological safety
+the courage to temper or even thwart contributions             The first step in developing a programme is to assess the
+that undermine psychologically safe practice. In other         current state of psychological safety in the organisation,
+words, psychological safety is to promote collabora-           in terms of overall understanding and practice. Most
+tive and candid focused discussions and not a carte            organisations will also have other plans and initiatives
+blanche approach, accepting any contributions. As              already running, for instance, on staff well-being, which
+well as the role of leaders in fostering psychological         will overlap with the proposed programme on psycho-
+safety, it is also vital that they feel psychologically safe   logical safety. Mapping existing initiatives reduce the risk
+in their managerial duties and have HR practices that          of duplicating work and, subsequently, maximises invest-
+support them.                                                  ment in changes related to improve psychological safety.
+                                                               This landscape mapping and scoping require a few key
+Collaboration, co‑design and co‑production                     foundation steps (Box 1).
+Co-production demonstrates and utilises the value of
+experiential knowledge of staff, patients and their car-        Box 1 First steps in psychological safety
+ers and families. This approach is a core practice that
+is commonly applied in health-related research [45,             Assemble a small team to conduct the mapping exercise and will
+                                                                 have access to key contacts within the organisation
+46]. There are several connotations to the meaning of
+                                                                Establish a small steering group to guide the parameters of this map-
+co-design/production in different contexts. For psy-              ping exercise, the ambitions and criteria for success
+chological safety, it is the collective responsibility in       Agree on an operational definition to identify what is a psychologi-
+contributing to innovation and change that may lead              cally safe practice and what is not
+to safer patient care. This includes contributing to sug-       Establish a series of workshops, focus groups and interviews to
+gestions for change, experimentation and providing                explore current experience and perceptions of psychological safety
+                                                                  with patients, families and staff
+feedback, and making efforts to implement changes
+                                                                Review relevant documents and procedures which may either sup-
+into practice.                                                   port or detract from psychological safety
+  There are several reasons why this is important for
+                                                                Review training programmes, induction and other initiative both in
+the development of psychological safety interventions.           terms of their ethos and content concerning psychological safety
+First, it provides an opportunity for staff to participate      To establish a baseline measurement of psychological safety across
+in collaborating and co-designing interventions to apply          the organisation
+their understanding of the local nuances to organisa-
+tional plans, maximising chances of success [47]. Sec-
+ond, the experience of collaboration in itself can foster      Understanding the patient and family/carer experience
+an experience of psychological safety and persuade staff       It is important to explore patient understanding of
+of the sincerity of the intentions of executive leadership.    speaking up and their family/carer experience, who
+Thirdly, co-design/production also increases the intrin-       often form part delivering informal care. Unlike staff
+sic motivation of staff and increases engagement in            surveys, there is unlikely to be any large-scale surveys
+these changes and further promotes sustainability [48].        to formally capture the climate of psychological safety
+Finally, and related to the role of executive-level lead-      across all family members and carers involved in care.
+ership support, co-design/production also places value         This is for several reasons. First, not all informal sup-
+in the involvement of staff, providing them with the           port is visible to the healthcare system (e.g., the sib-
+opportunity to have the authority and feel empowered in        ling who supports their brother or sister when arriving
+supporting in increasing psychological safety.                 home from school or work). Secondly, not all family/
+
+Hunt et al. Int J Ment Health Syst   (2021) 15:33                                                               Page 6 of 18
+
+
+
+
+carers have access to the same methods of communi-             for facilitating these discussions. Telephone interviews
+cation (e.g., email). Finally, this population is typically    also offer an alternative method of discussing this topic
+geographically disparate when compared to a health-            without the need to attend a venue and be recognised
+care workforce. The first step is to reach out to all active   by others in the group.
+patients in the organisation to ask for participation. For
+particular groups, there may be gatekeepers that play          Review of core organisational policies and procedures
+an integral role in representing their population. Gate-       Organisational culture is primarily determined by the
+keepers can include formal organisations such as large         behaviour of people, particularly leaders, in that organi-
+charities or local initiatives, or virtual social media sup-   sation. However, documents, procedures and symbols
+port groups. Any focus groups or interviews should be          used by the organisation also express organisational
+at the convenience of patients and family/carers and           culture. There are specific policies that would benefit
+should provide confidentiality. Messaging around these         from having a psychologically safe focus. For exam-
+approaches is particularly important, clearly articulat-       ple, whistleblowing policies should embed psychologi-
+ing that these experiences will inform mental healthcare       cally safe practices to enable candid and fair dialogue
+delivery.                                                      between the whistle blower, those potentially impli-
+                                                               cated and the organisation. Encouraging staff to speak
+Understanding the staff experience                             up is the first step, and organisational practices that
+Staff surveys (discussed below) will give a general pic-       support what happens after someone has spoken up is
+ture of psychological safety across an organisation, but       essential to sustaining these behaviours amongst the
+it is essential to complement this with a more nuanced         workforce. Policies relating to near misses should shift
+understanding of staff views and experience of psy-            from being an assurance-based tool to encouraging and
+chological safety. For example, a series of focus groups       even rewarding staff that speak up, as well as promot-
+could be run with junior staff to explore their percep-        ing transparency, to show what learning and improve-
+tions of speaking up. The experience of staff needs to be      ment are looped back into the organisation. Those
+understood at all levels and sampled across all settings       policies enacting organisational change should take a
+in the organisation. To fully engage with the workforce,       similar approach, setting out an engagement approach
+it is essential that an accurate representation of per-        to utilise local intelligence and gain buy-in from the
+ceptions of psychological safety, including barriers and       workforce.
+opportunities. Those staff who feel trust in an organi-
+sation will be relatively easy to recruit, thus potentially    Review induction and training programmes
+biasing the findings. It is therefore critical to reach out    Healthcare organisations provide different forms of
+to other individuals and groups who may be warier of           education, both formal and informal, to all levels of the
+speaking about their experiences. For example, intro-          workforce. Many of the induction programmes include
+verted people, who may be less likely to speak up, but         essential training on governance and information secu-
+have equally valuable ideas than more assertive extro-         rity, but other courses can consist of methods of care.
+verts. It is therefore essential to gather feedback from       For some roles (e.g., nurses, allied healthcare roles, and
+those who do not typically speak up to gather the quiet        doctors), years of formal education has been completed
+power they bring in increasing psychological safety.           as well as several placements. Local and organisation-
+   One way is to establish trusted gatekeepers who can         wide induction training should focus on antecedents
+serve to champion these initial discussions and facilitate     of psychological safety, such as team working, voice
+in increasing confidence in speaking up, such as clinical      behaviours, and respectful listening [6]. Leadership
+leaders who may represent the protection of standards          programmes should have a strong focus on leadership
+and quality. Engaging union representatives is a suitable      behaviours such as inclusive, compassionate and col-
+method of reaching disenfranchised groups as well as           laborative leadership are integral to psychological safety
+provided reassurance of the confidential nature of such        [6, 31].
+discussions. To further bolster confidentiality, focus
+groups can be held outside of regular working hours            Measuring psychological safety
+and at a neutral venue, so their participation remains         Psychological safety is a complex multi-faceted con-
+confidential. Facilitators can be from an independent          cept and, subsequently, understanding the extent to
+organisation or be a trusted person from the current           which it has been a success and how this can be meas-
+organisation. For example, a chaplain from the organi-         ured is a challenge. The most common form of meas-
+sation or union representatives are potentially ideal          ure for psychological safety is a team-level survey [1].
+
+Hunt et al. Int J Ment Health Syst   (2021) 15:33                                                                  Page 7 of 18
+
+
+
+
+Others have adapted this survey to measure psycho-             both in terms of a cultural shift with the existing work-
+logical safety at an individual- and organisation-level        force and inducting new staff. Staff surveys and evalu-
+[42, 49].                                                      ation of current practices over a long period offer an
+  Healthcare organisations typically send out staff sur-       opportunity to realise the longer-term outcomes of a
+veys that are focused on different aspects of work expe-       programme such as the one described.
+riences from their workforce. These surveys tend to
+cover categories that can serve as indicators for psycho-      Enhancing psychological safety
+logical safety (perceived managerial and organisational        Psychological safety is an intuitively straightforward and
+support, perceived compassion), so teams or services           persuasive concept, though on reflection more compli-
+that may score low in these areas may also feel psycho-        cated than it immediately appears. However, making
+logically unsafe. For a major programme, however, it           meaningful, concrete steps to enhance psychological
+would be preferable to mount a specific survey of psy-         safety in an organisation is challenging for several rea-
+chological safety at baseline and defined intervals as the     sons. First, psychological safety is multi-faceted, mean-
+programme unfolds. Burdening staff with additional             ing that it requires a multi-faceted approach to change.
+surveys is of course, always a concern, but these are          Second, enhancing psychological safety requires a cul-
+short and take only a few minutes to complete. Careful         tural shift, and any cultural initiative involves engage-
+sampling strategies will also reduce the number of staff       ment and commitment from the majority of the
+recruited to complete a new survey or adding questions         workforce at all levels. Third, measuring psychological
+to existing surveys. As well as producing longitudinal         safety is especially challenging, in terms of how it influ-
+data, surveys can be useful in identifying groups of peo-      ences ultimate outcomes such as patient safety, health-
+ple who have scored low on psychological safety or who         care improvement and wellbeing. Finally, and most
+do not even feel able to complete a survey. These indi-        importantly, it is difficult to identify what concrete steps
+viduals and groups need particular support as executive        to take to enhance psychological safety, in what order
+leaders seek to gain trust across the whole organisation.      and over what timescale. While there are many inspir-
+  Objective measures of psychological safety will be           ing descriptions of organisations, who have embraced
+beneficial for future research in this area. For exam-         psychological safety, very little research provides any
+ple, observational frameworks relating to the verbal and       kind of defined set of steps or interventions. The jour-
+non-verbal indicators of psychologically safe and unsafe       ney of each organisation will be different, but it would
+practices might be particularly helpful in simulation          be beneficial to define the essential components of a
+interventions around speaking up and decision mak-             programme to enhance psychological safety.
+ing. Once behaviours of psychological safety are agreed,          Most psychological safety interventions aim to produce
+behavioural markers provide ways to measure what is            a broad change in attitudes, values and trust across the
+good or poor practice. Indeed, simulation-based educa-         whole organisation. We refer to this generic approach as
+tion uses these frameworks to measure speaking up and          building an ethos of psychological safety. Targeted inter-
+assessing non-technical skills amongst medical teams           ventions, addressing settings and activities in which psycho-
+[50, 51]. As such, observational frameworks behaviours         logical safety is particularly critical, provide a complementary
+provide an opportunity to measure behaviours reflective        approach. Promoting a psychologically safe ethos should
+of psychological safety. In particular, to measure psycho-     focus particularly on being a person-centred organisa-
+logically safe practice in some of the targeted interven-      tion, and a listening and learning organisation. A person-
+tions discussed below.                                         centred organisation will facilitate staff participating in
+  In the longer term, the fostering and enhancement            creating an engaging workplace that focuses on safe patient
+of psychological safety should influence healthcare            care. A listening and learning organisation will make sure
+outcomes, such as improvements in patient safety and           that they hear staff voices to discuss ideas for improvements,
+staff engagement. However, psychological safety is only        mistakes and errors, and contribute to failure-based learning.
+one of many influences on such indices, and, there-               The wider literature on psychological safety and
+fore, it is challenging to measure a direct effect reliably.   organisational change suggest that there are a number of
+Assessing more immediate impacts, such as increased            potentially useful means of exploring and influencing the
+speaking up or reporting of near misses, maybe a more          experience of psychological safety. In Box 2 we set out
+realistic earlier target. Furthermore, these targets can       the target actions for increasing an ethos of psychological
+create a pathway to link the effects of psychological          safety, and in Table 2 we set out methods for implement-
+safety on ultimate outcomes such as safe patient care.         ing these actions, based on literature relating to psycho-
+Implementing a cultural change and increasing psycho-          logical safety interventions and organisational change
+logical safety will take a considerable amount of time,        interventions [4, 15, 17, 52, 53].
+
+Hunt et al. Int J Ment Health Syst    (2021) 15:33                                                                                              Page 8 of 18
+
+
+
+
+ Box 2 Areas of action to increase a culture of psychological safety
+
+  1. Select and engage a core group of key influencers in the organisation to lay out a strategic plan with the core columns of psychologically safe
+    practice. Pillars for ultimate outcomes and cross-cutting themes for the requirements to achieve these outcomes. A visual representation of this is
+    below:
+
+
+
+
+  2. Support and commitment to psychologically safe practice from the organisation to their workforce. This approach includes communicating this
+    commitment to the workforce and the wider community, solidifying the organisational commitment to psychological safety to the proposed
+    strategic plan
+  3. Leadership messaging to model psychological safety and focus on the following topics:
+  (a) Discussing the importance of reporting failures and benefits from focusing on quality improvement. Providing empirical substantiation to create
+    an impetus for change
+  (b) Discuss the collective responsibility of staff to speak up when delivering safe patient care and areas that can be improved, including plans to
+    make the process of reporting fair and straightforward. This can also include actively congratulating and even rewarding these actions, where
+    appropriate
+  (c) Discuss personal experiences of occupational failure and what learned lessons from these experiences. This will serve to make failure an accept-
+    able and model that it is acceptable and is part of occupational development
+  (d) Discuss previous difficulties in speaking up to senior colleagues, lessons learned and the importance of speaking up and shared decision-making
+    within and between teams and professions
+  4. Create a code of conduct to set expectations for how people should act with each other and instil the values of psychological safety, including
+    open and candid discussions, balanced with compassion and fairness: respectful listening and collaborative debate, all with the focus on provid-
+    ing safe and optimum patient care
+  5. Forums and structured discussions for intra- and inter-professional groups to discuss challenges and opportunities in mental health practice.
+    These could provide opportunities to:
+  (a) Create a series of groups that target particular professions, services or problems related to psychological safety. Each group should include an
+    appropriate sponsor who will commit to championing actions arising from these discussions
+  (b) Discuss the collective responsibility of staff to speak up when delivering safe patient care and areas that can be improved. Crucially, these dis-
+    cussions should directly feedback into the organisation and take an action research approach to create improvements from these discussions
+  (c) Provide opportunities to discuss complex decision-making and inform action research that involves staff in co-designing interventions to
+    enhance behaviours relating to psychologically safe practice
+  6. Provide training that focuses on psychologically safe behaviours and practice. These include speaking up and voice behaviours, autonomy,
+    respectful listening, collaborative working, advocacy enquiry and collaborative debate
+  7. Create medical, educational interventions that allow teams to practice psychologically safe practice in clinical and non-clinical situations. These
+    can include simulating high-pressured situations such as aggressive and violent patients
+
+Hunt et al. Int J Ment Health Syst     (2021) 15:33                                                                                         Page 9 of 18
+
+
+
+
+Table 2 Techniques and practices to enable cultural and organisational change
+Intervention                                     Actions                                             Evidence
+
+Organisational and leadership messaging          Create a communication strategy using multiple      Letter and fact sheet campaign [54]. Leadership
+                                                   approaches to reach the whole workforce             videos [55]
+                                                   and the wider community. Strategies include
+                                                   sending letters and factsheets, and in-person
+                                                   roadshows
+Developing an organisational charter             Code of conducts can provide a framework for        Team charter to empower teams [56]. Code of
+                                                  behavioural expectations. Codes of conduct           conduct [57]
+                                                  offer the opportunity to embed behaviours
+                                                  taught in workshops and educational sessions
+                                                  (see below) into current practice
+Mental health ethics committee                   Open and accessible ethics committees provide       Ethics committees and consultations [58, 59]
+                                                  objective and supportive scrutiny, particularly
+                                                  around explore complex dilemmas and experi-
+                                                  menting with new approaches to patient care
+                                                  (i.e., service change and quality improvement)
+Dialogue meetings                                Create a series of dialogue meetings to open up   Opportunities to discuss complex dilemmas [60,
+                                                   questions that are frequently either unanswered  61]
+                                                   or unanswerable to generate open discussion
+                                                   on difficult topics in mental health
+Schwartz rounds                                  Provide interdisciplinary meetings for groups to   Schwartz rounds in mental health and community
+                                                   discuss the emotional and social aspects of        care [62]
+                                                   care with the purpose of providing safer patient
+                                                   care. It is led by a multidisciplinary panel who
+                                                   open with their experiences around a particular
+                                                   theme. Schwartz rounds are complementary to
+                                                   dialogue meetings, focusing on share experi-
+                                                   ence and compassion instead of unearthing the
+                                                   thought processes regarding difficult situations
+Staff engagement and action research groups Town halls offer an opportunity to bring together        Staff engagement [63, 64]. Action Research Groups
+                                              representatives across the organisation to               [64, 65]
+                                              discuss psychological safety. Action research
+                                              groups, allowing clinicians to act as researchers,
+                                              calibrate approaches and share best practice
+Patient participatory councils                   These groups provide an opportunity to bring        Patient engagement and participatory action
+                                                   professionals, managers and clinical and non-       research group [66]
+                                                   clinical staff together to ensure healthcare is
+                                                   patient-oriented and maximise patient involve-
+                                                   ment and choice
+Skills workshops                                 Workshops and train the trainer workshops offer     Train the trainer workshops [57]. Skills workshop
+                                                  opportunities to bolster skills and embed this       [67, 68]
+                                                  into practice by training champions
+Simulation and role play                         Utilising the role of simulated or unstructured     Simulation [51]. Role-play [69]
+                                                  role-play to explore complex scenarios in men-
+                                                  tal health in safe no-risk environments
+Video presentations and case studies             This approach provides teams with the time to       Video dramatisation of medical events [70].
+                                                   self-reflect and reflects on everyday events        Vignettes [71]
+                                                   that are complex and generally made under
+                                                   pressure
+
+Hunt et al. Int J Ment Health Syst   (2021) 15:33                                                               Page 10 of 18
+
+
+
+
+ Targeted interventions                                        Conclusion
+ Psychological safety culture change requires a broad          Psychologically safe practice is essential in mental health
+ approach to instil the ethos through all layers of the        to innovative practice and safe patient care, provided by
+ organisation, creating a consistent message and sup-          a healthy and engaged workforce. Despite psychological
+ port for this approach. However, alongside this, tar-         safety, being an intuitive concept to understand, opera-
+ geted interventions provide an opportunity to create          tionalising it at scale is particularly challenging. It has a
+ test beds where psychological safety is vitally impor-        particular resonance in mental health for two reasons.
+ tant. There are ‘pinch points’ when it is particularly        First, many mental health organisations focus on recov-
+ important for patient, family and staff engagement and        ery-oriented practice which requires substantial patient
+ the delivery of care. Psychological safety is particularly    and family involvement. Second, decision making in
+ important, when coercive measures have to be used to          mental health is often complex and ambiguous, based on
+ protect the patient from harming themselves or other          subjective observations that require whole team input.
+ people. The trauma and distress that such measures            As such, assuring all parties feel free to speak up and have
+ may provoke can be eased by open and compassionate            maximum involvement is vital to safe and optimum men-
+ communication at the time and by careful debriefing           tal health patient care.
+ and explanation afterwards when the crisis has passed.          This overview and proposed plan for enhancing psy-
+ Whilst debriefs tend to be a statutory requirement, they      chological safety largely focuses on the UK mental
+ provide an opportunity for increased staff reflexivity,       healthcare system and may not be applicable to health-
+ empower patients to contribute to their care (e.g., dis-      care settings in different countries. Indeed, healthcare
+ cuss future ways of using alternative options to restric-     organisations will differ in terms of their structures,
+ tive practice) and enhance patient outcomes [72].             levels of investment and prevailing cultures, meaning
+    In the broadest sense, targeted interventions fall into    that not all aspects of this plan are applicable in differ-
+ two categories. The first is structured situations such       ent countries or cultures. Despite these differences,
+ as meetings that provide an opportunity to speak up           many of the challenges and suggested approaches will
+ about areas of concern or possible improvement. The           translate on across countries and cultures. For example,
+ second is where decisions are made in situ and take           the importance of speaking up about errors or ideas for
+ place on an ad hoc basis and require a group discus-          improvements, the barriers are common across different
+ sion. When a decision is complex, and there is no             countries and cultures.
+ obviously correct course of action, it is particularly          As well as staff engagement, establishing a council of
+ critical that patients, families and staff all feel able to   patients and actively encouraging family/carer participa-
+ speak openly and contribute to the decision-making            tion is possible in all settings, even if this is more chal-
+ process. Table 3 provides some key target areas for           lenging in some cultures. As such, whilst the plan itself
+ psychological safety, both in a clinical and non-clinical     may not be applicable to different and more disparate
+ setting.                                                      healthcare organisations, many of the suggestions can be
+    In the targeted interventions discussed, three com-        applied individually or tailored to be applicable to differ-
+ mon themes emerge in mental healthcare practice.              ent settings.
+ The first is the importance of empowering patients              Future studies may explore methods for implement-
+ by keeping them informed at every stage of their care         ing psychological safety in non-traditional organisational
+ and providing patient choice wherever possible. The           research settings, and factor in the recognised differences
+ second is the importance respecting and encourag-             in culture and existing structures. For example, one might
+ ing the contributions of all healthcare staff that help       envisage healthcare organisations may differ in societies
+ deliver patient-centered and recovery-oriented care.          strong in collectivist vs individualistic ideologies.
+ The third is understanding that in difficult situations,        In this paper, we discuss how to create the foundations
+ such as disputes or grievance procedures, there should        of psychological safety and the importance of prepara-
+ be an expectation of candid, open, and fair conversa-         tory stages from a structural and cultural perspective.
+ tions that are collaborative in nature and not com-           Following this, we propose a practical guide that split
+ bative, focusing on individual development and team           psychological safety into two categories: building an
+ development.                                                  ethos across an organisation and target areas, including
+                                                               some specific to mental health. This paper seeks to pro-
+                                                               vide two advancements. First, it can serve as a ‘blueprint’
+
+Table 3 Key target areas for psychological safety
+Situation                                         Description                                       Relevance of psychological safety                 Example interventions
+
+Patient admissions to a psychiatric hospital      Decisions to admit patients depend on system Psychologically safe teams can discuss decisions Daily or shift based patient flow meetings, and
+                                                   demands (both intra- and inter-organisa-       that could be viewed as incorrect, subversive      dialogue meetings to provide staff with the
+                                                   tional), patient presentation and capacity to  or unhelpful and do not align with the intra-      opportunity to openly discuss internal and
+                                                   consent to admission, country-specific legal   and inter- organisational demands, and indi-       external demand for capacity in their clinical
+                                                   frameworks and ward resources to care for      vidual desire to aid all patients. Not only will   areas, their concern for impact on standards of
+                                                   the patient compassionately and safely. A      nurses be empowered to make the difficult          care, their compassion for the person needing
+                                                   patient-centred focus can leave nurses feeling decision to decline admission, but leadership      admission, their safety-based decisions and
+                                                                                                                                                                                                         Hunt et al. Int J Ment Health Syst
+
+
+
+
+                                                   that they must always admit patients, irre-    will support these decisions                       calibrate these approaches
+                                                   spective of resource levels, and do not have                                                    Leadership training focused on the importance
+                                                   the opportunity to decline further admissions                                                     of making patient safety-focused decisions
+                                                   when they assess safety to be compromised                                                         regarding admissions and empowering teams
+                                                                                                                                                     to decline further admissions when it is unsafe
+                                                                                                                                                     for patients and staff to increase care demands
+                                                                                                                                                                                                         (2021) 15:33
+
+
+
+
+                                                                                                                                                     on the ward team
+Involuntary admission to a psychiatric hospital   Most countries provide statutory powers to        Psychologically safe teams will recognise the     Develop and implement a new structured induc-
+                                                   admit the most vulnerable into psychiatric         importance of seeking shared decision-           tion plan (or refining an existing one) for all
+                                                   inpatient services, and appropriate treatment      making with involuntary inpatients. These        involuntary admissions that focus on patient
+                                                   that may arise from this decision. Involuntary     discussions should include discussing patient    choice
+                                                   inpatients can feel disempowered and this          options, their preferences, and openly dis-     Communication training that specifically focuses
+                                                   can potentially influence their recovery           cussing their preferences set against what is    on negotiating with patients and factors in
+                                                                                                      possible and safe                                patient preference against what is feasible for
+                                                                                                                                                       their safety
+                                                                                                                                                                                                         Page 11 of 18
+
+Table 3 (continued)
+Situation                                          Description                                         Relevance of psychological safety                   Example interventions
+
+Decisions to use pro-active intervention           In acute inpatient settings, these situations are   Psychologically safe teams in acute inpatient    Dialogue meetings provide opportunities for
+                                                     the precursor to restrictive practice, such as      care (particularly with nursing and practi-      teams to discuss these difficult decisions and
+                                                     discussing and debriefing patients, providing       tioner teams) will actively seek to discuss and  their thought processes, relating to previous
+                                                     an opportunity to support them in de-esca-          take action to de-escalate volatile situations,  experiences
+                                                     lating a situation                                  providing support in these actions and not     Schwartz rounds provide an opportunity for staff
+                                                   In community settings, these situations may           avoiding them                                    to discuss the emotional components of com-
+                                                                                                                                                                                                             Hunt et al. Int J Ment Health Syst
+
+
+
+
+                                                     include introducing a pharmaceutical or           In community settings, psychologically safe        plex decision-making, particularly balancing
+                                                     therapeutic intervention to help stabilise a        teams will involve all relevant professionals,   patient safety and privacy
+                                                     patient and avoid admission to a psychiatric        informal support and the patient in openly     Simulations and role-play provide an opportunity
+                                                     hospital                                            discussing intervention options available to     for teams to enhance psychological safety
+                                                                                                         provide patient-centred care                     behaviours such as team decision-making,
+                                                                                                                                                          diverse thinking, teamwork and speaking up to
+                                                                                                                                                                                                             (2021) 15:33
+
+
+
+
+Decisions to use restrictive practice in acute     Across acute inpatient settings, decisions on      Teams that are high in psychological safety will    deliver patient-focused care. Simulations should
+ inpatient settings                                 the use of restrictive practice (e.g., enhanced     be able to speak up and voice their considera-    also include shared decision-makers with key
+                                                    observations, seclusion, restraint, and seda-       tions and possibly their concerns on the use      stakeholders beyond the team (e.g., informal
+                                                    tion) are often time-pressured and involved         of restrictive practice, including challenging    support, non-statutory organisations). Most
+                                                    complex decision-making, making a trade-off         the decisions made by others in a collabora-      importantly, involving the patient in shared
+                                                    between patient safety and privacy. As such,        tive way. As well as speaking up, psychological   decision-making, both in terms of keeping
+                                                    these decisions require input from all key          safety teams will include all members partici-    them informed, providing patient choice and
+                                                    decision-makers and influencers to make the         pating in the decision-making process, and        negotiating patient preference with patient
+                                                    most informed choice                                ensure full patient involvement                   safety considerations
+Reducing restrictive practice in acute inpatient   Related to the decision to use restrictive         Psychologically safe teams support and collabo- Debriefing teams to explicitly discuss thought
+ settings                                           practice is to de-escalate or end restrictive       ratively challenge each other when it comes       processes and factors relating to positive risk-
+                                                    practice with a patient. This involves testing      to patient-focused and positive risk-taking       taking behaviour. Alongside this, modelling
+                                                    whether a patient is able to manage without         (i.e., experimenting whether a patient can        thoughtful risk-taking behaviour from leaders,
+                                                    the imposed restraints. It requires positive risk- manage without an environmental restraint).        including a protocol to consider all factors
+                                                    taking behaviour to increase patient privacy        Utilising whole team intelligence, full patient
+                                                    but not at the expense of the safety of the         involvement (both in terms of informing the
+                                                    patient and others                                  patient and discussing the available options)
+                                                                                                        and knowledge sharing enhances the
+Authorising leave or time away from the ward       As part of a recovery-oriented approach, many        decision-making, mitigates foreseen risks and
+ in acute inpatient settings                        patients have planned leave or time away            encourages taking positive risks that benefit
+                                                    from the ward in the context of the legal           the patient
+                                                    framework under which they were admitted
+                                                    to hospital. This positive risk-taking requires
+                                                    ward teams to balance the often complex
+                                                    dynamic between patient autonomy and
+                                                    organisational/societal paternalism
+                                                                                                                                                                                                             Page 12 of 18
+
+Table 3 (continued)
+Situation                                         Description                                         Relevance of psychological safety                  Example interventions
+
+Post-incident debrief/discussion for the use of   Across many countries, debriefing is a manda-       A psychologically safe team can have candid          Training provided to teams that support speak-
+  restrictive practice                             tory (and legally required) to analyse and dis-      discussions regarding the use of restraint,          ing up candidly and communication styles to
+                                                   cuss all circumstances leading to the decision       even when this practice was not optimal the          reflect collaborative rather than combative
+                                                   to use restrictive practice                          optimal decision for the patient (e.g., low staff-   debate
+                                                                                                        ing levels creating a need to use more restric- Organisational policies in place to fairly audit
+                                                                                                        tive practice). These teams should also be able      non-optimal decisions regarding restrictive
+                                                                                                                                                                                                             Hunt et al. Int J Ment Health Syst
+
+
+
+
+                                                                                                        to collaboratively discuss any disagreements         practice, fairly and holistically
+                                                                                                        regarding decisions made, in retrospect            Train and simulate shared decision-making
+                                                                                                      Teams will also seek patient involvement and           approaches, inclusive of patients in these
+                                                                                                        family/carer involvement (where applicable)          discussions
+                                                                                                        in individual cases, to reflect on the decision
+                                                                                                        made, discuss the reasons why they were
+                                                                                                                                                                                                             (2021) 15:33
+
+
+
+
+                                                                                                        made, and actively seek a collaboration to
+                                                                                                        explore alternative options and strategies
+                                                                                                        for avoiding using restrictive practice, where
+                                                                                                        possible
+Planned discharge from a psychiatric hospital     The transition from inpatient to the community      A psychologically safe approach to the transi-      Dialogue meetings and reflective sessions to
+                                                    can be a difficult inpatients, particularly for     tion in care between inpatient and commu-          understand the barriers and discuss ways of
+                                                    patients with long lengths of stay                  nity settings will involve the patient in discuss- ensuring continuity of care for this transition
+                                                                                                        ing the plan, openly and actively listening to     period
+                                                                                                        any concerns the patient may have, and to         Mapping and refining the transition aspect of
+                                                                                                        ensure continuity of care between inpatient        a care pathway to ensure full patient involve-
+                                                                                                        and community teams                                ment and involvement of relevant services and
+                                                                                                      Involving all relevant statutory and non-statu-      informal support
+                                                                                                        tory organisations, and informal support in
+                                                                                                        the planned discharge
+Decisions regarding particularly vulnerable       Decisions regarding the care of vulnerable       Safe patient-focused care relies on the con-     Engagement strategies and training that bring
+ groups                                             groups such as older people and young peo-       tinuity of care and collaboration between        together formal and informal support to inte-
+                                                    ple require collaboration between clinician’s    professional services and other statutory and    grate and create continuity of care—providing
+                                                    informal support and the views of the person     non-statutory organisations (e.g., charity-      opportunities for people to speak up about
+                                                    themselves. In particular, the process of mak-   sector organisations involved in supporting      parameters, opportunities and challenges to
+                                                    ing decisions regarding the care provided by     a patient); and informal support provided by     providing care
+                                                    carers, partners, family and friends vs what     carers, friends and family. Psychological safe
+                                                    professional assessment determines to be the     teams can engage in supportive and candid
+                                                    best approach                                    discussions between formal and informal care
+                                                  This should also include other statutory and       to agree to care packages that are always in
+                                                    non-statutory organisations that are involved    the interests of the patient
+                                                    in supporting the patient
+                                                  As such, patient-centred care often crosses
+                                                    professional and organisational boundaries,
+                                                    requiring open and candid communication
+                                                    for inter-professional working, and shared
+                                                    decision-making that involve patients and
+                                                    their informal support network
+                                                                                                                                                                                                             Page 13 of 18
+
+Table 3 (continued)
+Situation                                 Description                                        Relevance of psychological safety                 Example interventions
+
+Clinical handover                         The definition of clinical handovers is the trans- As such, teams that are high in psychological     Create a research action team with key decision-
+                                            fer of clinical responsibility and accountability safety will be able to have candid and pro-        makers (clinical and non-clinical staff ) across
+                                            of some or all aspects of care for a patient or   active discussions that could aid the effective    the Trust to map how handover process and
+                                            group of patients to another person. Func-        care of particular patients. For example,          discuss restructuring it with a focus on psycho-
+                                            tional handovers underpin consistent and          speaking up about some of the behavioural          logical safety
+                                            continuity of care. In the case of an inpatient   difficulties with one patient may provide
+                                                                                                                                                                                                    Hunt et al. Int J Ment Health Syst
+
+
+
+
+                                            setting, this handover will typically be at the   insight that helps to avoid an aggressive situa-
+                                            end of one shift pattern to the beginning of      tion later that day
+                                            another. Handovers should include enough
+                                            information to plan for the next shift compas-
+                                            sionately and safely
+                                                                                                                                                                                                    (2021) 15:33
+
+
+
+
+Informal disputes between staff members   Providing opportunities and structure to           Psychologically safe teams provide an oppor-      Specific training provided to staff members and,
+                                            handling disputes between staff members            tunity for staff members to have candid           in particular, to leaders to help mediate and
+                                            is essential to resolving disputes before they     conversations about professional conflicts        resolve disputes and conflicts. Training should
+                                            reach formal grievance procedures                  and seek opportunities to resolve such issues     also focus on respectful listening and divergent
+                                                                                               successfully. In particular, a focus on under-    thinking
+                                                                                               standing each other’s view and recognising      Organisations may seek to provide mediation
+                                                                                               commonalities in occupational practice.           from internally-appointed individuals or exter-
+                                                                                               Where possible, staff should take opportuni-      nal services to facilitate pro-actively handling
+                                                                                               ties to take ownership of the issue and seek to   disputes
+                                                                                               resolve it in an appositive manner
+                                                                                             At an organisational level, there should be
+                                                                                               structure and opportunities to facilitate staff
+                                                                                               resolving such issues at the early stages
+Workplace bullying and harassment         Individuals who misuse their authority to gain     Psychologically safe teams create professional     Creating a code of conduct in which team
+                                            personal and political power, and ultimately       boundaries, understanding the difference           expectations are agreed upon, laid out and
+                                            undermine a psychologically safe culture           between their professional and personal            repeatedly reinforced
+                                          At a group level, informal peer support net-         lives. Irrespective of informal relationships,   Policies that protect and support those who
+                                            works are beneficial in a workplace setting,       colleagues still foster a relationship of candid   are implicated in bullying and harassment
+                                            they can also serve as cliques, creating favour-   discussion that is equal across all colleagues.    incidents, both for the person who reports the
+                                            itism for those within the group and exclusion     When witnessing bullying and harassment,           incident and the implicated staff
+                                            for those outside of the group                     they are openly willing to challenge this        Leadership training with a specific focus on han-
+                                                                                               behaviour and follow through with any action       dling bullying and harassment, from proactive
+                                                                                               arising from the incident                          strategies to promote candid but fair conversa-
+                                                                                                                                                  tions, to handling grievances arising from this
+                                                                                                                                                  any reported incidents
+Grievance procedures                      All organisations have formal positions in         Psychologically safe teams will be able to have   Providing independent and informal routes
+                                            place to handle grievances, whether they are       candid conversations about any dispute or         specifically designed to work towards resolv-
+                                            through internal HR processes or whether           differences in personality or workplace dif-      ing grievances collaboratively. Creating local
+                                            they involve independent union organisa-           ferences that, in most cases, can be resolved     charters with expectations for staff to openly,
+                                            tions                                              before reaching formal stages                     candidly and respectively discussing grievances
+                                                                                                                                                 before they escalate to formal stages
+                                                                                                                                                                                                    Page 14 of 18
+
+Table 3 (continued)
+                                                                                                                                                                                                   Hunt et al. Int J Ment Health Syst
+
+
+
+
+Situation                               Description                                         Relevance of psychological safety                   Example interventions
+
+Professional Development Review (PDR)   Professional development reviews (PDR)              Those who are psychologically safe will be free     Review of current PDR across the organisation
+                                          provide opportunities for both the staff and        to engage in candid conversations regard-          and interviews to discuss whether staff the
+                                          the managers to reflect on performance from         ing where they want to be in their position        plans reflect their true aspirations, goals and
+                                          the previous year as well as plans for the next     and will facilitate their engagement. The PDR      plans
+                                                                                                                                                                                                   (2021) 15:33
+
+
+
+
+                                          year. It provides opportunities to engage in        should primarily seek to serve and develop
+                                          short-term planning for role fulfilment and         the individual, and for organisational perfor-
+                                          long-term career aspirations and how the            mance viewed as a secondary focus. It can
+                                          organisation may play a part in this                provide opportunities for staff to discuss how
+                                                                                              the role fits with their current career aspira-
+                                                                                              tions and how this fits with the current role
+                                                                                              and what the organisation needs
+Return to work interviews               Return to work interviews are short, informal       Psychological safe individuals will be able to  Specific training that focuses on psychologically
+                                         meetings held with an employee on their              speak candidly around any work-related stress   safe behaviours enabling collaborative discus-
+                                         return to work after an absence. As well as          that contributed to their absence. Receptive    sion about the current absence, broader influ-
+                                         discussing details around the absence and            managers will be able to respond to these       ences, and candidly discussing next steps
+                                         the planned return to work, it provides an           concerns and, where possible, provide a
+                                         opportunity to explore any work-placed               return to work plan that takes into account
+                                         contributions                                        the contributions to absence
+Exit interviews                         Exit interviews create an invaluable opportunity Even when leaving, employees may feel like          Develop and implement a process to themati-
+                                          to find out whether any of the reasons staff     they are unable to speak freely about the          cally analyse patterns for people leaving and
+                                          leave is attributable to the organisation. On    reasons they are leaving—fear of not receiv-       how this is fed back into the organisation—
+                                          a population level, they also offer opportuni-   ing a good reference further influences            alongside this, messaging that feedback
+                                          ties to recognise trends and areas that may      whether people speak up. Individuals high in       received is valuable and actioned
+                                          be improved to increase staff retention and      psychological safety are likely to speak more
+                                          engagement                                       frankly about their experience and can offer
+                                                                                           critical insights for an organisation. Like PDRs,
+                                                                                           an exit interview should seek to serve the indi-
+                                                                                           vidual, first and foremost, and to provide open
+                                                                                           opportunities for organisational learning
+                                                                                                                                                                                                   Page 15 of 18
+
+Hunt et al. Int J Ment Health Syst       (2021) 15:33                                                                                                     Page 16 of 18
+
+
+
+
+for healthcare organisations to approach enhancing psy-                            7.    Alnaqi H, McIntosh B, Lancaster A. Cultures of fear: perspectives on
+                                                                                         whistleblowing. Br J Mental Health Nurs. 2017;6(3):134–7. https://​doi.​org/​
+chological safety in a meaningful way. Second, it provides                               10.​12968/​bjmh.​2017.6.​3.​134.
+suggestions for research to be advanced in psychological                           8.    Moore L, McAuliffe E. To report or not to report? Why some nurses are
+safety, with a particular focus on what possible routes for                              reluctant to whistleblow. Clin Gov Int J. 2012. https://​doi.​org/​10.​1108/​
+                                                                                         14777​27121​12732​15.
+development. This paper, therefore, serves as a primer for                         9.    Moore L, McAuliffe E. Is inadequate response to whistleblowing perpetu-
+approaching psychological safety and forms a bedrock for                                 ating a culture of silence in hospitals? Clin Gov Int J. 2010. https://​doi.​org/​
+further development on this topic, from a mental health                                  10.​1108/​14777​27101​10638​05.
+                                                                                   10.   Patrick K. Barriers to whistleblowing in the NHS. https://​doi.​org/​10.​1136/​
+perspective.                                                                             bmj.​e6840
+                                                                                   11.   Slade M, Amering M, Farkas M, Hamilton B, O’Hagan M, Panther G, Perkins
+Acknowledgements
+                                                                                         R, Shepherd G, Tse S, Whitley R. Uses and abuses of recovery: imple-
+We would like to thank the Oxford Healthcare Improvement Team and the Risk
+                                                                                         menting recovery-oriented practices in mental health systems. World
+and Safety Group at the Department of Experimental Psychology, University of
+                                                                                         Psychiatry. 2014;13(1):12–20. https://​doi.​org/​10.​1002/​wps.​20084.
+Oxford for their helpful feedback when developing this article.
+                                                                                   12.   Reason J. Managing the risks of organizational accidents. Routledge;
+                                                                                         2016.
+Author’s contributions
+                                                                                   13.   Schein EH. Organizational culture and leadership San Francisco. San
+DFH, JB, and CV contributed to idea formation and drafting the manuscript.
+                                                                                         Francisco: Jossey-Basss; 1985.
+BL and MC contributed to idea refinement and proofreading. All authors read
+                                                                                   14.   Balogun J, Hailey VH. Exploring strategic change. Pearson Education;
+and approved the final manuscript.
+                                                                                         2008.
+                                                                                   15.   Parmelli E, Flodgren G, Beyer F, Baillie N, Schaafsma ME, Eccles MP.
+Funding
+                                                                                         The effectiveness of strategies to change organisational culture to
+There are no funding declarations.
+                                                                                         improve healthcare performance: a systematic review. Implementat Sci.
+                                                                                         2011;6(1):33. https://​doi.​org/​10.​1186/​1748-​5908-6-​33.
+Availability of data and materials
+                                                                                   16.   Konteh FH, Mannion R, Davies HT. Clinical governance views on culture
+Not applicable.
+                                                                                         and quality improvement. Clin Gov Int J. 2008. https://​doi.​org/​10.​1108/​
+                                                                                         14777​27081​08926​10.
+Ethics approval and consent to participate
+                                                                                   17.   Parmelli E, Flodgren G, Schaafsma ME, Baillie N, Beyer FR, Eccles MP. The
+Not applicable.
+                                                                                         effectiveness of strategies to change organisational culture to improve
+                                                                                         healthcare performance. Cochrane Database Syst Rev. 2011;1. https://​doi.​
+Consent for publication
+                                                                                         org/​10.​1002/​14651​858.​CD008​315.​pub2.
+Not applicable.
+                                                                                   18.   Smith ME. Changing an organisation’s culture: correlates of success and
+                                                                                         failure. Leadership Organ Dev J. 2003. https://​doi.​org/​10.​1108/​01437​
+Competing interests
+                                                                                         73031​04857​52.
+The authors declare that they have no competing interests.
+                                                                                   19.   Mannion R, Davies H. Understanding organisational culture for healthcare
+                                                                                         quality improvement. BMJ. 2018;28:363. https://​doi.​org/​10.​1136/​bmj.​
+Author details
+1                                                                                        k4907.
+  Department of Experimental Psychology, Radcliffe Observatory, Univer-
+                                                                                   20.   Edmondson AC, Higgins M, Singer S, Weiner J. Understanding psycho-
+sity of Oxford, Anna Watts Building, Woodstock Road, Oxford OX2 6GG, UK.
+2                                                                                        logical safety in health care and education organizations: a comparative
+  Oxford Health NHS Foundation Trust, Warneford Hospital, Warneford Lane,
+                                                                                         perspective. Res Human Dev. 2016;13(1):65–83. https://​doi.​org/​10.​1080/​
+Headington, Oxford OX3 7JX, UK. 3 Department of Psychiatry, University
+                                                                                         15427​609.​2016.​11412​80.
+of Oxford, Warneford Hospital, Warneford Lane, Headington, Oxford OX3 7JX,
+                                                                                   21.   Nembhard IM, Edmondson AC. Making it safe: the effects of leader inclu-
+UK. 4 Oxford School of Nursing and Midwifery, Oxford Brookes University,
+                                                                                         siveness and professional status on psychological safety and improve-
+Headington Campus, Oxford OX3 0BP, UK.
+                                                                                         ment efforts in health care teams. J Organ Behav Intern J Indus Occup
+                                                                                         Organ Psychol Behav. 2006;27(7):941–66. https://​doi.​org/​10.​1002/​job.​413.
+Received: 20 October 2020 Accepted: 1 February 2021
+                                                                                   22.   Edrees HH, Ismail MN, Kelly B, Goeschel CA, Berenholtz SM, Pronovost PJ,
+                                                                                         Al Obaidli AA, Weaver SJ. Examining influences on speaking up among
+                                                                                         critical care healthcare providers in the United Arab Emirates. Int J Qual
+                                                                                         Health Care. 2017;29(7):948–60. https://​doi.​org/​10.​1093/​intqhc/​mzx144.
+                                                                                   23.   Morrow KJ, Gustavson AM, Jones J. Speaking up behaviours (safety
+References                                                                               voices) of healthcare workers: a metasynthesis of qualitative research
+1. Edmondson A. Psychological safety and learning behavior in work teams.                studies. Int J Nurs Stud. 2016;1(64):42–51. https://​doi.​org/​10.​1016/j.​ijnur​
+    Adm Sci Q. 1999;44(2):350–83. https://​doi.​org/​10.​2307/​26669​99.                 stu.​2016.​09.​014.
+2. Edmondson AC. Speaking up in the operating room: how team leaders               24.   English M, Ogola M, Aluvaala J, Gicheha E, Irimu G, McKnight J, Vincent
+    promote learning in interdisciplinary action teams. J Manage Stud.                   CA. First do no harm: practitioners’ ability to ‘diagnose’system weaknesses
+    2003;40(6):1419–52. https://​doi.​org/​10.​1111/​1467-​6486.​00386.                  and improve safety is a critical initial step in improving care quality. Arch
+3. Leroy H, Dierynck B, Anseel F, Simons T, Halbesleben JR, McCaughey D,                 Dis Child. 2020. https://​doi.​org/​10.​1136/​archd​ischi​ld-​2020-​320630.
+    Savage GT, Sels L. Behavioral integrity for safety, priority of safety, psy-   25.   Hurley J, Hutchinson M. Hierarchy and medical error: speaking up when
+    chological safety, and patient safety: a team-level study. J Appl Psychol.           witnessing an error. Saf Sci. 2020;1(125):104648. https://​doi.​org/​10.​1016/j.​
+    2012;97(6):1273. https://​doi.​org/​10.​1037/​a0030​076.                             ssci.​2020.​104648.
+4. O’donovan R, Mcauliffe E. A systematic review of factors that enable            26.   World Health Organization. WHO patient safety curriculum guide for
+    psychological safety in healthcare teams. Int J Qual Health Care.                    medical schools. 2009.
+    2020;32(4):240–50. https://​doi.​org/​10.​1093/​intqhc/​mzaa0​25.              27.   Johnston BE, Lou-Meda R, Mendez S, Frush K, Milne J, Fitzgerald T, Sexton
+5. O’donovan R, McAuliffe E. A systematic review exploring the content and               JB, Rice H. Teaching patient safety in global health: lessons from the Duke
+    outcomes of interventions to improve psychological safety speaking up                Global Health Patient Safety Fellowship. BMJ Global Health. 2019;4(1).
+    and voice behaviour. BMC Health Serv Res. 2020;20(1):1–1. https://​doi.​             https://​doi.​org/​10.​1136/​bmjgh-​2018-​001220.
+    org/​10.​1186/​s12913-​020-​4931-2.                                            28.   Marangos-Frost S, Wells D. Psychiatric nurses’ thoughts and feelings about
+6. Newman A, Donohue R, Eva N. Psychological safety: a systematic review                 restraint use: a decision dilemma. J Adv Nurs. 2000;31(2):362–9. https://​
+    of the literature. Human Resour Manage Rev. 2017;27(3):521–35. https://​             doi.​org/​10.​1046/j.​1365-​2648.​2000.​01290.x.
+    doi.​org/​10.​1016/j.​hrmr.​2017.​01.​001.
+
+Hunt et al. Int J Ment Health Syst        (2021) 15:33                                                                                                   Page 17 of 18
+
+
+
+
+29. Wynaden D, Chapman R, McGowan S, Holmes C, Ash P, Boschman A.                     51. Pian-Smith MC, Simon R, Minehart RD, Podraza M, Rudolph J, Walzer T,
+    Through the eye of the beholder: to seclude or not to seclude. Intern J               Raemer D. Teaching residents the two-challenge rule: a simulation-based
+    Mental Health Nurs. 2002;11(4):260–8. https://​doi.​org/​10.​1046/j.​1440-​           approach to improve education and patient safety. Simul Healthcare.
+    0979.​2002.​00257.x.                                                                  2009;4(2):84–91. https://​doi.​org/​10.​1097/​SIH.​0b013​e3181​8cffd3.
+30. Carmeli A, Gittell JH. High-quality relationships, psychological safety, and      52. Braithwaite J, Herkes J, Ludlow K, Testa L, Lamprell G. Association
+    learning from failures in work organizations. J Organ Behav Intern J Indus            between organisational and workplace cultures, and patient outcomes:
+    Occup Organ Psychol Behav. 2009;30(6):709–29. https://​doi.​org/​10.​1002/​           systematic review. BMJ Open. 2017;7(11). https://​doi.​org/​10.​1136/​bmjop​
+    job.​565.                                                                             en-​2017-​017708.
+31. Edmondson AC, Lei Z. Psychological safety: the history, renaissance,              53. Johnson A, Nguyen H, Groth M, Wang K, Ng JL. Time to change: a
+    and future of an interpersonal construct. Annu Rev Organ Psychol                      review of organisational culture change in health care organisa-
+    Organ Behav. 2014;1(1):23–43. https://​doi.​org/​10.​1146/​annur​ev-​orgps​           tions. J Organ Effect People Perform. 2016. https://​doi.​org/​10.​1108/​
+    ych-​031413-​091305.                                                                  JOEPP-​06-​2016-​0040.
+32. Albritton JA, Fried B, Singh K, Weiner BJ, Reeve B, Edwards JR. The role          54. Larson EL, Early E, Cloonan P, Sugrue S, Parides M. An organizational
+    of psychological safety and learning behavior in the development                      climate intervention associated with increased handwashing and
+    of effective quality improvement teams in Ghana: an observational                     decreased nosocomial infections. Behav Med. 2000;26(1):14–22. https://​
+    study. BMC Health Serv Res. 2019;19(1):385. https://​doi.​org/​10.​1186/​             doi.​org/​10.​1080/​08964​28000​95957​49.
+    s12913-​019-​4234-7.                                                              55. O’Connor P, Byrne D, O’Dea A, McVeigh TP, Kerin MJ. “Excuse me:” teaching
+33. Care Quality Commission. Quality improvement in hospital trusts: Sharing              interns to speak up. Joint Comm J Qual Patient Saf. 2013;39(9):426–31.
+    learning from trusts on a journey of QI. Newcastle-upon-Tyne: Care Qual-              https://​doi.​org/​10.​1016/​S1553-​7250(13)​39056-4.
+    ity Commission; 2018.                                                             56. Costello J, Clarke C, Gravely G, D’Agostino-Rose D, Puopolo R. Working
+34. Aranzamendez G, James D, Toms R. Finding antecedents of psychological                 together to build a respectful workplace: transforming OR culture. AORN
+    safety: a step toward quality improvement. Nurs Forum. 2015;50(3):171–8.              J. 2011;93(1):115–26. https://​doi.​org/​10.​1016/j.​aorn.​2010.​05.​030.
+    https://​doi.​org/​10.​1111/​nuf.​12084.                                          57. Mulcahy C, Betts L. Transforming culture: an exploration of unit
+35. Rathert C, Ishqaidef G, May DR. Improving work environments in                        culture and nursing retention within a neonatal unit. J Nurs Manag.
+    health care: test of a theoretical framework. Health Care Manage Rev.                 2005;13(6):519–23. https://​doi.​org/​10.​1111/j.​1365-​2934.​2005.​00588.x.
+    2009;34(4):334–43. https://​doi.​org/​10.​1097/​HMR.​0b013​e3181​abce2b.          58. Syse I, Førde R, Pedersen R. Clinical ethics committees—also for mental
+36. Ilies R, Dimotakis N, De Pater IE. Psychological and physiological reac-              health care? The Norwegian experience. Clin Ethics. 2016;11(2–3):81–6.
+    tions to high workloads: implications for well-being. Pers Psychol.                   https://​doi.​org/​10.​1177/​2F147​77509​16657​656.
+    2010;63(2):407–36. https://​doi.​org/​10.​1111/j.​1744-​6570.​2010.​01175.x.      59. Thomas JT. The ethics of supervision and consultation: practical guidance
+37. Greenberg N, Docherty M, Gnanapragasam S, Wessely S. Managing                         for mental health professionals. American Psychological Association;
+    mental health challenges faced by healthcare workers during covid-19                  2010.
+    pandemic. BMJ. 2020;368. https://​doi.​org/​10.​1136/​bmj.​m1211.                 60. Mikkelsen EG, Hogh A, Puggaard LB. Prevention of bullying and conflicts
+38. Cohen MB, Hyde CA, editors. Empowering workers and clients for organi-                at work: process factors influencing the implementation and effects
+    zational change. Oxford: Oxford University Press; 2013.                               of interventions. Intern J Workplace Health Manage. 2011;4(1):84–100.
+39. Schmid H. The contingencies of non-profit leadership. In: Kane et al.(eds).           https://​doi.​org/​10.​1108/​17538​35111​11186​17.
+    2009; pp. 193–210.                                                                61. Marcus BS, Shank G, Carlson JN, Venkat A. Qualitative analysis of
+40. Edmondson AC. The local and variegated nature of learning in organiza-                healthcare professionals’ viewpoints on the role of ethics committees
+    tions: a group-level perspective. Organ Sci. 2002;13(2):128–46. https://​doi.​        and hospitals in the resolution of clinical ethical dilemmas. HEC Forum
+    org/​10.​1287/​orsc.​13.2.​128.​530.                                                  (Springer, The Netherlands). 2015;27(1):11–34. https://​doi.​org/​10.​1007/​
+41. Carmeli A, Reiter-Palmon R, Ziv E. Inclusive leadership and employee                  s10730-​014-​9258-0.
+    involvement in creative tasks in the workplace: the mediating role of             62. Farr M, Barker R. Can staff be supported to deliver compassionate care
+    psychological safety. Creativ Res J. 2010;22(3):250–60. https://​doi.​org/​10.​       through implementing Schwartz Rounds in community and mental
+    1080/​10400​419.​2010.​504654.                                                        health services? Qual Health Res. 2017;27(11):1652–63. https://​doi.​org/​10.​
+42. Detert JR, Burris ER. Leadership behavior and employee voice: is the door             1177/​10497​32317​702101.
+    really open? Acad Manag J. 2007;50(4):869–84. https://​doi.​org/​10.​5465/​       63. Glisson C. Assessing and changing organizational culture and climate for
+    amj.​2007.​26279​183.                                                                 effective services. Res Soc Work Pract. 2007;17(6):736–47. https://​doi.​org/​
+43. Madjar N, Ortiz-Walters R. Trust in supervisors and trust in customers: their         10.​1177/​10497​31507​301659.
+    independent, relative, and joint effects on employee performance and              64. Brown D, McCormack B. Exploring psychological safety as a component
+    creativity. Human Perform. 2009;22(2):128–42. https://​doi.​org/​10.​1080/​           of facilitation within the promoting action on research Implementa-
+    08959​28090​27435​01.                                                                 tion in Health Services framework. J Clin Nurs. 2016;25(19–20):2921–32.
+44. Palanski ME, Vogelgesang GR. Virtuous creativity: The effects of leader               https://​doi.​org/​10.​1111/​jocn.​13348.
+    behavioural integrity on follower creative thinking and risk taking. Can J        65. O’Leary DF. Exploring the importance of team psychological safety
+    Admin Sci Revue. 2011;28(3):259–69. https://​doi.​org/​10.​1002/​cjas.​219.           in the development of two interprofessional teams. J Interprof Care.
+45. Elliott H, Popay J. How are policy makers using evidence? Models of                   2016;30(1):29–34. https://​doi.​org/​10.​3109/​13561​820.​2015.​10721​42.
+    research utilisation and local NHS policy making. J Epidemiol Commun              66. Haesebaert J, Samson I, Lee-Gosselin H, Guay-Bélanger S, Proteau JF,
+    Health. 2000;54(6):461–8. https://​doi.​org/​10.​1136/​jech.​54.6.​461.               Drouin G, Guimont C, Vigneault L, Poirier A, Sanon PN, Roch G. “They
+46. Filipe A, Renedo A, Marston C. The co-production of what? Knowledge,                  heard our voice!” patient engagement councils in community-based
+    values, and social relations in health care. PLoS Biol. 2017;15(5):e2001403.          primary care practices: a participatory action research pilot study. Res
+    https://​doi.​org/​10.​1371/​journ​al.​pbio.​20014​03.                                Invol Engag. 2020;6(1):1–4. https://​doi.​org/​10.​1186/​s40900-​020-​00232-3.
+47. Maybin J. How proximity and trust are key factors in getting research to          67. Cave D, Pearson H, Whitehead P, Rahim-Jamal S. CENTRE: creating psycho-
+    feed into policymaking. British Politics and Policy at LSE. 2016.                     logical safety in groups. Clin Teach. 2016;13(6):427–31. https://​doi.​org/​10.​
+48. Vennik FD, van de Bovenkamp HM, Putters K, Grit KJ. Co-production in                  1111/​tct.​12465.
+    healthcare: rhetoric and practice. Intern Rev Admin Sci. 2016;82(1):150–          68. Kinjerski V, Skrypnek BJ. The promise of spirit at work increasing job
+    68. https://​doi.​org/​10.​1177/​2F002​08523​15570​553.                               satisfaction and organizational commitment and reducing turnover and
+49. Baer M, Frese M. Innovation is not enough: climates for initiative and                absenteeism in long-term care. J Gerontolog Nurs. 2008;34(10):17–25.
+    psychological safety, process innovations, and firm performance. J Organ              https://​doi.​org/​10.​3928/​00989​134-​20081​001-​03.
+    Behav Intern J Indus Occup Organ Psychol Behav. 2003;24(1):45–68.                 69. Swahnberg K, Wijma B. Staff’s perception of abuse in healthcare: a Swed-
+    https://​doi.​org/​10.​1002/​job.​179.                                                ish qualitative study. BMJ Open. 2012;2(5). https://​doi.​org/​10.​1136/​bmjop​
+50. Flin R, Maran N. Identifying and training non-technical skills for teams in           en-​2012-​001111.
+    acute medicine. BMJ Qual Saf. 2004;13(suppl 1):i80–4. https://​doi.​org/​10.​     70. Coyle YM, Mercer SQ, Murphy-Cullen CL, Schneider GW, Hynan LS. Effec-
+    1136/​qshc.​2004.​009993.                                                             tiveness of a graduate medical education program for improving medical
+
+Hunt et al. Int J Ment Health Syst      (2021) 15:33                                                                                                  Page 18 of 18
+
+
+
+
+    event reporting attitude and behavior. BMJ Qual Saf. 2005;14(5):383–8.             review. BMC Health Serv Res. 2019;19(1):1–3. https://​doi.​org/​10.​1186/​
+    https://​doi.​org/​10.​1136/​qshc.​2005.​013979.                                   s12913-​019-​4060-y.
+71. Shapiro J, Whittemore A, Tsen LC. Instituting a culture of professionalism:
+    the establishment of a center for professionalism and peer support. Joint
+    Comm J Qual Patient Saf. 2014;40(4):168-AP1. https://​doi.​org/​10.​1016/​    Publisher’s Note
+    S1553-​7250(14)​40022-9.                                                      Springer Nature remains neutral with regard to jurisdictional claims in pub-
+72. Hammervold UE, Norvoll R, Aas RW, Sagvaag H. Post-incident review             lished maps and institutional affiliations.
+    after restraint in mental health care-a potential for knowledge devel-
+    opment, recovery promotion and restraint prevention. A scoping
+
+
+
+
+                                                                                      Ready to submit your research ? Choose BMC and benefit from:
+
+                                                                                        • fast, convenient online submission
+                                                                                        • thorough peer review by experienced researchers in your field
+                                                                                        • rapid publication on acceptance
+                                                                                        • support for research data, including large and complex data types
+                                                                                        • gold Open Access which fosters wider collaboration and increased citations
+                                                                                        • maximum visibility for your research: over 100M website views per year
+
+                                                                                      At BMC, research is always in progress.
+
+                                                                                      Learn more biomedcentral.com/submissions
+

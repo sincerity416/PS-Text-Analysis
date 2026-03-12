@@ -1,0 +1,566 @@
+Effect of Practice Ownership on Work Environment,
+Learning Culture, Psychological Safety, and Burnout
+Alison Cuellar, PhD1                                     ABSTRACT
+Alex H. Krist, MD, MPH2                                  PURPOSE Physicians have joined larger groups and hospital systems in the face
+Len M. Nichols, PhD1                                     of multiple environmental challenges. We examine whether there are differences
+                                                         across practice ownership in self-reported work environment, a practice culture of
+Anton J. Kuzel, MD, MHPE2                                learning, psychological safety, and burnout.
+1
+ Department of Health Administration and
+                                                         METHODS Using cross-sectional data from staff surveys of small and medium-size
+Policy, George Mason University, Wash-
+ington, DC
+                                                         practices that participated in EvidenceNOW in Virginia, we tested for differences
+                                                         in work environment, culture of learning, psychological safety, and burnout by
+2
+  Department of Family Medicine and Popu-                practice type. We conducted weighted multivariate linear regression of outcomes
+lation Health, Virginia Commonwealth                     on ownership, controlling for practice size, specialty mix, payer mix, and whether
+University,
+                                                         the practice was located in a medically underserved area. We further analyzed
+Richmond, Virginia
+                                                         clinician and staff responses separately.
+
+                                                         RESULTS Participating were 104 hospital-owned and 61 independent practices
+                                                         and 24 federally qualified health centers (FQHCs). We analyzed 2,005 responses
+                                                         from practice clinicians and staff, a response rate of 49%. Working in a hospital-
+                                                         owned practice was associated with favorable ratings of work environment, psy-
+                                                         chological safety, and burnout compared with independent practices. When we
+                                                         examined separately the responses of clinicians vs staff, however, the association
+                                                         appears to be largely driven by staff.
+
+                                                         CONCLUSIONS Hospital ownership was associated with positive perceptions of
+                                                         practice work environment and lower burnout for staff relative to independent
+                                                         ownership, whereas clinicians in FQHCs perceive a more negative, less joyful
+                                                         work environment and burnout. Our findings are suggestive that clinician and
+                                                         nonclinician staff perceive practice adaptive reserve differently, which may have
+                                                         implications for creating the energy for ongoing quality improvement work.
+
+                                                         Ann Fam Med 2018;16(Suppl 1):S44-S51. https://doi.org/10.1370/afm.2198.
+
+
+Conflicts of interest: Dr Nichols. received honoraria
+from the nonprofit Rocky Mountain Health Plans           INTRODUCTION
+
+
+                                                         T
+(Grand Junction, Colorado) for organizing content
+about national trends and facilitating board retreat            he Heart of Virginia Healthcare collaborative is 1 of 7 regional
+discussions, and from the American Medical Asso-                efforts supported by the Agency for Healthcare Research and
+ciation for speaking at their annual state advocacy             Quality (AHRQ).1 In 2015, AHRQ launched EvidenceNOW:
+conference on antitrust issues. Dr Nichols is also the
+                                                         Advancing Heart Health in Primary Care, a multiyear pragmatic trial. Evi-
+Director of George Mason University’s Center for
+Health Policy Research and Ethics, whose 501(c)(3)       denceNOW is designed to generate information about the effectiveness
+Foundation account received a grant from America’s       of external quality improvement support in helping small and medium-size
+Health Insurance Plans to support graduate student       primary care practices use patient-centered outcomes research findings
+work on health care market issues. Dr Nichols is         to improve the heart health of their patients. The project also is designed
+a member of the unpaid Board of Trustees of the
+                                                         to determine what works best in developing organizational capacity for
+National Committee for Quality Assurance, and
+an unpaid advisor on payment reform matters to the       ongoing practice improvement in primary care.
+Patient-Centered Primary Care Collaborative. All             Our EvidenceNOW intervention is based on the theory that, faced
+other authors declare no conflicts of interest.          with a complex environment, practices must attain the adaptive reserve
+                                                         needed for higher order practice transformation.2 Our approach is pre-
+                                                         dicted on the assumption that attention to overall practice vitality and
+CORRESPONDING AUTHOR
+                                                         function—across clinicians and nonclinician staff—is essential to quality
+Alison Cuellar, PhD
+4400 University Dr, MS 1J3                               improvement activities, including attention to cardiovascular risk factors.3
+Fairfax, VA 22030                                        Adaptive reserve contains many elements, including a positive or joyful
+aevanscu@gmu.edu                                         work environment and a culture of learning. These elements, along with
+
+                                 ANNALS O F FAMILY MED ICINE ✦ WWW. A N N FA MME D.O R G ✦ VO L. 16, SUP P LE ME N T 1 ✦ 2018
+
+                                                                              S44
+
+                                                P R AC T I C E OW N ER S H I P A N D B U R N O U T
+
+
+psychological safety, reflecting a shared belief that a                    this literature, comparing independent and hospital
+team is safe for interpersonal risk taking, are hypoth-                    system practices on both personal and environmen-
+esized to underlie successful change.4                                     tal psychological factors that can potentially support
+    But how large should the optimal team be? Indepen-                     quality improvement efforts. We also report on these
+dent physicians are joining hospital systems or larger                     outcomes for FQHCs, which function as vital access
+groups at a rapid pace, partly to achieve better bargain-                  points for underserved populations. We hypothesized
+ing power in the face of dominant health plans, and                        that clinicians in FQHCs would report a positive
+partly to exploit natural economies of scale in informa-                   organizational environment, reflecting a shared com-
+tion technology, quality improvement, and reporting                        mitment to underserved populations, but also higher
+systems, especially as performance incentives have                         burnout given their challenging financial environment
+increased among public and private payers.5 In addi-                       and high patient demands.
+tion, physicians leave independent practice in response
+to burnout from a lack of career fit 6 or dissatisfaction
+with staffing models that require performing major                         METHODS
+nonphysician, non–revenue-generating work.7,8 Finally,                     The Heart of Virginia Healthcare study recruited small
+the Karasek model postulates that psychological strain                     and medium-size primary care practices to participate
+results from the joint effects of conflicting demands of a                 in an intervention to “restore joy in practice” as a means
+work situation and the decision-making discretion avail-                   of improving quality. This article reports on cross-
+able to the individual facing those demands.9                              sectional analyses of baseline survey data collected in
+    Across all physician types, the share of physicians                    2016 and 2017 related to practice characteristics, self-
+who own their own practices was 51% in 2014, down                          reported burnout, a positive work environment, psy-
+from 76% in 1983.10 Many of these practices are now                        chological safety, and a practice culture of learning.
+hospital owned or affiliated. By 2014 the propor-
+tion of physicians who worked in hospital-owned or                         Recruitment
+hospital-affiliated practices had reached one-third. As                    Practices were initially recruited through connections
+a by-product, primary care physicians are working in                       with Virginia’s allopathic medical schools, the Virginia
+larger groups. In 2015, more than two-thirds of pri-                       Quality Improvement Organization (Health Quality
+mary care physicians were in groups of 11 clinicians or                    Innovators), and the Health Information Technology
+more.11 Given that our participating practices repre-                      Extension Program in Virginia. Additionally, practices
+sented independent and hospital system practices, as                       were approached at the Virginia Academy of Family
+well as federally qualified health centers (FQHCs), we                     Physicians and the Virginia chapter of the American
+hypothesized that practices would differ by their own-                     College of Physicians annual meetings. To incentivize
+ership structure in the degree of clinician and noncli-                    participating practices, we offered payments of $500
+nician burnout, work environment, and psychological                        per practice to complete survey questionnaires. Our
+safety at baseline.                                                        study was approved by the Virginia Commonwealth
+    As clinicians shift to larger practices, so do their                   University and George Mason University institutional
+nonclinician staff. Previous studies have found that                       review boards.
+burnout varies substantially by occupation and has
+been found to be higher for clinicians than staff.12 At                    Data and Study
+the same time, nonclinician staff may perceive reduced                     Our primary outcomes included measures of a positive
+financial risk and therefore greater job security when                     work environment, a culture of learning, psychological
+practices are under hospital ownership. Existing studies                   safety, and burnout. These were obtained from base-
+provide little insight on ownership differences on adap-                   line surveys of clinicians and staff. All survey question-
+tive reserve and burnout, whether for clinicians or staff.                 naires were administered online with paper follow-up.
+    Given the current trend for primary care clini-                        Our primary outcomes were items from the adaptive
+cians to become employees rather than independent                          reserve instrument, specifically items which represent a
+practice owners,13 we sought to test for cross-sectional,                  culture of learning, psychological safety, and a positive
+baseline differences across independent and hospital-                      work environment,23,24 as well as a measure of burnout.
+owned practices on organizational capabilities and                             A positive work environment was captured with 2
+burnout. Previous literature on practice ownership                         adaptive reserve items, “most people in the practice
+has addressed differences in overall cost of care,14-16                    seem to enjoy their work” and “this practice is a place
+rates of preventable hospital admissions,17 hospital                       of joy and hope.” A learning culture was captured
+choice,18 structures needed for quality improvement                        with “it is hard to get things to change in our prac-
+work,19,20 and quality measures.21,22 Our study extends                    tice,” whereas psychological safety was captured with
+
+                     ANNALS O F FAMILY MED ICINE ✦ WWW. A N N FA MME D.O R G ✦ VO L. 16, SUP P LE ME N T 1 ✦ 2018
+
+                                                                     S45
+
+                                               P R AC T I C E OW N ER S H I P A N D B U R N O U T
+
+
+responses to “members of this practice are able to bring                  inverse of the response rate within practice, and stan-
+up problems and tough issues.”4 Each of these items                       dard errors were adjusted for clustering at the practice
+was ranked by respondents on a 5-point scale from                         level. We first analyzed all responses, and then we
+strongly disagree to strongly agree. Adaptive reserve                     separately analyzed clinician and staff responses. We
+responses were recoded as appropriate so that higher                      controlled for the following covariates: practice size,
+values reflected more positive outcomes.                                  whether single or multispecialty mix, whether the prac-
+    Individuals also were asked about their degree of                     tice was accredited as a primary care medical home,
+burnout using a nonproprietary single-item burnout                        whether the practice was located in a designated medi-
+indicator that instructs respondents to define burnout                    cally underserved area, the percentage of patients with
+for themselves. The 5 possible response categories                        Medicare coverage, and the percentage of patients
+were as follows25: (1) “I enjoy my work. I have no                        with Medicaid coverage or who were not insured.
+symptoms of burnout.” (2) “Occasionally I am under
+stress, and I don’t always have as much energy as I
+once did, but I don’t feel burned out.” (3) “I am defi-                   RESULTS
+nitely burning out and have one or more symptoms of                       Study Population
+burnout, such as physical and emotional exhaustion.”                      We secured the participation of 67 independent prac-
+(4) “The symptoms of burnout that I am experiencing                       tices, 116 hospital system practices, and 24 FQHCs,
+would not go away. I think about frustration at work a                    which represents roughly 20% of eligible small and
+lot.” (5) “I feel completely burned out and often won-                    medium-size primary care practices in Virginia.
+der if I can go on. I am at the point where I may need                        Our response rate for the individual survey was
+some changes or may need to seek some sort of help.”                      48% and 93% for the practice characteristics survey.
+This item was used in the Physician Worklife Study26                      Of 2,109 returned questionnaires, 2,005 with com-
+and in the Healthy Workplace Trial27 and has been                         plete responses on all relevant items were used in the
+found to perform well against a propriety single-item                     analysis. The 2,005 responses were obtained from 190
+version of the Maslach Burnout Inventory emotional                        practices, including 700 questionnaires from 61 inde-
+exhaustion measure.28 In our statistical models, we                       pendent practices, 931 from 104 hospital system prac-
+tested the respondents’ impact on the full burnout                        tices, and 374 from 24 FQHCs. Twenty-four percent of
+scale and also on an indicator of burnout as defined by                   survey respondents were clinicians after adjusting for
+a rating of 3 or higher.                                                  weighting (n = 471). The baseline characteristics of the
+    A second questionnaire was completed by a lead                        individual survey responses overall, and by whether
+clinician or practice manager and contained measures                      they are independent, hospital owned, or FQHC, are
+of practice characteristics, including ownership, prac-                   displayed in Table 1.
+tice size, single or multispecialty practice, whether
+the practice was recognized as a primary care medical                     Culture of Learning
+home, whether the practice was located in a medically                     Survey respondents rated their practices similarly on
+underserved area, and payer mix. Responses on total                       culture of learning, ie, how difficult it is to get things
+practice size were used to calculate response rates on                    done, across independent, hospital system, and FQHC
+the individual-level surveys. Practices were catego-                      practices (Table 1). On a scale of 0 to 5, the overall
+rized as independent vs owned by a hospital system or                     average was 3.0, or neutral. Unadjusted differences
+as a FQHC. Independent practices included members                         across practice types were not statistically significant,
+of independent practice associations that were not                        and in multivariate models controlling for practice
+owned by a hospital system. Ownership responses                           size, practice type, accreditation for primary care
+were confirmed by telephone, and status as a FQHC                         medical home, and payer mix, the differences across
+and whether the practice was located in a designated                      independent vs hospital owned and independent vs
+medical underserved area were confirmed against pub-                      FQHC were also not statistically significant (Table 2
+lic reports maintained by the Health Resources and                        and the Supplemental Table, http://www.annfammed.
+Services Administration. Practice size was organized                      org/content/16/Suppl_1/S44/suppl/DC1).
+into 3 categories: 1 to 5 clinicians, 6 to 10 clinicians,
+and 11 or more clinicians.                                                Work Environment
+                                                                          On average, staff reported a relatively positive work
+Statistical Approach                                                      environment at a mean rating of 3.6 (95% CI, 3.5-3.6)
+We conducted ordered probit regression models                             for “enjoyment with work” and of 3.5 (95% CI, 3.4-
+because our outcomes were ordered categories. Indi-                       3.6) for practice is a “place of joy and hope” as shown
+vidual survey-based outcomes were weighted by the                         in Table 1. Given the 5 response categories, the mean
+
+                      ANNALS O F FAMILY MED ICINE ✦ WWW. A N N FA MME D.O R G ✦ VO L. 16, SUP P LE ME N T 1 ✦ 2018
+
+                                                                      S46
+
+                                                               P R AC T I C E OW N ER S H I P A N D B U R N O U T
+
+
+
+ Table 1. Survey Respondent and Practice Sample Characteristics
+
+                                                                                                                                               Federally
+                                                                                                                           Hospital            Qualified
+ Characteristic                                                 All Practices     a
+                                                                                             Independent                   Owned             Health Center
+ Total responding                                                    1,973                          690                       910                    373
+ Clinicians responding                                                 467                          170                       239                      58
+ Staff responding                                                    1,506                          520                       671                    315
+ Outcome
+ Culture of learning, mean score (95% CI)b                      3.0 (2.9-3.0)                 2.9 (2.8-3.1)              3.0 (2.9-3.1)        2.9 (.2.7-3.0)
+ Work environment, mean score (95% CI)b
+     Enjoyment with work                                        3.6 (3.5-3.7)                 3.5 (3.3-3.6)              3.7 (3.6-3.9)c       3.4 (3.3-3.6)
+     Place of joy and hope                                      3.5 (3.4-3.6)                 3.4 (3.2-3.6)              3.6 (3.5-3.7)c       3.4 (3.2-3.6)
+ Psychological safety, mean score (95% CI)b                     3.5 (3.4-3.6)                 3.4 (3.2-3.5)              3.7 (3.6-3.9)d       3.2 (3.0-3.3)
+ Burnout scale, mean score (95% CI)b                            2.1 (2.00-2.14)               2.2 (2.1-2.3)              2.0 (1.9-2.1)d       2.1 (2.0-2.2)
+ Burnout indicator, mean score (95% CI)e                        0.24 (0.21-0.28)              0.28 (0.24-0.34)           0.20 (0.15-0.26)     0.27 (0.22-0.33)
+ Practice
+ No. of clinicians, mean % (95% CI)a
+     1-5                                                       38.9 (30.9-47.5)              27.5 (17.4-40.6)           49.4 (36.3-62.6)     34.7 (17.9-56.9)
+     6-10                                                      32.1 (24.0-41.5)              30.6 (18.4-46.2)           30.4 (19.8-43.6)     40.3 (19.2-65.7)
+     ≥11                                                       29.0 (19.2-41.1)              41.9 (25.7,-60.0)          20.2 (8.5-40.9)      24.9 (7.7-56.7)
+ Specialty mix, mean % (95% CI)
+     Single specialty                                          60.7 (50.4-70.2)              76.6 (58.8-88.3)           62.4 (47.1-75.5)     21.5 (8.8-43.9)f
+     Multispecialty                                            39.3 (29.8-40.6)              23.4 (11.7-41.2)           37.6 (24.5-52.9)     78.4 (56.1-91.2)
+ Medically underserved area, mean % (95% CI)                   69.3 (59.7-77.4)              51.9 (35.6-67.9)           78.0 (67.7-85.7)d    83.0 (53.6-95.3)
+ Patients with Medicare, mean % (95% CI)                       28.1 (24.2-32.0)              29.1 (21.6-36.6)           30.9 (25.5-36.3)     18.9 (13.4-24.4)c
+ Patients with Medicaid/uninsured, mean %                      24.1 (19.1-29.1)              14.9 (10.0-19.8)           19.6 (14.6-24.7)     56.8 (45.5-68.0)f
+   (95% CI)
+ Total practices, No.                                                  189                           61                       104                      24
+
+ Note: P values generated by comparison with independent practices using t tests for differences in means, and χ tests of independence for proportions, adjusted for
+                                                                                                                    2
+
+ the survey design.
+ a
+   Estimates adjusted for practice-level nonresponse.
+ b
+   Scored on a scale from 1 to 5, where higher scores indicate higher levels; see text for response categories.
+ c
+   P <.05.
+ d
+   P <.01
+ e
+   Scored on an indicator of burnout defined by a rating of 3 or higher.
+ f
+   P <.001.
+
+
+
+responses fall between neutral and agree. Adjusting                                         Psychological Safety
+for covariates, being a hospital-owned practice was                                         Self-reported psychological safety was rated at 3.5
+associated with a higher rating on enjoyment with                                           on average in the total sample, between neutral and
+work (β = 0.273; 95% CI, 0.014-0.533) relative to inde-                                     agree. Higher ratings were reported in hospital-owned
+pendent practices (Table 2). Table 2 also shows the                                         practices than in independent practices, adjusting for
+estimated incremental difference of hospital owner-                                         covariates (β = 0.363; 95% CI, 0.118-0.609), and hos-
+ship relative to independent practices at each response                                     pital ownership is associated with being 8.5% more
+category. Thus, hospital ownership is associated                                            likely to report strongly agree with the question on
+with being 6% more likely to report strongly agree                                          psychological safety and 2.7% less likely to report
+with enjoyment with work and 1.7% less likely to                                            strongly disagree. In contrast, FQHCs experienced
+report strongly disagree. Differences in ratings of the                                     lower psychological safety than independent prac-
+practice as a place of joy and hope between hospital-                                       tices, but differences were not statistically significant,
+owned and independent practices, however, were not                                          adjusting for covariates.
+statistically significant. Further, there were no statisti-
+cally significant differences in the work environment                                       Burnout
+ratings between independent practices and FQHCs;                                            Measured on a 1 to 5 scale, burnout was rated at 2.1
+therefore, estimated incremental differences by                                             on average, which roughly corresponds to occasionally
+response category between FQHCs and independent                                             being under stress. Adjusting for covariates, being in a
+practices are not displayed in the table.                                                   hospital-owned practice was associated with reporting
+
+                              ANNALS O F FAMILY MED ICINE ✦ WWW. A N N FA MME D.O R G ✦ VO L. 16, SUP P LE ME N T 1 ✦ 2018
+
+                                                                                      S47
+
+                                                               P R AC T I C E OW N ER S H I P A N D B U R N O U T
+
+
+
+ Table 2. Association of Practice Ownership With Work Environment, Learning Culture, Psychological
+ Safety, and Burnout, All Survey Respondents
+
+                                           Culture                  Enjoyment                   Place of Joy             Psychological
+                                        of Learninga                With Worka                   and Hopea                  Safetya                      Burnouta
+ Characteristic                              β (95% CI)              β (95% CI)                   β (95% CI)                β (95% CI)                  β (95% CI)
+
+ Practice ownership
+     Independent                             Reference                Reference                    Reference                 Reference                   Reference
+     Hospital                                0.062                       0.273                      0.194                      0.363                     –0.287
+                                       (–0.141 to 0.265)           (0.014 to 0.533)b          (–0.057 to 0.446)          (0.118 to 0.609)c         (–0.509 to –0.063)b
+ FQHC                                       –0.106                      –0.171                     –0.191                     –0.264                     –0.048
+                                       (–0.385 to 0.172)          (–0.505 to 0.162)           (–0.536 to 0.155)         (–0.549 to 0.021)           (–0.364 to 0.268)
+
+                Incremental difference between hospital-owned and independent practices by response category
+ Response categorya                          Difference              Difference                   Difference                Difference                   Difference
+
+ Level 1                                      –0.011                    –0.017                       –0.011                   –0.027                         0.098
+ Level 2                                      –0.012                    –0.041                       –0.028                   –0.054                       –0.010
+ Level 3                                      –0.001                    –0.042                       –0.037                   –0.055                       –0.045
+ Level 4                                        0.014                     0.039                        0.033                    0.052                      –0.023
+ Level 5                                        0.009                     0.061                        0.043                    0.085                      –0.020
+ Total number                                  1,989                     1,988                        1,988                    1,992                        1,984
+
+ FQHC = federally qualified health center.
+
+ Note: Multivariate ordered probit models adjusted for practice-level nonresponse and clustering at practice level and controlling for ownership (independent, hospital
+ system, or federally qualified health center), whether practice is located in a medical underserved area, practice size, single- or multispecialty practice, percentage of
+ patients with Medicare coverage, and percentage of patients with Medicaid coverage or uninsured.
+ a
+   Scored on a scale from 1 to 5, where higher scores indicate higher levels; see text for response categories.
+ b
+   P <.05.
+ c
+   P <.01.
+
+
+
+
+lower burnout values relative to independent prac-                                        lower ratings of culture of learning (β = 0.470; 95%
+tices (β = -0.287; 95% CI, –0.509 to 0.063). Hospital                                     CI, –0.919 to –0.021), lower ratings of the work
+ownership was associated with being 9.8% more likely                                      environment as measured by enjoyment with work
+to report “I enjoy my work. I have no symptoms of                                         (β = –0.552; 95% CI, –0.996 to –0.109), and the prac-
+burnout” and 2% less likely to report “I feel completely                                  tice as a place of joy (β = –0.567; 95% CI, –1.089 to
+burned out and often wonder if I can go on.” Differ-                                      –0.405). FQHC clinicians also reported lower psy-
+ences between FQHCs and independent practices                                             chological safety (β = –0.723; 95% CI, –1.194 to –0.
+were not statistically different.                                                         252). Incremental differences by response category
+    Separately, we ran logistic models where burnout                                      are reflected in Table 3a for FQHC vs independent
+was defined at a threshold of 3 or higher. Overall, 24%                                   practices. Differences in ratings of burnout between
+of respondents reported burnout at this threshold or                                      clinicians in FQHCs and independent practices were
+higher, with rates lowest for hospital-owned practices                                    not statistically significant, however. We ran separate
+(20%) and highest for independent practices (28%).                                        models for physicians only and found qualitatively
+Adjusting for other covariates, the odds of being at or                                   similar results (results not shown).
+above the burnout threshold were not statistically differ-                                    Among staff (Table 3b), there were no differences
+ent across practice ownership type (results not shown).                                   between FQHCs and independent practices on any of
+                                                                                          the outcomes. Staff employed by hospital system prac-
+Clinicians vs Staff Respondents                                                           tices, however, reported greater psychological safety
+We then examined responses from clinicians and staff                                      than staff in independent practices (β = 0.372; 95% CI,
+separately (Table 3a). Clinicians include physicians,                                     0.131–0.613) and lower burnout (β = –0.328; 95% CI,
+nurse practitioners, and physician assistants. Among                                      –0.608 to –0.049), adjusting for covariates. The cor-
+clinicians there was no statistically significant differ-                                 responding incremental differences between hospital-
+ence across independent and hospital-owned practices                                      owned and independent practices are shown in Table
+in ratings across culture of learning, work environ-                                      3b. Differences in ratings of enjoyment with work and
+ment indicators, psychological safety, or burnout.                                        the practices as a place of joy and hope were not statis-
+Clinicians in FQHCs, however, on average reported                                         tically significant.
+
+                                ANNALS O F FAMILY MED ICINE ✦ WWW. A N N FA MME D.O R G ✦ VO L. 16, SUP P LE ME N T 1 ✦ 2018
+
+                                                                                      S48
+
+                                                               P R AC T I C E OW N ER S H I P A N D B U R N O U T
+
+
+
+Table 3a. Association of Practice Ownership With Work Environment, Learning Culture, Psychological
+Safety, and Burnout, Clinician Respondents
+
+                                       Culture                    Enjoyment                     Place of Joy               Psychological
+                                    of Learninga                  With Worka                     and Hopea                    Safetya                    Burnouta
+Characteristic                       β (95% CI)                   β (95% CI)                     β (95% CI)                 β (95% CI)                  β (95% CI)
+
+Practice ownership
+    Independent                        Reference                     Reference                     Reference                   Reference                  Reference
+    Hospital                           –0.131                       0.094                          –0.063                       0.100                      –0.192
+                                  (–0.409 to 0.146)            (–0.243 to 0.430)              (–0.403 to 0.276)           (–0.242 to 0.443)           (–0.545 to 0.161)
+FQHC                                   –0.470                       –0.552                         –0.567                      –0.723                       0.219
+                                 (–0.919 to –0.021)b          (–0.996 to –0.109)b            (–1.089 to –0.045)b         (–1.194 to –0.252)c          (–0.317 to 0.755)
+
+                     Incremental difference between FQHC and independent practices by response category
+Response categorya                    Difference                    Difference                    Difference                  Difference                 Difference
+
+Level 1                                     0.108                      0.033                          0.045                      0.088                     –0.055
+Level 2                                     0.071                      0.088                          0.081                      0.122                     –0.021
+Level 3                                 –0.009                         0.083                          0.089                      0.060                      0.033
+Level 4                                 –0.109                        –0.117                        –0.129                     –0.153                       0.019
+Level 5                                 –0.061                        –0.088                        –0.086                     –0.116                       0.024
+No. of respondents                          467                         466                            466                        467                         466
+
+FQHC = federally qualified health center.
+
+Note: Multivariate ordered probit models adjusted for practice-level nonresponse and clustering at the practice level and controlling for ownership (independent, hos-
+pital system, or federally qualified health center), whether practice is located in a medical underserved area, practice size, single or multi-specialty practice, percentage
+of patients with Medicare coverage, and percentage of patients with Medicaid coverage or uninsured.
+a
+  Scored on a scale from 1 to 5, in which higher scores indicate higher levels; see text for response categories.
+b
+  P < .05.
+c
+  P < .01.
+
+
+
+
+    Table 3b. Association of Practice Ownership With Work Environment, Learning Culture, Psychological
+    Safety and Burnout, Staff Respondents
+
+                                           Culture                  Enjoyment                   Place of Joy             Psychological
+                                        of Learninga                With Worka                   and Hopea                  Safetya                      Burnouta
+Characteristic                           β (95% CI)                 β (95% CI)                   β (95% CI)               β (95% CI)                    β (95% CI)
+
+Ownership
+    Independent                             Reference                  Reference                   Reference                 Reference                    Reference
+    Hospital-owned                          0.111                      0.282                        0.275                     0.372                      –0.328
+                                      (–0.157 to 0.378)           (–0.007 to 0.571)           (–0.012 to 0.562)          (0.131 to 0.613)b         (–0.608 to –0.049)c
+FQHC                                       –0.018                      –0.063                      –0.085                     –0.157                     –0.066
+                                      (–0.367 to 0.331)           (–0.446 to 0.321)           (–0.443 to 0.274)         (–0.456 to 0.141)           (–0.411 to 0.280)
+
+               Incremental difference between hospital-owned and independent practices by response category
+Response categorya                          Difference                Difference                  Difference                Difference                   Difference
+
+Level 1                                      –0.020                    –0.020                       –0.017                    –0.030                        0.116
+Level 2                                      –0.044                    –0.044                       –0.040                    –0.056                       –0.018
+Level 3                                      –0.041                    –0.041                       –0.049                    –0.057                       –0.051
+Level 4                                       0.044                      0.044                        0.045                    0.060                       –0.026
+Level 5                                       0.061                      0.061                        0.062                    0.082                       –0.021
+No. of respondents                            1,503                      1,503                        1,503                    1,506                        1,472
+
+FQHC = federally qualified health center.
+
+Note: Multivariate ordered probit models adjusted for practice-level nonresponse and clustering at the practice level and controlling for ownership (independent, hos-
+pital system, or federally qualified health center), whether practice is located in a medical underserved area, practice size, single or multi-specialty practice, percentage
+of patients with Medicare coverage, and percentage of patients with Medicaid coverage or uninsured.
+a
+  Scored on a scale from 1 to 5, in which higher scores indicate higher levels; see text for response categories.
+b
+  P <.01.
+c
+  P <.05.
+
+
+
+
+                             ANNALS O F FAMILY MED ICINE ✦ WWW. A N N FA MME D.O R G ✦ VO L. 16, SUP P LE ME N T 1 ✦ 2018
+
+                                                                                    S49
+
+                                               P R AC T I C E OW N ER S H I P A N D B U R N O U T
+
+
+DISCUSSION                                                                tice.29 Our findings suggest that staff may be critical
+We found more favorable ratings of work environment,                      to building overall practice adaptive reserve and thus
+psychological safety, and burnout in hospital-owned                       creating the energy for ongoing quality improve-
+practices compared with independent practices, con-                       ment work. Staff also provide a novel validation of the
+trolling for a variety of practice characteristics. These                 importance of team-based care models in primary care.
+differences were largely driven by staff rather than cli-                 To read or post commentaries in response to this article, see it
+nician respondents. Although our results broaden our                      online at http://www.AnnFamMed.org/content/16/Suppl_1/S44.
+understanding of practice ownership with respect to
+a variety of outcomes, our results do not explain why                     Key words: practice ownership; burnout; adaptive reserve
+nonclinical staff at hospital-owned practices appear
+to be in a better place psychologically compared with                     Submitted June 15, 2017; submitted, revised, December 15, 2017;
+                                                                          accepted December 22, 2017.
+their clinician colleagues.
+     We also found that clinicians in FQHCs were less
+                                                                          Funding support: Publication of this article was supported by the
+likely to report a positive work environment than clini-                  Agency for Healthcare Research and Quality (AHRQ) through contract
+cians in independent practices, although clinicians in                    No. HHSA290201200019I, and grant No. R18 HS023913.
+FQHCs did not report greater burnout. That clinicians
+in FQHCs generally see their practices as more of a                       Disclaimer: This work represents the opinions of the authors and
+learning environment is not surprising. The relatively                    should not be interpreted as official positions of the Agency for Health-
+                                                                          care Research and Quality or the US Department of Health and Human
+strong culture of learning in FQHCs may reflect a
+                                                                          Services.
+history of learning support from the US Healthcare
+Resources and Services Administration and the state                               Supplementary materials: Available at http://www.AnnFamMed.
+primary care association (the Virginia Community                                   org/content/16/Suppl_/S44/suppl/DC1/.
+Healthcare Association). Our hypothesis of higher
+scores among FQHC clinicians on other indicators of
+a positive work environment was not supported, possi-                     References
+bly related to the FQHC’s patient population, staffing,                     1. US Department of Health and Human Services. Agency for Health-
+                                                                               care Research and Quality (AHRQ). Evidence Now:​advancing heart
+resources, reimbursement, or other factors. We are in                          health in primary care. https:​//www.ahrq.gov/evidencenow/index.
+the process of conducting a qualitative assessment of                          html. Accessed Jun 10, 2017.
+practices to better understand these differences.                           2. Nutting PM, Crabtree BF, Miller WF, et al. Journey to the patient-
+     Our study has several limitations, including that                         centered medical home: a qualitative analysis of the experience
+results may not generalize to other practices within                           of practices in the National Demonstration Project. Ann Fam Med.
+                                                                               2010;8(Suppl 1):545-556. http://www.annfammed.org/content/8/
+or outside Virginia. Because the literature provides                           Suppl_1/S45.full.pdf+html.
+little guidance on the clinical importance of the differ-                   3. Nutting PA, Crabtree BF, Miller WL, Stange KC, Stewart E, Jaén
+ences we measured for select adaptive reserve items,                           C. Transforming physician practices to patient-centered medical
+results should be interpreted with caution. In addi-                           homes:​lessons from the national demonstration project. Health Aff
+                                                                               (Millwood). 2011;​30(3):​439-445.
+tion, each dimension of change was measured with
+                                                                            4. Edmondson A. psychological safety and learning behavior in work
+a limited number of questions. Given the size of our                           teams. Adm Sci Q. 1999;​44(2):​350-383.
+sample, we were not able examine physicians sepa-
+                                                                            5. Casalino LP. The Medicare Access and CHIP Reauthorization Act and
+rately from other clinician types. Our survey also was                         the corporate transformation of American medicine. Health Aff (Mill-
+not designed to identify the mechanisms that drive                             wood). 2017;​36(5):​865-869.
+the differences in outcomes across staff roles. The                         6. Shanafelt TD, West CP, Sloan JA, et al. Career fit and burnout
+association between ownership and outcomes may be                              among academic faculty. Arch Intern Med. 2009;​169(10):​990-995.
+
+causally driven by the ownership structure, but it also                     7. Sinsky C, Colligan L, Li L, et al. Allocation of physician time in
+                                                                               ambulatory practice:​a time and motion study in 4 specialties. Ann
+may be driven by sorting of clinicians into practices                          Intern Med. 2016;​165(11):​753-760.
+by type. Further research should explore the potential
+                                                                            8. Kuzel AJ. Ten steps to a patient-centered medical home. Fam Pract
+reasons for ownership differences in outcomes and                              Manag. 2009;​16(6):​18-24.
+the clinical significance of differences in responses to                    9. Karasek RA. Job demands, job decision latitude, and mental strain:​
+adaptive reserve questions.                                                    implications for job redesign. Adm Sci Q. 1979;​24(2):​285-308.
+     To our knowledge, this study is the first that com-                  10. Kane CK. Updated data on physician practice arrangements:​inch-
+pares independent practices, hospital system practices,                       ing toward hospital ownership. Chicago, IL:​American Medical Asso-
+                                                                              ciation:​ 2015 https:​//www.m3globalresearch.com/img/resources/
+and FQHCs on elements from the adaptive reserve                               AMA_PRP_Physician_Practice_Arrangements.pdf
+survey that address culture of learning, enjoyable work
+                                                                           11. Muhlestein DB, Smith NJ. Physician Consolidation:​Rapid Movement
+environment, psychological safety, and burnout—ele-                            From Small To Large Group Practices, 2013-15. Health Aff (Mill-
+ments that we see as essential aspects of joy in prac-                         wood). 2016;​35(9):​1638-1642. 10.1377/hlthaff.2016.0130.
+
+
+                      ANNALS O F FAMILY MED ICINE ✦ WWW. A N N FA MME D.O R G ✦ VO L. 16, SUP P LE ME N T 1 ✦ 2018
+
+                                                                      S50
+
+                                                         P R AC T I C E OW N ER S H I P A N D B U R N O U T
+
+
+12. Dolan ED, Mohr D, Lempa M, et al. Using a single item to measure                22. Crespin DJ, Christianson JB, McCullough JS, Finch MD. Health sys-
+    burnout in primary care staff:​a psychometric evaluation. J Gen                     tem consolidation and diabetes care performance at ambulatory
+    Intern Med. 2015;​30(5):​582-587.                                                   Clinics. Health Serv Res. 2016;​51(5):​1772-1795.
+13. Isaacs SL, Jellinek PS, Ray WL. The independent physician—going,                23. Nutting PA, Crabtree BF, Stewart EE, et al. Effect of facilitation on
+    going.... N Engl J Med. 2009;​360(7):​655-657.                                      practice outcomes in the National Demonstration Project model of
+                                                                                        the patient-centered medical home. Ann Fam Med. 2010;8(Suppl
+14. Robinson JC, Miller K. Total expenditures per patient in hospital-
+                                                                                        1):S33-S44, S92.
+    owned and physician-owned physician organizations in California.
+    JAMA. 2014;​312(16):​1663-1669.                                                  24. Miller WL, Crabtree BF, Nutting PA, Stange KC, Jaén CR. Primary
+                                                                                         care practice development: a relationship-centered approach. Ann
+15. McWilliams JM, Chernew ME, Zaslavsky AM, Hamed P, Landon
+                                                                                         Fam Med. 2010;8(Suppl 1):S68-S79, S92.
+    BE. Delivery system integration and health care spending and
+    quality for Medicare beneficiaries. JAMA Intern Med. 2013;​173(15):​            25. Primack BA, Dilmore TC, Switzer GE, et al. Burnout among early
+    1447-1456.                                                                          career clinical investigators. Clin Transl Sci. 2010;​3(4):​186-188.
+16. McWilliams JM. Changes in Medicare shared savings program sav-                  26. Rohland BM, Kruse GR, Rohrer JE. Validation of a single-item
+    ings from 2013 to 2014. JAMA. 2016;​316(16):​1711-1713.                             measure of burnout against the Maslach Burnout Inventory among
+                                                                                        physicians. Stress Health. 2004;​20(2):​75-79.
+17. Casalino LP, Pesko MF, Ryan AM, et al. Small primary care physi-
+    cian practices have low rates of preventable hospital admissions.                27. Linzer M, Sinsky CA, Poplau S, Brown R, Williams E;​Healthy Work
+    Health Aff (Millwood). 2014;​33(9):​1680-1688.                                       Place Investigators. Joy In Medical Practice:​Clinician Satisfaction
+                                                                                         In The Healthy Work Place Trial. Health Aff (Millwood). 2017;​36(10):​
+18. Baker LC, Bundorf MK, Kessler DP. The effect of hospital/physician
+                                                                                         1808-1814.
+    integration on hospital choice. J Health Econ. 2016;​50:​1-8. 10.1016/j.
+    jhealeco.2016.08.006.                                                           28. Dolan ED, Mohr D, Lempa M, et al. Using a single item to measure
+                                                                                        burnout in primary care staff:​a psychometric evaluation. J Gen
+19. Solberg LI, Asche SE, Shortell SM, et al. Is integration in large
+                                                                                        Intern Med. 2015;​30(5):​582-587.
+    medical groups associated with quality? Am J Manag Care. 2009;​
+    15(6):​e34-e41.                                                                 29. Bodenheimer T, Sinsky C. From triple to quadruple aim: care
+                                                                                        of the patient requires care of the provider. Ann Fam Med.
+20. Bishop TF, Shortell SM, Ramsay PP, Copeland KR, Casalino LP.
+                                                                                        2014;12(6):573-576.
+    Trends in hospital ownership of physician practices and the effect
+    on processes to improve quality. Am J Manag Care. 2016;​22(3):​
+    172-176.
+21. Mehrotra A, Epstein AM, Rosenthal MB. Do integrated medical
+    groups provide higher-quality medical care than individual practice
+    associations? Ann Intern Med. 2006;​145(11):​826-833.
+
+
+
+
+                           ANNALS O F FAMILY MED ICINE ✦ WWW. A N N FA MME D.O R G ✦ VO L. 16, SUP P LE ME N T 1 ✦ 2018
+
+                                                                              S51
+

@@ -1,0 +1,2619 @@
+Old Dominion University
+ODU Digital Commons
+Management Faculty Publications                                                                               Department of Management
+
+
+
+2017
+
+Psychological Safety: A Meta‐Analytic Review and
+Extension
+M. Lance Frazier
+
+Stav Fainshmidt
+
+Ryan L. Klinger
+Old Dominion University, rklinger@odu.edu
+
+Amir Pezeshkan
+
+Veselina Vracheva
+
+
+
+
+Follow this and additional works at: https://digitalcommons.odu.edu/management_fac_pubs
+   Part of the Business Administration, Management, and Operations Commons, and the
+Psychology Commons
+
+Repository Citation
+Frazier, M. Lance; Fainshmidt, Stav; Klinger, Ryan L.; Pezeshkan, Amir; and Vracheva, Veselina, "Psychological Safety: A
+Meta‐Analytic Review and Extension" (2017). Management Faculty Publications. 13.
+https://digitalcommons.odu.edu/management_fac_pubs/13
+
+Original Publication Citation
+Frazier, M. L., Fainshmidt, S., Klinger, R. L., Pezeshkan, A., & Vracheva, V. (2017). Psychological safety: A meta‐analytic review and
+extension. Personnel Psychology, 70(1), 113-165. doi:http://dx.doi.org/10.1111/peps.12183
+
+
+This Article is brought to you for free and open access by the Department of Management at ODU Digital Commons. It has been accepted for inclusion
+in Management Faculty Publications by an authorized administrator of ODU Digital Commons. For more information, please contact
+digitalcommons@odu.edu.
+
+PERSONNEL PSYCHOLOGY
+2017, 70, 113–165
+
+
+
+
+PSYCHOLOGICAL SAFETY: A META-ANALYTIC
+REVIEW AND EXTENSION
+                                     M. LANCE FRAZIER
+                                     Creighton University
+
+                                      STAV FAINSHMIDT
+                                 Florida International University
+
+                                      RYAN L. KLINGER
+                                    Old Dominion University
+
+                                     AMIR PEZESHKAN
+                                    University of Baltimore
+
+                                   VESELINA VRACHEVA
+                                    North Central College
+
+
+      Although psychological safety research has flourished in recent years,
+      and despite the empirical support for the important role of psychologi-
+      cal safety in the workplace, several critical questions remain. In order to
+      address these questions, we aggregate theoretical and empirical works,
+      and draw on 136 independent samples representing over 22,000 individ-
+      uals and nearly 5,000 groups, to conduct a comprehensive meta-analysis
+      on the antecedents and outcomes of psychological safety. We not only
+      present the nomological network of psychological safety but also extend
+      this research in 4 important ways. First, we compare effect sizes to de-
+      termine the relative effectiveness of antecedents to psychological safety.
+      Second, we examine the extent to which psychological safety influences
+      both task performance and organizational citizenship behaviors over
+      and beyond related concepts such as positive leader relations and work
+      engagement. Third, we examine whether research design characteris-
+      tics and national culture alter validities within the nomological network,
+      thus promoting a more accurate and contextualized understanding of
+      psychological safety. Finally, we test the homology assumption by com-
+      paring the effect sizes of the antecedents and outcomes of psychological
+      safety across individual and group levels of analysis. We conclude with
+      a discussion of the areas in need of future examination.
+
+
+
+
+   We thank Dr. Bradford Bell and two anonymous reviewers for their insightful and
+constructive feedback that enabled us to substantially improve our manuscript. We also
+thank Ethan Burris for his helpful comments on an earlier draft of this manuscript.
+   Correspondence and requests for reprints should be addressed to M. Lance Frazier,
+Marketing and Management Department, Creighton University, Omaha, NE 68178;
+lancefrazier@creighton.edu.
+
+C 2016 Wiley Periodicals, Inc.                                      doi: 10.1111/peps.12183
+
+                                              113
+
+114                   PERSONNEL PSYCHOLOGY
+
+
+                               Introduction
+
+    Today’s dynamic and hypercompetitive environments have rendered
+continuous improvements through learning, change, and innovation im-
+perative to organizational success. These processes develop across multi-
+ple levels of the organization as individuals and groups engage in behaviors
+such as speaking up, collaborating, and experimenting (Grant & Ashford,
+2008; Nembhard & Edmondson, 2011). In turn, employees are expected
+to take a more active role at work, which has resulted in organizational
+scholars attempting to identify the factors that foster the willingness by
+employees to take interpersonal risks and invest their energies into work
+(Kahn, 1990). One cognitive state that has emerged as a key factor in
+facilitating the process of learning, organizational change, and employee
+engagement is psychological safety—the belief that the workplace is safe
+for interpersonal risk taking (Edmondson, 1999; Kahn, 1990).
+    Psychological safety was introduced to the organizational sciences a
+half century ago by Schein and Bennis (1965), but it is only in recent years
+that empirical work has flourished. This research has generally demon-
+strated that psychological safety allows employees “to feel safe at work
+in order to grow, learn, contribute, and perform effectively in a rapidly
+changing world” (Edmondson & Lei, 2014, p. 23). However, despite the
+growing body of empirical support for the important role of psychological
+safety in today’s workplace, several important questions remain. In order
+to address these questions and move research on psychological safety for-
+ward, we conducted a comprehensive meta-analysis on the antecedents
+and outcomes of psychological safety. In doing so, we hope to contribute
+to the literature in four important ways.
+    First, although many antecedents of psychological safety have been
+proposed in the extant literature, their relative importance remains un-
+clear. Here, we not only compare antecedents across categories within the
+nomological network of psychological safety but also employ a nuanced
+approach, allowing us to examine the effect sizes of similar, yet unique,
+antecedent constructs within broad categories. By being detailed in our
+development, we are able to determine the relative effectiveness of an-
+tecedents to psychological safety. Given the importance of psychological
+safety to workplace outcomes, our study advances a better understanding
+of the drivers of psychological safety perceptions.
+    Second, in order to fully understand psychological safety’s role in the
+workplace, we not only present the nomological network of psychological
+safety but also explore the incremental validity of psychological safety
+over and above related constructs. Specifically, we examine the extent
+to which psychological safety accounts for unique variance in both task
+performance and organizational citizenship behaviors over and beyond
+
+                       M. LANCE FRAZIER ET AL.                          115
+
+
+constructs capturing positive leader relations, work design characteristics,
+and work engagement. Hence, our meta-analysis highlights psychological
+safety’s validity in relation to important work outcomes, above and beyond
+the effects of antecedents that may lead to the emergence of psychological
+safety itself. Based on these analyses, we identify promising avenues by
+which psychological safety theory could be further extended.
+    Third, prior research has rarely theorized or empirically tested the
+contingencies that may influence the relative importance of psychologi-
+cal safety. Yet, understanding the boundary conditions of psychological
+safety validities within its nomological network is crucial to advance a
+more rigorous, accurate, and meaningful theory of this increasingly im-
+portant construct (Seibert, Wang, & Courtright, 2011). To address this
+issue, we first examine whether research design characteristics have an
+effect on validities within the nomological network. Further, we extend
+our examination to substantive contingencies by exploring the influence
+of national culture on psychological safety effect sizes. Specifically, we
+examine uncertainty avoidance (UA) as a theory-driven moderator of the
+effect sizes in the nomological network. Researchers have long proposed
+that national culture may influence important work outcomes in organiza-
+tions (Taras, Kirkman, & Steel, 2010), and recent calls have been made to
+examine the role of national culture in psychological safety perceptions
+(Edmondson & Lei, 2014). Accordingly, our study contributes to a more
+contextualized understanding of psychological safety.
+    Finally, we examine and compare the effect sizes of the antecedents
+and outcomes of psychological safety across individual and group levels
+of analysis. Though researchers generally treat psychological safety as
+homologous across different levels of analysis, this assumption has re-
+mained largely untested (Edmondson & Lei, 2014). If this assumption
+is not supported by empirical evidence, psychological safety theory may
+require further development before generalizing inferences drawn from
+one level of analysis to other levels. In the next section, we begin by
+conceptualizing the psychological safety construct.
+
+                   Psychological Safety Conceptualized
+
+    Schein and Bennis (1965) introduced psychological safety as a criti-
+cal part of the “unfreezing” process required for organizational learning
+and change. They proposed that psychological safety reduces perceived
+threats, removes barriers to change, and creates a context which “en-
+courages provisional tries and which tolerates failure without retaliation,
+renunciation, or guilt” (p. 45). Kahn (1990) suggested that psychological
+safety was a condition necessary for people to feel attachments to—and
+engagement in—their work roles. He defined it as “feeling able to show
+
+116                     PERSONNEL PSYCHOLOGY
+
+
+and employ one’s self without fear of negative consequences to self-image,
+status, or career” (p. 708).
+     More recently, Edmondson (1999) defined psychological safety as a
+shared belief that the team is safe for interpersonal risk taking. Thus,
+whereas Schein and colleagues (Schein, 1993; Schein & Bennis, 1965)
+and Kahn (1990) focus on individual perceptions of psychological safety,
+Edmondson’s (1999) initial work casts psychological safety as a group-
+level construct. Although these seminal works emerge from disparate
+literatures and speak to different levels of analysis, they should not be seen
+as competing viewpoints but rather as complementary views of the same
+construct. Indeed, these conceptualizations of the psychological safety
+construct converge around a single, unifying principle: the importance
+of creating a workplace in which perceptions of interpersonal risk are
+minimized. As noted by Edmondson and Lei (2014), “a central theme in
+research on psychological safety—across decades and levels of analysis—
+is that it facilitates the willing contribution of ideas and actions to a shared
+enterprise” (p. 24).
+
+Similar Constructs
+
+    Psychological safety represents a cognitive state that is unique from a
+number of related states examined in the organizational sciences. We de-
+lineate the similarities and differences between psychological safety and
+three related and commonly studied constructs: psychological empower-
+ment, work engagement, and trust. Psychological empowerment repre-
+sents an intrinsic motivational state in which employees feel they have a
+sense of control over their work (Spreitzer, 1995). It is comprised of four
+cognitions: meaning, self-determination, competence, and impact. Work
+engagement refers to a cognitive state in which individuals invest their
+personal resources and energies into their work roles and tasks (Christian,
+Garza, & Slaughter, 2011; Kahn, 1990).
+    Although psychological empowerment, work engagement, and psy-
+chological safety all represent positive motivational states toward one’s
+work, they are distinct in that psychological empowerment and work
+engagement refer to one’s cognitions about their specific jobs or tasks
+(Spreitzer, 1995). Psychological safety, on the other hand, refers to per-
+ceptions of the broader social and work environment, and how people
+perceive that others in the workplace will respond to risk-taking behav-
+iors (Carmeli & Gittell, 2009). Thus, it represents perceptions one holds
+of the environment in which they work rather than about their specific
+jobs or tasks.
+    Another noteworthy construct is trust, defined as the willingness to be
+vulnerable to the actions of others (Mayer, Davis, & Schoorman, 1995).
+
+                       M. LANCE FRAZIER ET AL.                          117
+
+
+Like psychological safety, trust captures elements of vulnerability and risk
+one perceives in the workplace (Edmondson, 2004). Indeed, Edmondson
+(1999) noted the similarities between trust and psychological safety in
+her seminal work. However, Edmondson (2004) differentiated the two
+constructs by highlighting the focus of each constructs. Specifically, trust
+captures one’s willingness to be vulnerable to others, thus demarcating
+one’s willingness to give the other person the benefit of the doubt. Psycho-
+logical safety, on the other hand, captures the extent to which one believes
+that others will give them the benefit of the doubt when taking risks (Ed-
+mondson, 2004). In sum, although psychological safety exhibits some
+conceptual similarities to other cognitive states often examined in organi-
+zational research, it is also conceptually unique in capturing perceptions
+of risk taking in the workplace.
+
+            The Nomological Network of Psychological Safety
+
+    In this section, we review extant theory and empirical research to
+provide a framework for formulating and testing the nomological network
+of the psychological safety construct. In doing so, we also aim to provide
+a platform to assess the relative effectiveness of each group of antecedent
+variables, as well as each variable within a group, in bringing about
+psychological safety.
+
+Antecedents of Psychological Safety
+
+    Kahn (1990) very broadly identified four antecedents to psycholog-
+ical safety: interpersonal relationships, group dynamics, leadership, and
+organizational norms. Beyond these contextual factors, Kahn (1990) also
+recognized the potential influence of individual differences and called for
+researchers to explore the impact of dispositional factors on psycholog-
+ical safety. Recent theoretical and empirical works have answered this
+call (e.g., Edmondson & Mogelof, 2005). Several personality traits re-
+lated to learning, risk taking, and self-expression have been posited to
+impact psychological safety. For instance, a trait commonly associated
+with psychological safety is proactive personality, which reflects a stable
+disposition toward engaging in proactive behaviors, largely unaffected by
+situational forces (Bateman & Crant, 1993). Proactive individuals take
+it upon themselves to enact change, detect problems, and subsequently
+solve those problems (Crant, 2000; Seibert, Crant, & Kraimer, 1999). As
+such, those with more proactive personalities are less likely to perceive
+a situation as being psychologically unsafe—even if contextual factors
+suggest otherwise (Chan, 2006). For instance, Detert and Burris (2007)
+found that proactive personality was a significant predictor of subordinate
+
+118                      PERSONNEL PSYCHOLOGY
+
+
+perceptions of psychological safety beyond the influence of satisfaction
+and leadership.
+    Of the Big Five personality constructs, two have been theoretically
+linked to psychological safety: emotional stability and openness to ex-
+perience. Emotionally stable individuals are more likely to perceive a
+psychologically safe environment because they tend to be calm, relaxed,
+and secure as opposed to anxious, hostile, and vulnerable to stress (Costa
+& McCrae, 1992; Judge, Bono, & Locke, 2000). Additionally, individu-
+als that are open to new experiences tend to be curious and imaginative
+with a preference for novelty (Costa & McCrae, 1992). As mentioned by
+Edmondson and Mogelof (2005), “being open to new ideas and different
+ways of doing things may increase the likelihood that individuals would
+feel safe taking risks and exposing their vulnerabilities in a work envi-
+ronment” (p. 118). Indeed, a study of the impact of personality on risk
+taking found that openness was a predictor of risk taking in one’s career
+(Nicholson, Soane, Fenton-O’Creevy, & Willman, 2005).
+    Finally, learning orientation is a stable dispositional construct that is
+characterized by a focus on increasing competence and developing new
+skills (Dweck, 1986). Those with a learning orientation view making
+mistakes as a necessary and important part of their self-development, and
+indeed, this dispositional construct has been shown to positively affect
+psychological safety at both the individual (Chiu, Leung, Kong, & Lee,
+2011) and group levels (Wilkens & London, 2006). To summarize, we put
+forth the following hypothesis:
+
+      Hypothesis 1: Psychological safety is positively related to (a) proac-
+                    tive personality, (b) emotional stability, (c) openness to
+                    experience, and (d) learning orientation.
+
+    Both Kahn (1990) and Edmondson (1999) identify positive relation-
+ships with leaders as having a crucial influence on perceptions of psy-
+chological safety. Relationships with leaders signal key information to
+employees concerning support, resilience, consistency, trust, and compe-
+tence (Kahn, 1990). Further, the social exchanges between leaders and
+followers have a crucial impact on the formalization of expectations re-
+garding what is and is not appropriate behavior (Edmondson, 2004). As
+such, it is no surprise that a variety of leadership constructs have been
+examined as precursors to psychological safety, including transforma-
+tional leadership (e.g., Detert & Burris, 2007), ethical leadership (e.g.,
+Walumbwa & Schaubroeck, 2009), servant leadership (e.g., Schaubroeck,
+Lam, & Peng, 2011), leader–member exchange (Coombe, 2010), trust in
+one’s leader (e.g., Madjar & Ortiz-Walters, 2009), and management style
+(e.g., Halbesleben & Rathert, 2008). Thus, we expect the following:
+
+                       M. LANCE FRAZIER ET AL.                           119
+
+
+   Hypothesis 2: Psychological safety is positively related to positive
+                 leader relations.
+     Work design characteristics may also play an important role in shaping
+the psychological safety of individuals and teams. Though work design
+characteristics are not explicitly part of Kahn’s (1990) theoretical model
+of psychological safety antecedents, Edmondson (1999) included such
+structural features and resources as facilitators of psychological safety.
+According to job characteristics theory (JCT), work design characteristics
+have a significant impact on employee psychological states (Hackman
+& Oldham, 1976). As such, these characteristics are expected to impact
+psychological safety by signaling to employees that they can be trusted
+to make important decisions (i.e., autonomy) and by giving employees a
+clear understanding of their role expectations (i.e., role clarity). Finally,
+interdependent work should be positively related to psychological safety
+as it becomes more crucial that employees rely on each other to accomplish
+their tasks (Edmondson, 1999). Therefore, we expect the following:
+   Hypothesis 3: Psychological safety is positively related to the work
+                 design characteristics of (a) autonomy, (b) interdepen-
+                 dence, and (c) role clarity.
+    Recognizing that interpersonal relationships extend beyond the leader
+and that the entirety of the social exchange system influences psycholog-
+ical safety, Kahn’s (1990) work included constructs designed to capture
+the overall supportive work context. This support can come from peers
+and the organization itself. Just as leaders transmit important information
+to employees regarding norms and appropriate workplace behaviors, em-
+ployees often look to their peers and other workers for cues (Van Maanen
+& Schein, 1977; Wiesenfeld, Raghuram, & Garud, 2001). As such, a va-
+riety of variables capturing the quality of interpersonal relationships with
+peers have been linked with psychological safety, including support from
+team members (Schepers, de Jong, Wetzels, & de Ruyter, 2008), team car-
+ing (Bstieler & Hemmert, 2010), and trust in team members (Zhang, Fang,
+Wei, & Chen, 2010). In addition, research has shown that employees de-
+velop global conceptualizations of the extent to which the organization—
+as a whole—is a supportive entity (Eisenberger, Huntington, Hutchison,
+& Sowa, 1986). Here as well, variables such as organizational support
+(Tucker, 2007) and trust in the organization (Carmeli & Zisu, 2009) have
+been positively linked to psychological safety. Taken together, we expect
+that:
+   Hypothesis 4: Psychological safety is positively related to supportive
+                 work context.
+
+120                     PERSONNEL PSYCHOLOGY
+
+
+Outcomes of Psychological Safety
+
+    To determine which outcomes are most relevant to psychological
+safety, we drew primarily from theory in the works of Schein and Bennis
+(1965), Kahn (1990), and Edmondson (1999). Schein and Bennis (1965),
+along with Edmondson (1999), identified psychological safety as a cog-
+nitive state necessary for learning and change to take place. From the
+learning and change perspective, a number of behavioral outcomes may
+result, most notably learning behaviors, information sharing, citizenship
+behaviors, and creativity. Kahn’s (1990) work focused more on the motiva-
+tional and attitudinal outcomes of psychological safety, with engagement
+and important job attitudes (i.e., commitment and satisfaction) being pri-
+mary outcomes of relevance. To complement this stream of motivational
+outcomes, subsequent theoretical work also identifies task performance
+as an outcome of psychological safety (Nembhard & Edmondson, 2011).
+Hence, we focus on these most theoretically relevant outcomes in the
+following section.
+    An outcome of psychological safety that has received considerable
+attention is that of work engagement. Kahn’s (1990) work cast psycho-
+logical safety as a condition necessary for work engagement, defined as
+“the harnessing of organization members’ selves to their work roles; in en-
+gagement, people employ and express themselves physically, cognitively,
+and emotionally during role performances” (p. 694). Subsequent work
+has drawn from Kahn’s efforts to cast engagement as a motivational state
+that emerges when one feels safe to engage in their work without fear of
+negative consequences (e.g., Edmondson & Lei, 2014; Kahn, 1992; May,
+Gilson, & Harter, 2004). This reduction in fear of negative consequences,
+which is the primary focus of the psychological safety construct, is crucial
+to fostering employee investment of physical, emotional, and cognitive re-
+sources into their work (Christian et al., 2011). Therefore, we posit the
+following:
+
+      Hypothesis 5: Psychological safety is positively related to work en-
+                    gagement.
+
+    Several studies have demonstrated that psychological safety has a di-
+rect impact on task performance (e.g., Baer & Frese, 2003; Schaubroeck
+et al., 2011). Psychological safety minimizes the potential negative ram-
+ifications of making mistakes or taking initiative (Edmondson, 1999),
+which should allow employees and groups to focus on the tasks that lead
+to improved performance (Faraj & Yan, 2009; Mayer & Gavin, 2005).
+Therefore, we posit the following:
+
+                       M. LANCE FRAZIER ET AL.                          121
+
+
+   Hypothesis 6: Psychological safety is positively related to task per-
+                 formance.
+
+    Psychological safety has been linked to several behavioral outcomes
+as well. Drawing from Edmondson and colleagues’ research (Edmond-
+son, 1999; Edmondson & Lei, 2014), information sharing among group
+members has been identified as one of the primary processes by which
+change and learning occurs in organizations. However, in order for in-
+formation sharing to take place, employees must perceive that the work
+context provides an environment in which collaboration and feedback
+seeking is accepted and encouraged (Nembhard & Edmondson, 2011).
+Empirical research at both the individual (e.g., Siemsen, Roth, Balasub-
+ramanian, & Anand, 2009) and group levels (Bunderson & Boumgarden,
+2010) has found that psychological safety is positively related to sharing
+of information.
+    Citizenship behaviors—behaviors that are outside of role prescriptions
+but aid in group and organizational functioning (Organ, 1988)—have also
+been examined as outcomes of psychological safety. Additionally, voice
+behavior, the discretionary citizenship behavior of making suggestions for
+improvement to current work practices and policies (Liang, Farh, & Farh,
+2012; Van Dyne & LePine, 1998), is an outcome widely linked with psy-
+chological safety. There are potential risks associated with speaking up and
+employees must assess these risks before deciding whether to voice their
+opinion (Detert & Burris, 2007; Frazier & Bowler, 2015; Frazier & Fainsh-
+midt, 2012). Because psychological safety creates a context where taking
+interpersonal risks is encouraged (Edmondson, 1999), employees are more
+likely to feel that they are safe to speak up, make suggestions, and chal-
+lenge the current way of doing things (Walumbwa & Schaubroeck, 2009).
+    Creativity (i.e., the generation of novel ideas; Amabile, 1998) is an-
+other behavioral work outcome that has been posited to be positively
+influenced by psychological safety (Madjar & Ortiz-Walters, 2009). Ex-
+perimentation that is expected to result from a psychologically safe work
+context should result in the generation of novel solutions. Similarly, a be-
+havioral outcome identified in early research (e.g., Schein & Bennis, 1965)
+and more recent theorizing (e.g., Edmondson, 1999) is learning behav-
+ior; the role of psychological safety has widely been recognized for both
+individual learning (e.g., Carmeli, Brueller, & Dutton, 2009; Carmeli &
+Gittell, 2009) and team learning (e.g., Edmondson, 1999; Wong, Tjosvold,
+& Lu, 2010). A psychologically safe workplace allows employees to over-
+come the anxiety and fear of failure that is often necessary for learning
+to occur (Schein, 1985), enabling employees to focus on improvement
+rather than being concerned about how others will react to their actions.
+Hence:
+
+122                      PERSONNEL PSYCHOLOGY
+
+
+      Hypothesis 7: Psychological safety is positively related to (a) infor-
+                    mation sharing, (b) citizenship behaviors, (c) creativity,
+                    and (d) learning behavior.
+
+    In terms of attitudinal outcomes, when employees feel safe in their
+workplace, they are more likely to want to continue in their current jobs
+along with their current coworkers. As a desire to remain a part of the orga-
+nization in the long-term emerges, employees develop stronger emotional
+attachment to the organization (Meyer & Allen, 1991). Thus, psycholog-
+ical safety results in higher levels of commitment (e.g., Detert & Burris,
+2007; O’Neill & Arendt, 2008). Research on satisfaction in the workplace
+has similarly suggested that employees that perceive lower risk in making
+mistakes are more likely to be satisfied with their work, as psycholog-
+ical safety reduces anxiety and allows them to develop professionally
+(Hackman & Oldham, 1976). In sum:
+
+      Hypothesis 8: Psychological safety is positively related to (a) com-
+                    mitment and (b) satisfaction.
+
+                   Extending Psychological Safety Research
+
+    As discussed above, we seek to extend psychological safety theory by
+addressing four important, unanswered questions. The previous section es-
+tablishes the nomological network of psychological safety, thus providing
+a framework to examine the relative importance of each antecedent. In this
+section, we motivate the four research questions examined in this study.
+
+Incremental Validity of Psychological Safety
+
+    Although empirical research demonstrates that psychological safety
+matters, how much it matters, as well as whether it matters in the presence
+of related constructs that have also been linked with work outcomes, is
+an issue that has yet to be empirically assessed. Therefore, we examine
+the incremental influence of psychological safety on two key outcomes
+that repeatedly appear in this research stream: task performance and citi-
+zenship behavior. First, we explore whether psychological safety explains
+incremental variance in these outcomes over and above the antecedents
+that impact its emergence. Second, we examine the incremental validity of
+psychological safety in the presence of work engagement. Prior research
+(e.g., Christian et al., 2011; Edmondson, 1999; Rich, LePine, & Crawford,
+2010) implies that although psychological safety and engagement are un-
+doubtedly related, psychological safety may entail benefits that extend
+beyond its influence on engagement. We empirically assess this notion to
+
+                       M. LANCE FRAZIER ET AL.                           123
+
+
+more fully understand the relationship between these two variables and
+how they influence task performance and citizenship behaviors.
+
+   Research Question 1: Does psychological safety explain variance in
+                        task performance and citizenship behaviors
+                        over and beyond its nomological network vari-
+                        ables?
+
+Moderators of Psychological Safety Validities
+
+    One advantage of meta-analysis is the ability to explore the role of sub-
+stantive and methodological moderators in altering effect sizes, which can
+facilitate conceptual refinement and extension within the research stream
+(Hunter & Schmidt, 2004). Accordingly, we examine whether psycho-
+logical safety relationships generalize across different study designs. To
+begin, we examine the possibility of publication biases (Hubbard, 1997)
+and file-drawer effects (Rosenthal, 1979) by assessing whether there are
+differences in effect sizes across published and unpublished papers. In
+addition, we explore whether psychological safety relationships are arti-
+facts of common method bias (Podsakoff, MacKenzie, Lee, & Podsakoff,
+2003). We first assess common rater effects by comparing effect sizes
+drawn from situations where the same person provided both psychological
+safety and the variable of interest with effect sizes drawn from situations
+where the relationship was a product of different sources. Then, we as-
+sess measurement context effects by comparing effect sizes drawn from
+situations where psychological safety and the variable of interest were
+collected at the same point in time with situations in which the variables
+were collected at different times.
+    Next, based on prior meta-analytic findings concerning weak correla-
+tions between objective and subjective measures of employee performance
+(Bommer, Johnson, Rich, Podsakoff, & Mackenzie, 1995), we also ex-
+amine the extent to which the effect sizes of outcome relationships are
+dependent on whether the criteria of interest were measured subjectively
+(e.g., “manager ratings of performance”) or objectively (e.g., “financial
+performance”). Finally, because a sizable number of studies relied on
+student samples, we examine the potential influence of student versus
+nonstudent samples on effect sizes. Taken together, by assessing the po-
+tential impact of these methodological characteristics, we seek to address
+the following question:
+
+   Research Question 2: Do research design characteristics influence ef-
+                        fect sizes in the nomological network of psy-
+                        chological safety?
+
+124                     PERSONNEL PSYCHOLOGY
+
+
+     As discussed previously, very little is known about the ways in which
+national culture might influence the effect sizes between psychological
+safety and its nomological network. However, Edmondson and Lei (2014)
+call for research in this area and note that “employees in certain cultures
+may be particularly hesitant to ask questions, provide feedback, or openly
+disagree with their superiors” (p. 8), all behaviors that are theoretically af-
+filiated with psychological safety. In other words, it is likely that validities
+within the nomological network of psychological safety are contingent
+upon the cultural context within which workplace interpersonal exchange
+takes place. We heed this call and examine the moderating role of uncer-
+tainty avoidance (UA) on the nomological network effect sizes.
+     UA is the extent to which members of society are threatened by (i.e.,
+high UA) or tolerate (i.e., low UA) uncertainty and ambiguity in the
+workplace (Hofstede, 1980). Given the focus of UA on risk and ambi-
+guity tolerance, as well as on behaviors that challenge the status quo,
+it is particularly relevant to psychological safety. However, most of the
+development of psychological safety theory (and most of the empirical
+research) has occurred in countries with low UA. It therefore remains un-
+clear whether and how much this construct is relevant in countries where
+deviations from status quo are less accepted. High UA may countervail
+the positive effects of psychological safety on work outcomes. On the
+other hand, psychological safety may be particularly salient in cultures
+where interpersonal risk taking is not the norm. Likewise, questions re-
+main concerning the emergence of psychological safety across different
+cultural contexts: Are antecedent predictive validities stable—in terms of
+both absolute and relative magnitudes—across high and low UA contexts?
+To explore these potential implications of national cultural context, we ask
+the following question:
+
+   Research Question 3: Does UA influence effect sizes in the nomolog-
+                        ical network of psychological safety?
+
+Homology Across Levels of Analysis
+
+    In aggregating research on the nomological network of psycholog-
+ical safety, we uncovered a critical underlying assumption in the field:
+Researchers have generally assumed homology across levels of analysis.
+Indeed, a recent conceptual review of the psychological safety literature
+noted similarities in findings across levels of analysis (i.e., Edmondson &
+Lei, 2014). This is consistent with Kahn’s and Edmondson’s similar views
+of the psychological safety construct. To illustrate, such similarity implies
+that psychological safety would have a similar impact on outcomes, re-
+gardless of whether psychological safety is measured at the individual
+
+                       M. LANCE FRAZIER ET AL.                            125
+
+
+level or as a group climate variable based on shared employee percep-
+tions of their workplace (e.g., Chan, 1998; Zohar & Luria, 2005). This
+assumption, to our knowledge, has never been empirically tested.
+    Rousseau (1985) warns researchers of committing this cross-level fal-
+lacy, assuming constructs maintain theoretical equivalence across levels
+of analysis or that relationships observed at one level are homologous
+across different levels of analysis. As Chen and colleagues note, “[t]he
+assumption of homology is often made but rarely tested . . . Tests of ho-
+mology can and should play an integral role in the validation of multilevel
+constructs and theories” (Chen, Bliese, & Mathieu, 2005, p. 378). In or-
+der to clarify the nature of psychological safety across different levels of
+analysis, we build on Edmondson and Lei’s (2014) qualitative assessment
+of the literature and set forth the following question:
+
+   Research Question 4: Does psychological safety demonstrate homol-
+                        ogy across levels?
+
+                                   Method
+
+    We conducted a six-pronged search strategy for identifying research
+to include in our meta-analysis. First, we performed electronic searches of
+the Google Scholar, ABI/Inform Scholarly Journals, PsycInfo, and Web
+of Science databases using the keywords “psychological safety.” Sec-
+ond, because Edmondson’s psychological safety scale is overwhelmingly
+used to operationalize safety, we also used the online databases to iden-
+tify any article that cited Edmondson (1999). Third, we supplemented
+our online search with a manual, targeted search of the following manage-
+ment, psychology, and organizational behavior journals: Academy of Man-
+agement Journal, Administrative Science Quarterly, Journal of Applied
+Psychology, Journal of Management, Journal of Organizational Behav-
+ior, Leadership Quarterly, Organizational Behavior and Human Decision
+Processes, Personnel Psychology, and Strategic Management Journal. In
+order to include unpublished work, we searched for dissertations in Pro-
+quest and scholarly conference programs for presented papers. Next, we
+posted requests for unpublished work on listservs from the Academy of
+Management and the Society for Industrial and Organizational Psychol-
+ogy. Finally, when relevant articles were coded, we skimmed through
+reference sections in search for additional studies. In all, our literature
+search resulted in 457 studies for potential inclusion in our meta-analysis.
+    For the study to be included in our sample, it had to meet three criteria.
+First, the study had to empirically assess psychological safety in a manner
+theoretically consistent with our conceptualization of the construct. Most
+often, Edmondson’s (1999) psychological safety scale or some version of
+
+126                    PERSONNEL PSYCHOLOGY
+
+
+it was used. In cases where ad hoc scales were developed or other scales
+were used, we examined the authors’ theoretical definitions to ensure
+that they were appropriate for inclusion. For example, May et al. (2004)
+drew from the work of Kahn (1990) and Edmondson (1999) to develop
+their scale, which captured the extent to which employees perceived their
+workplace was safe for risk taking. Therefore, it was included in our
+analysis. On the other hand, a number of studies used the term “psycho-
+logical safety” when measuring perceptions of occupational safety held
+by employees of an organization. For example, Morrow et al. (2010) de-
+fined psychological safety climate as “a specific type of climate defined
+as an employee’s perception of the value or priority of safety at his or
+her workplace” (p. 1461). This clearly captures elements of occupational
+safety that is beyond the scope of Edmondson’s (1999) conceptualization
+of psychological safety.
+    A second criterion was that the study had to report the statistical in-
+formation necessary to conduct our meta-analyses (i.e., sample sizes and
+effect sizes—either correlations or statistics convertible to correlations).
+Finally, only primary studies were included; archival studies and reex-
+aminations of previous datasets were excluded to ensure independence of
+data sets. Through our literature search and inclusion process, we were
+able to narrow the pool of relevant studies down to 117 studies represent-
+ing 136 independent samples. The final sample consisted of 78 published
+studies, 21 doctoral dissertations, and 18 unpublished working papers or
+conference presentations, which are indicated with an asterisk in the ref-
+erences section and in the supplementary material that accompanies this
+manuscript.
+
+Coding Procedures
+
+    We utilized a combination of theory-driven and data-driven approaches
+to create a categorization scheme for coding articles. We started by draw-
+ing from the theoretical frameworks of psychological safety to create
+broad, hierarchical lists of antecedents and outcomes of psychological
+safety. In developing the categories for coding, we made every effort
+to balance parsimony and theoretical considerations. For example, vari-
+ables used in past research on psychological safety to capture positive
+leader relations include, but are not limited to, trust in leader, transforma-
+tional leadership, and leader-member exchange (LMX). A common theme
+running through these variables is that they capture employee perceptions
+of their leader and a higher score on each is indicative of more positive
+perceptions of their relationship with the leader.
+    Similarly, our categories of “work design characteristics” and “sup-
+portive work context” were classified with both theory and parsimony as
+
+                          M. LANCE FRAZIER ET AL.                                127
+
+
+considerations. Consistent with Seibert et al. (2011) and Hong, Liao, Hu,
+and Jiang (2013), our meta-analysis aggregated variables including auton-
+omy, flexibility, job enrichment, and task complexity into a broad “work
+design characteristics” category. “Supportive work context” captured the
+extent to which the organization and coworkers are supportive, including
+variables such as trust in coworkers, perceived organizational support,
+conflict, and social support. Once the category scheme was finalized, all
+study articles were coded. As we analyzed each article, we coded any
+relationship between psychological safety and a study variable that was
+included in our predetermined categories.1
+    To assess the impact of methodological moderators on effect sizes,
+each relationship was also coded to fit into moderator analyses schemes. In
+particular, relationships were coded as being based on either “published”
+or “unpublished” studies and “student” or “nonstudent” samples. Next,
+relationships were coded as being collected by the “same source” (e.g.,
+the focal employee provided both the measure of psychological safety and
+the criteria of interest) or by “different sources” (e.g., the focal employee
+provided the measure of psychological safety but the supervisor provided
+the criteria of interest). Likewise, relationships were coded as “same time”
+if both variables were collected at the same point in time or “different
+time” if there was a lag between the collection of variables. Finally, a
+distinction was made for “objective criteria” (e.g., financial indices of
+team performance) and “subjective criteria” (e.g., manager perceptions of
+team performance).
+    To assess the moderating role of UA, the country in which the studies
+were conducted was coded to create our cultural moderator. We desig-
+nated the sample countries into high and low UA based on whether they
+were above or below the median UA score for all available countries in
+Taras et al.’s (2012) meta-analysis of Hofstede’s national cultural dimen-
+sion scores. High UA countries include Belgium, Germany, Israel, Japan,
+Mexico, and Spain. Low UA countries include Australia, Canada, China,
+Hong Kong, Ireland, Netherlands, Scotland, Singapore, Sweden, Taiwan,
+Thailand, and the United States.
+    To ensure coding reliability and accuracy, studies were coded by
+dyads of the research team. Each member of the dyad coded the articles
+independently, and then the dyad met to compare coding. Consensus
+ranged from 84% (for coding variable reliabilities) to 100% (for coding
+whether studies were published or unpublished). The overall consensus
+rate through this coding process was 91%. When discrepancies arose, the
+dyad would meet to determine if the disagreement could be resolved with
+
+  1
+    The coding scheme employed and the specific variables included from each study are
+available from the first author upon request.
+
+128                    PERSONNEL PSYCHOLOGY
+
+
+information in the study. If not, a third member of the research team,
+not involved in initial coding of the article, was brought in to help with
+resolution. All discrepancies and disagreements were eventually resolved
+through discussion.
+
+Meta-Analytic Calculations
+
+     In conducting our meta-analytic calculations, we followed the proce-
+dures established by Hunter and Schmidt (2004). Our results aggregate
+sample-size-weighted mean estimates of the correlations (r). When a study
+included multiple measures of a single variable (i.e., two variables that
+could be classified under the same category), and variable intercorrela-
+tions were available, a composite correlation was calculated. When inter-
+correlations were not available, the variable correlations were averaged to
+ensure that each sample only contributed at most one effect size for each
+meta-analytic calculation.
+     We also report validity estimates—population correlation coefficients
+(ρ̂s)—which reflect meta-analyzed correlations corrected for unreliabil-
+ity. In order to create these corrected correlations, we collected interitem
+reliability estimates (Cronbach’s α) when available. As suggested by
+Kepes, McDaniel, Brannick, and Banks (2013), when no reliability es-
+timates were reported for a given variable, its reliability was imputed
+based on the average reliability calculated from studies that did report
+reliability information. Additionally, we report 95% confidence intervals
+around each population estimate as well as the percentage of variance
+explained by study artifacts for each correlation. Hunter and Schmidt
+(2004) propose that moderators are likely present if artifacts do not ac-
+count for at least 75% of the variance in the correlations. Based on
+previous research, we set the minimum number of primary studies to
+justify performing a meta-analysis of the data at three (Chambless &
+Hollon, 1998; Seibert et al., 2011) except in the case of more specific
+constructs within the broad category, where we set the minimum to two
+studies.
+     As a test for moderators, we conducted weighted regression analyses
+with random effects models, as recommended by Geyskens, Krishnan,
+Steenkamp, and Cunha (2009). This technique accounts for the poten-
+tial that there are correlations between moderators and also that our sets
+of studies are not identical in their methods or sample characteristics
+(Borenstein, Hedges, Higgins, & Rothstein, 2010). For each relationship
+between psychological safety and its nomological network, we included
+the moderators in the regression if there were at least three studies for each
+moderator category. Similarly, to explore our research question concern-
+ing the homology of relationships across levels, we conducted separate
+
+                       M. LANCE FRAZIER ET AL.                            129
+
+
+metaregressions for each relationship in which we had at least three studies
+at both levels with level as the moderator. For all metaregression analyses,
+we used the package “metafor” in R (Viechtbauer, 2010).
+    Finally, to explore incremental validity, we followed the procedures
+outlined by Dudley, Orvis, Lebiecki, and Cortina (2006). First, we created
+different metacorrelation matrices for the set of meta-analytic effect sizes
+considered in each analysis. Estimates of the relationships between an-
+tecedents and psychological safety as well as estimates of the relationships
+between psychological safety and outcomes were drawn from the current
+study. Previous meta-analyses supplied estimates of the relationships be-
+tween antecedents and outcomes. It should be noted that we were unable
+to test some of the antecedents due to a lack of previous meta-analyses to
+provide the estimates (e.g., learning orientation on citizenship behavior).
+We were also only able to assess these relationships at the individual level
+due to a lack of data for the group-level analysis. To ensure that findings
+were not biased by different artifact corrections employed across different
+meta-analyses, raw, sample-weighted effect sizes (r) were extracted from
+each study and then corrected for unreliability in both the predictor and
+the criterion using equal estimates.
+    Hierarchical regression was employed to assess the relative contri-
+bution of psychological safety. First, the criterion (task performance or
+OCB) was regressed on the predictor (Step 1). Then, the criterion was
+regressed on the set including both the predictor and psychological safety
+(Step 2). The change in the amount of variance explained (R2 ) between
+Steps 1 and 2 was used to explore the incremental validity of psycholog-
+ical safety. Finally, the ordering of independent variables was swapped
+such that psychological safety was entered in Step 1 and the predictor was
+added in Step 2 to explore whether the predictor captured variance in the
+outcome above and beyond psychological safety.
+
+                                   Results
+
+Nomological Network
+
+   Individual level of analysis. Table 1 presents the meta-analytic cor-
+relations within the nomological network of psychological safety at the
+individual level of analysis. With regard to antecedents, Hypothesis 1 was
+partially supported as we found that three of the four personality variables
+were related to psychological safety. Proactive personality (ρ̂ = .35), emo-
+tional stability (ρ̂ = .17), and learning orientation (ρ̂ = .24) were positive
+and significantly related. Contrary to expectations, openness to experi-
+ence was not significantly related to psychological safety. Hypothesis 2
+was supported as psychological safety and positive leader relations were
+
+130                        PERSONNEL PSYCHOLOGY
+
+
+                                    TABLE 1
+              Meta-Analysis of Individual-Level Psychological Safety
+
+Variable                              k       N        r̄    ρ̂     CIL     CIU    %-Acc
+Antecedents
+  Proactive personality               6      4,830    .30   .35     .19      .51      3.88
+  Emotional stability                 8      2,936    .14   .17     .07      .27     17.04
+  Openness to experience              5      2,249    .03   .03    −.11      .18     11.90
+  Learning orientation                6      1,172    .19   .24     .12      .37     28.81
+  Positive leader relations          30     10,180    .37   .44     .39      .50     14.34
+    Inclusive leadership              5      2,383    .27   .36     .30      .42     51.79
+    LMX                               2        554    .28   .38     .30      .45    100.00
+    Transformational leadership       4      3,829    .38   .42     .36      .48     24.80
+    Trust in leadership               6      1,280    .32   .39     .31      .47     48.44
+  Work design characteristics        26      5,768    .41   .53     .40      .66      4.56
+    Autonomy                          8      1,661    .38   .47     .30      .65      9.36
+    Interdependence                   5      1,651    .62   .86     .64     1.00      3.57
+    Role clarity                      6      1,017    .48   .63     .48      .78     15.19
+  Supportive work context            24      5,045    .40   .49     .39      .59      8.28
+    Peer support                      6      1,293    .50   .62     .38      .86      5.40
+Outcomes
+  Engagement                         13      3,676    .36   .45      .34     .56     10.50
+  Task performance                   18      4,061    .35   .43      .31     .56      7.44
+  Information sharing                19      3,427    .42   .52      .40     .63      8.70
+  Citizenship behaviors              16      7,275    .28   .32      .27     .37     25.64
+     Voice                            8      4,758    .27   .31      .26     .35     44.01
+  Creativity                         10      4,567    .11   .13      .06     .21     20.76
+  Learning behaviors                 15      4,648    .48   .62      .51     .73      7.21
+  Commitment                         18      4,811    .39   .48      .38     .57      9.59
+  Satisfaction                       20      8,245    .42   .53      .46     .60      9.25
+
+Note. k = number of correlations. N = cumulative sample size. r̄= estimated mean corre-
+lation. ρ̂= estimated corrected correlation. CIL and CIU denote lower and upper limits of a
+95% confidence interval. %-Acc = percentage of variance accounted for by sampling error.
+
+
+
+significantly related (ρ̂ = .44). Also, in Table 1, we examined the effect
+sizes of four specific facets of leadership and all were similar in magni-
+tude, ranging from .36 for inclusive leadership to .42 for transformational
+leadership. Hypotheses 3 and 4 were also supported, as the relationships
+between psychological safety and autonomy (ρ̂ = .47), interdependence
+(ρ̂ = .86), role clarity (ρ̂ = .63), and supportive work context (ρ̂ = .49)
+were all significant and positive.
+    Hypothesis 5 was supported as psychological safety was positively
+and significantly related to work engagement (ρ̂ = .45). Hypothesis 6
+indicated that psychological safety would be positively related to task
+performance and this was supported by our results (ρ̂ = .43). Hypothesis
+7 was supported as the mean corrected correlations were significant for
+
+                           M. LANCE FRAZIER ET AL.                                    131
+
+
+                                    TABLE 2
+                Meta-Analysis of Group-Level Psychological Safety
+
+Variable                              k        N        r̄    ρ̂    CIL     CIU    %-Acc
+Antecedents
+  Learning orientation                6       354     .32    .40     .15    .65      21.26
+  Positive leader relations          16     1,583     .34    .39     .28    .50      21.04
+    Transformational leadership       4       543     .32    .38     .24    .51      38.83
+    Trust in leader                   2       297     .38    .44     .34    .54      96.28
+  Work design characteristics        26     1,880     .27    .35     .25    .44      29.42
+    Autonomy                          2       172     .27    .35     .21    .49     100.00
+    Interdependence                   6       339     .28    .40     .21    .59      43.29
+    Role clarity                      7       413     .41    .51     .37    .65      44.64
+  Supportive work context            18     1,449     .41    .51     .40    .61      23.94
+    Peer support                      5       586     .49    .57     .48    .66      55.60
+    Organizational support            4       253     .34    .44     .13    .76      18.67
+Outcomes
+  Engagement                          4       264     .32    .44     .17    .70      28.63
+  Task performance                   33     2,802     .24    .29     .20    .38      22.13
+  Information sharing                 9       644     .41    .50     .32    .67      20.75
+  Creativity                          8       841     .24    .29     .14    .44      25.50
+  Learning behaviors                 21     1,686     .42    .52     .44    .60      34.98
+  Satisfaction                        4       299     .49    .69     .42    .97      18.55
+
+Note. k = number of correlations. N = cumulative sample size. r̄= estimated mean corre-
+lation. ρ̂= estimated corrected correlation. CIL and CIU denote lower and upper limits of a
+95% confidence interval. %-Acc = percentage of variance accounted for by sampling error.
+
+
+
+all behavioral outcome variables, demonstrating a positive and significant
+relationship with information sharing (ρ̂ = .52), citizenship behaviors
+(ρ̂ = .32), creativity (ρ̂ = .13), and learning behavior (ρ̂ = .62). Finally,
+Hypothesis 8 received support as the mean corrected correlations between
+psychological safety and both commitment (ρ̂ = .48) and satisfaction
+(ρ̂ = .53) were significant and in the expected direction.
+   Group level of analysis. We were unable to assess a number of our hy-
+potheses at the group level because of the reduced number of studies that
+have been conducted. The results of this analysis are presented in Table
+2. With regard to personality variables at the group level, only learning
+orientation had enough of a sample size and it was positively related
+to psychological safety (ρ̂ = .40), providing support for Hypothesis 1d.
+Similar to the individual level, we found that positive leader relations
+(ρ̂ = .39), autonomy (ρ̂ = .35), interdependence (ρ̂ = .40), role clarity
+(ρ̂ = .51), and supportive work context (ρ̂ = .51) were all positively and
+significantly related to psychological safety, supporting Hypotheses 2–4.
+Within positive leader relations, the effect sizes of transformational lead-
+ership and trust in leader were again similar to the broad category, whereas
+
+132                    PERSONNEL PSYCHOLOGY
+
+
+peer support resulted in the largest effect size within the supportive work
+context category.
+    Hypothesis 5 was again supported as psychological safety was signif-
+icantly and positively related to work engagement (ρ̂ = .44). Hypothesis
+6 was supported at the group level as psychological safety was positively
+related to task performance (ρ̂ = .29). We did not have enough primary
+studies to examine citizenship behaviors, but we found that information
+sharing (ρ̂ = .50), creativity (ρ̂ = .29), and learning behavior (ρ̂ = .52)
+were significantly related to psychological safety, supporting Hypothe-
+ses 7a, 7c, and 7d. We were not able to examine the relationship with
+commitment at the group level but did find that satisfaction (ρ̂ = .69)
+was significantly related to psychological safety, providing support for
+Hypothesis 8b.
+   Incremental validity analysis. The analysis for task performance is pre-
+sented in Table 3. Here, psychological safety predicts incremental variance
+in task performance over and above all of the variables included in the anal-
+ysis. We also conducted analyses to examine the other constructs’ ability
+to predict incremental variance over and above psychological safety. For
+emotional stability, proactive personality, autonomy, and peer support, no
+additional variance was predicted beyond psychological safety, and for all
+other constructs, the incremental variance predicted beyond psychological
+safety was .10 or below.
+    Table 4 presents the incremental validity analysis for organizational
+citizenship behaviors. Again, for all of the variables from the nomological
+network that we were able to examine, psychological safety predicted
+variance in the outcome over and above each individual construct, though
+the amount of incremental variance is not as strong in most cases. Ad-
+ditionally, for the majority of the variables, psychological safety predicts
+more incremental variance than the other variables do when psychologi-
+cal safety is added first to the analysis. Only LMX and autonomy predict
+an equal or more incremental variance in organizational citizenship be-
+havior over and above psychological safety. In sum, these results show
+that psychological safety does explain unique variance in both outcomes
+over and beyond each of the nomological network variables, providing an
+affirmative response to Research Question 1.
+
+                            Moderator Analyses
+
+    Examining percentages of variance accounted for by sampling error,
+it was clear that subgroup heterogeneity existed within our nomological
+network categorization scheme. At the individual level and at the group
+level, sampling error for every construct category accounted for less than
+75% of the variance in the effect sizes. Thus, when sample size allowed
+
+                                                              TABLE 3
+           Hierarchical Regression Analyses: Incremental Validity of Psychological Safety as a Predictor of Job Performance
+
+Variable                                       Source                     N           r̄x       r̄y       ρ̂x       ρ̂y       R2       R2 1        R2 2
+Antecedents
+Positive personality Traits
+     Emotional stability                Judge et al. (2013)             4,696        .14       .07       .18       .11       .31         .29         .00
+     Openness                           Judge et al. (2013)             3,997        .03       .09       .04       .15       .32         .30         .02
+     Proactive personality            Fuller & Marler (2009)            2,478        .30       .15       .37       .23       .31         .26         .00
+     Learning orientation               Payne et al. (2007)             1,514        .19       .15       .24       .23       .32         .26         .01
+Positive leader relations
+     LMX                               Dulebohn et al. (2012)           1,435        .28       .30       .35       .46       .38         .18         .08
+     Transformational                  Wang & Leung (2011)              4,616        .38       .19       .46       .28       .31         .23         .01
+     Trust in leadership               Colquitt et al. (2007)           2,100        .32       .22       .38       .32       .32         .22         .01
+Work design characteristics
+     Autonomy                         Humphrey et al. (2007)            3,077        .38       .18       .49       .28       .31         .23         .00
+     Interdependence                  Humphrey et al. (2007)            2,296        .62       .14       .81       .22       .46         .41         .15
+     Role clarity                     Tubre & Collins (2000)            2,281        .48       .15       .61       .23       .32         .27         .05
+Supportive work context
+                                                                                                                                                            M. LANCE FRAZIER ET AL.
+
+
+
+
+     Peer support                  Chiaburu & Harrison (2008)            2,741       .50       .20       .65       .32       .31         .21         .00
+     Organizational support       Rhoades & Eisenberger (2002)             515       .63       .16       .76       .23       .38         .33         .08
+Proximal outcome
+    Engagement                         Christian et al. (2011)          4,068        .36       .36       .43       .53       .41         .13         .10
+
+Note. N = Harmonic mean. r̄x = estimated mean correlation with psychological safety. r̄y = estimated mean correlation with job performance. ρ̂x =
+estimated corrected correlation with psychological safety. ρ̂y = estimated corrected correlation with job performance. R2 = variance in job performance
+accounted for by the set of psychological safety and predictor. R2 1 = incremental variance in job performance accounted for by psychological safety
+beyond predictor. R2 2 = incremental variance in job performance accounted for by predictor beyond psychological safety.
+                                                                                                                                                            133
+
+                                                                                                                                                               134
+
+                                                             TABLE 4
+Hierarchical Regression Analyses: Incremental Validity of Psychological Safety as a Predictor of Organizational Citizenship Behavior
+
+Variable                                       Source                       N           r̄x       r̄y       ρ̂x       ρ̂y       R2        R2 1        R2 2
+Antecedents
+Positive personality traits
+     Emotional stability                 Judge et al. (2013)              5,449        .14       .13       .18        .17       .14        .11          .01
+     Openness                            Judge et al. (2013)              3,664        .03       .03       .04        .04       .13        .13          .00
+     Proactive personality             Fuller & Marler (2009)             3,672        .30       .26       .37        .32       .17        .07          .04
+Positive leader relations
+     LMX                               Dulebohn et al. (2012)             1,446        .28       .34       .35        .42       .23        .05          .10
+     Transformational                  Wang & Leung (2011)                5,724        .38       .26       .46        .31       .16        .06          .03
+     Trust in leadership               Colquitt et al. (2007)             2,397        .32       .22       .38        .26       .15        .08          .02
+Work design characteristics
+     Autonomy                           Christian et al. (2011)           1,061        .38       .28       .49        .36       .17        .04          .04
+Supportive work context
+     Peer support                   Chiaburu & Harrison (2008)            2,593        .50       .14       .65        .18       .13        .10          .01
+     Organizational support        Rhoades & Eisenberger (2002)             532        .63       .21       .76        .25       .13        .07          .00
+                                                                                                                                                               PERSONNEL PSYCHOLOGY
+
+
+
+
+Proximal outcome
+Engagement                              Christian et al. (2011)           4,391        .36       .26       .44        .31       .16        .06          .03
+
+Note. N = Harmonic mean. r̄x = estimated mean correlation with psychological safety. r̄y = estimated mean correlation with organizational citizenship
+behavior. ρ̂x = estimated corrected correlation with psychological safety. ρ̂y = estimated corrected correlation with organizational citizenship behavior.
+R2 = variance in organizational citizenship behavior accounted for by the set of psychological safety and predictor. R2 1 = incremental variance in
+organizational citizenship behavior accounted for by psychological safety beyond predictor. R2 2 = incremental variance in organizational citizenship
+behavior accounted for by predictor beyond psychological safety.
+
+                       M. LANCE FRAZIER ET AL.                           135
+
+
+(i.e., at least three studies per each level of the moderator category), we
+conducted regression analyses to assess potential moderators. The results
+of these regression analyses are presented in Tables 5 and 6.
+    For individual-level regression analyses, the results show that a ma-
+jority of the moderators (24 out of 33; 73%) were not significant. There
+were, however, a few instances where study characteristics moderated
+psychological safety relationships. Relationships between learning orien-
+tation and psychological safety were significantly lower in studies that
+used students as participants (ρ̂ = .13) than nonstudents (ρ̂ = .45). Re-
+lationships between psychological safety and positive leader relations
+were larger when ratings of both variables were provided by the same
+source (ρ̂ = .45) than different sources (ρ̂ = .29). For outcomes, both
+task performance and citizenship behaviors were more strongly related
+to psychological safety in studies that were published (ρ̂ = .54 and .35,
+respectively) versus unpublished studies (ρ̂ = .19 and .26, respectively).
+Task performance also demonstrated larger effect sizes when the outcome
+measure was subjective (ρ̂ = .40) rather than objective (ρ̂ = .07). Finally,
+the relationship between satisfaction and psychological safety was signif-
+icantly stronger when both were measured at the same point in time (ρ̂ =
+.54 vs. .25) and when students were participants (ρ̂ = .77 vs. .50).
+    At the group level, we were able to assess fewer moderators due to
+sample size restrictions; the majority (14 out of 16; 88%) were nonsignif-
+icant. The only significant results emerged for positive leader relations,
+where again the effect sizes were smaller when different sources provided
+ratings of psychological safety and leadership (ρ̂ = .15) than same sources
+(ρ̂ = .44). In addition, effect sizes were smaller when the studies were
+unpublished (ρ̂ = .16 vs. .37) for the group-level positive leadership cat-
+egory. Overall, we find that there are areas of research design that require
+attention, which we discuss later in the manuscript.
+    Results regarding the moderating influence of UA are presented in
+Table 7. The effect sizes did vary for the majority of the nomological net-
+work for which we had enough studies to conduct the subgroup analysis.
+Positive personality traits effects were stronger in high UA cultures (ρ̂ =
+.54) than for low UA cultures (ρ̂ = .24). Positive leader relations effects
+were lower in high UA cultures (ρ̂ = .30) than in low UA cultures (ρ̂ =
+.44). Work design characteristics demonstrated a stronger effect in high
+UA cultures (ρ̂ = .74) compared to low UA cultures (ρ̂ = .39), as did
+supportive work context (ρ̂ = .71 compared to ρ̂ = .35).
+    With regard to outcomes, the effect on work engagement was stronger
+in high UA cultures (ρ̂ = .58) than in low UA cultures (ρ̂ = .28). Similarly,
+the effect on task performance was stronger in high UA cultures (ρ̂ = .78)
+compared to low UA cultures (ρ̂ = .29), whereas citizenship behaviors
+were similar in both (ρ̂ = .30 to ρ̂ = .34). Learning behaviors effects were
+
+136                       PERSONNEL PSYCHOLOGY
+
+
+                                   TABLE 5
+       Meta-Regression Results for Moderator Analysis—Individual Level
+
+Variable                      Estimate     SE    Z value   p value     QR           QM
+Individual level
+Emotional stability                                                   96.06∗∗       .94
+     Time                       .05        .07      .75      .45
+     Published                  .05        .07      .66      .51
+Openness                                                              73.86∗∗      2.63
+     Time                     −.12         .08   −1.62       .10
+Learning orientation                                                   7.21       19.95∗∗
+     Time                     −.04         .08    −.47       .64
+     Student                   .21∗∗       .08    2.65       .01
+Positive leader relations                                            228.40∗∗     14.83∗∗
+     Source                   −.33∗∗       .11   −3.08       .01
+     Time                     −.13         .07   −1.90       .06
+     Published                 .11         .06    1.85       .06
+Work design characteristics                                          616.94∗∗       .70
+     Published                −.03         .10    −.29       .77
+     Student                  −.08         .12    −.68       .50
+Supportive work context                                              245.05∗∗      1.49
+     Time                     −.07         .12    −.60       .55
+     Published                −.04         .10    −.46       .65
+     Student                  −.09         .11    −.81       .42
+Engagement                                                           149.58∗∗       .01
+     Published                −.01         .09    −.09       .93
+Information sharing                                                  319.83∗∗       .91
+     Published                −.10         .10    −.95      −.30
+Task performance                                                      67.42∗∗     35.71∗∗
+                                      ∗∗
+     Subjective                .19         .06    2.91       .01
+     Source                   −.13∗        .06   −2.33       .02
+     Time                      .07         .06    1.20       .23
+     Published                −.20∗∗       .06   −3.33       .01
+     Student                   .12         .06    1.94       .05
+Citizenship behavior                                                  55.17∗∗     12.06∗∗
+     Source                    .03         .04     .65       .52
+     Time                      .03         .06     .60       .55
+     Published                −.14∗∗       .04   −3.26       .01
+Creativity                                                           211.49∗∗      0.75
+     Source                    .02         .10     .22       .82
+     Time                     −.08         .12    −.64       .53
+     Published                −.09         .12    −.72       .47
+Learning behavior                                                    239.30∗∗      3.10
+     Time                      .02         .10     .23       .82
+     Published                −.18         .11   −1.69       .09
+     Student                  −.01         .11    −.02       .99
+Commitment                                                           298.74∗∗       .01
+     Published                −.01         .08    −.04       .97
+                                                                              (Continued)
+
+                              M. LANCE FRAZIER ET AL.                                   137
+
+
+TABLE 5 (continued)
+
+Variable            Estimate       SE        Z value     p value           QR          QM
+                                                                                ∗∗
+Satisfaction                                                             224.41      12.61∗∗
+     Time            −.26∗∗        .09       −2.86           .01
+     Published       −.03          .06        −.51           .60
+     Student         −.18∗∗        .07       −2.62           .01
+
+Note. Subjective, 1 = yes, 2 = no; Source, 1 = same, 2 = different; Time, 1 = same, 2 =
+different; Published, 1 = yes, 2 = no; Student, 1 = yes, 2 = no. Unstandardized estimates
+are reported. SE = standard error. QR = Q statistic for residual heterogeneity. QM = Q
+statistic for overall moderator model.
+∗
+  p < .05. ∗∗ p < .01.
+                                     TABLE 6
+           Meta-Regression Results for Moderator Analysis—Group Level
+
+Variable                        Estimate     SE    Z value     p value       QR        QM
+Group level
+Learning orientation                                                       36.70∗∗     .46
+     Published                     .14       .20       .68         .50
+Positive leader relations                                                  38.92∗∗   21.65∗∗
+     Source                      −.21    ∗
+                                             .09     −2.40         .02
+     Time                        −.02        .14     −0.12         .90
+     Published                   −.22∗       .11     −2.11         .04
+Work design characteristics                                                92.75∗∗    3.18
+     Source                      −.10        .13      −.79         .43
+     Published                   −.14        .10     −1.43         .15
+     Student                     −.04        .12      −.34         .74
+Supportive work context                                                   153.08∗∗     .01
+     Published                     .01       .11       .09         .93
+Task performance                                                          111.15∗∗   22.62∗∗
+     Subjective                  −.02        .10      −.21         .83
+     Source                      −.12        .08     −1.56         .12
+     Time                        −.12        .07     −1.88         .06
+     Published                   −.12        .07     −1.71         .09
+     Student                      .12        .09      1.38         .17
+Learning behavior                                                          65.73∗∗    5.07
+     Source                       .09        .09      1.05         .29
+     Published                   −.10        .08     −1.22         .22
+     Student                      .06        .08       .76         .45
+
+Note. Subjective, 1 = yes, 2 = no; Source, 1 = same, 2 = different; Time, 1 = same, 2 =
+different; Published, 1 = yes, 2 = no; Student, 1 = yes, 2 = no. Unstandardized estimates
+are reported. SE = standard error. QR = Q statistic for residual heterogeneity. QM = Q
+statistic for overall moderator model.
+∗
+  p < .05. ∗∗ p < .01.
+
+higher in high UA cultures (ρ̂ = .77) compared to low UA cultures (ρ̂ =
+.60). Finally, the effect on commitment was higher in high UA cultures
+(ρ̂ = .57) compared to low UA cultures (ρ̂ = .41). Taken together, it
+appears that psychological safety’s relationships with its nomological
+
+                                                                                                                                                        138
+
+
+
+
+                                                                TABLE 7
+                                         Meta-Analysis of Psychological Safety: Cultural Moderator
+
+                                               High uncertainty avoidance                                   Low uncertainty avoidance
+
+Variable                          k      N        r̄     ρ̂      CIL     CIU     %-Acc        k       N       r̄      ρ̂      CIL    CIU      %-Acc
+Antecedents
+  Positive personality traits     7    2,669     .43     .54     .36      .72      4.93      23     8,603     .20     .24     .17     .31     12.27
+  Positive leader relations       4      904     .26     .30     .24      .37    100.00      21     7,994     .37     .44     .39     .50     15.01
+  Work design characteristics     4    1,276     .50     .74     .43     1.00      3.36      18     3,003     .30     .39     .25     .54      8.35
+  Supportive work context         4      622     .59     .71     .61      .81     35.52      15     2,736     .28     .35     .23     .47     13.87
+Outcomes
+  Engagement                      5    1,685     .48     .58     .43      .74       8.22      7     1,440     .21     .28     .19     .37     43.52
+  Task performance                4    1,217     .65     .78     .61      .95       4.72     13     2,675     .22     .29     .21     .36     33.28
+  Citizenship behaviors           3      774     .24     .30     .19      .41      46.05     10     5,190     .30     .34     .27     .40     21.21
+  Learning behaviors              6    1,508     .63     .77     .61      .92       6.13      6     2,329     .44     .60     .49     .71     17.46
+                                                                                                                                                        PERSONNEL PSYCHOLOGY
+
+
+
+
+  Commitment                      5    1,669     .47     .57     .42      .72       9.87      9     1,676     .33     .41     .29     .54     18.06
+
+Note. k = number of correlations. N = cumulative sample size. r̄= estimated mean correlation. ρ̂= estimated corrected correlation. CIL and CIU denote
+lower and upper limits of a 95% confidence interval. %-Acc = percentage of variance accounted for by sampling error.
+
+                           M. LANCE FRAZIER ET AL.                                  139
+
+
+                                    TABLE 8
+           Meta-Regression Results for Tests of Homology Across Levels
+
+Variable                           Estimate   SE     Z value   p value     QR       QM
+Individual level
+     Learning orientation            0.17     0.10    1.68      0.09      71.33∗∗   2.81
+     Positive leader relations      −0.05     0.06   −0.83      0.41     544.76∗∗   0.69
+     Work design characteristics    −0.01     0.07   −0.20      0.84     798.80∗∗   0.04
+     Supportive work context         0.06     0.06    0.99      0.32     540.07∗∗   0.99
+     Engagement                      0.06     0.11    0.56      0.57     197.10∗∗   0.32
+     Conflict                        0.05     0.13    0.43      0.67     266.70∗∗   0.19
+     Relationship conflict           0.12     0.13    0.89      0.37      87.24∗∗   0.81
+     Task conflict                  −0.21     0.17   −1.21      0.23     136.15∗∗   1.47
+     Information sharing             0.07     0.10    0.68      0.49     481.12∗∗   0.47
+     Task performance               −0.01     0.07   −0.17      0.86     760.55∗∗   0.03
+     Creativity                      0.06     0.08    0.82      0.41     258.12∗∗   0.68
+     Learning behavior              −0.04     0.06   −0.62      0.53     424.98∗∗   0.39
+     Satisfaction                    0.12     0.10    1.25      0.21     424.79∗∗   1.57
+
+Note. Unstandardized regression estimates are reported. SE = standard error. QR = Q
+statistic for residual heterogeneity. QM = Q statistic for overall moderator model.
+∗
+  p < .05. ∗∗ p < .01.
+
+
+network are impacted by the cultural dimension of UA, a finding we
+return to in the discussion.
+
+Homology Across Levels
+
+    Table 8 presents the results of our regression analyses, assessing ho-
+mology across levels (when possible) for each relationship between psy-
+chological safety and its nomological network. In these analyses, we ran
+regressions with the correlations of each study as the dependent variable
+and study level as the moderator. As can be seen in Table 8, none of the
+relationships examined resulted in a significant coefficient estimate, pro-
+viding evidence that the magnitude of the relationships is not significantly
+different across levels. Only learning orientation approached statistical
+significance as these effects were significant at p < .10. These findings
+provide support for the prevalent assumption of homology across both
+individual and group levels of analysis.
+
+                                     Discussion
+
+    This study presents the first comprehensive, quantitative review of the
+role of psychological safety in the workplace. As such, our work offers
+an assessment of the current state of knowledge concerning this impor-
+tant workplace construct. In addition, though a review of the literature
+
+140                    PERSONNEL PSYCHOLOGY
+
+
+and an empirical assessment of the nomological network are useful, our
+study extends research on psychological safety by exploring a number of
+important questions best captured through meta-analytic techniques. We
+discuss the findings of our study in the following sections.
+
+Main Relationships Within the Nomological Network
+
+    Our review of the literature and empirical analysis at the individual
+level resulted in support for the majority of the hypothesized relationships.
+Contrary to our expectations, however, openness to experience was not
+significantly related to psychological safety. Those high in openness to
+experience are described as being independent thinkers, amenable to new
+ideas, and more likely to challenge the status quo (Zhou & George, 2001).
+It may be that those high in openness to experience are more focused on
+ways to express their independence regardless of context and thus less
+likely to be concerned with psychological safety.
+    We found support for the relationship between psychological safety
+and positive leader relations as a general category. This highlights the
+salience of the direct leader in shaping the work context and crucial role
+leaders play in fostering psychological safety. Additionally, within the cat-
+egory of positive leader relations, we examined four specific leadership
+constructs that have been theoretically linked to psychological safety. The
+effect sizes ranged from .36 for inclusive leadership to .42 for transfor-
+mational leadership. There is little variation in the extent to which each
+of these leadership constructs impacts psychological safety, an issue to
+which we return in the future directions section.
+    Going beyond the direct leader, we also found that work design char-
+acteristics and supportive work context as broad categories both positively
+influence psychological safety. Within the category of work design char-
+acteristics, interdependence showed the strongest relationship. Peer sup-
+port, within the category of supportive work context, also demonstrated
+a significant and strong effect. These findings are consistent with Kahn’s
+(1990) original theorizing whereby interpersonal relationships and group
+dynamics are posited as central drivers of psychological safety percep-
+tions. Psychological safety was also found to be significantly related to
+a number of outcome variables. We found that psychological safety was
+positively related to employee engagement, task performance, satisfac-
+tion, and commitment. We found a moderate relationship with citizenship
+behavior and a relatively weak one with creativity.
+    Given the rapid changes that businesses face in the modern econ-
+omy and the seminal work from Edmondson (1999) on psychologi-
+cal safety and learning, one of the most relevant findings of our study
+is the strong relationship that psychological safety demonstrated with
+
+                       M. LANCE FRAZIER ET AL.                          141
+
+
+information sharing and learning behavior. These are two important out-
+comes in the psychological safety literature and demonstrate the unique
+contributions that the psychological safety construct makes in today’s dy-
+namic workplace. Hence, fostering perceptions of psychological safety
+appears to be an important consideration for organizations attempting to
+maintain competitiveness. Indeed, the impact that psychological safety
+has on the learning process is “at the very core of why the construct has
+maintained the high level of research attention over the years” (Edmond-
+son & Lei, 2014; p. 37) and why it likely will continue to be an important
+construct in the 21st century organization.
+    At the group level of analysis, we were limited in our ability to as-
+sess the full nomological network because considerably fewer studies on
+psychological safety have been conducted at this level. However, we were
+able to examine a number of key relationships and found that the rela-
+tionships with antecedents and outcomes were generally consistent with
+individual-level findings. In sum, psychological safety is a robust con-
+struct with a diverse nomological network. There are a myriad of factors
+that may facilitate the emergence of psychological safety with some (e.g.,
+work design and leadership) being relatively more important than others
+(e.g., personality). Furthermore, it is an important construct given its re-
+lationship with a variety of critical group-level work outcomes, providing
+additional support for its validity at both levels of analysis.
+
+Incremental Validity
+
+     Though it may come to no surprise that psychological safety is re-
+lated to central work outcomes, one may wonder whether this construct
+possesses predictive power over and above the antecedents that lead to
+its emergence. In every investigation, psychological safety captured sig-
+nificant incremental variance in outcomes beyond the antecedent predic-
+tors. Conversely, many antecedents failed to capture incremental variance
+beyond psychological safety. Overall, our findings demonstrate the critical
+role of this emergent construct as a facilitator of employee performance.
+Interestingly, psychological safety accounted for more incremental vari-
+ance explained in task performance than citizenship behaviors; the unique
+attitudes, cognitions, and behaviors that derive from a psychologically
+safe workforce seem to be more strongly related to in-role performance
+than extra-role behaviors.
+
+Methodological Moderators
+
+    One concern with any primary study is the possibility that findings are
+artifacts of study design characteristics. Meta-analyses are uniquely suited
+
+142                    PERSONNEL PSYCHOLOGY
+
+
+to address these concerns by systematically comparing results across dif-
+ferent research designs. In many cases where study design characteristics
+could be explored as moderators, the significance of psychological safety
+generalized regardless of the study design characteristics tested. However,
+our analyses did demonstrate a number of areas of methodological con-
+cern for psychological safety research that should be addressed in future
+research.
+    We first focus on two issues related to common method bias: same
+source bias and temporal separation. As for the former, only 13% of the
+correlations extracted for analyses were collected from different sources.
+In fact, for several relationships, it was not possible to examine the pres-
+ence of same source bias because of an absence of studies in which
+variables were collected from multiple sources. In total, for the seven
+relationships in which there was enough variance in study designs to
+permit an assessment of this moderator condition, three contained statisti-
+cally significant differences in effect sizes, with validity coefficients being
+higher when both psychological safety and the criterion of interest were
+collected from the same source.
+    Temporal separation has been much more prevalent in the literature,
+with 35% of the psychological safety correlations including constructs
+measures at separate points in time. For the 12 total relationships where it
+was possible to assess the impact of this research design characteristics,
+only one was statistically significant; the relationship between psycho-
+logical safety and job satisfaction was significantly lower when these
+constructs were assessed at different points in time than when assessed
+simultaneously.
+    Taken together, we conclude that common method bias is a major
+concern with past empirical research and we encourage researchers in this
+literature to design studies that draw from different sources and introduce
+temporal separation between these constructs. Overall, effect sizes were
+27% higher when studies involved data collected within the same sources
+and at the same times than when both different sources and temporal sep-
+aration were employed. That being said, our meta-analysis revealed that
+psychological safety relationships are not entirely spurious artifacts of
+percept–percept inflation; when assessed at different times and from dif-
+ferent sources, effect sizes were decreased, but still moderate in magnitude
+and statistically significant.
+    In addition, in some cases where same-source biases appeared—for
+instance, concerning relationships between positive leadership relations
+and psychological safety—relying on different sources to alleviate com-
+mon method biases may have undesirable consequences. To the extent
+that it is the perception of leadership that influences individual’s feelings
+concerning psychological safety, it is possible to argue that drawing on
+
+                       M. LANCE FRAZIER ET AL.                          143
+
+
+different sources may deflate true validities (Frese & Zapf, 1988). There-
+fore, we recommend that if data are best collected from the same source,
+researchers should attempt to add temporal separation between the vari-
+ables to minimize artificial inflations of effect sizes due to common method
+bias (Podsakoff, MacKenzie, & Podsakoff, 2012).
+    Our moderator analyses also uncovered evidence at the individual
+level that the “file drawer effect” may be an issue in psychological safety
+research. Our comparative analysis of published and unpublished stud-
+ies demonstrated instances where relationships with psychological safety
+were significantly higher across published studies for task performance
+and citizenship behaviors (p < .05) and learning behavior (p < .10).
+This is particularly concerning because these are the three most stud-
+ied outcomes in the psychological safety literature. Though recent re-
+search suggests that file drawer effects do not pose a major problem
+(i.e., Dalton, Aguinis, Dalton, Bosco, & Pierce, 2012), our results indi-
+cate that it may be premature to make broad statements on the issue,
+at least as it pertains to research on psychological safety. Indeed, or-
+ganizational scholars are often interested in the “bottom line” in their
+research, and the lack of statistical findings for important outcome vari-
+ables might hinder a study’s ability to be published. Our results seem
+to partially support this notion for our sample. Though this issue tran-
+scends any single research area, future research on psychological safety
+should design research studies that are not wholly contingent upon the bot-
+tom line and focus on research that is methodologically and theoretically
+sound.
+    The final issue that emerged as a result of our analysis was the signif-
+icant difference between subjective and objective measures of task per-
+formance. Although the psychological safety literature in general lacks
+longitudinal designs and the incorporation of objective criteria, we found
+that for task performance, the effect sizes were higher when measures of
+performance were subjective in nature (e.g., supervisor rated; ρ̂ = .40)
+as compared to objective in nature (e.g., course performance; ρ̂ = .07).
+Indeed, past research has noted that these two ratings are only moder-
+ately correlated (Bommer et al., 1995). Our concern regarding this issue
+is further exacerbated because effect sizes were lower when task perfor-
+mance was rated by someone other than the person providing the psy-
+chological safety perceptions (i.e., source). We urge future researchers to
+examine the extent to which psychological safety impacts more objective
+measures of task performance and to continue to gather ratings of perfor-
+mance from other sources when subjective measures are the most viable
+outcome.
+
+144                    PERSONNEL PSYCHOLOGY
+
+
+Uncertainty Avoidance as a Moderator
+
+    Our study takes a first step toward understanding the role of national
+context in psychological safety validities. With regard to antecedents,
+we found that positive personality traits, work design characteristics, and
+supportive work context all had significantly stronger effects on psycho-
+logical safety in high UA cultures. Somewhat surprisingly, the effects of
+positive leadership relations were weaker in high UA cultures. Recall that
+high UA cultures value stability and the establishment of formal rules
+(Hofstede, 2001), and thus, it may require that the signals come from a
+broader range of sources in order to feel higher psychological safety in
+these cultures. Thus, employees in high UA cultures may demonstrate a
+higher sensitivity to elements of personality, work design, and supportive
+work context than to leader behaviors. Research has shown that leaders
+in high UA cultures tend to be more controlling and less approachable
+(Offermann & Hellmann, 1997), thus putting a larger emphasis on the
+other antecedents to shape psychological safety perceptions.
+    With regard to outcomes, our results demonstrate that high UA may
+make psychological safety even more important in affecting work out-
+comes. As employees in high UA cultures are less inclined to take risks
+at work, they are more likely to fully invest themselves into their work
+and perform at a higher level when they perceive such expressions of self
+are encouraged within the work context. Hence, it seems like fostering
+psychological safety—a construct developed in countries with low UA
+norms—may be even more critical in cultures where risk taking and di-
+vergence from status quo is not the norm. All in all, our results provide
+initial evidence that the role of psychological safety may be impacted by
+culture and encourage future research to more fully explore this issue.
+
+Homology Across Levels of Analysis
+
+    To date, the majority of research, at both the group and individual level
+of analysis, has drawn from the same theoretical roots (i.e., Edmondson,
+1999; Kahn, 1990; Schein & Bennis, 1965). By using group-level empiri-
+cal and theoretical evidence to support individual-level propositions, there
+is an implied assumption of homology across levels. If this assumption
+is unfounded, both researchers and practitioners should be careful not to
+expect inferences drawn from one level of analysis to generalize to other
+levels or for cross-level relationships to exist (where, for instance, group
+perceptions of psychological safety influence individual outcomes).
+    Chen et al. (2005) identify three different theories of homology. Iden-
+tical theories of homology predict that relationships within a construct’s
+nomological network will be identical in magnitude and direction across
+
+                        M. LANCE FRAZIER ET AL.                             145
+
+
+levels of analysis. Proportional theories of homology predict that the rela-
+tive pattern of relationships will hold across levels though magnitudes may
+differ. Finally, metaphoric theories require only that the pattern of signif-
+icant findings hold true across levels. The evidence from our analyses is
+most consistent with an identical theory of homology. In other words, the
+assumption of homology that has permeated the literature is supported by
+our empirical analysis. Though magnitudes somewhat differed, the results
+of our regression analysis to assess homology showed that there was no
+statistically significant difference in effects sizes across levels of analysis.
+As additional support for these results, the Spearman rank-order correla-
+tion between the distribution of ratings across the individual and group
+levels was high (rs = .86). This finding is important because it provides
+empirical validation for previous assumptions concerning the multilevel
+composition of psychological safety and the generalizability of cross-level
+theories (Chen et al., 2005; Edmondson & Lei, 2014).
+
+Implications for Future Psychological Safety Research
+
+    A primary contribution of this research is not only to synthesize empir-
+ical work on psychological safety but also to identify the pressing issues
+that should be addressed as the literature continues to mature. In this sec-
+tion, we present what we consider to be the most pressing areas of research
+that can potentially move the literature forward.
+    Our meta-analysis has uncovered the impressive and rather extensive
+nomological network surrounding psychological safety. It is clear that
+several antecedents are related to the emergence of psychological safety
+perceptions and that these perceptions are significantly associated with a
+variety of workplace outcomes. Although our meta-analysis contributes
+to the understanding of the relative importance of different antecedents,
+what is less clear is whether certain antecedents are necessary and/or
+sufficient for the development of psychological safety. Or, for that mat-
+ter, whether psychological safety is necessary and/or sufficient for the
+development of behavioral and attitudinal work outcomes. Moreover, in
+what ways might different antecedent conditions substitute or neutralize
+the effectiveness of other conditions? Here, we suggest future theoretical
+development exploring issues of necessity and sufficiency and encourage
+researchers to explore alternative nonparametric methodologies—such as
+qualitative comparative analysis (Ragin, 2000) or necessary condition
+analysis (Dul, 2016)—which are better suited to address these issues than
+standard regression approaches.
+    Another critical question left unaddressed thus far in the psychologi-
+cal safety literature is, “can psychological safety lead to negative conse-
+quences?” As with many constructs in the organizational sciences, there
+
+146                   PERSONNEL PSYCHOLOGY
+
+
+may be a “dark side” that accompanies the positives (Griffin & O’Leary-
+Kelly, 2004). As an example, organizational citizenship behaviors have
+long been considered a positive behavior that aids in organizational func-
+tioning (Organ, 1988), yet recent research has demonstrated that there
+may be costs associated with such behaviors (Bolino, Hsiung, Harvey, &
+LePine, 2015; Bolino, Turnley, & Niehoff, 2004). Similarly, there may be
+situations in which psychological safety can lead to negative outcomes.
+Pearsall and Ellis (2011) found that high psychological safety, whereby
+perceptions of interpersonal risk are low, created a context in which teams
+high in utilitarianism were more likely to engage in cheating behavior. Fu-
+ture research should further explore such possibilities to develop a deeper
+understanding of how and when psychological safety might contribute to
+less than positive outcomes.
+    Although we provide initial evidence that culture matters to psycho-
+logical safety, research that explores psychological safety across a variety
+of cultures and cultural dimensions is warranted, especially given that
+the majority of research on psychological safety has been conducted in
+English-speaking, Western countries. Additionally, research can go be-
+yond national culture to shed light on the role of context in psychological
+safety’s nomological network. For instance, norms and workplace prac-
+tices differ by industry (Chatman, & Jehn, 1994) and can therefore alter
+the extent to which different antecedents matter to psychological safety.
+Similarly, in some industries, particularly those where membership in ex-
+ternal professional associations is important (Wimbush & Shepard, 1994),
+employees may form psychological safety perceptions at least partially
+based on factors related to the “way of doing things” within their pro-
+fession (Nembhard & Edmondson, 2006). Finally, formal institutions or
+“rules of the game” also warrant attention. For instance, countries with
+fragile or corrupt states and ineffective judicial systems often create a
+climate of cynicism in addition to providing poor protection to the work-
+force (e.g., Pelletier & Bligh, 2006; Theobald, 1990). Hence, weak in-
+stitutional environments may counter benefits otherwise resulting from
+psychological safety as well as reduce the effectiveness of psychological
+safety antecedents. Alternatively, weak institutional environments may
+make some antecedents, such as immediate leaders, even more important.
+These issues have not been examined to date, and comparative studies
+are crucial for the field to advance a contextualized understanding of
+psychological safety.
+    Further, few studies have examined how psychological safety may
+evolve over time. One exception, Liang et al. (2012) reported that psycho-
+logical safety perceptions collected just 6 weeks apart were only moder-
+ately correlated (r = .27), which indicates that psychological safety may
+fluctuate over time within individuals. The exploration of the workplace
+
+                       M. LANCE FRAZIER ET AL.                            147
+
+
+dynamics and events that influence these changes offers a ripe oppor-
+tunity for psychological safety researchers. Techniques such as experi-
+ence sampling methodology (ESM) or ecological momentary assessment
+(EMA) have gained considerable traction in organizational research (Beal
+& Weiss, 2003; Fisher & To, 2012) and thus might be appropriate for the
+field to explore the drivers of psychological safety dynamics.
+    Psychological safety is inherently an interpersonal construct built
+through workplace interactions (Edmondson, 2002), which means that
+it can be breached or violated. Hence, damages to psychological safety
+would necessitate repair to continue to reap the benefits. If a transgression
+occurs that damages psychological safety, what is the process by which
+psychological safety might be rebuilt? For instance, considerable research
+has been conducted on trust repair (e.g., Kim, Cooper, Dirks, & Ferrin,
+2013; Tomlinson & Mayer, 2009), and the theoretical link between trust
+and psychological safety would suggest that the literature on trust re-
+pair may be relevant to understanding psychological safety repair. To our
+knowledge, no studies have examined this issue, and we feel that research
+on this aspect of psychological safety would create a deeper understanding
+of psychological safety development.
+    As for the role of leadership, the results of our study across both
+levels of analysis clearly indicate that as leaders develop positive relation-
+ships with followers, higher perceptions of psychological safety are likely
+to occur. Additionally, the effect sizes across the different conceptualiza-
+tions of leadership were strikingly similar. Leadership matters in fostering
+psychological safety, so we strongly encourage researchers to move be-
+yond studying main effects to developing a deeper understanding of when
+and where leadership matters. The boundary conditions of psychological
+safety remain an understudied area (Edmondson & Lei, 2014), with this
+being particularly the case when it comes to the role of leadership. Fur-
+ther, from a methodological perspective, research on psychological safety
+and leadership would benefit from examining leadership’s impact from
+multiple perspectives. Braddy, Gooty, Fleenor, and Yammarino (2014)
+recently found that agreement on leader behavior between self-reports
+and follower reports is moderate, at best. We are not suggesting that the
+impact that leaders have on psychological safety has been overstated in
+the literature, but to the extent that research can examine leadership from
+multiple perspectives, it will contribute to a more complete picture of this
+relationship.
+    Another potentially fruitful avenue that emerges from our findings is
+the exploration of the nature of the relationship between engagement and
+psychological safety. Theoretically, most research has cast psychological
+safety as an antecedent to work engagement, with psychological safety
+enabling employees to invest themselves into their work (e.g., Edmondson
+
+148                      PERSONNEL PSYCHOLOGY
+
+
+& Lei, 2014; Kahn, 1990; May et al., 2004). However, other conceptual
+work has indicated a possible reciprocal relationship between psycho-
+logical safety and engagement with both having the ability to influence
+the other positively (i.e., Saks, 2006). Indeed, research on psychological
+safety (e.g., Edmondson, 1999) and engagement (Christian et al., 2011;
+Rich et al., 2010) often utilizes an input-process-output framework in
+which psychological safety or engagement independently serve as medi-
+ating states between antecedents and outcomes. Our incremental validity
+analysis found that both engagement and psychological safety predicted
+similar levels of incremental variance in task performance and citizen-
+ship behaviors when the other is added to the analysis first. This provides
+some evidence that psychological safety and engagement may work to-
+gether to impact important work outcomes. Research that empirically
+examines this relationship in more depth would be beneficial for both
+literatures.
+    Finally, we were unable to assess a number of relationships at the group
+level of analysis because of the comparatively smaller number of group
+level studies. This is somewhat surprising given that Edmondson’s (1999)
+original work, which provides the scale that is most often utilized, was
+designed at the group level. In fact, Edmondson and Lei (2014) recently
+noted that psychological safety is a “phenomenon that lives at the group
+level” (p. 37). Hence, the literature would benefit from more group-level
+and cross-level research on psychological safety.
+
+Practical Implications
+
+    Whether it is performance gains, increased learning, engagement, in-
+formation sharing, or improved satisfaction and commitment, we demon-
+strate that psychological safety impacts important organizational out-
+comes. Our results show that there are personality traits that are positively
+related to psychological safety. Hence, organizations may find value in se-
+lecting applicants that are predisposed to either create or perceive a work
+environment safe for personal risk taking. In particular, organizations can
+benefit from investing in employees that are proactive, as they are more
+likely to feel psychologically safe and engaged in their work. Human re-
+source managers and those responsible for designing selection tools may
+find value in including measures that capture these personality traits. Given
+the concern that self-report personality measures may be vulnerable to
+faking (White, Young, Hunter, & Rumsey, 2008), additional mechanisms
+throughout the interview process should be implemented to capture these
+specific personality traits. Though structured interviews often include per-
+sonality elements, namely, the Big Five (Levashina, Hartwell, Morgeson,
+& Campion, 2014), our results indicate that organizations interested in
+
+                       M. LANCE FRAZIER ET AL.                            149
+
+
+fostering psychological safety should focus on designing interview ques-
+tions that capture proactive personality and learning orientation as well.
+    A recent survey of employees across the world revealed that only
+47% characterized their workplace as “a psychologically safe and healthy
+environment to work in” (Ipsos, 2012). In light of the results presented
+here, more organizations should be paying attention to this issue. Indeed,
+the results of the incremental validity analyses indicate that psychological
+safety should not be treated as a byproduct of high impact work pro-
+cesses but rather as a goal with unique importance. Our results indicate
+that psychological safety is impacted by positive leader relations, work-
+place support, and work design. Training sessions for those interested
+in leadership positions might emphasize the importance of ensuring that
+subordinates feel safe to challenge the status quo. Though “open door”
+policies are often touted in the workplace, leaders can be trained in ways
+to actively pursue being challenged. Relatedly, to the extent that leaders
+communicate clear expectations and goals, this is more likely to lead to
+perceived safety as employees have a better understanding of what they
+should be doing.
+    In addition, training efforts for all employees can focus on teamwork
+and developing effective relationships as social support was shown to have
+a positive influence on safety perceptions. From a job design perspective,
+interdependence was found to have a strong effect on psychological safety.
+Designing work that requires more interdependence may not be relevant
+for all work settings, but to the extent that employees must rely on each
+other to get their jobs done, psychological safety is more likely to develop.
+With that said, we provide initial evidence that psychological safety effect
+sizes may vary across cultures. Therefore, organizations may have to
+adjust their efforts to foster psychological safety depending on the culture
+in which they are operating. For instance, investing in the facilitation
+of psychological safety may be even more critical where risk taking is
+not the norm, particularly for managers whose behavior is likely to be
+shaped by the same cultural norms of the followers. On the other hand,
+expatriates working in a culture other than their own should be trained on
+the underlying assumptions of the culture in which they are working to
+not only understand how followers are likely to react but also to overcome
+the biases that are likely to result from their own culture.
+
+Limitations and Future Research
+
+    This research effort is not without limitations. First, in many cases, the
+relatively smaller sample sizes prevented us from more rigorous analyti-
+cal examinations. Thus, our study highlights areas where research has the
+potential to fill in existing gaps in the literature. For example, very few
+
+150                   PERSONNEL PSYCHOLOGY
+
+
+studies have examined how group-level psychological safety is affected
+by group personality. As research into the development of team-level per-
+sonality accumulates (LePine, Buckman, Crawford, & Methot, 2011), we
+hope researchers engage in such studies. On a related note, the lack of
+research conducted at the group level limited our ability to examine the
+incremental validity issue at the group level. As group-level meta-analyses
+begin to accumulate, this issue could be explored in future research
+efforts.
+    Second, in categorizing previous research, we aimed for operational-
+izing constructs at a level of breadth that would balance the need to have
+high accumulations of primary studies with the need to keep the construct
+categories theoretically meaningful. Though we do present narrower cat-
+egories as sample size allowed, we also report the broader categories
+for moderator testing due to sample size restrictions. A significant ad-
+vantage to our approach is that it allows for cross-study comparisons.
+For instance, broad leadership categories consistent with our operational-
+ization have been examined meta-analytically (i.e., Heavey, Holwerda,
+& Hausknecht, 2013; Nahrgang, Morgeson, & Hofmann, 2011; Seibert
+et al., 2011). In addition, broad “work design” categories have been con-
+ceptualized similarly in meta-analyses by Hong et al. (2013) and Seibert
+et al. (2011).
+    Third, though we drew from theory to classify constructs as an-
+tecedents and outcomes, the majority of our studies were cross sectional
+in nature, so we are not able to make strong assertions of causality. We
+encourage future research to examine these models utilizing longitudinal
+or experimental designs to assess causality.
+    Fourth, though our analyses indicate that psychological safety percep-
+tions demonstrate homology from the individual to the group level, we
+were not able to assess the relative impact of individual and group per-
+ceptions of psychological safety on important work outcomes. Research
+has demonstrated support for the ability of employees to form coexisting
+perceptions of the same phenomenon at two levels of analysis (Naumann
+& Bennett, 2000; Zohar & Luria, 2005). We therefore encourage future
+research that examines the incremental impact of psychological safety
+climate beyond individual perceptions.
+
+                               Conclusion
+
+    The results of this study demonstrate that psychological safety is an
+important construct at both the individual and group level of analysis.
+By taking stock of what has been done, and exploring several important
+questions, this study moves the research stream forward and brings to
+light gaps to be filled in future research. We hope that our study will
+
+                            M. LANCE FRAZIER ET AL.                                      151
+
+
+encourage researchers to pursue these and other investigations into the
+role of psychological safety in the workplace.
+
+                                     REFERENCES
+
+References marked with an asterisk* indicate studies included in the meta-analysis.
+
+Amabile TM. (1998). How to kill creativity. Harvard Business Review, 76, 76–87.
+*Arumugam V, Antony J, Kumar M. (2013). Linking learning and knowledge creation
+      to project success in six sigma projects: An empirical investigation. Inter-
+      national Journal of Production Economics, 141, 388–402. http://dx.doi.org/10.
+      1016/j.ijpe.2012.09.003
+*Aryee S, Mondejar R, Chu CWL. (2012, August). An empirical investigation of pro-
+      cesses linking core self-evaluations and performance. Paper presented at the Annual
+      Conference of Academy of Management, Boston, MA.
+*Ashauer SA, Macan T. (2013). How can leaders foster team learning? Effects of leader-
+      assigned mastery and performance goals and psychological safety. The Journal of
+      Psychology, 147, 541–561. http://dx.doi.org/10.1080/00223980.2012.719940
+Baer M, Frese M. (2003). Innovation is not enough: Climates for initiative and psycholog-
+      ical safety, process innovations, and firm performance. Journal of Organizational
+      Behavior, 24, 45–68. http://dx.doi.org/10.1002/job.179
+Bateman TS, Crant JM. (1993). The proactive component of organizational behavior:
+      A measure and correlates. Journal of Organizational Behavior, 14, 103–118.
+      http://dx.doi.org/10.1002/job.4030140202
+Beal DJ, Weiss HM. (2003). Methods of ecological momentary assessment in or-
+      ganizational research. Organizational Research Methods, 6, 440–464. doi:
+      10.1177/1094428103257361
+*Beatty EJ. (2004). Chronic illness as invisible diversity: Disclosing and coping with illness
+      in the workplace. (Unpublished doctoral dissertation), Boston College.
+Blau PM. (1964). Exchange and power in social life. New York: Wiley.
+Bolino MC, Hsiung H, Harvey J, LePine JA. (2015). “Well, I’m tired of tryin’!” Organiza-
+      tional citizenship behavior and citizenship fatigue. Journal of Applied Psychology,
+      100, 56–74. doi: 10.1037/a0037583
+Bolino MC, Turnley WH, Niehoff BP. (2004). The other side of the story: Re-examining
+      prevailing assumptions about organizational citizenship behavior. Human Resource
+      Management Review, 14, 229–246. doi: 10.1016/j.hrmr.2004.05.004
+Bommer WH, Johnson JL, Rich GA, Podsakoff PM, MacKenzie SB. (1995).
+      On the interchangeability of objective and subjective measures of employee
+      performance: A meta-analysis. P ERSONNEL P SYCHOLOGY, 1995, 587–605.
+      http://dx.doi.org/10.1111/j.1744-6570.1995.tb01772.x
+*Boon A, Raes E, Kyndt E, Dochy F. (2013). Team learning beliefs and behaviours in
+      response teams. European Journal of Training and Development, 37, 357–379.
+      http://dx.doi.org/10.1108/03090591311319771
+Borenstein M, Hedges L, Higgins J, Rothstein H. (2010). A basic introduction to fixed-
+      effect and random-effect models for meta-analysis. Research Synthesis Methods, 1,
+      97–111. http://dx.doi.org/10.1002/jrsm.12
+Braddy PW, Gooty J, Fleenor JW, Yammarino FJ. (2014). Leader behaviors and
+      career derailment potential: A multi-analytic methods examination of rat-
+      ing source and self-other agreement. Leadership Quarterly, 25, 373–390.
+      http://dx.doi.org/10.1016/j.leaqua.2013.10.001
+
+152                        PERSONNEL PSYCHOLOGY
+
+
+*Bradley BH, Postlethwaite BE, Klotz AC, Hamdani MR, Brown KG. (2012). Reap-
+       ing the benefits of task conflict in teams: The critical role of team psycholog-
+       ical safety climate. Journal of Applied Psychology, 97, 151–158. http://dx.doi.
+       org/10.1037/a0024200
+*Bresman H, Zellmer-Bruhn M. (2013). The structural context of team learning: Effects
+       of organizational and team structure on internal and external learning. Organization
+       Science, 24, 1120–1139. http://dx.doi.org/10.1287/orsc.1120.0783
+*Brinsfield TC. (2013). Employee silence motives: Investigation of dimensionality and
+       development of measures. Journal of Organizational Behavior, 34, 671–697.
+       http://dx.doi.org/10.1002/job.1829
+*Brueller D, Carmeli A. (2011). Linking capacities of high-quality relationships to team
+       learning and performance in service organizations. Human Resource Management,
+       50, 455–477. http://dx.doi.org/10.1002/hrm.20435
+*Bstieler L, Hemmert M. (2010). Increasing learning and time efficiency in interorganiza-
+       tional new product development teams. Journal of Product Innovation Management,
+       27, 485–499. 10.1111/j.1540-5885.2010.00731.x
+*Bunderson JS, Boumgarden P. (2010). Structure and learning in self-managed teams:
+       Why "bureaucratic" teams can be better learners. Organization Science, 21, 609–
+       624. http://dx.doi.org/10.1287/orsc.1090.0483
+*Carmeli A, Brueller D, Dutton JE. (2009). Learning behaviours in the workplace: The
+       role of high-quality interpersonal relationships and psychological safety. Systems
+       Research and Behavioral Science, 26, 81–98. http://dx.doi.org/10.1002/sres.932
+*Carmeli A, Gittell JH. (2009). High-quality relationships, psychological safety, and learn-
+       ing from failures in work organizations. Journal of Organizational Behavior, 30,
+       709–729. http://dx.doi.org/10.1002/job.565
+*Carmeli A, Reiter-Palmon R, Ziv E. (2010). Inclusive leadership and employee
+       involvement in creative tasks in the workplace: The mediating role of psy-
+       chological safety. Creativity Research Journal, 22, 250–260. http://dx.doi.
+       org/10.1080/10400419.2010.504654
+*Carmeli A, Zisu M. (2009). The relational underpinnings of quality internal auditing
+       in medical clinics in Israel. Social Science & Medicine, 68, 894–902.
+       http://dx.doi.org/10.1016/j.socscimed.2008.12.031
+*Carroll ST. (2008). The role of sanctification of work, religiosity, and spirituality as
+       predictors of work-related outcomes for individuals working at religiously affiliated
+       institutions. (Unpublished doctoral dissertation). Loyola College in Maryland.
+Chambless DL, Hollon SD. (1998). Defining empirically supported therapies. Journal
+       of Consulting and Clinical Psychology, 66, 7–18. http://dx.doi.org/10.1037/0022-
+       006X.66.1.7
+Chan D. (1998). Functional relations among constructs in the same content domain at
+       different levels of analysis: A typology of composition models. Journal of Applied
+       Psychology, 83, 234–246. http://dx.doi.org/10.1037/0021-9010.83.2.234
+Chan D. (2006). Interactive effects of situational judgment effectiveness and proactive
+       personality on work perceptions and work outcomes. Journal of Applied Psychology,
+       91, 475–481. http://dx.doi.org/10.1037/0021-9010.91.2.475
+*Chandrasekaran A, Mishra A. (2012). Task design, team context, and psychological safety:
+       An empirical analysis of R&D projects in high technology organizations. Produc-
+       tion and Operations Management, 21, 977–996. http://dx.doi.org/10.1111/j.1937-
+       5956.2012.01329.x
+Chatman JA, Jehn KA. (1994). Assessing the relationship between industry characteristics
+       and organizational culture: How different can you be? Academy of Management
+       Journal, 37, 522–553. doi: 10.2307/256699
+
+                            M. LANCE FRAZIER ET AL.                                     153
+
+
+Chen G, Bliese PD, Mathieu JE. (2005). Conceptual framework and statistical procedures
+       for delineating and testing multilevel theories of homology. Organizational Research
+       Methods, 8, 375–409. http://dx.doi.org/10.1177/1094428105280056
+Chiaburu DS, Harrison DA. (2008). Do peers make the place? Conceptual synthesis and
+       meta-analysis of coworker effects on perceptions, attitudes, OCBs, and performance.
+       Journal of Applied Psychology, 93, 1082–1103. doi: 10.1037/0021-9010.93.5.1082
+*Chiaburu DS, Li N, Zheng X. (2011). Coworker influences on citizenship and taking
+       charge: Team-level processes and contingencies. Unpublished manuscript.
+*Chiu WCK, Leung H, Kong K, Lee C. (2011, April). Learning goal orientation and cre-
+       ativity: Role of psychological safety. Paper presented at the 26th Annual Conference
+       of the Society for Industrial & Organizational Psychology, Chicago, IL.
+*Choo AS. (2011). Impact of a stretch strategy on knowledge creation in quality im-
+       provement projects. IEEE Transactions on Engineering Management, 58, 87–96.
+       http://dx.doi.org/10.1109/TEM.2010.2048913
+Christian MS, Bradley JC, Wallace JC, Burke MJ. (2009). Workplace safety: A meta-
+       analysis of the roles of person and situation factors. Journal of Applied Psychology,
+       94, 1103–1127. http://psycnet.apa.org/doi/10.1037/a0016172
+Christian MS, Garza AS, Slaughter JE. (2011). Work engagement: A quantitative review
+       and test of its relations with task and contextual performance. P ERSONNEL P SY-
+       CHOLOGY , 64, 89–136. http://dx.doi.org/10.1111/j.1744-6570.2010.01203.x
+*Chughtai A, Buckley F. (2013). Exploring the impact of trust on research scientists’
+       work engagement. Personnel Review, 42, 396–421. http://dx.doi.org/10.1108/PR-
+       06-2011-0097
+Colquitt JA, Scott BA, LePine JA. (2007). Trust, trustworthiness, and trust propensity: A
+       meta-analytic test of their unique relationships with risk taking and job performance.
+       Journal of Applied Psychology, 92, 909–927. http://dx.doi.org/10.1037/0021-
+       9010.92.4.909
+*Coombe DD. (2010). Secure base leadership: A positive theory of leadership incorporat-
+       ing safety, exploration and positive action. Unpublished doctoral dissertation, Case
+       Western Reserve University.
+Costa PT, McCrae RR. (1992). Revised NEO personality inventory. Odessa, FL: Psycho-
+       logical Assessment Resources.
+Crampton SM, Wagner III JA. (1994). Percept-percept inflation in microroganizational
+       research: An investigation of prevalence and effect. Journal of Applied Psychology,
+       79, 67–76. http://dx.doi.org/10.1037/0021-9010.79.1.67
+Crant JM. (2000). Proactive behavior in organizations. Journal of Management Studies, 26,
+       435–462. http://dx.doi.org/10.1177/014920630002600304
+Cropanzano R, Mitchell MS. (2005). Social exchange theory: An interdisci-
+       plinary review. Journal of Management, 31, 874–900. http://dx.doi.org/10.1177/
+       0149206305279602
+Dalton DR, Aguinis H, Dalton CM, Bosco FA, Pierce CA. (2012). Revisiting
+       the file drawer problem in meta-analysis: An assessment of published and
+       nonpublished correlation matrices. P ERSONNEL P SYCHOLOGY, 65, 221–249.
+       http://dx.doi.org/10.1111/j.1744-6570.2012.01243.x
+*De Clercq D, Rius IB. (2007). Organizational commitment in Mexican small and medium-
+       sized firms: The role of work status, organizational climate, and entrepreneurial ori-
+       entation. Journal of Small Business Management, 45, 467–490. doi: 10.1111/j.1540-
+       627X.2007.00223.x
+De Dreu CKW, Weingart LR. (2003). Task versus relationship conflict, team performance,
+       and team member satisfaction: A meta-analysis. Journal of Applied Psychology, 88,
+       741–749. http://dx.doi.org/10.1037/0021-9010.88.4.741
+
+154                        PERSONNEL PSYCHOLOGY
+
+
+*De Hoogh AHBd, Greer JJ, Hartog DNd. (2011). Diabolical dictators or capable comman-
+        ders? Autocratic leaders, power struggles, and team performance. Paper presented
+        at the Annual Conference of Academy of Management, San Antonio, TX.
+*Detert JR, Burris ER. (2007). Leadership behavior and employee voice: Is the door
+        really open? Academy of Management Journal, 50, 869–884. http://dx.doi.org/
+        10.5465/AMJ.2007.26279183
+*Dowley A. (2006). Learning behaviors and psychological safety in nonprofit organiza-
+        tion boards of directors: An exploratory study. (Unpublished doctoral dissertation),
+        Alliant International University.
+Dudley NM, Orvis KA, Lebiecki JE, Cortina JM. (2006). A meta-analytic investigation of
+        conscientiousness in the prediction of job performance: Examining the intercorrela-
+        tions and the incremental validity of narrow traits. Journal of Applied Psychology,
+        91, 40–57. http://dx.doi.org/10.1037/0021-9010.91.1.40
+*Dufresne RL. (2007). Learning from critical incidents by ad hoc teams: The impacts of
+        team debriefing leader behaviors and psychological safety. (Unpublished doctoral
+        dissertation), Boston College.
+Dul J. (2016). Necessary condition analysis (NCA): Logic and methodology of “necessary
+        but not sufficient” causality. Organizational Research Methods, 19, 10–52. doi:
+        10.1177/1094428115584005
+Dulebohn JH, Bommer WH, Liden RC, Brouer RL, Ferris GR. (2012). A meta-anlaysis of
+        antecedents and consequences of leader-member exchange: Integrating the past
+        with an eye toward the future. Journal of Management, 38, 1715–1759. doi:
+        10.1177/0149206311415280
+Dweck CS. (1986). Motivational processes affecting learning. American Psychologist, 41,
+        1040–1048. http://dx.doi.org/10.1037/0003-066X.41.10.1040
+*Edmondson A. (1999). Psychological safety and learning behavior in work teams. Admin-
+        istrative Science Quarterly, 44, 350–383. http://dx.doi.org/10.2307/2666999
+Edmondson AC. (2002). The local and variegated nature of learning in or-
+        ganizations: A group-level perspective. Organization Science, 13, 128–146.
+        http://dx.doi.org/10.1287/orsc.13.2.128.530
+Edmondson AC. (2003a). Managing the risk of learning: Psychological safety in work
+        teams. In M West (Ed.), International handbook of organizational teamwork. Lon-
+        don, UK: Blackwell Publishing.
+Edmondson AC. (2003b). Speaking up in the operating room: How team leaders promote
+        learning in interdisciplinary action teams. Journal of Management Studies, 40, 1419–
+        1452. http://dx.doi.org/10.1111/1467-6486.00386
+Edmondson AC. (2004). Psychological safety, trust, and learning in organizations: A
+        group-level lens. In RM Kramer & KS Cook (Eds.), Trust and distrust in orga-
+        nizations: Dilemmas and approaches (239–272). New York, NY: Russell Sage
+        Foundation.
+Edmondson AC, Bohmer RM, Pisano GP. (2001). Disrupted routines: Team learning and
+        new technology implementation in hospitals. Administrative Science Quarterly, 46,
+        685–716. http://dx.doi.org/10.2307/3094828
+Edmondson AC, Lei Z. (2014). Psychological safety: The history, renaissance, and future of
+        an interpersonal construct. Annual Review of Organizational Psychology and Orga-
+        nizational Behavior, 1, 23–43. http://dx.doi.org/10.1146/annurev-orgpsych-031413-
+        091305
+*Edmondson AC, Mogelof JP. (2005). Explaining psychological safety in innovation teams:
+        Organizational culture, team dynamics, or personality? In LL Thompson & C Choi
+        (Eds.), Creativity and innovation in organizational teams (pp. 109–136). Mahwah,
+        NJ: Lawrence Erlbaum Associates.
+
+                            M. LANCE FRAZIER ET AL.                                     155
+
+
+Eisenberger R, Huntington R, Hutchison S, Sowa D. (1986). Perceived organizational sup-
+       port. Journal of Applied Psychology, 71, 500–507. http://dx.doi.org/10.1037/0021-
+       9010.71.3.500
+*Ellwart T, Bündgens S, Rack O. (2013). Managing knowledge exchange and identi-
+       fication in age diverse teams. Journal of Managerial Psychology, 28, 950–972.
+       http://dx.doi.org/10.1108/JMP-06-2013-0181
+*Erden Z, Von Krogh G, Kim S. (2012). Knowledge sharing in an online community of
+       volunteers: The role of community munificence. European Management Review, 9,
+       213–227. doi: 10.1111/j.1740-4762.2012.01039.x
+*Faraj S, Yan AM. (2009). Boundary work in knowledge teams. Journal of Applied Psy-
+       chology, 94, 604–617. http://dx.doi.org/10.1037/a0014367
+Fisher CD, To ML. (2012). Using experience sampling methodology in organizational
+       behavior. Journal of Organizational Behavior, 33, 865–877. doi: 10.1002/job.1803
+*Foo SC. (2008). Walking mood inductors: Group and individual influences on affective
+       linkages within teams. (Unpublished master’s thesis for master’s degree), Pennsyl-
+       vania State University.
+Frazier ML, Bowler WM. (2015). Voice climate, supervisor undermining, and work
+       outcomes: A group-level examination. Journal of Management, 41, 841–863.
+       http://dx.doi.org/10.1177/0149206311434533
+Frazier ML, Fainshmidt S. (2012). Voice climate, work outcomes, and the mediating role of
+       psychological empowerment: A multi-level examination. Group and Organization
+       Management, 37, 691–715. http://dx.doi.org/10.1177/1059601112463960
+Frese M, Zapf D. (1988). Methodological issues in the study of work and stress: Objective
+       vs. subjective measurement of stress at work and the question of longitudinal studies.
+       In CL Cooper & R Payne (Eds.), Causes, coping, and consequences of stress at work
+       (pp. 375–411). Chichester, UK: Wiley.
+Fuller JB, Marler LE. (2009). Change driven by nature: A meta-analytic review of the
+       proactive personality literature. Journal of Vocational Behavior, 75, 329–345.
+       http://dx.doi.org/10.1016/j.jvb.2009.05.008
+Geyskens I, Krishnan R, Steenkamp J-BEM, Cunha PV. (2009). A review and evaluation
+       of meta-analysis practices in management research. Journal of Management, 35,
+       393–419. http://dx.doi.org/10.1177/0149206308328501
+*Ghitulescu BE. (2007). Shaping tasks and relationships at work: Examining the an-
+       tecedents and consequences of employee job crafting. (Unpublished doctoral dis-
+       sertation), University of Pittsburgh.
+*Ghosh R, Shuck B, Petrosko J. (2012). Emotional intelligence and organizational learn-
+       ing in work teams. The Journal of Management Development, 31, 603–619.
+       http://dx.doi.org/10.1108/02621711211230894
+*Gibson CB, Gibbs JL. (2006). Unpacking the concept of virtuality: The effects of
+       geographic dispersion, electronic dependence, dynamic structure, and national
+       diversity on team innovation. Administrative Science Quarterly, 51, 451–495. doi:
+       10.2189/asqu.51.3.451
+*Gissel JL. (2010). Impact of psychological safety and professional skepticism on private
+       information sharing during SAS 99 brainstorming. (Unpublished doctoral disserta-
+       tion), University of Wisconsin–Madison.
+*Gockel C. (2007). Effects of put-down humor on cohesion in groups. (Unpublished doctoral
+       dissertation), Michigan State University.
+*Gong Y, Cheung SY, Wang M, Huang JC. (2012). Unfolding the proactive process
+       for creativity: Integration of the employee proactivity, information exchange,
+       and psychological safety perspectives. Journal of Management, 38, 1611–1633.
+       http://dx.doi.org/10.1177/0149206310380250
+
+156                        PERSONNEL PSYCHOLOGY
+
+
+Gouldner AW. (1960). The norm of reciprocity: A preliminary statement. American Soci-
+       ological Review, 25, 161–178. doi: 10.2307/2092623
+Graen GB, Uhl-Bien M. (1995). Relationship-based approach to leadership: Develop-
+       ment of leader-member exchange (LMX) theory of leadership over 25 years: Ap-
+       plying a multi-level multi-domain perspective. Leadership Quarterly, 6, 219–247.
+       http://dx.doi.org/10.1016/1048-9843(95)90036-5
+Grant AM, Ashford SJ. (2008). The dynamics of proactivity at work. Research in Organi-
+       zational Behavior, 28, 3–34. doi: 10.1016/j.riob.2008.04.002
+*Greenbaum RL, Hill A, Eissa G. (2011, August). Machiavellianism to unethical behavior:
+       An examination of moderators. Paper presented at the Annual Conference of the
+       Academy of Management, San Antonio, TX.
+Greenberg J. (1987). The college sophomore as guinea pig: Setting the record
+       straight. Academy of Management Review, 12, 157–159. http://dx.doi.org/10.5465/
+       AMR.1987.4306516
+Griffin RW, O’Leary-Kelly AM. (2004). The dark side of organizational behavior. San
+       Francisco, CA: Jossey-Bass.
+*Gu Q, Wang GG, Wang L. (2013). Social capital and innovation in R&D teams: The medi-
+       ating roles of psychological safety and learning from mistakes. R & D Management,
+       43, 89–102. http://dx.doi.org/10.1111/radm.12002
+Hackman JR, Oldham GR. (1976). Motivation through the design of work: Test
+       of a theory. Organizational Behavior and Human Performance, 16, 250–279.
+       http://dx.doi.org/10.1016/0030-5073(76)90016-7
+*Halbesleben JRB, Rathert C. (2008). The role of continuous quality improvement and
+       psychological safety in predicting work-arounds. Health Care Management Review,
+       33, 134–144. http://dx.doi.org/10.1097/01.HMR.0000304505.04932.62
+Heavey AL, Holwerda JA, Hausknecht JP. (2013). Causes and consequences of collective
+       turnover: A meta-analytic review. Journal of Applied Psychology, 98, 412–433.
+       http://dx.doi.org/10.1037/a0032380
+*Hetzner S, Gartmeier M, Heid H, Gruber H. (2011). Error orientation and reflection at
+       work. Vocations and Learning, 4, 25–39. doi: 10.1007/s12186-010-9047-0
+*Hirak R, Peng AC, Carmeli A, Schaubroeck JM. (2012). Linking leader inclusive-
+       ness to work unit performance: The importance of psychological safety and
+       learning from failures. Leadership Quarterly, 23, 107–117. http://dx.doi.org/10.
+       1016/j.leaqua.2011.11.009
+Hochwarter WA, Witt L, Treadway DC, Ferris GR. (2006). The interaction of social skill
+       and organizational support on job performance. Journal of Applied Psychology, 91,
+       482–489. http://dx.doi.org/10.1037/0021-9010.91.2.482
+Hofstede G. (1980). Culture’s consequences: International differences in work-related
+       values. Beverly Hills, CA: Sage Publications.
+Hofstede G. (2001). Culture’s consequences: Comparing values, behaviors, institutions
+       and organizations across nations (2nd ed.). Thousand Oaks, CA: Sage Publications.
+Hong Y, Liao H, Hu J, Jiang K. (2013). Missing link in the service profit chain: A meta-
+       analytic review of the antecedents, consequences, and moderators of service climate.
+       Journal of Applied Psychology, 98, 237–267. http://dx.doi.org/10.1037/a0031666
+*Huang C, Jiang P. (2012). Exploring the psychological safety of R&D teams: An em-
+       pirical analysis in Taiwan. Journal of Management & Organization, 18, 175–192.
+       http://dx.doi.org/10.1017/S1833367200000948
+Hubbard R, Armstrong JS. (1997). Publication bias against null results. Psychological
+       Reports, 80, 337–338. doi: 10.2466/pr0.1997.80.1.337
+
+                            M. LANCE FRAZIER ET AL.                                    157
+
+
+Hülsheger UR, Anderson N, Salgado JF. (2009). Team-level predictors of innovation at
+        work: A comprehensive meta-analysis spanning three decades of research. Journal
+        of Applied Psychology, 94, 1128–1145. http://dx.doi.org/10.1037/a0015978
+Humphrey SE, Nahrgang JD, Morgeson FP. (2007). Integrating motivational, social,
+        and work design features: A meta-analytic summary and theoretical extension
+        of the work design literature. Journal of Applied Psychology, 92, 1332–1356.
+        http://dx.doi.org/10.1037/0021-9010.92.5.1332
+Hunter JE, Schmidt FL. (2004). Methods of meta-analysis: Correcting error and bias in
+        research findings. Thousand Oaks, CA: Sage Publications, Inc.
+*Hutt GK. (2007). Experiential learning spaces: Hermetic transformational leadership
+        for psychological safety, consciousness development and math anxiety related infe-
+        riority complex depotentiation. (Unpublished doctoral dissertation), Case Western
+        Reserve University.
+Ilgen DR, Hollenbeck JR. (1991). The structure of work: Job design and roles. In MD Dun-
+        nette & LM Hough (Eds.), Handbook of industrial and organizational psychology
+        (Vol. 2, 2nd ed., pp. 165–207). Palo Alto, CA: Consulting Psychologists Press.
+Ipsos. (2012). Mental well-being in the workplace, from http://www.ipsos-na.com
+*Jefferson Jr T. (2009). Assessing the impact of media richness and leadership behaviors
+        on team-based outcomes. (Unpublished doctoral dissertation), Pennsylvania State
+        University.
+Jehn KA. (1994). Enhancing effectiveness: An investigation of advantages and disadvan-
+        tages of value-based intragroup conflict. International Journal of Conflict Manage-
+        ment, 5, 223–238. http://dx.doi.org/10.1108/eb022744
+Jehn KA. (1995). A multimethod examination of the benefits and detriments
+        of intragroup conflict. Administrative Science Quarterly, 40, 256–282.
+        http://dx.doi.org/10.2307/2393638
+*Johnson SL. (2008). Impact of leadership on continued participation in online groups.
+        (Unpublished doctoral dissertation), University of Maryland.
+Judge TA, Bono JE, Locke EA. (2000). Personality and job satisfaction: The medi-
+        ating role of job characteristics. Journal of Applied Psychology, 85, 237–249.
+        http://dx.doi.org/10.1037/0021-9010.85.2.237
+Judge TA, Rodell JB, Klinger RL, Simon LS, Crawford ER. (2013). Hierarchical repre-
+        sentations of the five-factor model of personality in predicting job performance:
+        Integrating three organizing frameworks with two theoretical perspectives. Journal
+        of Applied Psychology, 98, 875–925. http://dx.doi.org/10.1037/a0033901
+Kahn WA. (1990). Psychological conditions of personal engagement and dis-
+        engagement at work. Academy of Management Journal, 33, 692–724.
+        http://dx.doi.org/10.2307/256287
+Kahn WA. (1992). To be fully there: Psychological presence at work. Human Relations,
+        45, 321–349. http://dx.doi.org/10.1177/001872679204500402
+Kanfer R. (1990). Motivation theory and industrial/organizational psychology. In MD
+        Dunnette & LM Hough (Eds.), Handbook of industrial and organizational psy-
+        chology (2nd ed., Vol. 1, pp. 75–170). Palo Alto, CA: Consulting Psychologists
+        Press.
+*Kark R, Carmeli A. (2009). Alive and creating: The mediating role of vitality and aliveness
+        in the relationship between psychological safety and creative work involvement.
+        Journal of Organizational Behavior, 30, 785–804. doi: 10.1002/job.571
+*Kayes DC. (2001). Experiential learning in teams: A study in learning style, group process
+        and integrative complexity in ad hoc groups. (Unpublished doctoral dissertation),
+        Case Western Reserve University.
+
+158                         PERSONNEL PSYCHOLOGY
+
+
+*Kayes DC. (2006). From climbing stairs to riding waves: Group critical thinking
+       and its development. Small Group Research, 37, 612–630. http://dx.doi.org/10.
+       1177/1046496406294321
+Kepes S, McDaniel MA, Brannick MT, Banks GC. (2013). Meta-analytic reviews in the
+       organizational sciences: Two meta-analytic schools on the way to MARS (the meta-
+       analytic reporting standards. Journal of Business and Psychology, 28, 123–143.
+       http://dx.doi.org/10.1007/s10869-013-9300-2
+*Kessel M, Kratzer J, Schultz C. (2012). Psychological safety, knowledge sharing, and
+       creative performance in healthcare teams. Creativity and Innovation Management,
+       21, 147–157. doi: 10.1111/j.1467-8691.2012.00635.x
+Kim PH, Cooper CD, Dirks KT, Ferrin DL. (2013). Repairing trust with individuals
+       vs. groups. Organizational Behavior and Human Decision Processes, 120, 1–14.
+       http://dx.doi.org/10.1016/j.obhdp.2012.08.004
+*Kirkman BL, Mathieu JE, Cordery JL, Rosen B, Kukenberger M. (2011). National diver-
+       sity and organizational community of practice performance: The moderating effects
+       of psychological safety and media richness. Unpublished manuscript.
+Kline RB. (1998). Principles and practice of structural equation modeling. New York, NY:
+       Guilford.
+Kohli AK, Jaworksi BJ. (1994). The influence of coworker feedback on salespeople. Journal
+       of Marketing, 58, 82–94. http://dx.doi.org/10.2307/1251918
+*Kostopoulos KC, Bozionelos N. (2011). Team exploratory and exploitative learning:
+       Psychological safety, task conflict, and team performance. Group & Organization
+       Management, 36, 385–415. doi: 10.1177/1059601111405985
+*Lam N. (2010). Passing the baton: Middle managers as conduits of employee
+       improvement-oriented voice. (Unpublished doctoral dissertation), New York Uni-
+       versity, Graduate School of Business Administration.
+Landis RS. (2013). Successfully combining meta-analysis and structural equation mod-
+       eling: Recommendations and strategies. Journal of Business and Psychology, 28,
+       251–261. http://dx.doi.org/10.1007/s10869-013-9285-x
+*Lau DC, Murnighan JK. (2005). Interactions within groups and subgroups: The effects
+       of demographic faultlines. Academy of Management Journal, 48, 645–659. doi:
+       10.5465/AMJ.2005.17843943
+*Lee JY, Swink M, Pandejpong T. (2011). The role of worker expertise, information
+       sharing quality, and psychological safety in manufacturing process innovation: An
+       intellectual capital perspective. Production and Operations Management, 20, 556–
+       570. doi: 10.1111/j.1937-5956.2010.01172.x
+LePine JA, Buckman BR, Crawford ER, Methot JR. (2011). A review of re-
+       search on personality in teams: Accounting for pathways spanning levels
+       of theory and analysis. Human Resource Management Review, 21, 311–330.
+       http://dx.doi.org/10.1016/j.hrmr.2010.10.004
+*Leroy H, Dierynck B, Anseel F, Simons T, Halbesleben JRB, McCaughey D, Savage
+       GT, Sels L. (2012). Behavioral integrity for safety, priority of safety, psychological
+       safety, and patient safety: A team level study. Journal of Applied Psychology, 97,
+       1273–1281. http://dx.doi.org/10.1037/a0030076
+Levashina J, Hartwell CJ, Morgeson FP, Campion MA. (2014). The structured employment
+       interview: Narrative and quantitative review of the research literature. P ERSONNEL
+       P SYCHOLOGY, 67, 241–293. http://dx.doi.org/10.1111/peps.12052
+Levinson H. (1965). Reciprocation: The relationship between man and organization. Ad-
+       ministrative Science Quarterly, 9, 370–390. http://dx.doi.org/10.2307/2391032
+
+                            M. LANCE FRAZIER ET AL.                                    159
+
+
+*Li AN, Tan HH. (2013). What happens when you trust your supervisor? Mediators of
+       individual performance in trust relationships. Journal of Organizational Behavior,
+       34, 407–425. doi: 10.1002/job.1812
+*Li N, Yan J. (2009). The effects of trust climate on individual performance. Frontiers of
+       Business Research in China, 3, 27–49. doi: 10.1007/s11782-009-0002-6
+*Liang J, Farh C, Farh J. (2012). Psychological antecedents of promotive and prohibitive
+       voice: A two-wave examination. Academy of Management Journal, 55, 71–92.
+       http://dx.doi.org/10.5465/amj.2010.0176
+*Madjar N, Ortiz-Walters R. (2009). Trust in supervisors and trust in customers: Their
+       independent, relative, and joint effects on employee performance and creativity.
+       Human Performance, 22, 128–142. http://dx.doi.org/10.1080/08959280902743501
+*Malik ME, Danish RQ, Munir Y. (2012). Determinants of learning organization
+       in higher education institutes of Pakistan: A correlational study. Interna-
+       tional Journal of Innovation, Management and Technology, 3, 117–120. doi:
+       10.7763/IJIMT.2012.V3.208
+*Marone J, Tesluk P. (2008, April). A study of shared mental models team expertise.
+       Paper presented at the 23rd Annual Conference of the Society for Industrial and
+       Organizational Psychology, San Francisco, CA.
+*May DR, Gilson RL, Harter LM. (2004). The psychological conditions of mean-
+       ingfulness, safety and availability and the engagement of the human spirit
+       at work. Journal of Occupational and Organizational Psychology, 77, 11–37.
+       http://dx.doi.org/10.1348/096317904322915892
+Mayer RC, Davis JH, Schoorman FD. (1995). An integrative model of organiza-
+       tional trust. Academy of Management Review, 20, 709–734. http://dx.doi.org/
+       10.5465/AMR.1995.9508080335
+Mayer RC, Gavin MB. (2005). Trust in management and performance: Who minds the
+       shop while the employees watch the boss? The Academy of Management Journal,
+       48, 874–888. http://dx.doi.org/10.5465/AMJ.2005.18803928
+Meyer JP, Allen NJ. (1991). A three-component conceptualization of organizational
+       commitment. Human Resource Management Review, 1, 61–89. http://dx.doi.org/
+       10.1016/1053-4822(91)90011-Z
+Morrow SL, McGonagle AK, Dove-Steinkamp ML, Walker Jr CT, Marmet M, Barnes-
+       Farrell JL. (2010). Relationships between psychological safety climate facets and
+       safety behavior in the rail industry: A dominance analysis. Accident Analysis and
+       Prevention, 42, 1460–1467. doi: 10.1016/j.aap.2009.08.011
+*Mu SH, Gnyawali DR. (2003). Developing synergistic knowledge in student groups.
+       Journal of Higher Education, 74, 689–711. doi: 10.1353/jhe.2003.0040
+Nahrgang JD, Morgeson FP, Hofmann DA. (2011). Safety at work: A meta-analytic
+       investigation of the link between job demands, job resources, burnout, en-
+       gagement, and safety outcomes. Journal of Applied Psychology, 96, 71–94.
+       http://dx.doi.org/10.1037/a0021484
+Naumann SE, Bennett N. (2000). A case of procedural justice climate: Development and
+       test of a multilevel model. Academy of Management Journal, 43, 881–889. doi:
+       10.2307/1556416
+*Nemanich LA, Vera D. (2009). Transformational leadership and ambidexterity in
+       the context of an acquisition. Leadership Quarterly, 20, 19–33. http://dx.doi.org/10.
+       1016/j.leaqua.2008.11.002
+*Nembhard IM. (2007). Organizational learning in health care: A multi-method study of
+       quality improvement collaboratives. (Unpublished doctoral dissertation), Harvard
+       University.
+
+160                         PERSONNEL PSYCHOLOGY
+
+
+*Nembhard IM, Edmondson AC. (2006). Making it safe: The effects of leader inclusiveness
+      and professional status on psychological safety and improvement efforts in health
+      care teams. Journal of Organizational Behavior, 27, 941–966. doi: 10.1002/job.413
+Nembhard IM, Edmondson AC. (2011). Psychological safety: A foundation for speaking
+      up, collaboration, and experimentation. In KS Cameron, GM Spreitzer (Eds.), The
+      Oxford handbook of positive organizational scholarship (pp. 490–503). Oxford,
+      UK: Oxford University Press.
+*Nicholson G, Newton C, McGregor-Lowndes M. (2012). The nonprofit board as a team:
+      Pilot results and initial insights. Nonprofit Management and Leadership, 22, 461–
+      481. doi: 10.1002/nml.21040
+Nicholson N, Soane E, Fenton-O’Creevy M, Willman P. (2005). Personality and
+      domain-specific risk taking. Journal of Risk and Research, 8, 157–176.
+      http://dx.doi.org/10.1080/1366987032000123856
+Offermann LR, Hellmann PS. (1997). Culture’s consequences for leadership behavior:
+      National values in action. Journal of Cross-Cultural Psychology, 28, 342–351.
+      http://dx.doi.org/10.1177/0022022197283008
+Ofori-Dankwa J, Julian SD. (2001). Complexifying organizational theory: Illustra-
+      tions using time research. Academy of Management Review, 26, 415–430.
+      http://dx.doi.org/10.5465/AMR.2001.4845809
+*O’Neill OA. (2009). Workplace expression of emotions and escalation of commit-
+      ment. Journal of Applied Social Psychology, 39, 2396–2424. doi: 10.1111/j.1559-
+      1816.2009.00531.x
+*O’Neill BS, Arendt LA. (2008). Psychological climate and work attitudes. Journal
+      of Leadership & Organizational Studies, 14, 353–370. http://dx.doi.org/10.1177/
+      1548051808315553
+Organ DW. (1988). OCB: The good soldier syndrome. Lexington MA: Lexington Book.
+*Ormond WE. (2003). Thinking ahead: A system approach to understanding individual
+      leadership capacity and performance effectiveness in organizations. (Unpublished
+      doctoral dissertation), University of Calgary.
+*Ortega A, Sanchez-Manzanares M, Gil F, Rico R. (2010). Team learning and effectiveness
+      in virtual project teams: The role of beliefs about interpersonal context. Spanish Jour-
+      nal of Psychology, 13, 267–276. http://dx.doi.org/10.1017/S113874160000384X
+*Owens B, McCornack A. (2010, August). The influence of humility on team psychological
+      safety, cohesion, task allocation effectiveness, efficacy, and performance. Paper
+      presented at the Annual Academy of Management Conference, Montreal, Canada.
+*Ozcelik H. (2004). Emotional fit in the workplace: Its psychological and behavioral
+      outcomes. (Unpublished doctoral dissertation), Bosphorus University.
+*Pacharapha T, Vichita VR. (2012). Knowledge acquisition: The roles of perceived value
+      of knowledge content and source. Journal of Knowledge Management, 16, 724–739.
+      http://dx.doi.org/10.1108/13673271211262772
+*Palanski ME, Vogelgesang GR. (2011). Virtuous creativity: The effects of leader be-
+      havioural integrity on follower creative thinking and risk taking. Canadian Journal
+      of Administrative Sciences-Revue Canadienne Des Sciences De L Administration,
+      28, 259–269. doi: 10.1002/cjas.219
+*Pandejpong T. (2008). Impact of invention-to-implementation distance on manufacturing
+      process implementation performance: Does the implementation team’s ability to
+      learn matter? (Unpublished doctoral dissertation), Michigan State University.
+*Paunova M, Lee YT. (2011, August). Learning goal orientation and leadership emergence
+      in multicultural teams: A moderated process model. Paper presented at the Annual
+      Conference of Academy of Management, San Antonio, TX.
+
+                           M. LANCE FRAZIER ET AL.                                    161
+
+
+Payne SC, Youngcourt SS, Beaubien JM. (2007). A meta-analytic examination of the
+        goal orientation nomological net. Journal of Applied Psychology, 92, 128–150. doi:
+        10.1037/0021-9010.92.1.128
+*Pearsall MJ, Ellis APJ. (2011). Thick as thieves: The effects of ethical orientation and
+        psychological safety on unethical team behavior. Journal of Applied Psychology,
+        96, 401–411. http://dx.doi.org/10.1037/a0021503
+Pelletier KL, Bligh MC. (2006). Rebounding from corruption: Perceptions of ethics pro-
+        gram effectiveness in a public sector organization. Journal of Business Ethics, 67,
+        359–374. doi: 10.1007/s10551-006-9027-3
+*Peltokorpi V. (2004). Transactive memory directories in small work units. Personnel
+        Review, 33, 446–467. http://dx.doi.org/10.1108/00483480410539515
+Perry-Smith JE. (2006). Social yet creative: The role of social relationships in fa-
+        cilitating individual creativity. Academy of Management Journal, 49, 85–101.
+        http://dx.doi.org/10.2307/20159747
+Podsakoff PM, MacKenzie SB, Lee JY, Podsakoff NP. (2003). Common method bias in
+        behavioral research: A critical review of the literature and recommended reme-
+        dies. Journal of Applied Psychology, 88, 879–903. http://dx.doi.org/10.1037/0021-
+        9010.88.5.879
+Podsakoff PM, MacKenzie SB, Podsakoff NP. (2012). Sources of method bias in social
+        science research and recommendations on how to control it. Annual Review of
+        Psychology, 63, 539–569. doi: 10.1146/annurev-psych-120710-100452
+Podsakoff NP, Whiting SW, Podsakoff PM, Blume BD. (2009). Individual- and
+        organizational-level consequences of organizational citizenship behaviors: A meta-
+        analysis. Journal of Applied Psychology, 94, 122–141. http://dx.doi.org/10.1037/
+        a0013079
+*Post C. (2012). Deep-level team composition and innovation: The mediating roles of
+        psychological safety and cooperative learning. Group & Organization Management,
+        37, 555–588. doi:10.1177/1059601112456289
+Ragin CC. (2000). Fuzzy-set social science. Chicago, IL: University of Chicago Press
+*Rathert C, Ishqaidef G, May DR. (2009). Improving work environments in health care:
+        Test of a theoretical framework. Health Care Management Review, 34, 334–343.
+        http://dx.doi.org/10.1097/HMR.0b013e3181abce2b
+Rhoades L, Eisenberger R. (2002). Perceived organizational support: A review of the liter-
+        ature. Journal of Applied Psychology, 87, 698–714. http://dx.doi.org/10.1037/0021-
+        9010.87.4.698
+Rich BL, LePine JA, Crawford ER. (2010). Job engagement: Antecedents and ef-
+        fects on job performance. Academy of Management Journal, 53, 617–635.
+        http://dx.doi.org/10.5465/AMJ.2010.51468988
+*Roberge ME. (2007). When and how does diversity increase group performance? A
+        theoretical model followed by an experimental study. (Unpublished doctoral disser-
+        tation), Ohio State University.
+Rosenthal R. (1979). The file drawer problem and tolerance for null results. Psychological
+        Bulletin, 86, 638–641. http://dx.doi.org/10.1037/0033-2909.86.3.638
+*Rothmann S, Welsh C. (2013). Employee engagement: The role of psychological condi-
+        tions. Management Dynamics, 22, 14–25.
+Rousseau D. (1985). Issues of level in organizational research: Multilevel and cross-level
+        perspectives. In LL Cummings & BM Staw (Eds.), Research in organizational
+        behavior (Vol. 7, pp. 1–37). Greenwich, CT: JAI Press.
+*Roussin CJ, Webber SS. (2012). Impact of organizational identification and psychological
+        safety on initial perceptions of coworker trustworthiness. Journal of Business and
+        Psychology, 27, 317–329. doi:10.1007/s10869-011-9245-2
+
+162                        PERSONNEL PSYCHOLOGY
+
+
+Saks AM. (2006). Antecedents and consequences of employee engagement.
+       Journal of Managerial Psychology, 7, 600–619. http://dx.doi.org/10.1108/
+       02683940610690169
+*Schaubroeck J, Lam SSK, Peng ACY. (2011). Cognition-based and affect-based trust as
+       mediators of leader behavior influences on team performance. Journal of Applied
+       Psychology, 96, 863–871. http://dx.doi.org/10.1037/a0022625
+Schein EH. (1985). Organizational culture and leadership. San Francisco, CA: Jossey-Bass.
+Schein EH. (1993). How can organizations learn faster? The challenge of entering the green
+       room. Sloan Management Review, 34, 85–92.
+Schein EH, Bennis WG. (1965). Personal and organizational change through group meth-
+       ods: The laboratory approach. New York, NY: Wiley.
+*Schepers J, de Jong A, Wetzels M, de Ruyter K. (2008). Psychological safety and social
+       support in groupware adoption: A multi-level assessment in education. Computers
+       & Education, 51, 757–775. http://dx.doi.org/10.1016/j.compedu.2007.08.001
+Schmidt FL, Hunter JE. (1977). Development of a general solution to the prob-
+       lem of validity generalization. Journal of Applied Psychology, 62, 529–540.
+       http://dx.doi.org/10.1037/0021-9010.62.5.529
+*Schulte M, Cohen NA, Klein KJ. (2012). The coevolution of network ties and perceptions
+       of team psychological safety. Organization Science, 23, 564–581. http://dx.doi.
+       org/10.1287/orsc.1100.0582
+Seibert SE, Crant JM, Kraimer ML. (1999). Proactive personality and career suc-
+       cess. Journal of Applied Psychology, 84, 416–427. http://dx.doi.org/10.1037/0021-
+       9010.62.5.529
+Seibert SE, Wang G, Courtright SH. (2011). Antecedents and consequences of psycholog-
+       ical and team empowerment in organizations: A meta-analytic review. Journal of
+       Applied Psychology, 96, 981–1003. http://dx.doi.org/10.1037/a0022676
+*Siemsen E, Roth AV, Balasubramanian S, Anand G. (2009). The influence of psy-
+       chological safety and confidence in knowledge on employee knowledge sharing.
+       Manufacturing & Service Operations Management, 11, 429–447. http://dx.doi.
+       org/10.1287/msom.1080.0233
+*Singh B, Winkel DE. (2012). Racial differences in helping behaviors: The role of
+       respect, safety and identification. Journal of Business Ethics, 106, 467–477.
+       doi:10.1007/s10551-011-1011-x
+*Singh B, Winkel DE, Selvarajan TT. (2013). Managing diversity at work: Does psychologi-
+       cal safety hold the key to racial differences in employee performance? Journal of Oc-
+       cupational and Organizational Psychology, 86, 242–263. doi: 10.1111/joop.12015
+*Soares AE, Lopes MP. (2012, August). The influence of social networks on the team’s
+       psychological safety. Paper presented at the Annual Conference of Academy of
+       Management, Boston, MA.
+Spector PE, Brannick MT. (2011). Methodological urban legends: The misuse of
+       statistical control variables. Organizational Research Methods, 14, 287–305.
+       http://dx.doi.org/10.1177/1094428110369842
+Spreitzer GM. (1995). Psychological empowerment in the workplace: Dimensions, mea-
+       surement, and validation. Academy of Management Journal, 38, 1442–1465. doi:
+       10.2037/256865
+*Stalmeijer RE, Gijselaers WH, Wolfhagen I, Harendza S, Scherpbier A. (2007). How
+       interdisciplinary teams can create multi-disciplinary education: the interplay be-
+       tween team processes and educational quality. Medical Education, 41, 1059–1066.
+       http://dx.doi.org/10.1111/j.1365-2923.2007.02898.x
+
+                            M. LANCE FRAZIER ET AL.                                     163
+
+
+Swann WB, Read SJ. (1981). Self-verification processes: How we sustain our
+        self-conceptions. Journal of Experimental Social Psychology, 17, 351–372.
+        http://dx.doi.org/10.1016/0022-1031(81)90043-3
+*Tangirala S, Kamdar D, Venkataramani V, Parke MR. (2013). Doing right versus get-
+        ting ahead: The effects of duty and achievement orientations on employees’ voice.
+        Journal of Applied Psychology, 98, 1040–1050. http://dx.doi.org/10.1037/a0033855
+Taras V, Kirkman BL, Steel P. (2010). Examining the impact of Culture’s consequences:
+        A three-decade, multilevel, meta-analytic review of Hofstede’s value dimensions.
+        Journal of Applied Psychology, 95, 405–439. doi: 10.1037/a0018938
+Taras V, Steel P, Kirkman BL. (2012). Improving national cultural indices using a lon-
+        gitudinal meta-analysis of Hofstede’s dimensions. Journal of World Business, 47,
+        329–341. doi: 10.1016/j.jwb.2011.05.001
+Theobald R. (1990). Corruption, development and underdevelopment. Durham, NC: Duke
+        University Press.
+Thoits PA. (1995). Stress, coping, and social support processes: Where are we? What next?
+        Journal of Health and Social Behavior, 35, 53–79. doi: 10.2307/2626957
+Tomlinson EC, Mayer RC. (2009). The role of causal attribution dimensions in trust repair.
+        Academy of Management Review, 34, 85–104. doi: 10.5465/AMR.2009.35713291
+*Tröster C, Van Knippenberg D. (2012). Leader openness, nationality dissimilarity, and
+        voice in multinational management teams. Journal of International Business Studies,
+        43, 591–613. doi: 10.1057/jibs.2012.15
+Tubre TC, Collins JM. (2000). Jackson and Schuler (1985) revisited: A meta-analysis of the
+        relationships between role ambiguity, role conflict, and job performance. Journal of
+        Management, 26, 155–169. doi: 10.1177/014920630002600104
+*Tucker AL. (2007). An empirical study of system improvement by frontline employees
+        in hospital units. Manufacturing & Service Operations Management, 9, 492–505.
+        http://dx.doi.org/10.1287/msom.1060.0156
+*Tucker AL, Nembhard IM, Edmondson AC. (2007). Implementing new practices: An em-
+        pirical study of organizational learning in hospital intensive care units. Management
+        Science, 53, 894–907. http://dx.doi.org/10.1287/mnsc.1060.0692
+*Tynan R. (2005). The effects of threat sensitivity and face giving on dyadic psychological
+        safety and upward communication. Journal of Applied Social Psychology, 35, 223–
+        247. doi: 10.1111/j.1559-1816.2005.tb02119.x
+*Ulloa BCR, Adams SG. (2004). Attitude toward teamwork and effective team-
+        ing. Team Performance Management, 10, 145–151. http://dx.doi.org/10.1108/
+        13527590410569869
+*van der Rijt J, van de Wiel MWJ, Van den Bossche P, Segers MSR, Gijselaers WH.
+        (2012). Contextual antecedents of informal feedback in the workplace. Human
+        Resource Development Quarterly, 23, 233–257. doi: 10.1002/hrdq.21129
+Van Dyne L, LePine JA. (1998). Helping and voice extra-role behaviors: Evidence of
+        construct and predictive validity. Academy of Management Journal, 41, 108–119.
+        http://dx.doi.org/10.2307/256902
+*van Gennip N, Gijbels D, Segers M, Tillema H. (2010). Reactions to 360 feed-
+        back: The role of trust and trust-related variables. International Journal of
+        Human Resources Development and Management, 10, 362–379. http://dx.doi.
+        org/10.1504/IJHRDM.2010.036088
+*van Gennip NAE, Segers MSR, Tillema HH. (2010). Peer assessment as a collaborative
+        learning activity: The role of interpersonal variables and conceptions. Learning and
+        Instruction, 20, 280–290. http://dx.doi.org/10.1016/j.learninstruc.2009.08.010
+
+164                        PERSONNEL PSYCHOLOGY
+
+
+Van Maanen J, Schein EH. (1977). Toward a theory of organizational socialization. In Staw
+      BM (Ed.), Research in organizational behavior (Vol. 1, pp. 209–264). Greenwich,
+      CT: JAI Press.
+*Vandree K, Silva ND. (2007, April). Predicting individual creative performance from
+      contextual factors. Paper presented at the 22nd Annual Conference of the Society
+      for Industrial and Organizational Psychology, New York City.
+*Vashdi DR. (2013). Teams in public administration: A field study of team feedback and ef-
+      fectiveness in the Israeli public healthcare system. International Public Management
+      Journal, 16, 275–306. doi:10.1080/10967494.2013.817255
+Viechtbauer W. (2010). Conducting meta-analyses in R with the metafor package. Journal
+      of Statistical Software, 36, 1–48. http://dx.doi.org/10.18637/jss.v036.i03
+Viswesvaran C, Ones D. (1995). Theory testing: Combining psychometric meta-analysis
+      and structural equations modeling. P ERSONNEL P SYCHOLOGY, 48, 865–885.
+      http://dx.doi.org/10.1111/j.1744-6570.1995.tb01784.x
+*Vogelgesang GR. (2008). How leader interactional transparency can impact follower
+      psychological safety and role engagement. (Unpublished doctoral dissertation), Uni-
+      versity of Nebraska Lincoln.
+*Walumbwa FO, Schaubroeck J. (2009). Leader personality traits and employee voice
+      behavior: Mediating roles of ethical leadership and work group psychological safety.
+      Journal of Applied Psychology, 94, 1275–1286. http://dx.doi.org/10.1037/a0015848
+*Wang M, Lee C. (2012, August). Do job demands matter to adaptive selling behavior?
+      Paper presented at the Annual Conference of Academy of Management, Boston,
+      MA.
+*Wang J, Leung K. (2011, August). The antecedents and consequents of individual psycho-
+      logically safe communication climate. Paper presented at the Annual Conference of
+      Academy of Management, San Antonio, TX.
+Wang G, Oh I, Courtright SH, Colbert AE. (2011). Transformational leadership and
+      performance across criteria and levels: A meta-analytic review of 25 years
+      of research. Group & Organization Management, 36, 223–270. doi: 10.1177/
+      1059601111401017
+*Wen P, Cheng C. (2011, August). Why does supervisory mentoring work? The mediating
+      role of psychological safety. Paper presented at the Annual Conference of Academy
+      of Management, San Antonio, TX.
+White LA, Young M, Hunter AE, Rumsey MG. (2008). Lessons learned in transitioning
+      personality measures from research to operational settings. Industrial and Organiza-
+      tional Psychology, 1, 291–295. http://dx.doi.org/10.1111/j.1754-9434.2008.00049.x
+Whitener EM. (1990). Confusion of confidence intervals and credibility intervals in
+      meta-analysis. Journal of Applied Psychology, 75, 315–321. http://dx.doi.org/
+      10.1037/0021-9010.75.3.315
+Wiesenfeld BM, Raghuram S, Garud R. (2001). Organizational identification among
+      virtual workers: The role of need for affiliation and perceived work-based so-
+      cial support. Journal of Management, 27, 213–229. http://dx.doi.org/10.1177/
+      014920630102700205
+Wilkens R, London M. (2006). Relationships between climate, process, and performance
+      in continuous quality improvement groups. Journal of Vocational Behavior, 69,
+      510–523. doi: 10.1016/j.jvb.2006.05.005
+Wimbush JC, Shepard JM. (1994). Toward an understanding of ethical climate: Its rela-
+      tionship to ethical behavior and supervisory influence. Journal of Business Ethics,
+      13, 637–647. doi: 10.1007/BF00871811
+*Winton SL. (2009). A model of employee engagement: Examining the mediational role of
+      job attitudes and vigor. (Unpublished doctoral dissertation), Saint Louis University.
+
+                           M. LANCE FRAZIER ET AL.                                    165
+
+
+*Wong A, Tjosvold D, Lu JF. (2010). Leadership values and learning in China: The
+      mediating role of psychological safety. Asia Pacific Journal of Human Resources,
+      48, 86–107. http://dx.doi.org/10.1177/1038411109355374
+*Xiang C. (2012, August). The influence and mechanism of system responsiveness on
+      voice. Paper presented at the Annual Conference of Academy of Management,
+      Boston, MA.
+*Xu Y. (2011). Gender influences on mental models of firm strategies. Gender in
+      Management: An International Journal, 26, 513–528. http://dx.doi.org/10.1108/
+      17542411111175487
+*Xu Y, Yang Y. (2010). Student learning in business simulation: An empirical investigation.
+      Journal of Education for Business, 85, 223–228. doi: 10.1080/08832320903449469
+*Zhang Y, Fang Y, Kwok-Kee W, Wang Z. (2012). Promoting the intention of students to
+      continue their participation in e-learning systems. Information Technology & People,
+      25, 356–375. http://dx.doi.org/10.1108/09593841211278776
+*Zhang YX, Fang YL, Wei KK, Chen HP. (2010). Exploring the role of psycholog-
+      ical safety in promoting the intention to continue sharing knowledge in virtual
+      communities. International Journal of Information Management, 30, 425–436.
+      http://dx.doi.org/10.1016/j.ijinfomgt.2010.02.003
+*Zhao H, Peng Z, Han Y, Sheard G, Hudson A. (2013). Psychological mech-
+      anism linking abusive supervision and compulsory citizenship behavior: A
+      moderated mediation study. The Journal of Psychology, 147, 177–195. doi:
+      10.1080/00223980.2012.680522
+Zhou J, George JM. (2001). When job dissatisfaction leads to creativity: Encourag-
+      ing the expression of voice. Academy of Management Journal, 44, 682–696.
+      http://dx.doi.org/10.2307/3069410
+Zohar D, Luria G. (2005). A multilevel model of safety climate: Cross-level relationships
+      between organization and group-level climates. Journal of Applied Psychology, 90,
+      616–628. doi: 10.1037/0021-9010.90.4.616
+

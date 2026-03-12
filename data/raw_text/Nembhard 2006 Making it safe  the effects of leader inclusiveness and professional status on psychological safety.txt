@@ -1,0 +1,1426 @@
+Journal of Organizational Behaviour
+J. Organiz. Behav. 27, 941–966 (2006)
+Published online in Wiley InterScience
+(www.interscience.wiley.com) DOI: 10.1002/job.413
+
+
+
+
+                     Making it safe: The effects of leader
+                     inclusiveness and professional status on
+                     psychological safety and improvement
+                     efforts in health care teams
+                     INGRID M. NEMBHARD1* AND AMY C. EDMONDSON2
+                     1
+                       Graduate School of Arts and Sciences, Graduate School of Business Administration, Harvard
+                     University, Boston, Massachusetts, U.S.A
+                     2
+                       Graduate School of Business Administration, Harvard University, Boston, Massachusetts, U.S.A.
+
+
+
+
+Summary              This paper introduces the construct of leader inclusiveness—words and deeds exhibited by
+                     leaders that invite and appreciate others’ contributions. We propose that leader inclusiveness
+                     helps cross-disciplinary teams overcome the inhibiting effects of status differences, allowing
+                     members to collaborate in process improvement. The existence of a professional hierarchy in
+                     medicine and the differential status accorded to those in different disciplines is well
+                     established in the health care literature, as is the need for quality improvement. We build
+                     on this foundation to suggest that profession-derived status is positively associated with
+                     psychological safety (H1)—a key antecedent of speaking up and learning behavior—in health
+                     care teams. We hypothesize that this effect varies across teams (H2), and furthermore, that
+                     leader inclusiveness predicts psychological safety (H3) and moderates the relationship
+                     between status and psychological safety (H4). Finally, we suggest psychological safety
+                     predicts engagement in quality improvement work (H5) and mediates the relationship between
+                     leader inclusiveness and engagement (H6). Survey data collected in 23 neonatal intensive care
+                     units involved in quality improvement projects support our hypotheses. These results provide
+                     insight into antecedents of and strategies for fostering improvement efforts in health care and
+                     other sectors in which cross-disciplinary teams engage in collaborative learning to improve
+                     products or services. Copyright # 2006 John Wiley & Sons, Ltd.
+
+
+
+
+Introduction
+
+In today’s complex organizations, teams are increasingly valued for their potential to innovate, solve
+problems, and implement change. A growing literature on team learning identifies factors that allow
+
+
+* Correspondence to: Ingrid M. Nembhard, Graduate School of Arts and Sciences, Graduate School of Business Administration,
+Harvard University, Soldiers Field Road, Boston, MA 02163 U.S.A. E-mail: inembhard@hbs.edu
+Contract/grant sponsor: Harvard Business School Division of Research.
+
+
+                                                                                            Received 28 January 2005
+                                                                                           Revised 15 September 2005
+Copyright # 2006 John Wiley & Sons, Ltd.                                                       Accepted 29 June 2006
+
+                                                                                                               10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+942    I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+teams to experiment, reflect, and improve across a range of industry settings (Bunderson, 2003a, 2003b;
+Edmondson, 1999; Gibson & Vermeulen, 2003). Few industries have more at stake when teams learn—
+or fail to learn—than health care. Increasingly, cross-disciplinary teams are responsible for delivering
+care to patients in settings ranging from primary care to critical acute care, chronic care, geriatrics, and
+end-of-life care (Institute of Medicine, 2001). These teams face not only a daunting expansion of
+medical knowledge but also increasing specialization that divides critical knowledge among
+individuals—knowledge that must be integrated for the delivery of quality care, as well as for
+improving care.
+   In this environment, the combined challenges of teamwork and learning are emerging as central to
+the health care delivery enterprise, in particular because research has shown that 70 to 80% of medical
+errors are related to interactions within the health care team (Schaefer, Helmreich, & Scheideggar,
+1994). This article seeks to advance theory in organizational behavior and health care management by
+proposing and testing a model of engagement in team-based quality improvement work. In the next
+section, we review critical trends in health care delivery to set the stage for our model and empirical
+research.
+
+
+
+Dynamic trends in health care
+
+Health care professionals today face a staggering rate of change in medical knowledge. Whereas in
+1966, only 100 published articles reported on randomized control trials—in medicine, the ‘‘gold
+standard’’ for recognizing new knowledge—1995 brought more than 10,000 (Chassin, 1998). In terms
+of sheer volume of new information, the Medline bibliographic database adds 30,000 new references
+each month, and the Federal Drug Administration reviews thousands of applications for new devices
+and drugs annually (Shine, 2002). No single individual can absorb all of this new knowledge in a timely
+manner. Nevertheless, new knowledge must be absorbed for continued effectiveness in health care
+delivery.
+   A second crucial trend is the increasing specialization of health care professionals (Hafferty & Light,
+1995). Prior to 1930, there were only two boarded medical specialties (ophthalmology and
+otolaryngology). Today, there are 26 specialties and 93 subspecialties within the major specialties, 8 of
+which were approved during the 2002–2003 accrediting year (Accreditation Council for Graduate
+Medical Education, 2004). Thus, the scope of an individual physician’s domain of expertise has
+diminished, while depth of expertise has increased. At the same time, a growing number of non-
+physician professions have joined the patient care enterprise. Specialists in nutrition, respiratory
+therapy, physical therapy, phlebotomy, and so on, have joined nurses as non-physician caregivers,
+playing vital roles in the health care system. In 1900, the ratio of physicians to non-physicians was 1 in
+3; by 2000, it had exploded to 1 in 16 (Shine, 2002), implicating greater fragmentation of expertise, and
+more hand-offs in the patient care process (Leape et al., 1995). Today, an increasing number of different
+caregivers treat each patient at the bedside. Each brings information necessary and relevant for
+development of a cohesive care plan.
+   A third trend—almost a necessary outcome of the first two—is increasing interdependence. Many
+new technologies and care practices involve reciprocal (as opposed to sequential) interactions.
+Caregivers cannot simply do their jobs and assume others will come along at some point to do theirs.
+Instead, their knowledge and efforts must be integrated to deliver quality care.
+   These trends—increasing knowledge, specialization, and interdependence—which are more
+prominent in health care than in other industries, together imply a need for collaborative learning in
+groups of professionals from different disciplines. The modern intensive care unit (ICU) is said to
+
+Copyright # 2006 John Wiley & Sons, Ltd.                              J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                           DOI: 10.1002/job
+
+                                                                                                            10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                           STATUS AND PSYCHOLOGICAL SAFETY           943
+
+
+exemplify the confluence of these factors (Wachter, 2004), but all health care settings have been
+touched by these trends. Collaboration—defined as ‘‘physicians and nurses [and other caregivers]
+working together, sharing responsibility for solving problems, and making decisions to formulate and
+carry out plans for patient care’’ (Baggs et al., 1999, p. 1991)—requires open communication and
+mutual respect in addition to collective decision making (Baggs et al., 1999; Brown, Ohlinger, Rusk,
+Delmore, & Ittmann, 2003; Zimmerman et al., 1993) and is critical to care delivery. Health
+professionals themselves have recognized the imperative for teamwork in clinical care and quality
+improvement, even suggesting that the latter needs to be based in cross-disciplinary teams (Donaldson
+& Mohr, 2000), a suggestion that has been embraced by many (e.g., Berwick, Godfrey, & Roessner,
+1990; Horbar, 1999).
+
+
+
+
+Barriers to collaborative learning in health care
+Despite the need for collaborative learning in cross-disciplinary teams in the health care setting, team-
+based quality improvement efforts may stall for a number of reasons. First, the stakes are undeniably
+high. Human life is at risk when processes fail, creating understandable risk aversion that can inhibit
+willingness to engage in the chaos and uncertainty of team brainstorming and experimentation. It is
+noteworthy that studies of other high stress environments have shown that improvement efforts tend to
+be centralized and hierarchical rather than collective and democratic (Driskell & Salas, 1991; Foushee
+& Helmreich, 1988; Hermann, 1963; Klein, 1976; Staw, Sandelands, & Dutton, 1981).
+   Second, cross-disciplinary teamwork—intended to integrate knowledge and expertise from different
+sources—is difficult to carry out in practice (e.g., see Edmondson, Roberto, & Watkins, 2003 for a
+review). Improving the quality of care delivery processes necessarily requires different viewpoints,
+each grounded in deep knowledge of a different aspect of the process. Physicians possess specialized
+medical expertise, while nurses and allied health workers (e.g., respiratory therapists and dietitians)
+have greater knowledge of daily patient-interaction processes. In combination, they contain a more
+comprehensive information base. However, information often goes unshared. A recent study showed
+that, although nurses witness and experience a variety of problems and employ a number of creative
+solutions to resolve emergent issues, they generally do not communicate these to others in the hierarchy
+(Tucker & Edmondson, 2003). Thus, despite its importance for improving care delivery, collaborative
+learning does not occur naturally in health care.
+   Third, and a central focus of this paper, a well-entrenched status hierarchy exists in medicine,
+making it difficult to speak across professional boundaries (e.g., physician vs. nurse vs. therapists) to
+collaborate for learning (Edmondson, 2003). The medical training that instills a culture of autonomy
+for action can diminish professionals’ tendencies to seek opportunities to learn to communicate, share
+authority, and collaborate in problem-solving and quality improvement (Institute of Medicine, 1999,
+2001). Unfortunately, this reluctance can adversely affect patient care. Patient outcomes are
+significantly correlated with the degree of hierarchy in health care team interactions (Feiger & Schmitt,
+1979). According to a recent report, Keeping Patients Safe: Transforming the Work Environment of
+Nurses, ‘‘counterproductive hierarchical communication patterns that derive from status differences’’
+are partly responsible for many medical errors (Institute of Medicine, 2003, p.361). In a content
+analysis of medical malpractice cases from across the country, physicians (the high-status members of
+the team) were shown to have ignored important information communicated by nurses (the low-status
+members of the team), and nurses also withheld relevant information for diagnosis and treatment from
+physicians (Schmitt, 1990). In this status-consciousness environment, opportunities for learning and
+
+Copyright # 2006 John Wiley & Sons, Ltd.                            J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                         DOI: 10.1002/job
+
+                                                                                                                10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+944    I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+improvement can be missed because of unwillingness to engage in quality-improving communication
+due to fear of reprisal by high-status others.
+
+
+
+Aims of the present study
+
+The present study investigates factors that promote engagement in quality improvement work when
+status differences are present in teams. We examine the relationship between status and psychological
+safety, and introduce the construct of leader inclusiveness, defined below, as a moderator of the status–
+psychological safety relationship. We then assess whether psychological safety mediates the
+relationship between leader inclusiveness and engagement in improvement efforts. At a time when
+quality improvement in health care is viewed as imperative, we aim to provide insight into how to
+overcome an important barrier to quality improvement learning efforts.
+   The implications of this study extend beyond the health care industry, however. With customer
+heterogeneity, a high need for customization, and a highly specialized workforce, hospitals present a
+challenging, but by no means unique, service setting. Furthermore, the use of cross-disciplinary teams
+continues to rise across industries as organizations seek to learn and innovate to remain competitive
+(Griffin, 1997; Sarin & Mahajan, 2001; Wind & Mahajan, 1997). The salience of status in health care
+though provides an opportunity to investigate its effects on team-based improvement efforts and reveal
+implications for other organizations that use teams encompassing status differences to improve
+products or services. Therefore, our aim is to contribute to knowledge of the role of status in shaping
+perceptions of psychological safety and, more broadly, the conditions that support improvement and
+learning in cross-disciplinary teams.
+
+
+
+
+Collaborative Learning in Cross-Disciplinary Health Care Teams
+
+Status in professional hierarchies as a determinant of psychological safety
+Status refers to the level of prominence, respect, and influence associated with an individual as a
+result of some characteristic (Anderson, John, Keltner, & Kring, 2001), such as age, education,
+ethnicity, gender, organizational position, profession, wealth, etc. (Bacharach, Bamberger, &
+Mundell, 1993; Benoit-Smullyan, 1944). According to status characteristics theory, personal
+characteristics affect self- and other-assessments and beliefs about the individual and his or her
+performance abilities (Berger, Cohen, & Zelditch, 1972; Berger, Rosenholtz, & Zelditch, 1980).
+Status characteristics can be ‘‘diffuse’’ meaning they are applicable over a range of settings (e.g.,
+age, gender, or ethnicity) or ‘‘specific’’ meaning they provide cues about a person’s expertise
+relative to a task (e.g., education or professional training). In either case, individuals that possess
+the esteemed characteristic or more of that characteristic are judged superior to those with less of
+that attribute. Thus, status indicates relative position within a social hierarchy (Benoit-Smullyan,
+1944).
+   In the United States, social status is often role- or profession-based. Status differences are thus ‘‘most
+salient in the work context where they often have practical implications (e.g., education level
+determining pay level)’’ (Bacharach et al., 1993, p. 24). Higher status individuals receive more tangible
+
+Copyright # 2006 John Wiley & Sons, Ltd.                              J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                           DOI: 10.1002/job
+
+                                                                                                             10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                           STATUS AND PSYCHOLOGICAL SAFETY            945
+
+
+and intangible benefits in the workplace than their lower ranked co-workers. They gain power over the
+actions of others (e.g., determining co-worker schedules and tasks), prestige or the right to occupy
+honorary places (e.g., a windowed corner office), a reputation for significant contributions leading to
+greater solicitations of their opinions, the benefit of the doubt in ambiguous situations, and financial
+rewards (e.g., higher salary and department budgets).
+   The allocation of benefits which favors high-status individuals over lower status individuals
+shapes the environment they share as well as interpersonal interactions (e.g., Alderfer, 1987).
+Individual awareness or beliefs that membership in a particular group (e.g., profession) bestows a
+certain level of status creates feelings of superiority or inferiority that consistently govern behavior
+so as to preserve the hierarchy (Tajfel & Turner, 1986; Webster & Foschi, 1988). Compared to high-
+status individuals, those with low status are more likely to suffer low self-efficacy and
+underestimate their contribution to work tasks (Berger, Fisek, Norman, & Zelditch, 1985), and
+therefore withhold valid information (Argyris, 1985), defer decision rights to higher status others
+(Driskell & Salas, 1991), limit their organizational citizenship behavior (Stamper & Van Dyne,
+2001), and speak less (Kirchler & Davis, 1986; Pagliari & Grimshaw, 2002; Vinokur, Burnstein,
+Sechrest, & Wortman, 1985; Weisband, Schneider, & Connolly, 1995). Consequently,
+organizations rely heavily on high-status individuals, which is beneficial when status corresponds
+to the expertise required for the task. However, empirical research suggests that individuals often
+fail to recognize the expertise held by multiple team members — to the detriment of group and
+organizational goals (e.g., see Littlepage, Robison, & Reddington, 1997). Organizational
+innovation and improvement, in particular, suffer when minority opinions are ignored (Nemeth,
+1986). Nevertheless, inadequate identification of valid contributions continues because social
+hierarchy leads to the domination of high-status individuals and self-censoring by low-status
+individuals. The latter relates to perceptions of risk to self and fear of negative repercussions (e.g.,
+public reprimand or assignment to a ‘‘bad’’ work shift).
+   Research on organizational silence indicates that sense of threat and/or risk is a key determinant
+of employees’ willingness to speak up freely (Ashford, Rothbard, Piderit, & Dutton, 1998; Detert
+& Edmondson, 2005; Edmondson, 2003; Milliken, Morrison, & Hewlin, 2003; Morrison & Phelps,
+1999; Ryan & Oestreich, 1991). Speaking up freely occurs when people are not constrained by the
+possibility of others’ disapproval and/or the negative personal consequences that might accrue to
+them as a result — a state of psychological safety. In most organizations, those with high status have
+more control over formal appraisals and resources than those with low status, and thus may
+experience a certain freedom of self-expression in front of others, that low-status individuals do not
+enjoy. Research on politeness shows that those with low status employ more ‘‘facework’’ (face
+saving verbal strategies) when addressing those with higher status than the other way around
+(Brown & Levinson, 1987). With increased status, people exercise less concern about damaging
+others’ face; opinions can be freely voiced, and requests can be made of others without verbal
+compensation to convey apology, humility, or deference. This well-documented inverse
+relationship between status and politeness suggests corresponding differences in psychological
+safety across different status groups.
+   In general, high-status individuals tacitly assume that their voice is valued. People with high status—
+role-based and demographic—are more likely to be asked for their opinion than those with low status.
+Accustomed to having their opinions sought—often in formal capacities—they learn to offer them
+freely. They thus do not perceive the same level of interpersonal risk associated with self-expression
+experienced by those with low status. Qualitative evidence of this difference in psychological safety
+according to status was found in Kahn’s (1990) study of an architectural firm and a summer camp;
+informants described their interactions with those positioned higher in the hierarchy as more stifling
+and threatening than their interactions with peers. Lower status individuals in Kahn’s study reported a
+
+Copyright # 2006 John Wiley & Sons, Ltd.                            J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                         DOI: 10.1002/job
+
+                                                                                                              10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+946      I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+lack of confidence that higher status individuals would not embarrass or reject them for sharing
+contradictory thoughts.
+   Individuals in lower positions in the medical hierarchy (Helmreich, 2000) may feel a similar sense of
+fear about speaking up across status boundaries, for example, to raise a concern or challenge a current
+practice. The existence of a professional hierarchy in medicine and the differential status accorded to
+those who occupy different positions within that hierarchy is well-known to health professionals and
+well established in the health care literature (Coburn, 1992; DeSantis, 1980; Dingwall, 1974; Friedson,
+1970a,b; Fuchs, 1974; Hafferty & Wolinsky, 1991; Shortell, 1974; Wolinsky, 1988). We know that
+surgeons garner more prestige than other specialty physicians, that specialty physicians rank above
+primary care physicians, that physicians possess more power than nurses, nurses than physical
+therapists, and so on. The hierarchy and related status differences exist within professional groups (e.g.,
+physicians: specialists vs. primary care) and between groups (e.g., physicians vs. non-physicians), with
+between group status differences being most salient and largest. We therefore predict, based on prior
+research on the behaviors of different status groups, that non-physicians, as lower status health
+professionals, view the cross-disciplinary team climate as less psychologically safe than higher status
+individuals such as physicians:
+      Hypothesis 1 (H1): In cross-disciplinary teams, higher status individuals will experience greater
+      psychological safety than lower status individuals. (In cross-disciplinary health care teams,
+      physicians will experience more psychological safety than nurses, who will experience more
+      psychological safety than respiratory therapists).
+
+   The proposed main effect between status and psychological safety may vary depending on how
+status differences are handled in a work group. Prior research found that psychological safety can
+vary significantly across groups, even within the same strong organizational culture (Edmondson,
+1996, 1999). Bringing together professionals with different backgrounds and expertise may
+exacerbate this variance, if some groups handle the challenge of managing these differences more
+skillfully than others (Bunderson, 2003b). When status differences are present in a team, team
+members must manage a tension between the norms of collaboration that underlie the notion of
+teamwork and the reality of status differences. Prior research showed that the degree of status
+derived from different professions can vary across cross-disciplinary work groups (Bunderson,
+2003a). Similarly, the formal status associated with a given profession in health care may be treated
+differently in different work groups called ‘‘units’’ in health care. The unit is a cross-disciplinary
+care team, consisting of all of the staff that participates in delivering a specific domain of clinical
+care, for example, intensive care or cardiac care. Differences in status handling across work groups
+in other settings suggests the effect of role-based professional status on psychological safety will
+also vary across cross-disciplinary unit teams — indicating an interaction effect between status and
+unit team membership on psychological safety:
+      Hypothesis 2 (H2): Status and unit team membership will interact to predict psychological safety.
+
+   Bunderson (2003a) identified two group attributes—average tenure and power centralization—that
+helped explain differences in status effects across groups, and suggested that future research consider
+alternative moderators such as task interdependence (Wageman, 1995) and task uncertainty (Van de
+Ven, Delbecq, & Koenig, 1976). Other research suggests that how work is organized affects status
+relationships. In their study of specialized AIDS units versus general medical units treating AIDS
+patients, Aiken and Sloane (1997) found that the relative status of nurses was increased after the
+conversion to specialized units. They attributed the elevation in status to an increased appreciation for
+nurses’ specialized knowledge and client differentiation. We explore another possibility—that leader
+
+Copyright # 2006 John Wiley & Sons, Ltd.                             J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                          DOI: 10.1002/job
+
+                                                                                                                                    10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                                        STATUS AND PSYCHOLOGICAL SAFETY                      947
+
+
+behavior, particularly in its level of inclusiveness, can frame the meaning of status differently across
+units, even with similar structures or work design (Edmondson, 2003), helping to explain why status
+effects might vary across work groups.
+
+
+
+
+Leader inclusiveness
+
+Team leader behaviors, in general, have been shown to affect the internal dynamics of a team, in
+particular influencing team climate and learning orientation (Baker, Murray, & Tasa, 1995;
+Edmondson, 1999; Hult, Hurley, Guinipero, & Nichols, 2000; Madhavan & Grover, 1998; Norrgren &
+Schaller, 1999; Shortell, Rousseau, Gillies, Devers, & Simons, 1991; Yukl, 1994; Zimmerman et al.,
+1993). Team members are highly attuned to the behavior of leaders and examine leader actions for
+information about what is expected and acceptable in team interactions (Tyler & Lind, 1992). If a leader
+takes an authoritarian, unsupportive, or defensive stance, team members are more likely to feel that
+speaking up in the team is unsafe. In contrast, if a leader is democratic, supportive, and welcomes
+questions and challenges, team members are likely to feel greater psychological safety in the team and
+in their interactions with each other.
+   Preliminary evidence of leadership effects on psychological safety emerged in a study of medication
+errors in nursing teams (Edmondson, 1996). In some units, nurses described nurse managers as
+authoritarian and also expressed deep fears about being reprimanded for revealing mistakes. In
+contrast, nurses in other units felt safe speaking up about errors because their nurse manager had
+stressed the importance of using this information as a learning tool for the unit. In a later study of
+cardiac surgery teams, qualitative data suggested that teams with leaders who actively invited others’
+input had higher psychological safety than those in which this behavior was absent. Qualitative data
+suggested that surgeon team leaders handled status differences within their teams differently
+(Edmondson, 2003). Although all teams comprised four professional roles, with clear traditional status
+differences, in some, the surgeons (those with the highest status) made an explicit effort to invite others’
+input to help the team implement a new technology. In other teams, the leaders were not similarly
+proactive.
+   Building on these qualitative insights, we propose the construct of leader inclusiveness, defined as
+words and deeds by a leader or leaders that indicate an invitation and appreciation for others’
+contributions. Leader inclusiveness captures attempts by leaders to include others in discussions and
+decisions in which their voices and perspectives might otherwise be absent. It is related to team leader
+coaching behavior, which describes team leader behaviors that facilitate group process and provide
+clarification and feedback (Baron, 1990; Edmondson, 1999), and to participative leadership, which
+describes leaders that consult with workers, participate in shared decision-making and delegate
+decision-making authority to subordinates (Bass, 1990; McGregor, 1960; Yukl, 1994). Leader
+inclusiveness differs from these constructs in that it directly pertains to situations characterized by
+status or power differences and pertains more narrowly to behaviors that invite and acknowledge
+others’ views. The established constructs did not capture sufficiently the difficulty of lower social
+position, nor the behavior of explicit invitation designed to overcome communication boundaries.1
+   Leader inclusiveness describes behavior that, through direct invitation, should create psychological
+safety for speaking up. We suggest that both invitation and appreciation are needed to convey the
+1
+  More specifically, team leader coaching describes the leader as an operational facilitator; participative leadership emphasizes
+harnessing employee motivation to maximize productivity. Thus, neither construct is intended—as is leader inclusiveness—to
+address status salient environments, nor to identify the two-pronged strategy of invitation and appreciation.
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                           J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                                        DOI: 10.1002/job
+
+                                                                                                              10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+948      I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+inclusiveness that helps people believe that their voices are genuinely valued. Without a recognizable
+invitation, impressions derived from the historic lack of invitation will prevail. And without
+appreciation (i.e., a positive, constructive response), the initial positive impact of being invited to
+provide input will be insufficient to overcome the subsequent hurdle presented by status boundaries.
+Defining leader inclusiveness in this way, we hypothesize that:
+      Hypothesis 3 (H3): Leader inclusiveness is positively associated with psychological safety.
+
+   Finally, we predict that leader inclusiveness will alter the status–psychological safety relationship as
+follows. When leaders demonstrate inclusiveness, lower status others are likely to feel supported and to
+believe the leaders see them as important members of the team. An atmosphere of mutual respect across
+the different professions may develop, in which the specialized expertise held by those with low status
+is seen as valuable to the team’s shared task. This helps to equalize the value associated with all
+members’ contributions, promoting an egalitarian context. These efforts may increase the level of
+psychological safety felt by everyone in the team, but the effect is likely to be greater for low-status
+individuals who have less prior experience with others expressing interest in their input than it will be
+for those with high status. In contrast, when leader inclusiveness is low, a lack of opportunity to
+overcome traditional status barriers allows them to prevail, such that low-status individuals fail to
+experience an elevation in psychological safety, leaving high-status individuals more advantaged in this
+respect. Thus, we hypothesize:
+      Hypothesis 4 (H4): Leader inclusiveness moderates the relationship between status and
+      psychological safety.
+
+
+Engagement in quality improvement
+
+The need for active quality improvement in health care has been widely recognized since the Institute
+of Medicine released its 1999 report documenting rampant failures in the health care system.
+Improving the quality of work processes and outcomes requires effort and engagement—which we
+define, drawing on Kahn (1990) as being physically, cognitively, and/or emotionally connected to the
+improvement work. Engagement is essential for overcoming powerful barriers to quality improvement
+that exist in the health care setting, as well as in other busy and chaotic service contexts. Health care
+professionals are often stretched thin, barely able to complete their required tasks in the workday, let
+alone devote time to improving the system (Tucker & Edmondson, 2003). Participating in quality
+improvement efforts thus requires deliberate and effortful allocation of time. Yet, despite time and
+resource constraints, many in health care are embracing quality improvement projects, because of what
+is at stake when systems fail. The construct of engagement captures the commitment and effort these
+individuals devote to quality improvement.
+   We argue that engagement in quality improvement in health care is likely to be enabled by
+psychological safety. First, engaging in quality improvement requires team members to be willing to try
+new technologies and procedures, remaining cognitively ‘‘mindful’’ of relationships between tasks and
+team members (Weick, 2002) and emotionally open to giving and receiving feedback in these states of
+transition. These behaviors can be interpersonally risky and thus more likely to be found when
+psychological safety is present. In a psychologically safe environment, team members do not feel they
+must be guarded in their behavior, instead feeling encouraged to question current practices and to share
+what may be regarded as provocative ideas, challenging the group to develop more innovative
+solutions. Without psychological safety, suggesting new procedures, overstepping professional status
+boundaries (Kahn, 1990), or offering unsolicited feedback would seem overly risky.
+
+Copyright # 2006 John Wiley & Sons, Ltd.                             J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                          DOI: 10.1002/job
+
+                                                                                                                   10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                               STATUS AND PSYCHOLOGICAL SAFETY              949
+
+
+   Second, in a related vein, researchers have argued and shown that individuals’ willingness to
+participate in problem-solving activities diminishes significantly when they view the team as hostile
+(e.g., Dutton, 1993; MacDuffie, 1997). In fact, they are more likely to act in ways that diminish learning
+behavior (Argyris & Schön, 1978). One such way is to withdraw from the team and its work. Kahn
+(1990) described this as personal disengagement. We thus expect an association between psychological
+safety and engagement in quality improvement work in health care. Psychological safety creates the
+willingness to change personal habits (Schein & Bennis, 1965), and should allow team members to be
+enthusiastic about improvement and their role in that process.
+
+   Hypothesis 5 (H5): Psychological safety is positively associated with engagement in quality
+   improvement work.
+
+  Combining Hypotheses 5 and 3, we predict that psychological safety will mediate a relationship
+between leader inclusiveness and engagement:
+
+   Hypothesis 6 (H6): Psychological safety mediates a relationship between leader inclusiveness and
+   engagement in quality improvement work.
+
+   Together our hypotheses comprise a model of engagement in quality improvement work that
+includes antecedents and consequences of psychological safety for health care improvement teams
+(See Figure 1). We hypothesize that professional status (H1) and its interaction with unit team
+membership (H2) explain variance in psychological safety. Moreover, the magnitude of the status
+influence is moderated by leader inclusiveness (H4), an additional predictor of psychological safety
+(H3). Finally, psychological safety enables engagement in quality improvement work (H5), and
+mediates between leader inclusiveness and engagement (H6).
+
+
+
+
+Figure 1. A model of professional status on psychological safety as a precursor to engagement in quality
+improvement work: the moderating effect of leader inclusiveness and the mediating effect of psychological safety
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                             DOI: 10.1002/job
+
+                                                                                                          10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+950   I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+Organizational Context
+
+
+ The Quality Improvement Imperative in Health Care
+    In 1998, the National Roundtable on Health Care Quality issued a statement, The Urgent Need
+ to Improve Quality of Care, which documented significant quality problems in the American
+ health care system, problems ranging from overuse of antibiotics to underuse of beta blockers
+ following heart attack to misuse inherent in medical error (Chassin, Galvin, & The National
+ Roundtable on Health Care Quality, 1998). Shortly thereafter, the Institute of Medicine
+ published To Err is Human (1999) and Crossing the Quality Chasm (2001), which further
+ quantified the extent of preventable medical error and identified the systemic nature of quality
+ problems. In response to these reports, health care organizations across the country from
+ individual providers to community health centers to hospital systems bolstered their efforts to
+ improve the quality of care they delivered (Wachter, 2004). Continuous quality improvement
+ became a community ideal, to which every organization strove to achieve. The health care
+ organizations we studied were no different.
+
+ Profile of Participating Unit Teams
+    We collected data for this study from NICUs in the United States and Canada. NICUs provide
+ care for premature infants, infants weighing less than 1500 g and infants born with complications.
+ All of the NICUs studied were members of the 2-year, 44-member Neonatal Intensive Care Quality
+ Improvement Collaborative (NIC/Q 2002). Collaboratives such as this, which are intended to
+ facilitate improvement by facilitating the transfer of knowledge across health care organizations
+ (Kilo, 1999), are a growing phenomenon in health care (Mittman, 2004). In the one we studied,
+ cross-disciplinary teams were encouraged to work together on specified improvement areas (e.g.,
+ infection control, respiratory care management, or discharge planning) to develop and test clinical,
+ organizational, and operational changes for improving neonatal care. As such, this setting was
+ particularly attractive for our study of how status relationships that exist between professional
+ disciplines relate to psychological safety and engagement in quality improvement in cross-
+ disciplinary teams. To craft and execute their quality improvement projects in-house, team members
+ from different disciplines had to work together. Development of a new or better delivery room
+ plan for infant resuscitation, for example, required physicians, nurses, and respiratory therapists
+ to share their expertise and recommendations with one another to ensure that the developed
+ plan included accurate and up-to-date practices from each group, and accounted for their
+ interactions.
+
+
+
+
+Methods
+
+Sample and procedure
+
+We conducted data collection in three phases. First, we visited 4 of the 44 neonatal intensive care
+units (NICUs) in the collaborative. We toured the units, observed unit functioning and interviewed
+
+Copyright # 2006 John Wiley & Sons, Ltd.                          J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                       DOI: 10.1002/job
+
+                                                                                                             10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                           STATUS AND PSYCHOLOGICAL SAFETY            951
+
+
+23 staff members (5–7 members per NICU) for 30 to 90 minutes using open-ended questions about
+the NICU work climate and quality improvement efforts. We selected the four NICUs to include
+differences in demographic variables (e.g., teaching status, size, etc.) and improvement efforts
+(e.g., improvement focus areas and prior collaborative participation) and selected interviewees
+to capture multiple professional groups (i.e., physicians, nurses, and respiratory therapists).
+This increased our understanding of NICUs and facilitated the design of a meaningful survey
+for this population. In the second phase, we developed and pilot tested a survey with these four
+NICUs. Descriptive statistics and psychometric tests indicated no need to alter the survey. Further,
+the survey results accorded with our site visit observations, supporting the validity of the
+instrument.
+   In the third and final phase, we invited the 40 remaining, non-pilot site NICUs in the
+collaborative to participate in the survey via phone and electronic mail directed to the leader of
+each NICU’s collaborative improvement team. Twenty-three NICUs agreed, for a NICU response
+rate of 58%. When we compared participating sites to non-participating sites, we found no
+significant differences between the two groups on a variety of structural, clinical, and patient acuity
+measures. For example, there were no significant differences based on hospital ownership type
+(not-for-profit, for-profit, government), teaching status, level of severity of the care provided in the
+NICU, volume of extremely low birth weight babies (ELBW, less than or equal to 1000 g), number
+of times the site participated in prior collaboratives (0, 1, or 2), length of stay, percentage of ELBW
+babies with Apgar scores 3 one minute after birth, percentage of babies transported from another
+hospital (‘‘outborn’’), average birth weight, and gestational age (see Tucker, Nembhard, &
+Edmondson, 2006).
+   As soon as a NICU received the permission of its hospital Institutional Review Board (IRB), its
+team leader provided us with a count of the number of staff and patient beds in the unit. We then
+invited all team members in the NICU to participate in our survey via an invitational letter distributed
+in accordance with the procedures outlined in the hospital IRB approval. In 18 NICUs, the
+collaborative team leader electronically mailed or placed in team mailboxes our letter to team
+members, which provided instructions on where to retrieve a paper copy of the survey in the unit, if
+interested. In the remaining five NICUs, the team leader distributed our letter along with a paper copy
+of the survey to team mailboxes. The invitational letter described the purpose of the study, assured
+respondents’ anonymity and included instructions for completion of the paper as well as an online
+version of the survey. We offered two versions to allow participants to choose their preferred format.
+All individuals returned the survey directly to us via self-addressed stamped envelope or online
+submission.
+   In all, 1440 health care professionals (46% of team members contacted) from 23 NICUs in the
+United States and Canada completed the survey between July 2003 and May 2004. Of the
+respondents, 1375 persons declared their profession: 100 as physicians (83 neonatologists, 13
+attending physicians, and 4 neonatology fellows), 998 as nurses (65 neonatal nurse practitioners, 16
+Master’s prepared nurses, 8 clinical nurses specialists, 867 registered nurses, 14 licensed
+nurse practitioners, and 28 other nursing functions), 131 as respiratory therapists, and 146 as
+other types of health care professionals (e.g., social worker, dietitians, etc.). Excluding individuals in
+the latter group (because the presence and recognition of their discipline as part of the NICU
+team varied across units), NICUs averaged 60 respondents, ranging from 10 to 164. The
+average number of respondents per NICU was 3 physicians, 15 nurses, and 5 respiratory
+therapists.
+   We regarded the professionals in each NICU from medicine, nursing, and respiratory therapy as the
+‘‘unit team’’ because these interdependent professionals unquestionably work together in the unit on a
+daily basis. Their patients generally stay in the NICU for an extended period of time, often months, to
+
+Copyright # 2006 John Wiley & Sons, Ltd.                            J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                         DOI: 10.1002/job
+
+                                                                                                                                     10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+952     I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+receive the care that only a team of neonatal-trained practitioners can deliver. These teams and
+members are so specialized that they work exclusively in the NICU.2
+
+
+Measures
+Professional status
+Professional status was inferred from occupational category because prior research had demonstrated
+that status in the medical field derives from role or position in the professional hierarchy (Friedson,
+1970a,b, 1994; Mechanic, 1991; Wolinsky, 1988). The numerous professional roles reported in the
+survey were combined into three major categories for the purposes of these analyses: (1) physicians
+(neonatologists, other attending physicians and neonatal fellows); (2) nurses; and (3) respiratory
+therapists. Further, because physicians—as ‘‘captains of the health care team’’ (Fuchs, 1974)—garner
+higher status than all other health care professionals (Hafferty & Light, 1995), an additional
+dichotomous professional status variable was created to reflect that (0 ¼ low-status ¼ nurses and
+respiratory therapists, 1 ¼ high status ¼ physicians).
+
+Unit team membership
+Unit team membership, a categorical variable, refers to the specific NICU in which an individual
+respondent worked (N ¼ 23).
+
+Psychological safety
+Four items from Edmondson’s (1999) psychological safety scale adapted to this context were used to
+assess the extent to which respondents felt safe to speak up about issues or ideas regarding the NICU.
+Examples of these items are: ‘‘Members of this NICU are able to bring up problems and tough issues’’
+and ‘‘People in this unit are comfortable checking with each other if they have questions about the right
+way to do something.’’ Respondents’ agreement (1 ¼ strongly disagree, 7 ¼ strongly agree) with these
+items formed a single scale (Chronbach alpha ¼ 0.73).
+
+Leader inclusiveness
+In the hospital context, physicians are both high-status technical experts and leaders who are
+responsible for directing the efforts of others in delivering care to patients. Thus, although the construct
+of leader inclusiveness is more general, in this setting, it refers to behaviors and attitudes of the
+physicians-in-charge. A three-item scale assessed the extent to which NICU leaders’ words and deeds
+indicated an invitation and appreciation for others as contributing members in a team endeavor. The
+first two items, ‘‘NICU physician leadership encourages nurses to take initiative’’ and ‘‘Physicians ask
+for the input of team members that belong to other professional groups,’’ were adapted from Shortell
+et al.’s (1991) physician leadership scale. The third item, ‘‘Physicians do not value the opinion of others
+equally’’ (reversed scored), was developed by us for this research. The level of agreement with each
+statement (1 ¼ strongly disagree, 7 ¼ strong agree) was averaged to provide a single perception for
+each respondent (Chronbach alpha ¼ 0.75).
+   In this study, we assessed leader inclusiveness with data from non-physicians only, for two reasons.
+First, prior research suggested that nurses provide a more accurate assessment of organizational culture
+2
+  There is one possible exception to the exclusivity of the NICU teams. Some hospitals do use ‘‘rotating’’ respiratory therapists,
+who work exclusively on the unit for a defined period of time periodically (e.g., 2 months every 2 months), then rotate to other
+units when not assigned to the NICU. That said, we believe that ‘‘unit teams’’ are accurately represented in our sample since we
+asked team leaders to distribute the survey to NICU staff. We abided by team leader judgment of team membership.
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                            J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                                         DOI: 10.1002/job
+
+                                                                                                                                     10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                                         STATUS AND PSYCHOLOGICAL SAFETY                      953
+
+
+and leadership practices than physicians. One study showed that while nurses’ reports of the culture
+showed appropriate variance, physicians’ reports were more uniform across different contexts, as well
+as more positive; further, only the nurse data predicted performance outcomes (Leonard, Frankel,
+Simmonds, & Vega, 2004), affirming earlier studies’ findings that nurses’ perceptions of the work
+environment are more predictive of the risk of adverse outcomes (e.g., Baggs et al., 1999) and quality of
+care (e.g., Shortell et al., 1991) than physicians. Second, and more important, conceptually, those with
+low status are in a better position to assess the degree to which high-status leaders are including them
+than are those with high status—who may rate themselves as inclusive even when others would not do
+so. More simply, physician ratings of their own inclusiveness toward others are unlikely to be as
+externally valid as the ratings of those others will be.
+
+
+Engagement in quality improvement work
+Engagement in quality improvement work was measured using a four-item scale adapted from Baker,
+King, MacDonald, & Horbar (2003). Sample items are: ‘‘A growing number of staff in this NICU are
+participating in improvement efforts’’ and ‘‘In the coming year, I would like to be very involved in our
+NICU’s quality improvement efforts.’’ Respondents rated their agreement with these statements on a
+seven-point scale (1 ¼ strongly disagree to 7 ¼ strongly agree). Chronbach’s alpha was 0.79.
+
+
+Control variables
+We included gender, years working in any NICU, years as an employee of the hospital, years working in
+the current NICU, and hours per week in the NICU as control variables since these demographic
+variables are potential predictors of psychological safety at the individual level. These control variables
+were excluded from the group-level analyses performed to test psychological safety as a mediator
+between leader inclusiveness and engagement in quality improvement work (H6).
+   Table 1 provides the means, standard deviations, and intercorrelations between the variables. We
+assessed the adequacy of our survey measures through tests of internal consistency reliability and
+discriminant validity. The results supported the use of these measures for analysis. Chronbach’s alpha
+for all survey scales exceeded the 0.70 threshold proposed by Nunnally (1978) for internal consistency,
+and factor analysis, in which the planned constructs emerged, confirmed discriminant validity.
+
+
+
+
+Analysis and Results
+
+To test Hypotheses 1and 2, that status and its interaction with unit team membership explain variance
+in psychological safety; we used a univariate general linear model (GLM) with professional status
+(three groups: physicians, nurses, and respiratory therapists) and unit team membership as independent
+variables and the reflected, logarithmic transformation of psychological safety as the dependent
+variable.3 We also included the above mentioned control variables. Results shown in the upper portion
+of Table 2 indicate that two of the five control variables were significant and that our first two
+hypotheses were supported. The number of years spent working in any NICU and the number of years
+3
+  The reflected, logarithmic transformation corrected for heterogeneity of variance and non-normality (i.e., negative skewness) in
+the dataset (Tabachnick & Fidell, 2001).
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                            J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                                         DOI: 10.1002/job
+
+                                                                                                                                                                                                                                                                                                                                           954
+
+
+
+
+                                                                                   Table 1. Summary statistics and intercorrelations for individual-level data
+                                                                                   Variable                                                Mean       SD             1                  2                   3                  4                   5                 6                7                   8                  9
+
+                                                                                    1. Professional status—3 groups:                         2.03     0.43
+
+
+
+
+                                        Copyright # 2006 John Wiley & Sons, Ltd.
+                                                                                       Physicians versus
+                                                                                       nurses versus therapists
+                                                                                                                                                                                                                                                                                                                                           I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+
+
+                                                                                    2. Professional status—2 groups:                         0.08     0.27        0.71
+                                                                                       High versus
+                                                                                       low status
+                                                                                    3. Psychological safety                                 5.31      1.08      0.15             0.14
+                                                                                    4. Leader inclusiveness                                 4.62      0.55     <0.01              0.01                0.29
+                                                                                    5. Engagement in quality improvement work               5.45      1.06      0.12             0.17              0.48             0.21
+                                                                                    6. Gender                                               1.10      0.30      0.23             0.56              0.05              0.04                0.02
+                                                                                    7. Years in any NICU§                                   4.17      1.19      0.08             0.10             0.05               0.09             0.03              0.08
+                                                                                    8. Years as hospital employee§                          3.97      1.26      0.03               0.01               0.04               0.02               0.02              0.07            0.73
+                                                                                    9. Years in current NICU§                               3.84      1.31      0.05               0.03               0.04               0.02               0.02              0.08           0.81              0.94
+                                                                                   10. Hours per week in NICU                              33.84     13.46      0.35             0.38              0.05              0.03                0.10            0.12          0.06              0.08            0.08
+                                                                                   §
+                                                                                    This is a categorical variable: 1 ¼ less than 1 year, 2 ¼ 1 to less than 2 years, 3 ¼ 2 to less than 5 years, 4 ¼ 5 to less than 10 years, 5 ¼ 10 or more years.
+                                                                                   
+                                                                                    p < 0.05.
+                                                                                   
+                                                                                     p < 0.01.
+
+
+
+
+                  J. Organiz. Behav. 27, 941–966 (2006)
+                                       DOI: 10.1002/job
+10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+                                                                                                              10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                            STATUS AND PSYCHOLOGICAL SAFETY            955
+
+
+Table 2. Results of general linear model analysis
+Model                          Independent variables                                 F-ratio          p
+
+Y ¼ Ln(Psychological safety)   Gender                                            F (1,1111) ¼ 0.01  0.93
+                               Years in any NICU                                 F (4,1111) ¼ 3.54  0.01
+                               Years as a hospital employee                      F (4,1111) ¼ 2.09  0.08
+                               Years in current NICU                             F (4,1111) ¼ 3.09  0.02
+                               Hours per week in NICU                            F (1,1111) ¼ 0.24  0.62
+                               Professional status—three groups                     F (2,67) ¼ 8.46 0.001
+                               Unit team membership                                F (22,41) ¼ 2.08 0.02
+                               Professional status (3)  unit team membership   F (31,1111) ¼ 2.22 <0.001
+Y ¼ Ln(Psychological safety)   Gender                                            F (1,1126) ¼ 0.10  0.76
+                               Years in any NICU                                 F (4,1126) ¼ 3.98  0.003
+                               Years as a hospital employee                      F (4,1126) ¼ 1.66  0.16
+                               Years in current NICU                             F (4,1126) ¼ 2.43  0.05
+                               Hours per week in NICU                            F (1,1126) ¼ 0.001 0.97
+                               Professional status—two groups                    F (1,1126) ¼ 11.58 0.001
+                               Leader inclusiveness                             F (21,1126) ¼ 4.27 <0.001
+                               Professional status (2)  leader inclusiveness   F (18,1126) ¼ 1.78  0.02
+
+
+
+
+spent working in the current NICU significantly predicted psychological safety (F(4,1111) ¼ 3.54,
+p ¼ 0.01 and F(4,1111) ¼ 3.09, p ¼ 0.02): More time spent in NICUs in general as well as an
+intermediate amount of time spent in the current NICU (5 to less than 10 years) both were associated
+with higher psychological safety. The number of years as an employee of the current hospital was only
+marginally predictive (F(4,1111) ¼ 2.09, p ¼ 0.08), and gender and hours worked per week not at all
+(F(1,1111) ¼ 0.01, p ¼ 0.93 and F(1, 1111) ¼ 0.24, p ¼ 0.62).
+   Consistent with Hypothesis 1, professional status was positively associated with psychological
+safety (F(2,67) ¼ 8.46; p ¼ 0.001). Physicians felt significantly more psychological safety than
+nurses (t(1111) ¼ 0.33, p < 0.001) who in turn reported more psychological safety than
+respiratory therapists (t(1111) ¼ 0.11, p ¼ 0.02); the overall planned contrast was significant
+(F(2, 1111) ¼ 14.11, p < 0.001).
+   To determine whether the effect of professional status on psychological safety varied across
+multidisciplinary teams, as predicted in Hypothesis 2, we examined the interaction term composed of
+professional status and unit team membership. The interaction was significant (F(31,1111) ¼ 2.22,
+p < 0.001), indicating that the difference in psychological safety felt across status groups varied across
+teams, even as the main effect of status on psychological safety remained significant. In some teams,
+status differences were less important, such that members of different professional groups felt similarly
+safe. In others, professional status differences led to larger disparities in psychological safety among
+groups.
+   Hypotheses 3 and 4 that leader inclusiveness predicts psychological safety, and moderates the
+relationship between status and psychological safety, were tested using GLM analyses. First, however,
+we assessed the properties of leader inclusiveness, as a new construct. Just as prior work (Edmondson,
+1999; Shamir, Zakay, Breinin, & Popper, 1998) has shown convergent perceptions of leadership
+behavior in teams, we anticipated that views of leader inclusiveness would be shared in the NICUs
+studied. To test this, we performed a one-way analysis of variance with unit team membership as the
+independent variable and leader inclusiveness (rated by non-physicians only) as the dependent variable.
+The ANOVA results showed significant variance at the group level of analysis for leader inclusiveness
+as reported by low-status individuals (F(22,1095) ¼ 9.44, p < 0.001), and an intraclass correlation that
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                              J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                           DOI: 10.1002/job
+
+                                                                                                               10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+956    I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+was positive and significant (rICC ¼ 0.35), confirming leader inclusiveness as a group-level measure
+(Kenny & LaVoie, 1985). We therefore entered the team’s leader inclusiveness score (the team average)
+as the individual’s score for each member of the team in the individual-level dataset.
+   We used this dataset and a GLM to test Hypotheses 3 and 4 that leader inclusiveness is positively
+associated with psychological safety and moderates the relationship between professional status and
+psychological safety. The dichotomous professional status variable (high status, if physician and low
+status, if nurse or respiratory therapist), leader inclusiveness, and their interaction served as
+independent variables, along with all of the control variables. Again, the reflected, logarithmically
+transformed psychological safety measure served as the dependent variable. The results shown in the
+lower section of Table 2 support the hypothesized relationships. When physician leaders were
+perceived as inclusive and welcoming of others’ ideas and efforts, psychological safety was greater
+(F(21,1126) ¼ 4.27, p < 0.001) (Hypothesis 3). Also, as predicted in Hypothesis 4, leader inclusiveness
+moderated the relationship between status and psychological safety, as indicated by a significant
+interaction term (F(18, 1126) ¼ 1.78, p ¼ 0.02). Low leader inclusiveness was associated with a greater
+disparity in psychological safety between high and low-status individuals to the disadvantage of low-
+status individuals. In contrast, high leader inclusiveness was associated with a lower difference in
+psychological safety between the two groups, raising the psychological safety of low-status individuals
+closer to that of their high-status team members. (See Figure 2).
+   To test Hypothesis 5 that psychological safety is positively associated with engagement in quality
+improvement work, we conducted a regression analysis on the group level dataset. Using this dataset,
+allowed us to not only test our hypothesis, but also as important, examine the relative influence of a
+competing group-level variable on engagement: staff workload or busyness of the work environment.
+Prior work has identified staff workload as a predictor of quality-related behavior (Oliva, 2001;
+Tucker & Edmondson, 2003). Overburdened employees facing competing priorities are less likely to
+further quality goals. Therefore, to continue with our model of engagement in quality improvement
+
+
+
+
+         Figure 2. Psychological safety as a function of professional status and leader inclusiveness
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                               J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                            DOI: 10.1002/job
+
+                                                                                                              10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                            STATUS AND PSYCHOLOGICAL SAFETY            957
+
+
+work, the question of relative influence had to be addressed to provide assurance that our model was not
+mis-specified in emphasizing psychological safety as a determinant of engagement. We first performed
+one-way analysis of variance and intraclass correlations for psychological safety (F(22, 1366) ¼ 8.62,
+p < 0.001; rICC ¼ 0.21) and engagement in quality improvement work (F(22, 1352) ¼ 7.67, p < 0.001;
+rICC ¼ 0.18) to confirm the group level status of the variables before proceeding with the analysis. We
+then regressed engagement on psychological safety and the ratio of staff-to-patient beds, (mean ¼ 3.31,
+SD ¼ 0.91), our measure of staff workload. The results provided support for our hypothesis that the
+more members feel they work in a team characterized by interpersonal trust and respect, the more
+enthusiastic and devoted they are to participating in quality improvement efforts, which often require
+the interpersonally risky act of collaborative learning (B ¼ 0.62, p ¼ 0.001). We found this relationship,
+even after accounting for the competing influence of staff busyness, which was an insignificant
+predictor of engagement (B ¼ 0.14, p ¼ 0.09) and thus eliminated from further analyses.
+   To test Hypothesis 6, that psychological safety mediates the relationship between leader inclusiveness
+and engagement in quality improvement work, we estimated three regression equations to satisfy the
+conditions for mediation (Baron & Kenny, 1986). The first condition is that the independent variable must
+significantly affect the mediator; second, the independent variable must predict the dependent variable;
+and third, the mediator must significantly predict the dependent variable when entered in the same
+regression equation as the independent variable, while the independent variable drops in significance or
+becomes insignificant. We assessed whether these conditions were satisfied using group-level data
+because leader inclusiveness (our independent variable), psychological safety (our proposed mediator),
+and engagement in quality improvement work (our dependent variable) are conceptually meaningful and
+empirically demonstrated as group-level variables. We measured leader inclusiveness at the aggregate
+non-physician level for reasons explained above, and analyses related to testing Hypothesis 5 confirmed
+psychological safety and engagement as group-level constructs as well.
+   As shown in Table 3, the results support all three mediation conditions: (1) leader inclusiveness
+predicts psychological safety (B ¼ 0.53, p < 0.001), (2) leadership inclusiveness predicts team
+engagement at the group level (B ¼ 0.41, p ¼ 0.004), and (3) when included in the same model, leader
+inclusiveness becomes insignificant (B ¼ 0.11, p ¼ 0.52), while psychological safety remains
+significant (B ¼ 0.57, p ¼ 0.03). Thus, the data support psychological safety as a mediator of the
+relationship between leader inclusiveness and team engagement in quality improvement work.
+   In sum, all of our hypotheses were supported by the data. Not only do high-status individuals differ
+from low-status individuals in psychological safety, but also there is an interaction between status and
+unit team membership, and between status and leader inclusiveness. Greater inclusiveness minimizes
+the effect of status on psychological safety in the team, and vice versa. Moreover, with more leader
+
+
+Table 3. Tests of psychological safety as a mediator between leader inclusiveness and engagement in quality
+improvement work (N ¼ 23)
+Conditions to demonstrate mediation                       Independent variable   B      t      p      R2
+
+1. Does leader inclusiveness predict                       Leader inclusiveness 0.41 3.19      0.004 0.33
+    engagement in quality improvement work?
+2. Does leader inclusiveness                               Leader inclusiveness 0.53 5.02 <0.001 0.55
+   predict psychological safety?
+3. Does the effect of leader inclusiveness                 Psychological safety 0.57 2.32      0.03   0.47
+   drop substantially or become insignificant when         Leader inclusiveness 0.11 0.65      0.52
+   psychological safety (the mediator) is included in
+   the model for engagement in quality improvement work?
+
+    Dependent variables are in italics.
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                             J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                          DOI: 10.1002/job
+
+                                                                                                              10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+958    I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+inclusiveness comes greater psychological safety, which in turn predicts greater team engagement in
+quality improvement work.
+
+
+
+
+Discussion and Conclusions
+
+Toward a theory of role-based status and psychological safety in teams
+
+This paper empirically examined the effect of professional status on psychological safety in health
+care teams, motivated both by the theoretical role of psychological safety in team learning
+(Edmondson, 1999) and by the practical need for team learning in today’s hospitals. As anticipated,
+psychological safety was significantly associated with professional status in these data. The results thus
+suggest that, in health care, professional status influences beliefs about how easy or appropriate it is to
+speak up to offer ideas, raise concerns, or ask questions. At the same time, our results showed
+significant differences across groups in the strength of the association between status and psychological
+safety, suggesting that this relationship need not be deterministic. In some teams, members with high
+(i.e., physicians) and low (i.e., nurses and respiratory therapists) status reported more similar levels of
+safety than in other teams, in which relatively large disparities in psychological safety between
+professional groups were found. This finding provides reassurance that the effects of traditional status
+differences in health care may be overcome, facilitating full participation in cross-disciplinary team
+improvement efforts.
+   Unlike in other industries, where employees may advance in the hierarchy—moving from sales
+assistant to sales associate or from analyst to consultant to principal, for example—medical
+professionals cannot rely on professional mobility to confer greater status. Professions tend to be stable
+over a career. Nurses and respiratory therapists generally do not become doctors. As a result, the
+opportunity for natural status gains by lower status individuals can be rare. With history and industry
+structure as perpetuators, profession-related status differences continue. And, the growing
+interdependence among professions only heightens intergroup tensions. According to social
+psychological (Alderfer, 1977; Alderfer & Smith, 1982; Messick & Mackie, 1989) and ethnographic
+(Dougherty, 1992) research, this is natural.
+   Our results suggest leader inclusiveness—words and deeds by leaders that invite and
+appreciate others’ contributions—can take nature off its course, helping to overcome status’
+inhibiting effects on psychological safety. In cross-disciplinary teams with high leader
+inclusiveness, the status–psychological safety relationship was weakened. We thus suggest
+that active, inclusive behavior on the part of physician leaders may be an essential means of
+facilitating others’ meaningful engagement in team-based quality improvement work. Thus, a
+key contribution of this study is the identification of an interpersonal strategy for improving the
+climate for learning within cross-disciplinary teams in health care. This extends prior work that has
+shown psychological safety consistently to be related to leader behavior (Edmondson, 1999, 2003;
+Hult, Hurley, Guinipero, & Nichols, 2000; Lovelace, Shapiro, & Weingart, 2001; Norrgren &
+Schaller, 1999), by narrowing and sharpening the nature of leader behaviors that promote
+psychological safety.
+   Recent studies of psychological safety and communication in the health care environment
+have also highlighted the role of the leadership in cultivating a culture of safety, but have
+not articulated the actual practices of leaders that are needed, other than training staff to speak
+
+Copyright # 2006 John Wiley & Sons, Ltd.                             J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                          DOI: 10.1002/job
+
+                                                                                                                                      10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                                         STATUS AND PSYCHOLOGICAL SAFETY                       959
+
+
+up (Leonard et al., 2004; Maxfield, Grenny, McMillan, Patterson, & Switzler, 2005). Our
+research suggests that training leaders to invite team members’ comments and to appreciate
+those comments overtly is as important. As we did not test any training methods, we cannot
+draw conclusions about what training strategies will work. However, training that includes
+instruction in the timing and phrasing of invitation and appreciation may be useful. Boyle and
+Kochinda (2004) tested a training intervention to improve communication between nurse and
+physician leaders,4 and found that staff perceptions of leadership, communication, and problem-
+solving between professional groups improved in the post-intervention period, affirming that
+leadership training is a promising route to improved team climate. Our results also suggest it is a
+route to increasing engagement in quality improvement.
+
+
+
+
+A more nuanced look at team learning for health care improvement efforts
+The study also provides insight into a more focused type of team learning than has been investigated in
+prior-related research: team learning for quality improvement. First, we found evidence that
+psychological safety, in combination with leader inclusiveness, promotes team engagement in quality
+improvement work. Second, the finding that psychological safety mediates between leader
+inclusiveness and engagement in quality improvement extends prior work that showed psychological
+safety to be a mediator between the broader construct of team leader coaching behavior and team
+learning behavior, more generally (Edmondson, 1999). Finally, our model and findings shed light on
+the important but rarely studied phenomenon of engagement in discretionary, effortful quality
+improvement activities. Although our emphasis was on the effects of psychological safety, we also
+acknowledge that there may be other processes that contribute to engagement (e.g., psychological
+availability (Kahn, 1990)) that we have not addressed. Future research should explore additional
+mechanisms by which teams become actively engaged in quality improvement work.
+   The challenge of engaging busy, overworked professionals and service workers—already burdened
+by the heavy demands of their ‘‘real jobs’’—in quality improvement activities should not be
+underestimated. In the course of a day, health care professionals are continuously called upon to
+immediately address the many needs of patients and co-workers. The requests are so many that nurses
+often sacrifice their personal breaks (e.g., lunchtime) and work overtime without compensation in order
+to complete their daily clinical care tasks (Tucker & Edmondson, 2003). The time pressure to complete
+tasks is so great that the most burdened frequently neglect to wash their hands, despite almost universal
+awareness that hand hygiene is a cornerstone of good clinical practice (Institute of Medicine, 2003).
+   In this challenging work environment, competing demands could surely relegate the perceived extra-
+role work of participating in quality improvement efforts to the background unless engagement ignites
+a counter response. Our analyses—using staff-to-patient beds as a measure of workload—suggest that
+the engagement needed to motivate such efforts is related more to psychological safety within the unit
+team than the burden created by competing demands and workload. This is good news for health care
+because it suggests that improvement efforts need not be delayed until greater slack is created; rather
+engagement in improvement efforts may occur in unit teams once a climate of psychological safety for
+
+4
+  The ‘‘collaborative communication intervention’’ employed by Boyle & Kochinda (2004) consisted of multiple learning
+activities, small group skill practice and problem solving decisions; feedback and reinforcement of newly learned skills; a
+planning assignment for on-the-job applications; and assessment and feedback after the intervention. Participating ICU leaders
+spent a total of 23.5 hours learning communication and process skills (e.g., how to open a conversation, how to seek ideas from all
+involved, etc.).
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                            J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                                         DOI: 10.1002/job
+
+                                                                                                            10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+960    I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+learning is cultivated. Thus, another contribution of the present study is to illuminate organizational
+antecedents of engagement, which can be a difficult state to elicit naturally.
+
+
+Limitations
+
+This study is not without limitations. First, our use of a sample consisting exclusively of NICUs and
+their professionals may limit the generalizability of the findings. While NICUs are similar to other
+health care units in exemplifying the trend toward cross-disciplinary teams mentioned at the outset
+(associated with increasing knowledge, specialization, and interdependence), one could argue that
+these trends are heightened in NICUs, making the setting unusual. Moreover, the fragility of the (infant)
+patient and the importance of timely communication and action are also special characteristics of the
+NICU. These contextual variables may foster an appreciation for teamwork and recognition of each
+discipline’s contribution such that leader inclusiveness is more prevalent in NICUs than in other health
+care settings, and more likely to elicit responsiveness. Other unit types (e.g., outpatient units) may be
+slower to realize the unique contributions of traditionally lower status team members and the
+interdependency among disciplines. Therefore, status differences may be greater in those unit teams
+compared to those in the NICU environment, and leadership’s achievement of inclusiveness may be
+more difficult. Our data do not allow us to make a comparison based on unit type. However, the
+presence of significant variance between NICUs with respect to leader inclusiveness suggests that
+leader inclusiveness is not a universal NICU attribute. Some NICU leaders experience significant
+difficulty behaving inclusively. Whether this relationship varies across unit types will have to be
+investigated in future work.
+   Future work should also address imperfections of our data. We received completed surveys from
+only 58% of the NICUs in the collaborative and only 46% of unit team members contacted (excluding
+survey pilot sites). Although demographic comparison of participating and non-participating NICUs
+showed no differences between the two groups and our response rates are similar to other studies in
+hospitals (Edmondson, 1996; Kaissi, Kralewski, Curoe, Dowd, & Silversmith, 2004; Jacob &
+Deshpande, 1997), we cannot ignore the possibility of non-response bias at the group and individual
+levels. The latter is a most serious concern if individual non-respondents are those who did not feel
+psychologically safe and included. The absence of their responses biases their unit data upward,
+incorrectly giving the appearance of units that have managed to minimized status differences in
+psychological safety and that are inclusive. Subsequent studies with higher response rates are needed to
+address this concern. Additionally, those studies are advised to examine a relationship we were unable
+to test with our dataset—whether specialization among nurses is associated with differences in
+psychological safety. Nurse respondents did indicate their professional training (e.g., neonatal nurse
+practitioner vs. Master’s prepared nurse) in their survey responses; however this was not enough
+information to accurately identify different specialties within the nursing populations across units. We
+urge scholars in this area to collect information about daily tasks and specific care delivery roles to
+further assess the effects of specialization and status within a professional group on psychological
+safety.
+   Finally, we must acknowledge that team engagement in quality improvement work is an
+intermediary outcome. The ultimate goal of health professionals involved in quality improvement work
+is to close the gap between current and evidence-based practice to produce the highest quality care
+possible in a consistent manner (Shojania, McDonald, Wachter, & Owens, 2004). Although we lack
+data in this study to test the relationship between engagement in quality improvement work and team
+learning as evidenced by quality improvement outcomes, past research shows a positive relationship
+between employee engagement and other organizational outcomes, including customer satisfaction,
+
+Copyright # 2006 John Wiley & Sons, Ltd.                            J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                         DOI: 10.1002/job
+
+                                                                                                                 10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                             STATUS AND PSYCHOLOGICAL SAFETY              961
+
+
+productivity, profit, and safety (Buckingham & Coffman, 1999), and future research should further test
+this relationship.
+
+
+Practical implications
+
+In sum, this study extends a stream of research on creating psychological safety for learning within
+cross-disciplinary teams, and begins the discussion about team engagement in quality improvement
+work. At a time when much attention is centered on how to advance quality improvement efforts in
+health care, this paper offers initial theoretical and practical insight. Specifically, training leaders to be
+inclusive to foster psychological safety may be a critical antecedent of effective quality improvement,
+because it may create the engagement that is necessary for teams to participate in the specific learning
+activities required for quality improvement. We find, in related work, that psychological safety enables
+the performance of ‘‘learn-how’’ activities—experimental activities such as pilot projects, dry runs,
+and problem-solving cycles—which are interpersonally risky yet often required for the
+implementation success of quality improvement projects in health care (Tucker et al., 2006).
+Together, these findings imply a focus on team leader behavior to create the conditions (i.e.,
+psychological safety) and then the opportunities (i.e., learn-how activities) for team quality
+improvement efforts.
+   We do not intend to suggest that the development of inclusive leaders within NICUs would affect
+psychological safety or engagement in other parts of hospital systems. NICU leaders rarely interact
+with other clinical units, thus the opportunities for their inclusive nature to shape the climate of
+other multidisciplinary care delivery teams directly is limited. Likewise, NICU team members
+typically do not work on other care teams, so any habit of collaborative interactions is mostly NICU-
+contained.
+   Although this research took place in the health care context, the findings may apply to other
+organizational contexts as well. In particular, in other organizations with cross-disciplinary teams,
+status diversity and a need for teams to continuously improve the services or products the organization
+produces, the model developed in this paper may be highly relevant. A growing number of industries
+are characterized by these features, as organizations realize that individuals in different functions,
+locations, and stations of life possess specialized knowledge that can be valuable for problem-solving
+and innovation, if shared and combined with the knowledge of other employees through teamwork.
+Therefore, our model may have wider relevance than just health care, but health care, with its
+prevalence of cross-disciplinary teams, salient status differences, and many quality improvement
+efforts is particularly conducive for exploring and developing these ideas.
+
+
+
+Acknowledgements
+
+This research benefited greatly from the expert help of health care management and operations
+researchers Anita L. Tucker and Dr. Richard Bohmer (also a physician), as well as the superb research
+assistance of Laura Feldman. We thank the participants in the Leadership and Groups seminar at
+Harvard University, Denise Rousseau and two anonymous reviewers for constructive comments on
+earlier versions of this manuscript. We also appreciate the invitation to conduct this research provided
+by Dr. Jeffrey Horbar, Kathy Leahy, Paul Plsek and the Vermont Oxford Network, as well as the
+willingness of nurses, physicians, respiratory therapists and other staff members of the participating
+
+Copyright # 2006 John Wiley & Sons, Ltd.                               J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                            DOI: 10.1002/job
+
+                                                                                                                       10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+962    I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+hospitals to engage in this research. Their time, effort, and honesty provided an invaluable contribution,
+for which we are deeply appreciative. The Harvard Business School Division of Research provided
+financial support.
+
+
+
+
+Author biographies
+
+Ingrid M. Nembhard is a doctoral candidate in the Ph.D. Program in Health Policy (Management
+Concentration) at Harvard University. She received her S.M. in Health Policy and Management from
+the Harvard School of Public Health. Her research interests include intra- and inter-organizational
+learning, collaborative teams, and quality improvement in health care.
+Amy C. Edmondson is Novartis Professor of Leadership and Management at Harvard University. She
+received her A.M. in Psychology and Ph.D. in Organizational Behavior from Harvard. Her research
+focuses on understanding and improving processes through which organizations learn and innovate, in
+health care and other industry settings.
+
+
+
+
+References
+
+Accreditation Council for Graduate Medical Education. (2004). 2002–2003 Annual Report. Retrieved December
+  14, 2004, from http://www.acgme.org/acWebsite/about/ab_2002–03AnnRep.pdf.
+Aiken, L. H., & Sloane, D. M. (1997). Effects of specialization and client differentiation on the status of nurses:
+  The case of AIDS. Journal of Health and Social Behavior, 38, 203–222.
+Alderfer, C. P. (1977). Group and intergroup relations. In J. R. Hackman, & J. L. Suttle (Eds.), Improving life at
+  work: Behavioral science approaches to organizational change (pp. 227–296). Santa Monica, CA: Goodyear.
+Alderfer, C. P. (1987). An intergroup perspective on organizational behavior. In J. W. Lorsch (Ed.), Handbook of
+  organizational behavior (pp.190–222). Englewood Cliffs, NJ: Prentice-Hall.
+Alderfer, C. P., & Smith, K. K. (1982). Studying intergroup relations embedded in organizations. Administrative
+  Science Quarterly, 27, 35–65.
+Anderson, C., John, O. P., Keltner, D., & Kring, A. M. (2001). Who attains social status? Effects of personality and
+  physical attractiveness in social groups. Journal of Personality and Social Psychology, 81, 116–132.
+Argyris, C. (1985). Strategy, change, and defensive routines. Boston, MA: Pitman.
+Argyris, C., & Schön, D. A. (1978). Organizational learning: A theory of action perspective. Reading, MA:
+  Addison-Wesley.
+Ashford, S. J., Rothbard, N. P., Piderit, S. K., & Dutton, J. E. (1998). Out on a limb: The role of context and
+  impression management in selling gender-equity issues. Administrative Science Quarterly, 43, 23–57.
+Bacharach, S. B., Bamberger, P., & Mundell, B. (1993). Status inconsistency in organizations: From social
+  hierarchy to stress. Journal of Organizational Behavior, 14, 21–36.
+Baggs, J. G., Schmitt, M. H., Mushlin, A. I., Mitchell, P. H., Eldredge, D. H., & Oakes, D., et al. (1999).
+  Association between nurse-physician collaboration and patient outcomes in three intensive care units. Critical
+  Care Medicine, 27, 1991–1998.
+Baker, R. G., King, H., MacDonald, J. L., & Horbar, J. D. (2003). Using organizational assessment surveys for
+  improvement in neonatal intensive care. Pediatrics, 111, e419–e425.
+Baker, R. G., Murray, M., & Tasa, K. (1995, December). Quality in action: An instrument for assessing
+  organizational culture for quality improvement. Paper presented at the First International Scientific Symposium
+  on Improving Quality and Value in Health Care, Orlando, FL.
+Baron, R.A. (1990). Countering the effects of destructive criticism: The relative efficacy of four interventions.
+  Journal of Applied Psychology, 73, 199–207.
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                   J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                                DOI: 10.1002/job
+
+                                                                                                                        10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                                 STATUS AND PSYCHOLOGICAL SAFETY                 963
+
+
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological
+  research: Conceptual, strategic and statistical considerations. Journal of Personality and Social Psychology, 51,
+  1173–1183.
+Bass, B. M. (1990). Bass and Stogdill’s handbook of leadership. New York: Free Press.
+Benoit-Smullyan, E. (1944). Status, status types, and status interrelations. American Sociological Review, 9, 151–
+  161.
+Berger, J., Cohen, B. P., & Zelditch, M. (1972). Status characteristics and social interaction. American Sociological
+  Review, 8, 241–255.
+Berger, J., Fisek, H., Norman, R. Z., & Zelditch, M. (1985). The formation of reward expectations in status
+  situations. In J. Berger, & M. Zelditch (Eds.), Status, rewards, and influence. San Francisco, CA: Jossey-Bass.
+Berger, J., Rosenholtz, S. J., & Zelditch, M. (1980). Status organizing processes. In A. Inkeles, N. J. Smelser, & R.
+  H. Turner (Eds.), Annual review of sociology (Vol. 6, pp. 479–508). Palo Alto: Annual Reviews.
+Berwick, D. M., Godfrey, A. B., & Roessner, J. (1990). Curing health care: New strategies for quality
+  improvement: A report on the National Demonstration Project on Quality Improvement in Health Care.
+  San Francisco, CA: Jossey-Bass.
+Boyle, D. K., & Kochinda, C. (2004). Enhancing collaborative communication of nurse and physician leadership in
+  two intensive care units. Journal of Nursing Administration, 34, 60–70.
+Brown, P., & Levinson, S. C. (1987). Politeness: Some universals in language usage. New York: Cambridge
+  University Press.
+Brown, M. S., Ohlinger, J., Rusk, C., Delmore, P., & Ittmann, P., on behalf of the CARE Group. (2003).
+  Implementing potentially better practices for multidisciplinary team building: Creating a neonatal intensive care
+  unit culture of collaboration. Pediatrics, 111 (Supplement), e482–e488.
+Buckingham, M., & Coffman, C. (1999). First, break all the rules. New York: Simon and Schuster.
+Bunderson, J. S. (2003a). Recognizing and utilizing expertise in work groups: A status characteristics perspective.
+  Administrative Science Quarterly, 48, 557–591.
+Bunderson, J. S. (2003b). Team member functional background and involvement in management teams: Direct
+  effects and the moderating role of power centralization. Academy of Management Journal, 46, 458–474.
+Chassin, M. R. (1998). Is health care ready for six sigma quality? Milbank Quarterly, 76, 575–591.
+Chassin, M. R., Galvin, R. W., & The National Roundtable on Health Care Quality. (1998). The urgent need to
+  improve health care quality. Journal of the American Medical Association, 280, 1000–1005.
+Coburn, D. (1992). Friedson then and now: An ‘internalist’ critique of Friedson’s past and present views of the
+  medical profession. International Journal of Health Services, 22, 497–512.
+DeSantis, G. (1980). Realms of expertise: A view from within the medical profession. In J. A. Roth (Ed.), Research
+  in the sociology of health (pp.179–236). Greenwich, CT: JAI.
+Detert, J. R., & Edmondson, A. C. (2005). No exit, no voice: The bind of risky voice opportunities in organizations.
+  Harvard Business School Working Paper, 05–049.
+Dingwall, R. W. (1974). Some sociological aspects of ‘nursing research’. The Sociological Review, 22,
+  45–55.
+Donaldson, M. S., & Mohr, J. J. (2000). Exploring innovation and quality improvement in health care
+  microsystems: A cross case analysis. Washington, DC: Institute of Medicine, National Academy Press.
+Dougherty, D. (1992). Interpretive barriers to successful product innovation in large firms. Organization Science, 3,
+  179–202.
+Driskell, J. E., & Salas, E. (1991). Group decision making under stress. Journal of Applied Psychology, 76, 473–
+  478.
+Dutton, J. E. (1993). The making of organizational opportunities: An interpretive pathway to organizational
+  change. In L. L. Cummings, & B. M. Staw (Eds.), Research in organizational behavior (pp. 195–226).
+  Greenwich, CT: JAI Press.
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science
+  Quarterly, 44, 350–383.
+Edmondson, A. C. (1996). Learning from mistakes is easier said than done: Group and organizational influences on
+  the detection and correction of human error. Journal of Applied Behavioral Science, 32, 5–32.
+Edmondson, A. C. (2003). Speaking up in operating room: How team leaders promote learn interdisciplinary
+  action teams. Journal of Management Studies, 40, 1419–1452.
+Edmondson, A. C., Roberto, M. A., & Watkins, M. D. (2003). A dynamic model of top management team
+  effectiveness: Managing unstructured task streams. Leadership Quarterly, 219, 1–29.
+Feiger, S. M., & Schmitt, M. H. (1979). Collegiality in interdisciplinary health teams: Its measurement and its
+  effects. Social Science & Medicine, 13A, 217–229.
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                   J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                                DOI: 10.1002/job
+
+                                                                                                                      10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+964    I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+Foushee, H. C., & Helmreich, R. L. (1988). Group interaction and flight crew performance. In E. L. Wiener, D. C.
+  Nagel, & M. P. Friedman (Eds.), Human factors in aviation (pp. 189–227). San Diego, CA: Academic Press.
+Friedson, E. (1970a). The profession of medicine. New York: Dodd, Mead, and Co.
+Friedson, E. (1970b). Professional dominance: The social structure of medical care. Chicago, IL: Aldine
+  Publishing Company.
+Friedson, E. (1994). Professionalism reborn: Theory, prophecy, and policy. Chicago, IL: University of Chicago
+  Press.
+Fuchs, V. (1974). Who shall live? Health, economics and social choice. New York: Basic Books.
+Gibson, C. B., & Vermeulen, F. (2003). A health divide: Subgroups as stimulus for team learning behavior.
+  Administrative Science Quarterly, 48, 202–239.
+Griffin, A. (1997). PDMA research on new product development practices: Updating trends and benchmarking best
+  practices. The Journal of Product Innovation Management, 14, 429–458.
+Hafferty, F. W., & Light, D. W. (1995). Professional dynamics and the changing nature of medical work. Journal of
+  Health and Social Behavior, 35, 132–153.
+Hafferty, F. W., & Wolinsky, F. D. (1991). Conflicting characterizations of professional dominance. Current
+  Research on Occupations and Professions, 6, 225–249.
+Helmreich, R. L. (2000). On error management: Lessons from aviation. British Journal of Management, 320, 781–
+  785.
+Hermann, C. F. (1963). Some consequences of crisis which limit the viability of organizations. Administrative
+  Science Quarterly, 8, 61–82.
+Horbar, J. D. (1999). The Vermont Oxford Network: Evidence-based quality improvement for neonatology.
+  Pediatrics, 103, 350–359.
+Hult, G. T. M., Hurley, R. F., Guinipero, L. C., & Nichols, E. L. (2000). Organizational learning in
+  global purchasing: A model and test of internal users and corporate buyers. Decision Sciences, 31, 293–
+  325.
+Institute of Medicine. (1999). In L. T. Kohn, J. M. Corrigan, & M. S. Donaldson (Eds.), To err is human: Building a
+  safer health system. Washington, DC: National Academy Press.
+Institute of Medicine. (2001). Crossing the quality chasm: A new system for the 21st century. Washington, DC:
+  National Academy Press.
+Institute of Medicine. (2003). Keeping patients safe: Transforming the work environment of nurses. Washington,
+  DC: National Academy Press.
+Jacob, J., & Deshpande, S. P. (1997). The impact of ethical climate on job satisfaction of nurses. Health Care
+  Management Review, 22, 76–80.
+Kahn, W. A. (1990). Psychological conditions of personal engagement and disengagement at work. Academy of
+  Management Journal, 33, 692–724.
+Kaissi, A., Kralewski, J., Curoe, A., Dowd, B., & Silversmith, J. (2004). How does the culture of medical group
+  practices influence the types of programs used to assure quality of care? Health Care Management Review, 29,
+  129–138.
+Kenny, D. K., & LaVoie, L. (1985). Separating individual and group effects. Journal of Personality and Social
+  Psychology, 48, 339–348.
+Kilo, C. M. (1999). Improving care through collaboration. Pediatrics, 103 (Supplement), 384–393.
+Kirchler, E., & Davis, J. H. (1986). The influence of member status differences and task type on group consensus
+  and member position change. Journal of Personality and Social Psychology, 51, 83–91.
+Klein, A. L. (1976). Changes in leadership appraisal as a function of the stress of a simulated panic situation.
+  Journal of Personality and Social Psychology, 34, 1143–1154.
+Leape, L. L., Bates, D. W., Cullen, D. J., Cooper, J., Demonaco, H. J., & Gallivan, T., et al. (1995). Systems
+  analysis of adverse drug events. Journal of the American Medical Association, 274, 35–43.
+Leonard, M. S., Frankel, A., Simmonds, T., & Vega, K. B. (2004). Achieving safe and reliable healthcare:
+  Strategies and solutions. Ann Arbor, MI: Health Administration Press.
+Littlepage, G., Robison, W., & Reddington, K. (1997). Effects of task experience and group experience on group
+  performance, member ability, and recognition of expertise. Organizational Behavior and Human Decision
+  Processes, 69, 133–147.
+Lovelace, K., Shapiro, D. L., & Weingart, L. R. (2001). Maximizing cross-functional new product teams’
+  innovativeness and constraint adherence: A conflict communication perspective. Academy of Management
+  Journal, 44, 779–793.
+MacDuffie, J. P. (1997). The road to ‘‘root cause’’: Shop-floor problem-solving at three auto assembly plants.
+  Management Science, 43, 479–502.
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                  J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                               DOI: 10.1002/job
+
+                                                                                                                        10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                                 STATUS AND PSYCHOLOGICAL SAFETY                 965
+
+
+Madhavan, R., & Grover, R. (1998). From embedded knowledge to embodied knowledge: New product
+  development as knowledge management. Journal of Marketing, 62, 1–12.
+Maxfield, D., Grenny, J., McMillan, R., Patterson, K., & Switzler, A. (2005). Silence kills: The seven crucial
+  conversations for healthcare. Provo, UT: VitalSmarts, LC.
+McGregor, D. (1960). The human side of enterprise. New York: McGraw Hill.
+Mechanic, D. (1991). Sources of countervailing power in medicine. Journal of Health Politics, Policy and Law, 16,
+  485–498.
+Messick, D. M., & Mackie, D. M. (1989). Intergroup relations. Annual Review of Psychology, 40, 45–81.
+Milliken, F. J., Morrison, E. W., & Hewlin, P. F. (2003). An exploratory study of employee silence: Issues that
+  employees don’t communicate upward and why. Journal of Management Studies, 40, 1453–1476.
+Mittman, B. S. (2004). Creating the evidence base for quality improvement collaboratives. Annals of Internal
+  Medicine, 140, 897–901.
+Morrison, E. W., & Phelps, C. C. (1999). Taking charge at work: Extrarole efforts to initiate workplace change.
+  Academy of Management Journal, 42, 403–419.
+Nemeth, C. J. (1986). Differential contributions of majority and minority influence. Psychological Review, 93, 23–
+  32.
+Norrgren, F., & Schaller, J. (1999). Leadership style: Its impact on cross-functional product development. The
+  Journal of Product Innovation Management, 16, 377–384.
+Nunnally, J. (1978). Psychometric theory (2nd ed.). New York: McGraw-Hill.
+Oliva, R. (2001). Tradeoffs in response to work pressure in the service industry. California Management Review,
+  43, 26–43.
+Pagliari, C., & Grimshaw, J. (2002). Impact of group structure and process on multidisciplinary evidence-based
+  guideline development: An observational study. Journal of Evaluation in Clinical Practice, 8, 145–153.
+Ryan, K. D., & Oestreich, D. K. (1991). Driving fear out of the workplace: How to overcome the invisible barriers
+  to quality, productivity, and innovation. San Francisco: Jossey-Bass.
+Sarin, S., & Mahajan, V. (2001). The effect of reward structures on the performance of cross-functional product
+  development teams. Journal of Marketing, 65, 35–53.
+Schaefer, H. G., Helmreich, R. L., & Scheideggar, D. (1994). Human factors and safety in emergency medicine.
+  Resuscitation, 28, 221–225.
+Schein, E. H., & Bennis, W. (1965). Personal and organizational change through group methods: A laboratory
+  approach. New York: Wiley.
+Schmitt, M. H. (1990). Medical malpractice and interdisciplinary team dynamics. In Proceedings of the 12th
+  Annual Interdisciplinary Health Care Team Conference (pp. 53–66). Indianapolis, IN: Indiana University.
+Shamir, B., Zakay, E., Breinin, E., & Popper, M. (1998). Correlates of charismatic leader behavior in military units:
+  Subordinates’ attitudes, unit characteristics and superiors’ appraisals of leader performance. Academy of
+  Management Journal, 41, 387–409.
+Shine, K. I. (2002). Health care quality and how to achieve it. Academic Medicine, 77, 91–99.
+Shojania, K. G., McDonald, K. M., Wachter, R. M., & Owens, D. K. (2004). Closing the quality gap: A critical
+  analysis of quality improvement strategies. AHRQ Publication No. 04-0051-1.
+Shortell, S. M. (1974). Occupational prestige differences within the medical and allied health professions. Social
+  Science and Medicine, 8, 1–9.
+Shortell, S. M., Rousseau, D. M., Gillies, R. R., Devers, K. J., & Simons, T. L. (1991). Organizational assessment in
+  intensive care units (ICUs): Construct development, reliability, and validity of the ICU nurse-physician
+  questionnaire. Medical Care, 29, 709–726.
+Stamper, C. L., & Van Dyne, L. (2001). Work status and organizational citizenship behavior: A field study of
+  restaurant employees. Journal of Organizational Behavior, 22, 517–536.
+Staw, B. M., Sandelands, L. E., & Dutton, J. E. (1981). Threat-rigidity effects in organizational behavior: A
+  multilevel analysis. Administrative Science Quarterly, 26, 501–524.
+Tabachnick, B. G., & Fidell, L. S. (2001). Computer-assisted research and design. Boston: Allyn and Bacon.
+Tajfel, H., & Turner, J. C. (1986). The social identity theory of intergroup behavior. In S. Worchel, & W. G. Austin
+  (Eds.), Psychology of intergroup relations (pp. 7–24). Chicago: Nelson-Hall.
+Tucker, A. L., & Edmondson, A. C. (2003). Why hospitals don’t learn from failures: Organizational and
+  psychological dynamics that inhibit system change. California Management Review, 45, 55–72.
+Tucker, A. L., Nembhard, I. M., & Edmondson, A. C. (2006). The Effects of Learn-What and Learn-How on the
+  Implementation Success of Improvement Projects. HBS Working Paper No. 06-049.
+Tyler, T. R., & Lind, E. A. (1992). A relational model of authority in groups. In M. P. Zanna (Ed.), Advances in
+  experimental social psychology (Vol. 25, pp. 115–191). New York: Academic Press.
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                   J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                                DOI: 10.1002/job
+
+                                                                                                                      10991379, 2006, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.413 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+966    I. M. NEMBHARD AND A. C. EDMONDSON
+
+
+Van de Ven, A. H., Delbecq, A. L., & Koenig, R., Jr. (1976). Determinants of coordination modes within
+  organizations. American Sociological Review, 41, 322–338.
+Vinokur, A., Burnstein, E., Sechrest, L., & Wortman, P. M. (1985). Group decision-making by experts: Field study
+  of panels evaluating medical technologies. Journal of Personality and Social Psychology, 49, 70–84.
+Wachter, R. M. (2004). The end of the beginning: Patient safety five years after ‘To Err is Human’. Health Affairs,
+  W4, 534–545.
+Wageman, R. (1995). Interdependence and group effectiveness. Administrative Science Quarterly, 40, 145–180.
+Webster, M., & Foschi, M. (1988). Status generalizations. Stanford, CA: Stanford University Press.
+Weick, K. E. (2002). The reduction of medical errors through mindful interdependence. In M. M. Rosenthal, &
+  K. M. Sutcliffe (Eds.), Medical error: What do we know? What do we do? (pp. 177–199). San Francisco, CA:
+  Jossey-Bass.
+Weisband, S. P., Schneider, S. K., & Connolly, T. (1995). Computer-mediated communication and social
+  information: Status salience and status differences. Academy of Management Journal, 38, 1124–1151.
+Wind, J., & Mahajan, V. (1997). Issues and opportunities in new product development: An introduction to the
+  special issue. Journal of Marketing Research, 34 (February), 1–12.
+Wolinsky, F. D. (1988). The professional dominance perspective, revisited. The Milbank Quarterly, 66, 33–47.
+Yukl, G. (1994). Leadership in organizations (3rd ed.). Englewood Cliffs, NJ: Prentice Hall.
+Zimmerman, J. E., Shortell, S. M., Rousseau, D. M., Duffy, J., Gillies, R. R., & Knaus, W. A., Devers, K., Wagner,
+  D. P., & Draper, E. A. (1993). Improving intensive care: Observations based on organizational case studies in
+  nine intensive care units: A prospective, multicenter study. Critical Care Medicine, 21, 1443–1451.
+
+
+
+
+Copyright # 2006 John Wiley & Sons, Ltd.                                  J. Organiz. Behav. 27, 941–966 (2006)
+                                                                                               DOI: 10.1002/job
+

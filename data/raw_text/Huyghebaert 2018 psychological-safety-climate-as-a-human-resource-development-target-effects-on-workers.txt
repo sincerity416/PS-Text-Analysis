@@ -1,0 +1,602 @@
+756955
+research-article2018
+                       ADHXXX10.1177/1523422318756955Advances in Developing Human ResourcesHuyghebaert et al.
+
+
+
+
+                                                      Article
+                                                                                                                                 Advances in Developing Human
+                                                                                                                                                        Resources
+                                                      Psychological Safety Climate                                                      2018, Vol. 20(2) 169­–181
+                                                                                                                                            © The Author(s) 2018
+                                                      as a Human Resource                                                               Reprints and permissions:
+                                                                                                                          sagepub.com/journalsPermissions.nav
+                                                      Development Target: Effects                                            DOI: 10.1177/1523422318756955
+                                                                                                                          https://doi.org/10.1177/1523422318756955
+                                                                                                                               journals.sagepub.com/home/adhr
+                                                      on Workers Functioning
+                                                      Through Need Satisfaction
+                                                      and Thwarting
+
+
+                                                      Tiphaine Huyghebaert1,2, Nicolas Gillet1,
+                                                      Fadi-Joseph Lahiani2, Amandine Dubois-Fleury2,
+                                                      and Evelyne Fouquereau1
+
+
+                                                      Abstract
+                                                      The Problem.
+                                                      This article seeks to identify a new lever to act on employee burnout, work–family
+                                                      conflict (WFC), affective commitment to the organization (ACO), and work
+                                                      engagement. It examines whether psychosocial safety climate (PSC) can affect
+                                                      these outcomes. Furthermore, this empirical article addresses the psychological
+                                                      mechanisms that could explain such effects, and explores the mediating role of need
+                                                      satisfaction and need thwarting in these relationships.
+                                                      The Solution.
+                                                      We conducted a study to examine whether need satisfaction and thwarting mediated
+                                                      the effects of PSC on burnout, WFC, ACO, and work engagement. Results from
+                                                      structural equation modeling revealed that the effects of PSC on employee adaptive
+                                                      and maladaptive functioning were partially mediated by psychological need satisfaction
+                                                      and thwarting, respectively.
+                                                      The Stakeholders.
+                                                      Implications for human resource development (HRD) are offered, including
+                                                      recommendations to promote PSC and foster need satisfaction, while preventing
+                                                      experiences conducive to need thwarting.
+
+                                                      1Université de Tours, France
+                                                      2AD Conseil, Malakoff, France
+
+
+                                                      Corresponding Author:
+                                                      Tiphaine Huyghebaert, UFR Arts et Sciences Humaines, Département de psychologie, Université de
+                                                      Tours, 3 rue des Tanneurs, 37041 Tours Cedex 1, France.
+                                                      Email: tiphaine.huyghebaert@univ-tours.fr
+
+170                                      Advances in Developing Human Resources 20(2)
+
+Keywords
+psychosocial safety climate, need satisfaction, need thwarting, burnout, work
+engagement
+
+
+Problem
+As many organizations struggle with the consequences (e.g., absenteeism, turnover) of
+employee ill-being, human resource (HR) practitioners have an important role to play
+in preventing such deleterious outcomes and promoting beneficial ones. In the present
+research, we explore an organizational determinant that may prevent employee burn-
+out and work–family conflict (WFC), promote affective commitment to the organiza-
+tion (ACO) and work engagement, and offer perspectives for human resource
+development (HRD) practitioners to consider. More specifically, we investigated psy-
+chosocial safety climate (PSC), which broadly refers to the extent of organizational
+concern for workers’ psychological health and to the policies and practices imple-
+mented to support such concern (Dollard & Bakker, 2010). Based on self-determina-
+tion theory (SDT; Deci & Ryan, 2008), we also looked into the psychological
+mechanisms (need satisfaction and thwarting) that may explain the effects of PSC.
+
+
+Burnout, WFC, ACO, and Work Engagement as Outcomes
+In times of financial crisis experienced by most Western countries, many organizations
+are confronted with austerity measures, which may translate into demanding work
+environments that affect workers’ psychological health (e.g., increasing burnout) as
+they have to devote much of their personal resources to adjust to these demanding
+realities (Demerouti, Xanthopoulou, Petrou, & Karagkounis, 2017). Defined as a state
+of generalized energy depletion that implies feelings of emotional, physical, and cog-
+nitive exhaustion due to chronic exposure to organizational demands (Shirom &
+Melamed, 2006), burnout is associated with an array of negative consequences for
+both individuals and organizations. These more demanding environments may also
+result in employees feeling that their work life interferes with their private life (i.e.,
+WFC). Defined as a “form of interrole conflict in which the general demands of, time
+devoted to, and strain created by the job interfere with performing family related
+responsibilities” (Netemeyer, Boles, & McMurrian, 1996, p. 401), WFC can alter indi-
+vidual and organizational functioning (e.g., Netemeyer, Maxham, & Pullig, 2005).
+    As workers face many complex demands, they are likely to look for employers who
+would support them more in coping with such demands (Gillet, Fouquereau,
+Huyghebaert, & Colombat, 2015). Therefore, another issue at stake for HR practitio-
+ners is to promote a high ACO, which is defined as an attachment to, an identification
+with, and an involvement in the organization (Meyer & Herscovitch, 2001). Among
+other beneficial effects, ACO is known to negatively associate with intended and
+actual turnover (Bentein, Vandenberghe, Vandenberg, & Stinglhamber, 2005). To be
+efficient, organizations may also want employees to be vigorous, happy, and devoted,
+which echoes the definition of work engagement offered by Schaufeli, Bakker, and
+
+Huyghebaert et al.                                                                    171
+
+
+Salanova (2006). Work engagement is also good for employees themselves as it not
+only refers to allocating efforts to one’s work but it also entails being able to express
+and accomplish the most of one’s true potential and intrinsic values through work
+(Kahn, 2010).
+
+
+PSC as an Antecedent
+In this article, we focus on one potential determinant (i.e., PSC) of these important
+individual outcomes. PSC is defined as specific “policies, practices, and procedures
+for the protection of worker psychological health and safety” (Dollard & Bakker,
+2010, p. 180). Dollard and Bakker (2010) propose that the PSC construct is divided
+into four dimensions: first, management commitment, which focuses on whether senior
+management commits to and engages in behaviors that prevent and reduce workers’
+ill-being at work; second, management priority, which refers to the priority set by
+senior management on psychological health and safety issues, over productivity or
+efficiency concerns; third, organizational communication, which underscores the
+importance of welcoming employees’ concerns and suggestions when it comes to psy-
+chological safety and health, as well as the importance of communicating about these
+aspects; and finally, organizational participation pertains to the necessity of actively
+consulting employees, unions, and occupational health and safety representatives dur-
+ing discussions on psychological health, safety policies, and preventive measures. In
+line with the pioneering work on PSC that concluded that “researchers could elect to
+compute a single score PSC indicator” (Hall, Dollard, & Coward, 2010, p. 376), all the
+related research has considered this variable as a whole.
+    Most of the research on PSC has demonstrated that as PSC improves, indicators of
+maladaptive functioning such as burnout decrease (e.g., Dollard & Bakker, 2010;
+Idris, Dollard, Coward, & Dormann, 2012). Although the association between PSC
+and WFC has not been investigated, it appears that these variables could be related.
+Indeed, when employees are listened to by all layers of management when they experi-
+ence draining job demands or work–home balance issues (i.e., high PSC), managers
+and supervisors can implement concordant practices and, thus, prevent job demands to
+persist or worsen (Dollard & Bakker, 2010). By listening to workers’ concerns, they
+may protect them from exposure to chronic demands that may eventually lead to
+exhaustion (i.e., burnout) or to a lack of resources to deal with the demands of their life
+roles (i.e., WFC; for example, Idris et al., 2012).
+
+   Hypothesis 1: PSC negatively relates to burnout and WFC.
+
+   Conversely, empirical studies also showed PSC to have positive effects on indica-
+tors of adaptive functioning such as work engagement (e.g., Hall et al., 2010; Idris,
+Dollard, & Tuckey, 2015). Although the association between PSC and ACO has not
+been extensively explored, it appears that these variables could be related. Indeed,
+when senior managers and supervisors value workers’ psychosocial safety and reflect
+this concern through organizational practices (i.e., high PSC), it may translate into
+
+172                                      Advances in Developing Human Resources 20(2)
+
+more daily job resources, which promote greater engagement (Dollard & Bakker,
+2010) and help to maintain a strong attachment to the organization (i.e., ACO).
+
+   Hypothesis 2: PSC positively relates to work engagement and ACO.
+
+
+The Mediating Role of Psychological Needs
+Although PSC research has revealed significant statistical relationships with burnout
+(e.g., Idris et al., 2012), research incorporating the constructs of WFC, ACO, and work
+engagement could broaden the knowledge on the effects of PSC. We also seek to gain
+a better understanding of the psychological mechanisms that may explain the effects
+of PSC on these consequences (i.e., burnout, WFC, ACO, work engagement). SDT
+research has showed that it is through the satisfying or thwarting of psychological
+needs (i.e., autonomy, competence, and relatedness) that the social environment relates
+to their psychological adjustment in various settings, including the work context (e.g.,
+Gillet, Fouquereau, et al., 2015). First, the need for autonomy refers to individuals’
+need to feel volitional and responsible for their actions. Second, the need for related-
+ness emphasizes individuals’ need to feel secure in their relationships. Finally, the
+need for competence underscores one’s need to feel efficient when interacting with
+one’s social environment and to have opportunities to express one’s abilities.
+    Scholars have indicated that need satisfaction and thwarting are not opposite ends
+of a continuum, but they are two independent psychological experiences with distinct
+consequences (Bartholomew, Ntoumanis, Ryan, & Thøgersen-Ntoumani, 2011). In
+other words, the work environment can give employee a sense of not being completely
+independent, efficient, or appreciated (i.e., low need satisfaction), but it can also make
+them feel oppressed, incompetent, or despised (i.e., need thwarting). More specifi-
+cally, even though need satisfaction and thwarting can share antecedents, previous
+studies showed need thwarting to be more appropriate to explain negative conse-
+quences such as burnout and WFC (Bartholomew et al., 2011). Conversely, need sat-
+isfaction was shown to be appropriate to explain positive consequences, whereas need
+thwarting did not significantly associate with these adaptive outcomes (Huyghebaert
+et al., 2017).
+    Therefore, on one hand, we expected the effects of PSC on ACO and work
+engagement to be explained by need satisfaction, but not by need thwarting. Indeed,
+research has demonstrated that need satisfaction underlay the effects of organiza-
+tional characteristics on work engagement (e.g., Gillet, Fouquereau, et al., 2015) and
+ACO (Gillet, Forest, Benabou, & Bentein, 2015). One could, thus, expect need sat-
+isfaction to explain the effect of PSC on these positive outcomes (i.e., work engage-
+ment and ACO). Indeed, because high PSC implies that employees’ contributions
+regarding their psychosocial safety are welcomed and needed and that workers’
+well-being is a priority, it may reinforce their feeling that they can volitionally
+express their concerns (i.e., autonomy satisfaction), show that they are cared for and
+appreciated (i.e., relatedness satisfaction), and give them a sense that their skills and
+ideas are valued (i.e., competence satisfaction). Organizations with a high PSC (i.e.,
+
+Huyghebaert et al.                                                                  173
+
+
+with high organizational concern for workers’ psychological health and concordant
+policies and practices implemented) may, thus, provide employees with those psy-
+chological resources that promote their personal development and optimal function-
+ing (Deci & Ryan, 2008), leading to high levels of work engagement and ACO. We
+expected the effects of PSC on work engagement and ACO to be partially medi-
+ated—versus totally—by need satisfaction because research has indicated that other
+mechanisms could contribute to explain the effects of PSC on individual functioning
+(e.g., Idris et al., 2015).
+
+   Hypothesis 3: Need satisfaction partially mediates the respective effects of PSC on
+   work engagement and ACO, while controlling for the effects of need thwarting.
+
+    On the other hand, we expected the effects of PSC on burnout and WFC to be
+mediated by need thwarting, but not by need satisfaction. Indeed, recent research
+shows that need thwarting may explain some of the effects of environmental con-
+straints on indicators of maladaptive functioning including burnout (e.g., Gillet,
+Fouquereau, et al., 2015). Precisely, scholars have advocated that the sole consid-
+eration of low need satisfaction does not suffice to explain adverse consequences.
+Instead, they recommend considering the thwarting of these needs when investigat-
+ing nonoptimal functioning (Bartholomew et al., 2011). Need thwarting, therefore,
+appears valuable to explain the potential effect of PSC on the negative outcomes
+included in this research. Indeed, if senior management and supervisors fail at wel-
+coming and encouraging employees’ contributions on psychological health con-
+cerns, and at making employee well-being a priority (i.e., low PSC), workers may
+feel out of control over the matters that may affect their own functioning (i.e.,
+autonomy thwarting), they may feel marginalized (i.e., relatedness thwarting), and
+they may feel unfit to participate in issues that they are firsthand concerned with
+(i.e., competence thwarting). In sum, because low PSC confronts them with an
+aversive psychological experience, employees may draw from their resources to
+cope, until these resources are drained (i.e., burnout) and insufficient to deal with
+the demands of both their work and home lives (i.e., WFC). As for need satisfac-
+tion, we expected the effects of PSC on burnout and WFC to be partially medi-
+ated—versus totally—by need thwarting because research has indicated that other
+mechanisms can contribute to explain the effects of PSC on individual functioning
+(e.g., Idris et al., 2015).
+
+   Hypothesis 4: Need thwarting partially mediates the respective effects of PSC on
+   burnout and WFC, while controlling for the effects of need satisfaction.
+
+Solution
+In line with the above rationale, we conducted a study to test whether need satisfaction
+and thwarting mediated the effects of PSC on burnout, WFC, ACO, and work
+engagement.
+
+174                                      Advances in Developing Human Resources 20(2)
+
+Method
+Procedure and participants. Data were collected through a questionnaire survey among
+employees of a French organization that had previously agreed to take part in the study.
+An email sent to employees explained that participation was voluntary and that their
+responses were to be kept anonymous, and invited them to complete an online question-
+naire. A total of 1,149 employees received the questionnaire, and 444 participants
+returned the completed survey (response rate = 38.64%). The company requested that no
+question address gender; therefore, no information was collected regarding this variable.
+Average age was 41.66 years (SD = 11.08 years), and average tenure in the organization
+was 7.42 years (SD = 7.04 years). Among all respondents, 144 held administrative posi-
+tions, 144 worked in maintenance jobs, 81 were managers, and 75 were social workers.
+Of all participants, 327 worked full time, and 117 worked part time.
+
+Measures. PSC was assessed with 12 items (e.g., “Psychological well-being of staff is
+a priority for this organization”; Hall et al., 2010). Responses were indicated on a
+5-point scale ranging from 1 (strongly agree) to 5 (strongly disagree).
+    Need thwarting was assessed with nine items (e.g., “I feel forced to behave in a
+certain way”; Gillet, Fouquereau, Lequeurre, Bigot, & Mokounokolo, 2012).
+Responses were rated on a 7-point scale ranging from 1 (strongly disagree) to 7
+(strongly agree).
+    Need satisfaction was measured with nine items (e.g., “I feel like I am able to meet
+the demands of the tasks that I have to perform”) from the scale developed by Gillet,
+Rosnet, and Vallerand (2008). Participants rated their response on a 7-point scale rang-
+ing from 1 (strongly disagree) to 7 (strongly agree).
+    Burnout was measured with 14 items (e.g., “I feel I am unable to be sensitive to the
+needs of coworkers and customers”; Sassi & Neveu, 2010). Responses were indicated
+on a 7-point scale ranging from 1 (never) to 7 (always).
+    WFC was measured with three items (e.g., “How often does it happen that your
+work schedule makes it difficult for you to fulfill your domestic obligations?”;
+Demerouti, Bakker, & Bulters, 2004). Responses were indicated on a scale ranging
+from 1 (never) to 7 (always).
+    Work engagement was measured with nine items (e.g., “At my work, I feel bursting
+with energy”; Schaufeli et al., 2006). Responses were indicated on a 7-point scale
+ranging from 1 (never) to 7 (always).
+    ACO was assessed with six items (e.g., “I feel emotionally attached to this organi-
+zation”; Bentein et al., 2005). Responses were given on a 5-point scale ranging from 1
+(strongly disagree) to 5 (strongly agree).
+
+Results
+Preliminary analyses. Correlation analyses were first conducted (see Table 1) and
+showed significant associations between our study variables. These results provided
+
+Huyghebaert et al.                                                                                   175
+
+Table 1. Means, Standard Deviations, and Correlations Between Variables (N = 444).
+
+Variable                    M      SD       1          2         3         4         5        6       7
+1. PSC               3.31         1.01    (.95)
+2. Need satisfaction 5.57         0.90     .49**    (.86)
+3. Need thwarting    2.85         1.30    −.44**    −.47** (.87)
+4. Burnout           2.69         1.15    −.44**    −.51**  .63** (.94)
+5. WFC               3.12         1.67    −.26**    −.20**  .39**  .50** (.83)
+6. ACO               2.87         1.16     .40**     .32** −.21** −.26** −.04 ns (.93)
+7. Work engagement 5.57           1.01     .45**     .64** −.36** −.55** −.24** .40** (.92)
+
+Note. All variables were measured on a 7-point scale with the exception of PSC and ACO which were
+assessed using a 5-point scale. Alpha reliabilities are reported along the diagonal. PSC = psychosocial
+safety climate; WFC = work–family conflict; ACO = affective commitment to the organization.
+**Significance at p < .001.
+
+
+preliminary support for our hypotheses. Our suggested model was then tested through
+structural equation modeling using AMOS. Our tested model included seven latent
+variables and 25 indicators. Given the large number of parameters to estimate, parcels
+were used as indicators of the dimensions for all the multidimensional latent variables
+in our study (i.e., PSC, need thwarting, need satisfaction, burnout, work engagement;
+Little, Cunningham, Shahar, & Widaman, 2002). Finally, WFC and ACO were latent
+variables with their respective items as indicators.
+
+Main analyses. In line with our hypotheses, we tested our proposed model by includ-
+ing unidirectional paths between PSC and all the other latent variables included in
+our study. We also specified links between need thwarting and, respectively, burn-
+out, WFC, ACO, and work engagement, as well as between need satisfaction and,
+respectively, burnout, WFC, ACO, and work engagement (see Figure 1). This model
+showed satisfactory fit to the data (see Table 2). Alternatively, we tested a full medi-
+ation model, in which links were specified between PSC and need satisfaction and
+thwarting, respectively. Links were also specified between need thwarting and,
+respectively, burnout, WFC, ACO, and work engagement, as well as between need
+satisfaction and, respectively, burnout, WFC, ACO, and work engagement. The par-
+tial mediation model showed better indices than the full mediation model (see Table
+2). The partial mediation model was found to be significantly better than the full
+mediation one as indicated by a lower Akaike information criterion (AIC) value and
+the chi-square significance testing results for model comparison reported in Table 2.
+Bootstrapping analyses (Preacher & Hayes, 2008) were conducted to confirm the
+observed mediations. The indirect effects were tested with 90% confidence intervals
+computed from 1,000 bootstrap samples. Results confirmed the indirect effect of
+PSC on burnout and WFC, through need thwarting. They also confirmed the indirect
+effect of PSC on ACO, engagement, and burnout, through need satisfaction (see
+Table 3).
+
+176                                             Advances in Developing Human Resources 20(2)
+
+
+
+
+Figure 1. Results from structural equation modeling.
+Note. Dashed lines indicate nonsignificant relationships. For clarity purposes, covariances are not
+presented. ACO = affective commitment to the organization; PSC = psychosocial safety climate; WFC =
+work–family conflict.
+†p < .07. *p < .01. **p < .001.
+
+
+
+
+Table 2. Fit Indices for the Tested Models.
+
+                                                      RMSEA and                Model
+Model description       χ2     df   χ2/df TLI CFI      90% CI         AIC    comparison     Δχ2     Δdf
+
+M1 Proposed partial 501.59 246      2.04 .96 .97      .048      659.59    —        —                —
+ mediation model                                 [0.042, 0.054]
+M2 Alternative full 534.21 250      2.14 .96 .96      .051      684.21 M1 vs. M2 32.62**             4
+ mediation model                                 [0.045, 0.057]
+
+Note. χ2 = chi-square; df = degree of freedom; TLI = Tucker–Lewis fit index; CFI = comparative fit index;
+RMSEA = root mean square error of approximation; CI = confidence interval; AIC = Akaike information
+criterion; Δχ2 = chi-square difference; Δdf = degree of freedom difference.
+**p < .001.
+
+
+Implications
+As many companies struggle with employee burnout and WFC, and many managers
+seek tools to promote employee attachment and work engagement (e.g., Idris et al.,
+
+Huyghebaert et al.                                                                  177
+
+
+2015), this research sought to identify levers not only to act on these outcomes but also
+to explore the psychological mechanisms underlying these relations. Results indicated
+that PSC had a negative effect on burnout and WFC, and positively related to ACO and
+work engagement, thus providing support for Hypotheses 1 and 2. Hypothesis 3 was
+also confirmed as results showed the positive effect of PSC on ACO and work engage-
+ment to be explained by need satisfaction, while controlling for need thwarting.
+Hypothesis 4 was partially supported. Indeed, as expected, PSC’s effect on WFC was
+explained by need thwarting, while controlling for need satisfaction. Although need
+thwarting did mediate the negative effect of PSC on burnout, need satisfaction also
+contributed to explain this relationship.
+    These empirical results offer valuable implications for HR practitioners. First, our
+results corroborate previous studies by confirming PSC’s effect on burnout and work
+engagement (e.g., Idris et al., 2012, 2015) and they are the first to demonstrate PSC’s
+significant associations with need satisfaction and thwarting, WFC, and ACO.
+Altogether, our findings emphasize the importance for HR professionals to develop
+work cultures where employees’ psychological well-being and safety are a priority and
+where all levels of the organization contribute to defining the practices and procedures
+for the protection of workers’ psychological health (Dollard & Bakker, 2010). By
+implementing such policies, organizations would provide themselves with the means
+to reduce undesirable consequences (i.e., burnout, WFC) and promote beneficial ones
+(i.e., ACO, work engagement).
+    Practices for the promotion of PSC include adopting a culture of prevention (i.e.,
+prevention of psychosocial harm becoming a commonplace in organizational routines)
+and implementing decisive actions in a timely manner when issues regarding workers’
+psychological health are raised. For instance, training could be offered to managers
+and supervisors to help them identify ways to detect and act on psychological health
+issues when such issues are raised. To promote PSC, senior management and supervi-
+sors would also be encouraged to make psychological health a priority, and to imple-
+ment actual policies, practices, and procedures that reflect this priority. To make
+psychological health at least as much a priority as productivity, HR could, for instance,
+dedicate a section of managers’ and supervisors’ job descriptions to the protection of
+workers’ psychological health and assess them accordingly. Promoting PSC would
+also imply a two-way communication on psychosocial issues in the workplace, as well
+as consulting all levels of the organization to contribute to the development of prac-
+tices and procedures for the protection of psychological health (Dollard & Bakker,
+2010). For instance, HR could promote benevolent behaviors from managers and
+supervisors, so that employees feel safe to communicate about issues that put their
+psychological health at risk, and ensure that these behavioral standards are followed.
+Organizations could also systematically consult employees and health and safety rep-
+resentatives before implementing a change that may affect work conditions.
+    Second, this research identified new mechanisms (i.e., need satisfaction and thwart-
+ing) to explain the effects of PSC on individual outcomes. When organizations actively
+engage to support employees’ psychological health, they allow for their psychological
+needs to be satisfied and prevent these to be thwarted. By promoting
+
+178                                             Advances in Developing Human Resources 20(2)
+
+Table 3. Indirect Effects From Bootstrap Models.
+
+Indirect effects                                                    β                     90% CI
+PSC→ need thwarting → burnout                                   −.255**               [–0.323, –0.195]
+PSC→ need thwarting → WFC                                       −.178*                [–0.245, –0.115]
+PSC → need satisfaction → work engagement                        .126**               [0.075, 0.186]
+PSC → need satisfaction → ACO                                    .379**               [0.307, 0.472]
+PSC→ need thwarting → burnout                                   −.237**               [–0.353, –0.164]
+
+Note. CI = confidence interval; PSC = psychosocial safety climate; WFC = work–family conflict;
+ACO = affective commitment to the organization.
+*p < .01. **p < .001.
+
+
+PSC, organizations, thus, provide employees with those psychological resources that
+promote their personal development and their optimal functioning (Deci & Ryan,
+2008) and save them from having to cope with an aversive and draining psychological
+experience. Through this process, PSC boosts their work engagement and ACO, while
+reducing their burnout and WFC. These results provide support for SDT (Deci &
+Ryan, 2008) by showing need satisfaction and thwarting to be valuable mechanisms to
+independently explain the effects of organizational factors on individual consequences.
+For instance, managers and supervisors who support need satisfaction and avoid need
+thwarting in their subordinates are characterized by their ability to take their subordi-
+nates’ perspective into consideration and to make them feel included, to provide them
+with opportunities for choice and volition, to show appreciation for their contributions,
+and to assist in the development of appropriate work goals (e.g., Jungert, Koestner,
+Houlfort, & Schattke, 2013). These strategies could more generally support positive
+organizational scholarship (Cameron & Spreitzer, 2011) and contribute to apply posi-
+tive psychology to the workplace (Seligman & Csikszentmihalyi, 2014), to promote
+positive states, dynamics, and outcomes.
+   More generally, results from this study show that if HRD practitioners want to
+enhance employees’ adaptive functioning, they should focus on offering them with
+experiences that allow for their psychological needs to be satisfied. Conversely, when
+trying to avoid or decrease deleterious consequences, HRD practitioners should aim at
+eradicating the conditions that thwart employees’ psychological needs, and to a lesser
+extent, those that induce low need satisfaction. Awareness of best practices to avoid
+need thwarting and reinforce need satisfaction could be raised among HRD practitio-
+ners so that they shape organizational policies and procedures that do not subject
+employees to experiences of coercion, worthlessness, and disregard, but instead offer
+them with experiences of autonomy, relatedness, and competence. For example, HR
+could create an appointed task force or focus group whose mission is to promote
+employee psychological health. This group could, for instance, interview a subpopula-
+tion of the workforce to assess the conditions under which their needs for autonomy,
+relatedness, and competence are satisfied or thwarted, and get their suggestions as to
+what they think should be done. HR would, therefore, provide themselves with the
+necessary information to implement organizational changes accordingly. By
+
+Huyghebaert et al.                                                                            179
+
+
+preventing threats to employees’ psychological needs and fostering the conditions that
+allow for the satisfaction of these needs, HR have the power to allow for a more adap-
+tive individual and organizational functioning.
+
+
+Critical Thinking
+By contributing to a better understanding of the beneficial effects of PSC on employee
+functioning and highlighting the psychological mechanisms involved in these relation-
+ships, this research offers food for thought. First, one can wonder where to start to
+enhance PSC in their organizations? A good place to start could be to evaluate employ-
+ees’ perceptions of PSC and observe whether levels are similar for all four dimensions
+of PSC or whether one specific dimension needs to get more attention. Second, HR
+practitioners may want to look into what other organizations have done to promote
+psychological need satisfaction and consider how such measures could be articulated
+to adequately transpose to one’s organization. Third, it is worth noting that promoting
+PSC and enhancing psychological needs may imply a real cultural revolution for some
+companies. One can wonder how to convince senior management and supervisors of
+this necessary shift, and how to assist and support this change in managerial practices.
+Finally, this study only took interest in the processes through which PSC influenced
+individual consequences. Yet, HR practitioners may want to investigate whether psy-
+chological needs play a similar mediating role between organizational factors and
+objective indicators of workers’ behaviors (e.g., absenteeism, performance).
+
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship,
+and/or publication of this article.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of
+this article.
+
+References
+Bartholomew, K. J., Ntoumanis, N., Ryan, R. M., & Thøgersen-Ntoumani, C. (2011).
+    Psychological need thwarting in the sport context: Assessing the darker side of athletic
+    experience. Journal of Sport & Exercise Psychology, 33, 75-102.
+Bentein, K., Vandenberghe, C., Vandenberg, R., & Stinglhamber, F. (2005). The role of change
+    in the relationship between commitment and turnover: A latent growth modeling approach.
+    Journal of Applied Psychology, 90, 468-482.
+Cameron, K. S., & Spreitzer, G. M. (2011). The Oxford handbook of positive organizational
+    scholarship. Oxford, UK: Oxford University Press.
+Deci, E. L., & Ryan, R. M. (2008). Self-determination theory: A macrotheory of human motiva-
+    tion, development, and health. Canadian Psychology, 49, 182-185.
+Demerouti, E., Bakker, A. B., & Bulters, A. J. (2004). The loss spiral of work pressure, work-
+    home interference and exhaustion: Reciprocal relations in a three-wave study. Journal of
+    Vocational Behavior, 64, 131-149.
+
+180                                         Advances in Developing Human Resources 20(2)
+
+Demerouti, E., Xanthopoulou, D., Petrou, P., & Karagkounis, C. (2017). Does job crafting assist
+     dealing with organizational changes due to austerity measures? Two studies among Greek
+     employees. European Journal of Work and Organizational Psychology, 26, 574-589.
+Dollard, M. F., & Bakker, A. B. (2010). Psychosocial safety climate as a precursor to conducive
+     work environments, psychological health problems, and employee engagement. Journal of
+     Occupational and Organizational Psychology, 83, 579-599.
+Gillet, N., Forest, J., Benabou, C., & Bentein, K. (2015). The effects of organizational factors,
+     psychological need satisfaction and thwarting, and affective commitment on workers’ well-
+     being and turnover intentions. Le Travail humain, 78, 119-140.
+Gillet, N., Fouquereau, E., Huyghebaert, T., & Colombat, P. (2015). The effects of job demands
+     and organizational resources through psychological need satisfaction and thwarting. The
+     Spanish Journal of Psychology, 18, e28, 1-19.
+Gillet, N., Fouquereau, E., Lequeurre, J., Bigot, L., & Mokounokolo, R. (2012). Validation
+     d’une échelle de frustration des besoins psychologiques au travail (EFBPT). [Validation of
+     a scale to measure psychological need thwarting at work (EFBPT)]. Psychologie du Travail
+     et des Organisations, 18, 328-344.
+Gillet, N., Rosnet, E., & Vallerand, R. J. (2008). Développement d’une échelle de satisfac-
+     tion des besoins fondamentaux en contexte sportif. [Development of a scale of satisfaction
+     of the fundamental requirements in sporting context]. Canadian Journal of Behavioural
+     Science, 40, 230-237.
+Hall, G. B., Dollard, M. F., & Coward, J. (2010). Psychosocial safety climate: Development of
+     the PSC-12. International Journal of Stress Management, 17, 353-383.
+Huyghebaert, T., Gillet, N., Fernet, C., Lahiani, F. J., Chevalier, S., & Fouquereau, E. (2017).
+     Investigating the longitudinal effects of surface acting on managers’ functioning through
+     psychological needs. Journal of Occupational Health Psychology. Advance online publica-
+     tion. doi:10.1037/ocp0000080
+Idris, M. A., Dollard, M. F., Coward, J., & Dormann, C. (2012). Psychosocial safety climate:
+     Conceptual distinctiveness and effect on job demands and worker psychological health.
+     Safety Science, 50, 19-28.
+Idris, M. A., Dollard, M. F., & Tuckey, M. R. (2015). Psychosocial safety climate as a manage-
+     ment tool for employee engagement and performance: A multilevel analysis. International
+     Journal of Stress Management, 22, 183-206.
+Jungert, T., Koestner, R. F., Houlfort, N., & Schattke, K. (2013). Distinguishing source of
+     autonomy support in relation to workers’ motivation and self-efficacy. The Journal of
+     Social Psychology, 153, 651-666.
+Kahn, W. A. (2010). The essence of engagement: Lessons from the field. In S. Albrecht (Ed.),
+     The handbook of employee engagement: Models, measures and practices (pp. 20-30).
+     Cheltenham, UK: Elgar.
+Little, T. D., Cunningham, W. A., Shahar, G., & Widaman, K. F. (2002). To parcel or not to
+     parcel: Exploring the question, weighing the merits. Structural Equation Modeling, 9, 151-
+     173.
+Meyer, J. P., & Herscovitch, L. (2001). Commitment in the workplace: Toward a general model.
+     Human Resource Management Review, 11, 299-326.
+Netemeyer, R. G., Boles, J. S., & McMurrian, R. (1996). Development and validation of work-
+     family conflict and family-work conflict scales. Journal of Applied Psychology, 81, 400-410.
+Netemeyer, R. G., Maxham, J. G., & Pullig, C. (2005). Conflicts in the work-family interface:
+     Links to job stress, customer service employee performance, and customer purchase intent.
+     Journal of Marketing, 69, 130-143.
+
+Huyghebaert et al.                                                                       181
+
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing and
+    comparing indirect effects in multiple mediator models. Behavior Research Methods, 40,
+    879-891.
+Sassi, N., & Neveu, J.-P. (2010). Traduction et validation d’une nouvelle mesure d’épuisement
+    professionnel: Le Shirom-Melamed Burnout Measure [Translation and validation of a new
+    measure of work exhaustion: The Shirom-Melamed Burnout Measure]. Canadian Journal
+    of Behavioural Science, 42, 177-184.
+Schaufeli, W. B., Bakker, A. B., & Salanova, M. (2006). The measurement of work engage-
+    ment with a short questionnaire: A cross-national study. Educational and Psychological
+    Measurement, 66, 701-716.
+Seligman, M. E., & Csikszentmihalyi, M. (2014). Positive psychology: An introduction. In M.
+    Csikszentmihalyi (Ed.), Flow and the foundations of positive psychology (pp. 279-298).
+    Dordrecht, The Netherlands: Springer.
+Shirom, A., & Melamed, S. (2006). A comparison of the construct validity of two burnout
+    measures in two groups of professionals. International Journal of Stress Management, 13,
+    176-200.
+
+Author Biographies
+Tiphaine Huyghebaert, is an organizational psychologist at AD Conseil (Malakoff, France)
+and an associate researcher in the Psychology Department (E.A. 2114, PAV) at Université de
+Tours (France). Her research interests include psychological health and motivation, as well as
+the work–family interface and recovery processes.
+Nicolas Gillet, is an associate professor in the Psychology Department (E.A. 2114, PAV) at
+Université de Tours (France). His research interests include motivation, mental health, and
+performance.
+Fadi-Joseph Lahiani is the director of AD Conseil (Malakoff, France), where he and his team
+of consultants help companies assess and improve psychological health in the workplace.
+Amandine Dubois-Fleury is a senior partner at AD Conseil (Malakoff, France), where she
+contributes to help companies assess and improve psychological health in the workplace.
+Evelyne Fouquereau, is a professor in the Psychology Department (E.A. 2114, PAV) at
+Université de Tours (France). Her research interests include management, psychological health,
+and psychosocial transitions in the work domain.
+

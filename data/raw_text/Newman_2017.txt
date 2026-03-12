@@ -1,0 +1,956 @@
+                                                       Human Resource Management Review 27 (2017) 521–535
+
+
+
+                                                            Contents lists available at ScienceDirect
+
+
+                                          Human Resource Management Review
+                                           journal homepage: www.elsevier.com/locate/humres
+
+
+
+
+Psychological safety: A systematic review of the literature
+Alexander Newman a,⁎, Ross Donohue b, Nathan Eva b
+a
+    Department of Management, Deakin Business School, Deakin University, Burwood, Victoria 3125, Australia
+b
+    Department of Management, Monash Business School, Monash University, Caulﬁeld East, Victoria 3145, Australia
+
+
+
+
+a r t i c l e            i n f o                          a b s t r a c t
+
+Article history:                                          Since the concept of psychological safety was introduced, empirical research on its antecedents,
+Received 30 April 2016                                    outcomes, and moderators at different levels of analysis has proliferated. Given a burgeoning
+Received in revised form 3 January 2017                   body of empirical evidence, a systematic review of the psychological safety literature is war-
+Accepted 7 January 2017
+                                                          ranted. As well as reviewing empirical work on psychological safety, the present article high-
+                                                          lights gaps in the literature and provides direction for future work. In doing so, it highlights
+Keywords:                                                 the need to advance our understanding of psychological safety through the integration of key
+Psychological safety                                      theoretical perspectives to explain how psychological safety develops and inﬂuences work out-
+Learning
+                                                          comes at different levels of analysis. Suggestions for future empirical research to advance our
+Measurement issues
+                                                          understanding of psychological safety are also provided.
+Work outcomes
+                                                                                                                  © 2017 Elsevier Inc. All rights reserved.
+
+
+
+
+1. Introduction
+
+    In the contemporary business world, organizations are increasingly requiring their employees to contribute to the continuous
+improvement of organizational processes and practices through behaviors that enable learning to occur (e.g., voicing new ideas,
+collaborating with other members of the organization, and experimenting with new ways of doing things; Edmondson, 1999;
+Nembhard & Edmondson, 2011). While such activities may potentially beneﬁt the organization, they carry certain risks for the
+individual. For example, the voicing of new ideas might challenge the established way of doing things and go against the vested
+interests of other members of the organization (Detert & Burris, 2007; Edmondson, Bohmer, & Pisano, 2001). In addition, exper-
+imentation with new approaches in the workplace might ultimately be unsuccessful, viewed as a failure, and lead the individuals
+involved to be seen in a negative light (Van Dyne & LePine, 1998). As a result, there is growing evidence to indicate that such risks
+may lead employees not to contribute to learning processes, and thereby inhibit both individual and organizational learning
+(Detert & Burris, 2007). The provision of a psychologically safe work environment (i.e., one in which employees feel safe to
+voice ideas, willingly seek feedback, provide honest feedback, collaborate, take risks and experiment, is one way to overcome
+such threats to individual and organizational learning; Edmondson, 1999). For example, in recent longitudinal work by Google's
+People Analytics Unit, psychological safety was identiﬁed as the number one characteristic of successful high-performing teams
+(Bergmann & Schaeppi, 2016). Psychologically safety is especially important in work environments where employee and customer
+safety are paramount, such as the healthcare or aviation industries, as it has been shown to be critical in reducing employee errors
+and enhancing safety (Leroy et al., 2012; Nembhard & Edmondson, 2011), and been shown to increase team and individual learn-
+ing across multiple organizations (e.g., Liu, Hu, Li, Wang, & Lin, 2014; Ortega, Sanchez-Manzanares, Gil, & Rico, 2010). Given the
+importance of psychologically-safe work environments to organizations, their employees and their customers, the present article
+reviews prior scholarship on psychological safety.
+
+
+    ⁎ Corresponding author.
+      E-mail addresses: a.newman@deakin.edu.au (A. Newman), ross.donohue@monash.edu (R. Donohue), Nathan.Eva@monash.edu (N. Eva).
+
+
+
+http://dx.doi.org/10.1016/j.hrmr.2017.01.001
+1053-4822/© 2017 Elsevier Inc. All rights reserved.
+
+522                                          A. Newman et al. / Human Resource Management Review 27 (2017) 521–535
+
+
+    Although several deﬁnitions of psychological safety have been proposed, the majority of studies have followed Edmondson
+(1999) by deﬁning it as a shared belief amongst individuals as to whether it is safe to engage in interpersonal risk-taking
+in the workplace (Edmondson, Dillon, & Roloff, 2007; Edmondson & Lei, 2014). In a psychologically safe work environment,
+employees feel that their colleagues will not reject people for being themselves or saying what they think, respect each other's
+competence, are interested in each other as people, have positive intentions to one another, are able engage in constructive
+conﬂict or confrontation, and feel that it is safe to experiment and take risks (Edmondson, 1999). Behaviorally, psychological
+safety leads employees to engage in open communication, voice their concerns, and seek greater feedback; all of which are
+interpersonally risky behaviors (Pearsall & Ellis, 2011). This, in turn, has been found to inﬂuence a range of workplace outcomes
+(e.g., learning and performance) at different levels of analysis (Edmondson & Lei, 2014). Although psychological safety shares
+some overlap with trust, psychological safety is conceptually different as it focuses on how group members perceive a group
+norm, whilst trust focuses on how one person views another.
+    Since Kahn's (1990) and Edmondson's (1999) initial work on psychological safety at the individual and team levels of analysis,
+empirical research on its antecedents, outcomes, and moderators has proliferated (Baer & Frese, 2003; Kark & Carmeli, 2009). By
+the end of 2015 there were N83 published articles on psychological safety (78 of which are empirical), including a meta-analysis
+of the relationships among psychological safety and team performance/learning (Sanner & Bunderson, 2013), a meta-analysis of
+the antecedents and outcomes of psychological safety (Frazier, Fainshmidt, Klinger, Pezeshkan, & Vracheva, 2016), and a limited
+review of prior work (Edmondson & Lei, 2014). Although the meta-analyses provide us with some knowledge of the antecedents,
+outcomes, and boundary conditions of the relationship between psychological safety and its antecedents/outcomes, and the prior
+review provides insight into extant scholarship on psychological safety, the present article builds on this previous work to make a
+signiﬁcant contribution in a number of ways.
+    First, by examining a larger number of published articles (83 studies compared to 25 studies for the Sanner and Bunderson meta-
+analysis, 78 for the Frazier et al. meta-analysis,1 and fewer than 30 studies for Edmondson and Lei's [2014] review), we undertake a far
+more systematic review of prior work, delivering a thorough analysis of the state of the literature. As well as examining prior research
+on all the antecedents and outcomes of psychological safety, many of which were not the focus of prior empirical work, we offer a
+greater theoretical analysis of the past literature than both the Frazier et al. and Sanner and Bunderson meta-analyses. In addition,
+we examine the moderators of relations among psychological safety and its outcomes, and work in which psychological safety is
+treated as a moderator. This allows us to better elucidate the complex nomological network in which psychological safety is embed-
+ded. Although Edmondson and Lei's (2014) review looked at the antecedents and outcomes of psychological safety, their work did not
+cover more recent articles that have made substantive theoretical and empirical advancements (e.g. Gu et al., 2013; Halbesleben &
+Rathert, 2008; Liu et al., 2014; Post, 2012; Roussin & Webber, 2012; Roussin, MacLean, Rudolph, 2016; Singh, Winkel, & Selvarajan,
+2013), including recent work that has begun to look at the negative aspects of psychological safety (Pearsall & Ellis, 2011).
+Edmondson and Lei (2014), like Frazier et al. (2016), also did little to highlight the theoretical perspectives that have been adopted
+by researchers to explain how psychological safety develops and inﬂuences work outcomes.
+    We make a second important contribution by highlighting opportunities for theoretical advancement of the ﬁeld through the inte-
+gration of different theoretical perspectives to explain the relationship between psychological safety and its antecedents/outcomes.
+Currently, theoretical perspectives such as social learning, social exchange and social identity theories have predominantly been
+used by researchers to explain the processes by which psychological safety develops and inﬂuences outcomes. Our review calls upon
+researchers to utilize alternate theories such as the Conservation of Resources Theory (Hobfoll, 1989) to explain how the psychological
+safety engendered through access to resources in the work environment motivates employees to invest their resources at work to help
+others, and stimulate learning, growth and development. In addition, we highlight how the incorporation of person-situation theoret-
+ical perspectives such as Trait Activation Theory (Tett & Guterman, 2000) might help to explain how the psychological safety climate
+strengthens the behavioral manifestation of certain personality traits.
+    Finally, we also provide advice for advancing empirical research. In addition to providing recommendations concerning the
+measurement of psychological safety, we also call on researchers to: (1) adopt alternative methodologies to study psychological
+safety, (2) conduct additional research to investigate the inﬂuence of culture on the development and deployment of psycholog-
+ical safety, (3) investigate the potential negative effects of psychological safety and (4) conduct more multi- and cross-level work
+to understand the relative inﬂuence of individual-, team-, and organizational-level antecedents on psychological safety.
+    As well as advancing theoretical and empirical knowledge of psychological safety, our review of the literature has important prac-
+tical implications for organizations. Understanding the beneﬁts that psychological safety brings to organizations, the situations in
+which psychological safety is most inﬂuential, and the factors that may lead to psychological safety development, will assist leaders
+in designing work environments that maximize beneﬁcial outcomes for their organizations. Psychological safety is becoming increas-
+ingly important to organizational success in today's business environment, given the requirements for employees to share informa-
+tion and exchange ideas with other team and organizational members in the attainment of shared goals (Edmondson & Lei, 2014). A
+growing proportion of work in organizations is highly specialized and complex in nature, and therefore requires greater collaboration
+among individuals than in the past. In the following sections we set out how we conducted our literature search before reviewing how
+psychological safety has been deﬁned and measured, and examining its antecedents and outcomes.
+
+  1
+    We did not include unpublished work in the meta-analysis in calculating these ﬁgures. Neither did we include empirical studies that adopted the participative safety
+dimension from West's (1990) team climate scale (6 studies), nor empirical studies which did not measure psychological safety, but similar concepts such as social sup-
+port and trust which overlap with psychological safety. Although Edmondson and Lei's (2014) did not report the number of studies in their review, we calculated this
+ﬁgure by examining the content of articles included in the review.
+
+                                        A. Newman et al. / Human Resource Management Review 27 (2017) 521–535                       523
+
+
+2. Literature review process
+
+2.1. Inclusion and exclusion criteria
+
+    We set three inclusion/exclusion criteria prior to undertaking our literature search. First, articles had to be published between
+1990 (the year in which Kahn did his seminal work on psychological safety) and the end of 2015. Second, we only included stud-
+ies that mentioned the words psychological safety in their title, abstract, or keywords or included psychological safety in their em-
+pirical analysis. Third, we only included studies that focused on psychological safety in work environments; studies with student
+or non-working adult samples were excluded. Finally, we only included articles that focused on the antecedents and outcomes of
+psychological safety, or those that examined how psychological safety interacted with other variables to predict outcomes.
+
+2.2. Literature search
+
+   In line with best practice (Short, 2009), we searched a number of academic databases for articles (including: Web of Science,
+Google Scholar, EBSCO Host, Emerald, PsycInfo, Science Direct and ProQuest) using the keywords psychological safety. In addition,
+we examined the reference lists of all retrieved articles for additional studies on psychological safety and we examined all studies
+that had cited the retrieved articles to locate additional literature. This led to the identiﬁcation of 83 articles for inclusion in our
+review, 78 of which were empirical studies.
+
+3. A review of the psychological safety literature
+
+3.1. Deﬁning and measuring psychological safety
+
+    The construct of psychological safety is grounded in the seminal work conducted by Schein and Bennis (1965) on organiza-
+tional change. They described it as the extent to which individuals feel secure and conﬁdent in their ability to manage change.
+Since then other researchers have explored the meaning of psychological safety in work settings. A quarter of a century after
+Schein and Bennis's (1965) seminal work, Kahn's (1990, p.708) work led to renewed focus on psychological safety. In conceptu-
+alizing psychological safety as an individual's perceptions as to whether he or she is comfortable to show and employ his(her)self
+without fear of negative consequences to self-image, status, or career, he argued that people are more likely to feel psychologically
+safe when they have trusting and supportive interpersonal relationships with work colleagues (Kahn, 1990). More recently,
+Edmondson (1999) argued that psychological safety is better treated as a team-level climate and deﬁned it as the “shared belief
+held by members of a team that the team is safe for interpersonal risk taking” (p. 350). This deﬁnition is divergent from Kahn's
+deﬁnition that it is a perception emanating from the individual. Based on qualitative work she developed and validated a 7-item
+scale to measure team psychological safety. This measure includes items that capture shared perceptions amongst team members
+as to whether they believe that others will not reject members for being themselves, team members care about each other as in-
+dividuals, team members have positive intentions to one another, and team members respect the competence of others.
+    Our review identiﬁed 78 empirical studies, conducted over the past 25 years, which have focused on examining the anteced-
+ents and outcomes of psychological safety. Among these, 740 studies utilized a quantitative survey methodology and the remain-
+der employed a qualitative interview methodology. Studies adopting a qualitative interview methodology have helped to generate
+detailed explanations as to why and how psychological safety develops and inﬂuences work outcomes. They have typically been
+used as a basis from which to guide quantitative work. In contrast, studies adopting a quantitative survey methodology have fur-
+thered our understanding of the strength of links between psychological safety and its antecedents/outcomes.
+
+3.1.1. Individual-level measures
+    Our review identiﬁed 29 studies that have measured employees' individually-held perceptions of psychological safety within
+dyadic-relationships, teams, or organizations. First, examining individuals' perceptions of psychological safety in dyadic relation-
+ships, studies by Tynan (2005) and Detert and Burris (2007) adapted Edmondson's (1999) team-level measure to capture self
+and other psychological safety, and manager-focused psychological safety, respectively. In contrast, Roussin and Webber (2012) used
+a measure of manager-focused psychological safety developed by Edmondson and Woolley (2003) and Hetzner, Gartmeier, Heid, and
+Gruber (2011) constructed their own measures of supervisor- and colleague-focused psychological safety, based on items from
+measures used in other studies. Second, a number of studies examining individually-held perceptions of psychological safety within
+organizations have used adapted versions of Edmondson's (1999) measure, replacing the referent “team” with “organization”
+(Carmeli, Brueller, & Dutton, 2009; Carmeli & Gittell, 2009; Carmeli, Reiter-Palmon, & Ziv, 2010; Carmeli & Zisu, 2009; Chen, Liao, &
+Wen, 2014; Kark & Carmeli, 2009; Madjar & Ortiz-Walters, 2009). However, Singh et al. (2013) adopted a measure from Chrobot-
+Mason and Aramovich (2004), De Clercq and Rius (2007) used a measure from Brown and Leigh (1996), Liang, Farh, and Farh (2012)
+developed their own measure using items from other studies, including May, Gilson, and Harter (2004), and Xu and Yang (2010)
+constructed their own measure.
+
+3.1.2. Team-level measures
+    Our review identiﬁed 42 studies that have measured psychological safety at the team level. Most of these studies used
+Edmondson's (1999) 7-item Psychological Safety Scale or abbreviated versions of this scale. However, other researchers have
+
+524                                  A. Newman et al. / Human Resource Management Review 27 (2017) 521–535
+
+
+developed their own measures or adapted measures that included items from Edmondson (1999) and items from other scales
+(Tucker, 2007). In contrast, Hirak, Pang, Carmeli, and Schaubroeck (2012) used a measure of unit-level psychological strength cli-
+mate taken from Anderson and West (1994). In these studies, team members' perceptions of the psychological safety within the
+team were aggregated to the team level, based on high intra-class correlation coefﬁcients (ICCs) between team members.
+
+3.1.3. Organizational-level measures
+    Only two prior studies have measured psychological safety at the organizational level (Baer & Frese, 2003; Carmeli, 2007).
+Both studies measured employee perceptions of psychological safety within their organization, based on items adapted from
+Edmondson's (1999) team-level measure, replacing the referent team with organization. Scores on the measure were then
+aggregated to the organizational level based on high ICCs between organizational members. Although these studies suggest
+that individual perceptions of psychological safety can be aggregated to the organizational-level, it is questionable as to whether
+this is likely to be the case in all organizations, as there should be relatively high levels of agreement between all members of the
+organization for an organizational climate of psychological safety to exist. As employee perceptions of psychological safety are
+typically inﬂuenced by leadership and team characteristics (e.g., Carmeli et al., 2010; Chen & Tjosvold, 2012), high levels of
+agreement between organizational members is unlikely, especially in larger ﬁrms where employees are unlikely to have shared
+experiences of leadership and team norms. Although a climate of psychological safety might exist in smaller organizations,
+whose members regularly work with each other or in organizations with strong corporate cultures, this should be conﬁrmed
+through further empirical research. In general, however, we believe that psychological safety is likely to be more potent and
+meaningful at the team level, rather than the organizational level.
+
+3.1.4. Measurement critique and recommendations
+    The majority of studies examining psychological safety have been conducted at the team level and almost invariably have uti-
+lized Edmondson's 7-item scale (or short-form versions) to operationalize the construct. More common among studies examining
+individual perceptions of psychological safety is the use of measures of similar constructs as proxies for psychological safety, or
+scales developed by the authors themselves. For example, some researchers have used psychological climate scales that capture
+the extent to which the climate is motivating and involving as a proxy for psychological safety (e.g., De Clercq & Rius, 2007).
+The use of proxy measures, however, is problematic as the constructs they tap may diverge from Edmondson's (1999) precise
+constitutive deﬁnition of psychological safety. A lack of correspondence between the conceptual deﬁnition of the construct and
+the operational procedure to measure it, often results in compromised construct validity (Schwab, 1980). Moreover, all of the
+studies that we reviewed, that used “in-house” measures developed by researchers themselves, applied them to test substantive
+questions without ﬁrst establishing that their measures were psychometrically sound. Such measures may lack validity and there-
+fore have the potential to result in spurious ﬁndings (DeVellis, 2003).
+    In contrast, Edmondson's (1999) 7-item measure was developed based on rigorous scale construction protocols and has been
+subjected to extensive validation tests, which have invariably shown that the measure has strong content, criterion, and construct
+validity. In addition, Edmondson's (1999) measure of psychological safety has consistently been found to be reliable across diverse
+samples as evidenced by the fact that all of the studies that we reviewed, that used her 7-item measure, reported very good in-
+ternal consistency reliability estimates.
+    In our view, the continued use of multiple measures of psychological safety is likely to hinder advancement in the ﬁeld be-
+cause the results of different versions of the construct measure are not readily comparable (Hawcroft & Milfont, 2010). As a con-
+sequence, we believe that our understanding of psychological safety would be greatly improved if there was consensus regarding
+the most valid and reliable measures. In light of the strong psychometric properties of Edmondson's (1999) 7-item scale, which
+suggest that it is isomorphic (similar in meaning) at different levels, and the fact that nearly all of the extant studies examining
+psychological safety at the team or organizational levels applied both Edmondson's (1999) deﬁnition of the construct and her
+measure (changing the referent to “organization” in the latter), we recommend it as the measure of choice for use in future stud-
+ies in preference to proxy or “in-house” measures of psychological safety.
+    Finally, while there have been studies conducted at different levels of analysis, it is also the case that there has been a paucity
+of cross-level and multilevel psychological safety research. The scarcity of such studies not only limits our understanding of the
+nomological net of psychological safety, that is inherently mixed-level involving micro and macro antecedents and outcomes
+(which we discuss below in Section 5), but also limits our capacity to understand whether psychological safety varies across
+organizations, as well as across teams within organizations. The study by Edmondson and Mogelof (2005) was the only study
+identiﬁed in our review that attempted to address this question. They examined team- and organizational-level variance in psy-
+chological safety via data from 26 innovation teams, nested in 7 organizations (i.e., data from multiple teams and organizations),
+collected over 3 waves. Edmondson and Mogelof (2005) found that there were team-level differences in relation to psychological
+safety and that organizations differed in psychological safety at the same time. These ﬁndings align with the mixed-level view of
+psychological safety, however, we believe that further multilevel research is required to determine whether the ﬁndings from this
+single study are replicable.
+
+3.2. Antecedents of psychological safety and psychological safety as a mediator
+
+   Our review identiﬁed 44 empirical studies that have examined the antecedents of psychological safety at different levels of
+analysis. This work has predominantly treated psychological safety as a mediator (38 of these studies) to explain how supportive
+
+                                      A. Newman et al. / Human Resource Management Review 27 (2017) 521–535                              525
+
+
+organizational practices, supportive leadership behaviors, relationship networks, team characteristics and individual/team differ-
+ences inﬂuence workplace outcomes at the individual, team and organizational-levels through the development of psychological
+safety. In examining these issues, researchers have begun to utilize diverse theoretical perspectives including social learning the-
+ory, social exchange theory, social identity theory, and status characteristics theory.
+
+3.2.1. Supportive leadership behaviors
+    Growing research at both the individual and team level has examined the effects of supportive leadership behaviors on work
+outcomes through psychological safety. For example, at the individual level empirical work has established that leader inclusive-
+ness (Bienefeld & Grote, 2014; Carmeli et al., 2010), support (May et al., 2004), trustworthiness (Madjar & Ortiz-Walters, 2009),
+openness (Detert & Burris, 2007) and behavioral integrity (Palanski & Vogelgesang, 2011) strongly inﬂuence employee percep-
+tions of psychological safety, which in turn, drive employee outcomes including voice behaviors, involvement in creative work,
+job performance and engagement. Similarly, at the team level employees' collective perceptions of support and coaching
+forwarded by the team leader (Edmondson, 1999; Roberto, 2002), leader inclusiveness (Hirak et al., 2012; Nembhard &
+Edmondson, 2006), trust in the leader (Li & Tan, 2012; Schaubroeck, Lam, & Peng, 2011), and the behavioral integrity of the leader
+(Leroy et al., 2012) have been found to foster team-level outcomes such as team learning behavior, team performance, engage-
+ment in quality improvement work, and reduction in errors amongst team members through the development of psychological
+safety. Other work has found that positive leadership styles such as transformational leadership (Nemanich & Vera, 2009), ethical
+leadership (Walumbwa & Schaubroeck, 2009), change-oriented leadership (Ortega, Van den Bossche, Sanchez-Manzanares, Rico,
+& Gil, 2014) and shared leadership (Liu et al., 2014) are positively and strongly related to such outcomes as employee voice be-
+havior, team learning, and individual learning through the mediating mechanism of psychological safety.
+    Finally, research has established that leaders who value participation, people, and production use dyadic discovery methods
+rather than group-based discovery methods (Roussin, 2008; Wong, Tjosvold, & Lu, 2010), and an improvement orientation man-
+agement style (Halbesleben & Rathert, 2008), are able to foster high levels of psychological safety. In explaining why a signiﬁcant
+relationship may exist between supportive leadership behaviors and psychological safety, prior research has typically relied on
+key tenets from social learning theory (Bandura, 1977). Based on this theory, researchers have argued that by listening,
+forwarding support, and providing clear and consistent directions to subordinates, the leader is able to model to subordinates
+that it is safe to take risks and engage in honest communication (e.g., Hirak et al., 2012; Liu et al., 2014; Nemanich & Vera,
+2009; Walumbwa & Schaubroeck, 2009). However, other researchers have argued that social exchange processes may underlie
+the relationship between supportive leadership and psychological safety, arguing that when followers are supported by the leader,
+they will reciprocate with supportive behaviors themselves, creating a psychologically safe environment for the rest of their team
+(e.g. Schaubroeck et al., 2011). While we acknowledge that the social exchange process may increase psychological safety, we
+believe it is likely that the effects will be stronger and more enduring, when psychological safety is built through learning and
+emulating these behaviors from the leader, rather than displaying them at a point in time in exchange for certain leadership
+behaviors.
+
+3.2.2. Supportive organizational practices
+    At the individual level, there is growing evidence that supportive organizational practices are positively related to employee
+work outcomes such as organizational commitment and job performance as they heighten perceptions of psychological safety.
+For example, research has found that employee perceptions of organizational support (Carmeli & Zisu, 2009), access to mentoring
+(Chen et al., 2014), and diversity practices (Singh et al., 2013) foster work outcomes through the mediating mechanism of psy-
+chological safety. Drawing on a sample of 191 medical professionals in an Israeli medical clinic, supportive organizational practices
+were found to foster psychological safety through social learning processes, similar to that of supportive leadership behaviors
+(Carmeli & Zisu, 2009). However, Singh et al. (2013) relied on social identity theory to argue that the implementation of
+workplace diversity practices fosters psychological safety via employee identiﬁcation with the organization in the context of US mid-
+sized production ﬁrms (N = 165). Both studies utilized a survey design, with Singh et al. (2013) using the 3-item Chrobot-Mason
+and Aramovich (2004) measure of psychological safety, rather than the well validated Edmondson (1999) 7-item measure.
+
+3.2.3. Relationship networks
+    Growing research at the individual, team, and organizational levels has looked at social support and the social capital (resources)
+inherent in relationship networks as key determinants of psychological safety. At the individual level, research has established that re-
+warding co-worker relationships and the extent to which members of the organization interact with one another on an interpersonal
+basis, inﬂuence individual learning and engagement through the mediating mechanism of psychological safety (Carmeli & Gittell, 2009;
+Carmeli et al., 2009; May et al., 2004). Similarly, at the team level, researchers have found that relationship networks, and the social sup-
+port and resources inherent in such networks, promote psychological safety and contribute to team learning, performance, and inno-
+vation. For example, researchers have found that the key drivers of psychological safety and its outcomes are: the level of prior
+interaction between; and familiarity among, team members (Roberto, 2002); the quality of social relationships between team members
+as measured by trust; network ties and collective thinking (Gu, Wang, & Wang, 2013; Huang & Jiang, 2012; Schulte, Cohen, & Klein,
+2012); high quality relationships between team members and external parties (Brueller & Carmeli, 2011); and membership of the
+inner-circle (Burris, Rodgers, Mannix, Hendron, & Oldroyd, 2009). Finally, at the organizational level Carmeli (2007) found that the
+strength of social networks between members of the organization was positively related to their ability to learn from failure through
+the development of psychological safety. Although most studies in this area did not explicitly address why strong relationship networks,
+
+526                                     A. Newman et al. / Human Resource Management Review 27 (2017) 521–535
+
+
+and the social resources inherent in such networks, foster psychological safety, a small number of researchers have proposed that social
+relationships may engender psychological safety through social learning processes (e.g. Carmeli, 2007; Gu et al., 2013).
+
+3.2.4. Team characteristics
+     At both the individual and team level, research has begun to examine how individually-held and collective perceptions of team char-
+acteristics inﬂuence perceptions of psychological safety. For example, at the individual level researchers have found that employee per-
+ceptions of similarity in systems understanding among team members (Bendoly, 2014), and a continuous quality improvement climate
+in teams (Rathert, Ishqaidef, & May, 2009), inﬂuence project performance and organizational commitment respectively through higher
+levels of psychological safety within the team. At the team level, researchers have found that characteristics such as shared team rewards
+(Chen & Tjosvold, 2012), formal team structures (Bresman & Zellmer-Bruhn, 2013; Bunderson & Boumgarden, 2010), and team engage-
+ment in boundary work (buffering, spanning, and reinforcement) (Faraj & Yan, 2009) are positively associated with higher levels of team
+psychological safety. However, Chandrasekaran and Mishra (2012) found that only team autonomy inﬂuenced psychological safety
+when the project goals and processes of the team were aligned with their broader organizational goals and when there were low degrees
+of relative exploration (i.e., the team focused on reﬁning existing products and processes rather than seeking to develop new products
+and processes). Contrary to what they expected, Lau and Murnighan (2005) found that the presence of strong faultlines within teams
+(i.e., the existence of sub-groups with non-overlapping demographic characteristics) led to greater psychological safety amongst team
+members. They argued that this may have resulted from generalization of the positive social effects within strong faultline groups to
+the entire team. Finally, O'Neill (2009) found that when team members were collectively responsible for bad investment decisions, psy-
+chological safety gave them the courage to admit failure, whereas when they were individually responsible, psychological safety escalat-
+ed their commitment to bad investment decisions. They argued that this is due to the fact that, when there is collective responsibility,
+team members are less motivated to salvage a project that may fail. Although growing work has examined the inﬂuence of team char-
+acteristics on psychological safety there has been limited incorporation of theory to explain the effects of such characteristics.
+
+3.2.5. Individual and team differences
+    Researchers have also found that individual and team differences such as adherence to co-worker norms and self-conscious-
+ness (May et al., 2004), status differences (Bienefeld & Grote, 2014; Nembhard & Edmondson, 2006) and team members' sequen-
+tial cognitive style (i.e., thinking in a logical sequential routine) (Post, 2012) are associated with psychological safety. For example,
+utilizing perspectives from status characteristics theory, prior research has found that an individual's perceived status within the
+team (Bienefeld & Grote, 2014), and the professionally-derived status of the team (Nembhard & Edmondson, 2006), leads to out-
+comes such as the willingness of individuals to speak up and team engagement through enhancing psychological safety. This work
+suggests that the higher the status of the employee or the team, the more safe individuals will feel to speak up and share ideas.
+
+3.3. Outcomes of psychological safety
+
+    Our review identiﬁed 62 empirical studies that focused on the outcomes of psychological safety at different levels of analysis.
+Given that the early conceptual development of psychological safety was grounded in the organizational learning literature, early
+empirical work on psychological safety typically focused mainly on learning and performance outcomes (e.g., Edmondson, 1999).
+Research has also examined the relationship among psychological safety and outcomes such as innovation, creativity, employee
+attitudes, communication, knowledge-sharing, and voice behaviors. Research examining the relationship among psychological
+safety and its outcomes has begun to integrate perspectives from social learning theory, social information processing theory, so-
+cial identiﬁcation theory, and social exchange theory (Carmeli, 2007; Chen et al., 2014; De Clercq & Rius, 2007; Liu et al., 2014;
+Schaubroeck et al., 2011; Singh et al., 2013).
+
+3.3.1. Communication, knowledge sharing and voice behavior
+    At the individual and team level, psychological safety has been linked to communication outcomes such as greater reporting of
+treatment errors and more interpersonal communication (Leroy et al., 2012; Peltokorpi, 2004), as well as greater knowledge sharing
+among team members (Mu & Gnyawali, 2003; Siemsen, Roth, Balasubramanian, & Anand, 2009; Xu & Yang, 2010; Zhang, Fang, Wei, &
+Chen, 2010). Psychological safety within dyadic relationships and teams has also been shown to lead to more voice behavior among
+employees (Bienefeld & Grote, 2014; Detert & Burris, 2007; Liang et al., 2012; Tynan, 2005), and a reduction in silence behaviors
+(Brinsﬁeld, 2013). For example, Tynan (2005) found that individuals high in other-psychological safety (i.e., they believe others
+feel safe in their relationships), were more likely to raise disagreement, give candid feedback, and point out errors to their supervisor.
+
+3.3.2. Learning behavior
+    A growing body of research has found positive associations among employee perceptions of psychological safety and learning be-
+havior at different levels of analysis. For example, researchers have established positive links between psychological safety and learning
+behavior at both the individual (Liu et al., 2014) and team levels (Bstieler & Hemmert, 2010; Ortega et al., 2010; Roberto, 2002;
+Stalmeijer, Gijselaers, Wolfhagen, Harendza, & Scherpbier, 2007; Van den Bossche, Gijselaers, Segers, Kirschner, 2006; Wong et al.,
+2010). Psychological safety has also been shown to assist individuals to learn from failure (Carmeli, 2007; Carmeli & Gittell, 2009). In
+their meta-analytical work, Sanner and Bunderson (2013) found the correlation between team psychological safety and team learning
+to be 0.42 (95% CI = 0.05 to 0.85). In examining the link between psychological safety and learning, researchers have begun to adopt
+perspectives from the social learning and social information processing literature (e.g., Carmeli, 2007; Liu et al., 2014). This literature
+
+                                    A. Newman et al. / Human Resource Management Review 27 (2017) 521–535                        527
+
+
+suggests that through signaling it is acceptable to take risks, experiment and voice their ideas and concerns to team members, a psy-
+chologically safe work environment will foster team and individual learning.
+
+3.3.3. Performance, innovation and creativity
+     As well as directly and strongly inﬂuencing performance at the individual (Singh et al., 2013) and team levels (Schaubroeck et
+al., 2011), psychological safety has been found to inﬂuence performance indirectly through facilitating learning behavior at both
+the individual (Li & Tan, 2012; Li & Yan, 2009) and team (Brueller & Carmeli, 2011; Edmondson, 1999; Hirak et al., 2012; Huang &
+Jiang, 2012; Kostopoulos & Bozionelos, 2011; Ortega et al., 2014) level. In their meta-analysis, Sanner and Bunderson (2013)
+found the indirect effect of psychological safety on team performance, through team learning, to be 0.17 (95% CI = 0.14 to
+0.20). Other work has established that alternative mechanisms such as team turnover also explain the effect of psychological safe-
+ty on team performance (Chandrasekaran & Mishra, 2012). Finally, at the organizational-level, Baer and Frese (2003) found that
+employees' collective perceptions of psychological safety were strongly and positively related to ﬁrm performance, as measured
+by return on assets and goal achievement.
+     In addition to performance, there is growing evidence of a link between employee perceptions of psychological safety within
+the organization and their creativity (Carmeli et al., 2010; Kark & Carmeli, 2009). Palanski and Vogelgesang (2011) also found ev-
+idence of a positive link between employee perceptions of team psychological safety and both creative thinking and risk-taking. At
+the team-level, research has found that team psychological safety is strongly and positively related to innovation in R&D teams
+(Gu et al., 2013; Post, 2012), manufacturing process innovation performance (Lee, Swink, & Pandejpong, 2011) and knowledge
+creation (Choo, Linderman, & Schroeder, 2007). Kessel, Kratzer, and Schultz (2012) found that team psychological safety was pos-
+itively related to creative team performance and this relationship was mediated by the sharing of two types of knowledge: infor-
+mation and know-how. However, Kayes (2006) found no evidence that psychological safety led to higher levels of critical thinking
+within teams. Researchers have argued that psychological safety may inﬂuence performance outcomes through fostering social
+exchange between the employee and organization, and enhancing the extent to which the employee identiﬁes with the organi-
+zation (Schaubroeck et al., 2011; Singh et al., 2013; Singh & Winkel, 2012).
+
+3.3.4. Employee attitudes
+    At the individual level, a number of studies have established a strong and positive link between psychological safety and the
+work attitudes of employees such as organizational commitment (Chen et al., 2014; De Clercq & Rius, 2007; Rathert et al., 2009),
+work engagement (May et al., 2004; Nembhard & Edmondson, 2006) and positive attitudes towards teamwork (Ulloa & Adams,
+2004). In examining the link between psychological safety and employee work attitudes, researchers have typically relied on so-
+cial exchange theory to explain how the psychological safety engendered by supportive practices leads employees to reciprocate
+in the form of desired work attitudes (Chen et al., 2014; De Clercq & Rius, 2007).
+
+3.3.5. Other outcomes
+    At the individual-level, perceptions of psychological safety within the team have also been shown to increase the likelihood
+that employees will engage in “work arounds”, deﬁned as work procedures undertaken to deal with blocks in workﬂow
+(Halbesleben & Rathert, 2008), and lead them reﬂect on events at work (Hetzner et al., 2011). Roussin and Webber (2012)
+established that employee perceptions of psychological safety in dyadic relationships with their manager were positively related
+to their initial perceived trustworthiness of new team members. They argued this resulted from the fact that psychological safety
+would encourage team members to engage in the social risk taking involved in extending initial trust to a new co-worker. At the
+team level, psychological safety has been linked to other outcomes such as lower quality relationships and task conﬂict (Wilkens
+& London, 2006), more feedback giving and seeking behavior (Wilkens & London, 2006), and frontline system improvements
+(Tucker, 2007). Tucker, Nembhard, and Edmondson (2007) also found that team psychological safety was associated with the
+use of internally focused learning activities that provide employees with the knowledge required to adapt and implement new
+practices in their unit, and had a subsequent impact on the implementation success of improvement projects. Finally,
+Edmondson et al. (2001) found that psychological safety positively inﬂuenced the successful implementation of new technology.
+
+3.4. Factors moderating psychological safety antecedents and outcomes
+
+    A limited number of studies have focused on factors that may interact with psychological safety to predict various outcomes at
+different levels of analysis. In their meta-analysis, Sanner and Bunderson (2013) found that psychological safety was more strong-
+ly related to team learning and performance in task environments that beneﬁt from learning. For example, they found that asso-
+ciation between psychological safety and team learning to be stronger in task environments where there were higher creativity
+requirements (β = 0.39, p b 0.01), sense-making requirements (β = 0.54, p b 0.01), complexity (β = 0.63, p b 0.01), and social
+contact/impact (β = 0.50, p b 0.01). Moreover, Sanner and Bunderson (2013) found that the association between psychological
+safety and team performance was stronger in task environments where there were higher creativity requirements (β = 0.69,
+p b 0.01), sense-making requirements (β = 0.31, p b 0.01) and complexity (β = 0.73, p b 0.01). Our review also identiﬁed
+work that examined other boundary conditions on psychological safety-outcome relationships at different levels of analysis. At
+the individual-level, Roussin and Webber (2012) found that organizational identiﬁcation moderated the relationship between
+manager-focused psychological safety and initial perceived trustworthiness of new team members, such that the relationship
+was positive when organizational identiﬁcation was low, and non-signiﬁcant when organizational identiﬁcation was high. In
+
+528                                   A. Newman et al. / Human Resource Management Review 27 (2017) 521–535
+
+
+explaining these results, they argued that employees with higher organizational identiﬁcation are less likely to be inﬂuenced by
+team psychological safety when determining initial perceptions of trustworthiness in new co-workers as they shift their cognitive
+focus to their valued relationship with the organization. Liang et al. (2012) found that psychological safety was more strongly re-
+lated to promotive and prohibitive voice behavior, for employees high in felt obligation, and that it was more weakly related to
+promotive voice for employees high in organization-based self-esteem. At the team level, Siemsen et al. (2009) found that the
+relationship between psychological safety and knowledge-sharing was positively moderated by the level of conﬁdence that em-
+ployees have in what they know. Finally, Kostopoulos and Bozionelos (2011) established that task conﬂict moderated the relation-
+ship between team psychological safety and exploitative learning (they associated with activities that assist the team to reﬁne and
+utilize existing knowledge and skills), in such a way that the relationship was stronger when there was higher task conﬂict.
+
+3.5. Psychological safety as a moderator
+
+    Growing work has examined the moderating effects of psychological safety on different relationships at the individual, team and or-
+ganizational levels of analysis. At an individual level, Tangirala, Kamdar, Venkataramani, and Parke (2013) found that when individuals
+perceived their environment to be psychological safe, this weakened the negative relationship between achievement orientation and
+role conceptualization. At the team level, Martins, Schilpzand, Kirkman, Ivanaj, and Ivanaj (2013) found that when psychological safety
+was low, expertise diversity had a stronger negative relationship with team performance. In contrast, when psychological safety was
+high, team expertise diversity had a stronger positive relationship with team performance. Gibson and Gibbs (2006) found that when
+psychological safety was high, the negative effects of geographical dispersion, electronic dependence, dynamic structure, and national
+diversity on team innovation were mitigated. Pearsall and Ellis (2011) revealed that psychological safety moderated the relationship be-
+tween utilitarianism and unethical outcomes, such that members of teams high in psychological safety were more likely to engage in
+unethical behaviors compared to those from teams that were low in psychological safety. Bradley, Postlethwaite, Klotz, Hamdani, and
+Brown (2012) found that task conﬂict only inﬂuenced team performance when team psychological safety was high. Leroy et al.
+(2012) established that the relationship between team priority of safety and reporting of treatment errors was stronger for teams higher
+in psychological safety. Finally, Kirkman, Cordery, Mathieu, Rosen, and Kukenberger (2013) found that psychological safety moderated
+the curvilinear relationship between nationality diversity and performance, such that the relationship was more positive at the higher
+end, and less positive at the lower end, for teams high in psychological safety.
+    At the organizational level, Baer and Frese (2003) established that at high levels of psychological safety, the relationship be-
+tween process innovativeness (i.e., the use of advanced manufacturing techniques) and proﬁtability (i.e., return on assets), was
+positive, whereas at low levels of organizational psychological safety, the relationship was negative.
+
+3.6. Summary
+
+    In Fig. 1 we synthesize key observations from our review to provide an overview of the nomological network of variables to
+which psychological safety is related.
+    Our review of the literature led to a number of key observations. As can be seen in Fig. 1, although psychological safety is a
+multilevel construct, our review suggests that it is likely to be more potent and meaningful at the team level, as opposed to
+the organizational level, unless the organization is small. This may be the reason why few studies have been conducted at the
+organizational level. In addition, as can be seen in Fig. 1, most of the antecedents of psychological safety, at the individual and
+team levels, can be grouped under the rubric of supportive environments (i.e., supportive leadership, supportive relationships
+with colleagues, and supportive organizational practices). In the majority of studies we reviewed, psychological safety was the
+mechanism through which the effects of these supportive environments were transmitted to desirable outcomes, such as in-
+creased knowledge sharing, engagement, creativity, innovation, and ultimately performance. Our review also established that psy-
+chological safety is a valuable resource, especially important in hazardous work contexts where speaking up and providing
+feedback is imperative in order to reduce errors and improve safety. As shown in Fig. 1, across all levels, psychological safety ap-
+pears to be predictive of learning and performance outcomes.
+    As evident in Fig. 1, task-related factors, such as the presence of task conﬂict or strong task environments that motivate learning, am-
+plify the positive effects of psychological safety on performance and exploitative learning (respectively). At the individual level, employ-
+ee personal beliefs and attitudes (e.g., organizational identiﬁcation and felt obligation) appear to strengthen the relationships among
+psychological safety and positive outcomes, such as communication and admitting errors. As can be seen in Fig. 1 our review also indi-
+cates that the extant research has focused inordinately on testing the moderators of psychological safety-outcome relationships, while
+examination of the boundary conditions of antecedent-psychological safety relationships has been neglected.
+    As displayed in Fig. 1, psychological safety appears to moderate other antecedent-outcome relationships. For example, high
+levels of psychological safety were found to intensify the positive relationship between team expertise diversity and team perfor-
+mance and mitigate the negative effects of geographical dispersion, electronic dependence, dynamic structure, and national diver-
+sity on team innovation.
+    Although our review revealed that growing empirical work has been conducted on the antecedents and outcomes of psycho-
+logical safety, there has been limited integration of theory to explain the processes by which psychological safety develops and
+inﬂuences work outcomes. Our review highlighted two relevant theoretical approaches that have begun to attract attention in
+the psychological safety literature, both of which offer a unique perspective of the positive work outcomes derived from psycho-
+logical safety. The ﬁrst stream invokes social learning theory to argue that supportive practices and relationships at work foster
+
+                                     A. Newman et al. / Human Resource Management Review 27 (2017) 521–535                         529
+
+
+
+
+                             Fig. 1. Network of key variables related to psychological safety based on literature review.
+
+
+
+
+psychological safety and inﬂuence outcomes such as learning, performance, innovation, and creativity. These occur through facil-
+itation of information sharing, employee voice, feedback seeking, and experimentation (e.g., Carmeli, 2007; Liu et al., 2014).
+    The second stream utilizes the social exchange theory to argue that supportive practices and relationships at work may enhance psy-
+chological safety and lead employees to reciprocate in the form of positive work outcomes (e.g., Chen et al., 2014; De Clercq & Rius,
+2007). While some have argued that psychological safety and subsequent positive outcomes are learned behaviors by employees, others
+have argued that they are conducted in exchange for positive behaviors shown towards them. Although these theories may provide ex-
+planations for links among psychological safety and its antecedents/outcomes, they do not provide a detailed and holistic understanding
+of the underlying processes through which psychological safety develops and inﬂuences workplace outcomes. Nor do they assist us in
+understanding the boundary conditions of the relationship between psychological safety and its antecedents/outcomes. Our review
+also highlighted a general reliance on quantitative research methodologies in the area of psychological safety and limited exploration
+of alternative methodologies. Finally, our review identiﬁed a lack of longitudinal research on the dynamic processes by which psycho-
+logical safety develops and inﬂuences work outcomes. Among extant studies, only Schulte et al. (2012) employed a panel design
+where both antecedents and outcomes were measured at all points in time.
+
+4. Agenda for future research
+
+4.1. Opportunities for theoretical advancement
+
+    As highlighted in our review of prior research, the majority of studies of psychological safety have focused on its antecedents
+(e.g., supportive leadership behavior) and/or its outcomes. This research offers little theoretical understanding of the processes by
+which psychological safety inﬂuences positive and negative work outcomes or the boundary conditions that affect these relationships. In
+light of these limitations, we highlight two potential theoretical frameworks that researchers may draw on to examine these issues.
+
+4.1.1. Conservation of resources theory
+    Our review highlights the need for a more holistic understanding of the underlying processes through which psychological
+safety develops and inﬂuences workplace outcomes. Therefore, we encourage researchers to integrate perspectives from the Con-
+servation of Resources (COR) theory (Hobfoll, 1989). We believe that the COR theory provides a succinct explanation as to how
+
+530                                 A. Newman et al. / Human Resource Management Review 27 (2017) 521–535
+
+
+resources in the work environment, that have been identiﬁed in our review of the literature (e.g., supportive organizational prac-
+tices and relationship networks), positively inﬂuence work outcomes. Moreover, COR theory provides an explanation for the de-
+velopment of psychological safety and how both individual and team resource investment and depletion may explain the
+psychological safety – work outcomes relationships.
+    The core tenet of COR theory is that individuals seek to gain resources to protect against resource loss (Hobfoll, 1989). Re-
+sources may include social support, rewards, autonomy, or job security and can either be gained or taken away by the organiza-
+tion, supervisor, team, or individuals. According to the 1st and 3rd corollaries of COR theory (Hobfoll, 2011), individuals with
+access to greater resources (e.g., relationship networks found within a psychologically safe work environment) are less vulnerable
+to resource loss (depletion) and are more capable of orchestrating resource gain (investment) through using their existing re-
+sources. By obtaining these additional resources, individuals are better equipped to meet their work demands and achieve their
+work goals (Halbesleben, Neveu, Paustian-Underdahl, & Westman, 2014). For example, when provided with adequate support
+in the workplace, employees will feel psychologically safe to share their ideas and knowledge with others in the workplace in
+the belief that this will assist them in obtaining further resources (e.g., positive feedback and suggestions from others in the work-
+place). This, in turn, will enable them to attain their work goals and is likely to foster an environment where individual and team
+learning occur and performance improves.
+    Based on this theory we present a conceptual framework in Fig. 2 to highlight the mechanisms by which psychological safety
+develops and inﬂuences work outcomes. As can be seen in Fig. 2, supportive job resources engender a climate of psychological
+safety, conferring protection from resource loss, which in turn is associated with negative individual outcomes such stress and
+strain, as well as undesirable team outcomes such as conﬂict (the health impairment pathway). A climate of psychological safety
+also appears to distinguish high performing teams from their counterparts, as members in such teams are motivated to invest re-
+sources (e.g., through communication and knowledge sharing), which in turn leads to positive work outcomes such as learning,
+innovation, and performance at the individual- and team-level (the motivational pathway).
+
+
+4.1.2. Trait activation theory
+    We also call on researchers to incorporate prominent person-situation theoretical perspectives, such as the trait activation
+theory (TAT) (Tett & Guterman, 2000), to further our understanding of the boundary conditions on the relationships among
+psychological safety and work outcomes. According to Tett and Guterman (2000, p. 398), “the behavioral expression of a trait re-
+quires arousal of the trait by trait-relevant situational cues”. TAT suggests that the inﬂuence of personality traits may depend on
+inducements offered by the context (situational cues), and therefore provides an explanation as to how organizational climates,
+such as psychological safety climate, might interact with the personality traits of the employee to predict their work behaviors
+and attitudes. Based on TAT we argue that a climate of psychological safety would amplify the positive effects of an individual's
+predisposition to act proactively, embodied in personality traits such as extraversion, proactive personality, and learning goal
+orientation. This would lead them to be more likely to engage in relevant work behaviors such as voice behavior or information
+sharing in environments, with high levels of psychological safety, as such an environment provides cues and opportunities for
+expression of their traits. Prior work has drawn on TAT to examine how organizational or team climates arouse individuals to
+engage in more positive behaviors at work when they possess certain personality traits (e.g., Byrne, Stoner, Thompson, &
+Hockwarter, 2005).
+    Together COR theory and TAT explain the processes by which psychological safety inﬂuences outcomes and the ways in which
+personality traits and psychological safety may interact to inﬂuence outcomes. We call upon researchers to draw on such perspec-
+tives in future studies in order to advance our understanding of psychological safety.
+
+
+
+
+                                      Fig. 2. An integrative theoretical framework of psychological safety.
+
+                                               A. Newman et al. / Human Resource Management Review 27 (2017) 521–535                                                    531
+
+
+4.2. Opportunities for empirical advancement
+
+    In the following sections, we develop an agenda for advancing empirical research. As well as (1) providing recommendations
+around the measurement of psychological safety; we call for (2) the greater use of alternative methodologies to study psycholog-
+ical safety; (3) additional research to investigate the inﬂuence of culture on employee and team responses to psychological safety;
+(4) greater investigation of the potential negative effects of psychological safety; and (5) more multi-level and cross-level work to
+understand the relative inﬂuence of individual, team and organizational-level antecedents on psychological safety. Research in
+these areas will have important practical implications through enabling managers to design work environments that are condu-
+cive to the development of psychological safety and maximize the beneﬁts of psychological safety to the organization.
+
+4.2.1. Measurement of psychological safety
+    While considerable empirical work on psychological safety has relied on the use of a cross-sectional quantitative survey meth-
+odology, limited longitudinal research has been conducted. Longitudinal studies, focusing on newcomer socialization in teams, in-
+volving multiple waves of data collection and the application of latent growth modeling (Duncan & Duncan, 2004) would afford
+the opportunity to systematically examine the dynamic nature of psychological safety, especially individuals' and teams' develop-
+mental trajectories in psychological safety, and inter-individual and team variability in its development. Research along these lines
+would be insightful as we know very little about the aetiology and temporal change of psychological safety in teams.
+    As well as using consensus models to measure psychological safety at the team and organizational-levels of analysis, re-
+searchers might consider measuring the degree of consensus between team members as to psychological safety within their dy-
+adic relationships and map these using social network methods as network ties (Roussin et al., 2016). This will allow for a better
+understanding of how psychological safety dynamics within sub-teams inﬂuence learning and performance outcomes within
+teams, and address Roussin et al.'s (2016) concerns that the use of consensus models has led researchers to ignore team contexts
+in which members do not share similar beliefs about psychological safety.
+    In addition, we also call on researchers to investigate factors that inﬂuence psychological safety strength (i.e., the degree of con-
+sensus or agreement of individuals' perceptions of psychological safety within a team or organization; see Schneider, Salvaggio,
+and Subirats [2002]).2 Although researchers have justiﬁed conceptualizing psychological safety as a team- or organization-level
+construct through measuring the degree of agreement between members, they have yet to examine the inﬂuence of psychological
+safety strength on team or organizational outcomes, or identify the factors that predict psychological safety strength. These are
+surprising omissions given the topic of team climate strength has gained increasing attention in the literature (González-Romá,
+Fortes-Ferreira, & Peiró, 2009; Schneider et al., 2002). We might expect variables such as team or organization size, geographic
+dispersion, and diversity among team and organizational members to inﬂuence the degree of psychological safety strength. Re-
+searchers might also examine whether psychological safety strength changes across the different stages of team development,
+and whether this construct moderates the relationships between team psychological safety and its outcomes.
+
+4.2.2. Alternative methodologies to study psychological safety
+    Given the skew towards a quantitative survey methodology in extant research, researchers should also consider using alterna-
+tive methodologies in future work to gain a more holistic understanding as to how psychological safety develops and inﬂuences
+work outcomes. In addition to using qualitative interviews, which have been adopted in prior research to gain a deeper under-
+standing as to how psychological safety develops within teams and individuals, researchers might consider using observational
+techniques to gauge levels of psychological safety within a team or dyadic context. This may be done through looking at the ver-
+bal and non-verbal communication people use when interacting with one another. More speciﬁcally, face reading software might
+be used to determine the extent to which people seem comfortable when talking with one another and their willingness to en-
+gage in interpersonal risk taking.
+
+4.2.3. Cultural inﬂuences on psychological safety
+    As recommended by Edmondson and Lei (2014), greater work might be undertaken to ascertain whether psychological safety
+has a stronger inﬂuence on outcomes for individuals, teams, and organizations operating in different cultural settings. At present
+most of the research investigating the inﬂuence of psychological safety in the workplace has been conducted in Western cultures,
+such as the US which are characterized by low levels of collectivism, power distance, and uncertainty avoidance (Hofstede, 2001).
+In such cultures individuals are more likely to be direct in voicing new ideas and engage in experimentation, without the presence
+of psychological safety. As a result, the inﬂuence of psychological safety on work outcomes such as learning, performance, and
+creativity might be expected to be more pronounced for individuals and teams embedded in organizations operating in cultures
+characterized by higher levels of collectivism, power distance, and uncertainty avoidance. In such cultures speaking out or
+experimenting with new ideas is less common, as engaging in such behavior leads to more social costs than in Western cultures
+and causes individuals to lose face and risk being ostracized by other group members (Friedman, Chi, & Liu, 2006; Liu, Zhu, &
+Yang, 2010). Examining psychological safety in these contexts will allow a more robust test of the predictive validity of psycho-
+logical safety as the variance between members' perceptions of psychological safety may be higher than that of Western culture
+where there are minimal social costs to speaking out.
+
+  2
+    Please note this deﬁnition of strength as used in the team climate literature does not refer to the mean level of psychological safety within a group but the strength of
+consensus or agreement between members of a group.
+
+532                                   A. Newman et al. / Human Resource Management Review 27 (2017) 521–535
+
+
+4.2.4. Negative effects of psychological safety
+    There has been an inordinate focus in prior empirical work on examining the positive outcomes of psychological safety. Re-
+cently, based on pervasive and counter-theoretical ﬁndings in some areas of management research, Pierce and Aguinis (2013)
+proposed a meta-theoretical principal they refer to as the too-much-of-a-good-thing effect (TMGT effect). Essentially, the TMGT ef-
+fect occurs when levels of typically beneﬁcial antecedents reach tipping points, after which their relations with desired outcomes
+shift from being linear and positive to curvilinear (inverted U-shape) and negative. Evidence of the TMGT effect has been found
+for assertiveness in terms of its relationship with leadership effectiveness (Ames & Flynn, 2007) and for conscientious with regard
+to its association with performance (Whetzel, McDaniel, Yost, & Kim, 2010). Pierce and Aguinis (2013) argued that other manage-
+ment constructs are likely to have non-monotonic relations with desired outcomes and therefore we consider here the possibility
+that too much psychological safety within a team could lead to detrimental outcomes.
+    In the extant psychological safety literature, only one prior study by Pearsall and Ellis (2011) has highlighted its potential negative
+inﬂuence, demonstrating that teams high in psychological safety are more likely to engage in unethical behavior. More speciﬁcally,
+Pearsall and Ellis (2011) argue that teams high in utilitarianism may utilize the psychological safety of their environment to choose
+the most beneﬁcial option when making decisions, even if that option may be unethical. Once the unethical possibility is raised as a
+potential option, other team members may feel willing to support the idea, given a psychological safe climate within the team. These
+ﬁndings suggest that psychological safety might not always have a positive inﬂuence on team and organizational-level outcomes.
+    Hence, we also call on researchers to explore possible negative consequences of “too much” psychological safety at the individual,
+team, and organizational levels and potential curvilinear effects of psychological safety on outcomes at different levels of analysis. For
+example, psychological safety generally encourages change and disruption to the status quo, which can carry a certain degree of risk
+for individuals (e.g., “a damaged reputation if the initiative fails or disapproval if it is seen as inappropriate or threatening” [Morrison
+& Phelps, 1999, p. 405]). In addition, recent work has shown that high levels of trust can lead to lower levels of team performance due
+to lower levels of monitoring within autonomous teams (Langfred, 2004). Thus, we expect psychological safety to have a negative
+inﬂuence on team learning and performance for teams that have high autonomy within their organization.
+
+4.2.5. Interactive effects of individual, team and organizational-level antecedents on psychological safety
+    There has been limited investigation as to how individual-, team-, and organizational-level factors may interact to inﬂuence psy-
+chological safety, and subsequently inﬂuence outcomes, at different levels of analysis. Cross-level designs have only been previously
+used to examine how psychological safety at the team-level predicts individual-level outcomes (Walumbwa & Schaubroeck, 2009),
+and how psychological safety at the team level interacts with individual-level variables to predict team outcomes (Liu et al., 2014).
+    We call on researchers to conduct additional research to improve our understanding of how variables at different levels of analysis
+interact to predict psychological safety. Better understanding of how cultural, organizational, and team-level factors combine to predict
+the development of psychological safety will enable organizations to design effective work environments and practices that assist indi-
+viduals and teams to work effectively. For example, scrutinizing cross-level effects of organizational-level variables, future research may
+investigate whether the inﬂuence of positive leadership behaviors (e.g., transformational or participative leadership; Yukl, 2002) on
+team-level psychological safety (team-level variables) is stronger or weaker when the organization has human resource (HR) practices
+in place that facilitate employee voice or involvement (e.g., Holland, Pyman, Cooper, & Teicher, 2011). On one hand, we might expect HR
+practices that enable “direct voice” (e.g., regular meetings with senior management or quality circles; Holland et al., 2011) to trigger pos-
+itive leadership effects on team-level psychological safety by enabling employee engagement or involvement. In other words, transfor-
+mational and participative leadership might only have a positive inﬂuence on psychological safety when the organizational environment
+is supportive of such leadership styles. On the other hand, it might also be argued that HR practices that facilitate employee voice or en-
+gagement will substitute for leader inﬂuence. In other words, in the absence of transformational or participative leadership, such HR prac-
+tices may have a greater inﬂuence on psychological safety than where there is a transformational or participative leader.
+    Future research might also explore same-level direct effects of organizational-level antecedents on organizational-level psycho-
+logical safety. Indeed, our review suggests that psychological safety and its antecedents are routinely scrutinized at the individual
+or team levels; yet, similar ﬁndings might also be expected at the organizational level. Thus, future research might focus on HR prac-
+tices that engender direct voice arrangements (Holland et al., 2011), empowerment (e.g., structures and procedures that encourage
+initiative-taking; Seibert, Silver, & Randolph, 2004), employee discretion and group collaboration (“high involvement” HR practices;
+Batt & Colvin, 2011) as antecedents of psychological safety at the organizational level, given that such practices are likely to provide a
+shared structure of cooperation that facilitates the willing contribution of information among organizational members.
+
+5. Conclusion
+
+    To conclude, we believe that psychological safety is important given it is a key cognitive state that allows learning processes to
+occur, and contributes to improved work outcomes at different levels of analysis (Edmondson, 1999; Edmondson et al., 2007).
+From a practical perspective, this review has highlighted the myriad of positive workplace outcomes associated with psychological
+safety that indicate to managers the importance of engaging in supportive leadership behaviors, fostering bonds between team
+members, and leveraging supportive organizational practices to build psychological safety at work. Due to the importance of psy-
+chological safety for organizations today, research that helps us to understand the antecedents of psychological safety, and how
+and when psychological safety contributes to work outcomes, is important for individuals, teams, and organizations alike. Through
+offering suggestions to advance theoretical understanding of psychological safety and opportunities for advancing empirical re-
+search, we hope this review will stimulate future research.
+
+                                               A. Newman et al. / Human Resource Management Review 27 (2017) 521–535                                                     533
+
+
+References
+
+Ames, D. R., & Flynn, F. J. (2007). What breaks a leader: The curvilinear relation between assertiveness and leadership. Journal of Personality and Social Psychology, 9,
+     307–324.
+Anderson, N., & West, M. (1994). The Team Climate Inventory. Windsor, UK: Berks ASE.
+Baer, M., & Frese, M. (2003). Innovation is not enough: Climates for initiative and psychological safety, process innovations, and firm performance. Journal of
+     Organizational Behavior, 24, 45–68.
+Bandura, A. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice-Hall.
+Batt, R., & Colvin, A. (2011). An employment systems approach to turnover: HR practices, quits, dismissals, and performance. Academy of Management Journal, 54, 695–717.
+Bendoly, E. (2014). System dynamics understanding in projects: Information sharing, psychological safety, and performance effects. Production and Operations
+     Management, 23, 1352–1369.
+Bergmann, B., & Schaeppi, J. (2016). A data-driven approach to group creativity. Harvard Business Review, 12th July 2016.
+Bienefeld, N., & Grote, G. (2014). Speaking up in ad hoc multiteam systems: Individual level effects of psychological safety, status, and leadership within and across
+     teams. European Journal of Work and Organizational Psychology, 23, 930–945.
+Bradley, B. H., Postlethwaite, B. E., Klotz, A. C., Hamdani, M. R., & Brown, K. G. (2012). Reaping the benefits of task conflict in teams: The critical role of team psycho-
+     logical safety climate. Journal of Applied Psychology, 97, 151–158.
+Bresman, H., & Zellmer-Bruhn, M. (2013). The structural context of team learning: Effects of organizational and team structure on internal and external learning.
+     Organization Science, 24, 1120–1139.
+Brinsfield, C. T. (2013). Employee silence motives: Investigation of dimensionality and development of measures. Journal of Organizational Behavior, 34, 671–697.
+Brown, S. P., & Leigh, T. W. (1996). A new look at psychological climate and its relationship to job involvement, effort, and performance. Journal of Applied Psychology,
+     81, 358–368.
+Brueller, D., & Carmeli, A. (2011). Linking capacities of high-quality relationships to team learning and performance in service organizations. Human Resource
+     Management, 50, 455–477.
+Bstieler, L., & Hemmert, M. (2010). Increasing learning and time efficiency in interorganizational new product development teams. Journal of Product Innovation
+     Management, 27, 485–499.
+Bunderson, J. S., & Boumgarden, P. (2010). Structure and learning in self-managed teams: Why “bureaucratic” teams can be better learners. Organization Science, 21,
+     609–624.
+Burris, E. R., Rodgers, M. S., Mannix, E. A., Hendron, M. G., & Oldroyd, J. B. (2009). Playing favorites: The influence of leaders' inner circle on group processes and per-
+     formance. Personality and Social Psychology Bulletin, 35, 1244–1257.
+Byrne, Z. S., Stoner, J., Thompson, K. R., & Hockwarter, W. (2005). The interactive effects of conscientiousness, work effort, and psychological climate on job perfor-
+     mance. Journal of Vocational Behavior, 66, 326–338.
+Carmeli, A. (2007). Social capital, psychological safety and learning behaviours from failure in organisations. Long Range Planning, 40, 30–44.
+Carmeli, A., & Gittell, J. H. (2009). High-quality relationships, psychological safety, and learning from failures in work organizations. Journal of Organizational Behavior,
+     30, 709–729.
+Carmeli, A., & Zisu, M. (2009). The relational underpinnings of quality internal auditing in medical clinics in Israel. Social Science and Medicine, 68, 894–902.
+Carmeli, A., Brueller, D., & Dutton, J. E. (2009). Learning behaviours in the workplace: The role of high-quality interpersonal relationships and psychological safety.
+     Systems Research and Behavioral Science, 26, 81–98.
+Carmeli, A., Reiter-Palmon, R., & Ziv, E. (2010). Inclusive leadership and employee involvement in creative tasks in the workplace: The mediating role of psychological
+     safety. Creativity Research Journal, 22, 250–260.
+Chandrasekaran, A., & Mishra, A. (2012). Task design, team context, and psychological safety: An empirical analysis of R&D projects in high technology organizations.
+     Production and Operations Management, 21, 977–996.
+Chen, G., & Tjosvold, D. (2012). Shared rewards and goal interdependence for psychological safety among departments in China. Asia Pacific Journal of Management, 29,
+     433–452.
+Chen, C., Liao, J., & Wen, P. (2014). Why does formal mentoring matter? The mediating role of psychological safety and the moderating role of power distance orien-
+     tation in the Chinese context. International Journal of Human Resource Management, 25, 1112–1130.
+Choo, A., Linderman, K., & Schroeder, R. G. (2007). Social and method effects on learning behaviors and knowledge creation in six sigma projects. Management Science,
+     53, 437–450.
+Chrobot-Mason, D., & Aramovich, N. (2004). Employee perceptions of an affirming climate for diversity and its link to attitudinal outcomes: A comparison of racial and gen-
+     der groups. Paper presented at Annual Meeting of the Academy of Management, New Orleans, LA.
+De Clercq, D., & Rius, I. B. (2007). Organizational commitment in Mexican small and medium-sized firms: The role of work status, organizational climate, and entre-
+     preneurial orientation. Journal of Small Business Management, 45, 467–490.
+Detert, J. R., & Burris, E. R. (2007). Leadership behavior and employee voice: Is the door really open? Academy of Management Journal, 50, 869–884.
+DeVellis, R. F. (2003). Scale development: Theory and application (2nd ed.). Thousand Oaks: Sage.
+Duncan, T. E., & Duncan, S. C. (2004). An introduction to latent growth curve modeling. Behavior Therapy, 35, 333–363.
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44, 350–383.
+Edmondson, A. C., & Lei, Z. (2014). Psychological safety: The history, renaissance, and future of an interpersonal construct. The Annual Review of Organizational
+     Psychology and Organizational Behavior, 1, 23–43.
+Edmondson, A. C., & Mogelof, J. P. (2005). Explaining psychological safety in innovation teams. In L. Thompson, & H. Choi (Eds.), Creativity and innovation in organiza-
+     tions (pp. 109–136). Mahwah, NJ: Lawrence Erlbaum Associates Press.
+Edmondson, A. C., & Woolley, A. (2003). Understanding outcomes of organizational learning interventions. In M. Easterby-Smith, & M. Lyles (Eds.), International hand-
+     book on organizational learning and knowledge management. London: Blackwell.
+Edmondson, A. C., Bohmer, R. M., & Pisano, G. P. (2001). Disrupted routines: Team learning and new technology implementation in hospitals. Administrative Science
+     Quarterly, 46, 685–716.
+Edmondson, A. C., Dillon, J. R., & Roloff, K. S. (2007). Three perspectives on team learning: Outcome improvement, task mastery, and group process. Academy of
+     Management Annals, 1, 269–314.
+Faraj, S., & Yan, A. M. (2009). Boundary work in knowledge teams. Journal of Applied Psychology, 94, 604–617.
+Frazier, M. L., Fainshmidt, S., Klinger, R. L., Pezeshkan, A., & Vracheva, V. (2016). Psychological safety: A meta-analytic review and extension. Personnel Psychology.
+     http://dx.doi.org/10.1111/peps.12183 (in press).
+Friedman, R., Chi, S. C., & Liu, L. A. (2006). An expectancy model of Chinese–American differences in conflict-avoiding. Journal of International Business Studies, 37, 76–91.
+Gibson, C. B., & Gibbs, J. L. (2006). Unpacking the concept of virtuality: The effects of geographic dispersion, electronic dependence, dynamic structure, and national
+     diversity on team innovation. Administrative Science Quarterly, 51, 451–495.
+González-Romá, V., Fortes-Ferreira, L., & Peiró, J. M. (2009). Team climate, climate strength and team performance. A longitudinal study. Journal of Occupational and
+     Organizational Psychology, 82, 511–536.
+Gu, Q., Wang, G. G., & Wang, L. (2013). Social capital and innovation in R&D teams: The mediating roles of psychological safety and learning from mistakes. R&D
+     Management, 43, 89–102.
+Halbesleben, J. R. B., & Rathert, C. (2008). The role of continuous quality improvement and psychological safety in predicting work-arounds. Health Care Management
+     Review, 33, 134–144.
+Halbesleben, J. R. B., Neveu, J. P., Paustian-Underdahl, S. C., & Westman, M. (2014). Getting to the “COR”: Understanding the role of resources in conservation of re-
+     sources theory. Journal of Management, 40, 1334–1364.
+
+534                                            A. Newman et al. / Human Resource Management Review 27 (2017) 521–535
+
+Hawcroft, L. J., & Milfont, T. L. (2010). The use (and abuse) of the new environmental paradigm scale over the last 30 years: A meta-analysis. Journal of Environmental
+     Psychology, 30, 143–158.
+Hetzner, S., Gartmeier, M., Heid, H., & Gruber, H. (2011). Error orientation and reflection at work. Vocations and Learning, 4, 25–39.
+Hirak, R., Pang, A. C., Carmeli, A., & Schaubroeck, J. M. (2012). Linking leader inclusiveness to work unit performance: The importance of psychological safety and learn-
+     ing from failures. The Leadership Quarterly, 23, 107–117.
+Hobfoll, S. E. (1989). Conservation of resources. A new attempt at conceptualizing stress. American Psychologist, 44, 513–524.
+Hobfoll, S. E. (2011). Conservation of resource caravans and engaged settings. Journal of Occupational and Organizational Psychology, 84, 116–122.
+Hofstede, G. (2001). Culture's consequences: Comparing values, behaviors, institutions, and organizations across nations. Thousand Oaks, CA: Sage.
+Holland, P., Pyman, A., Cooper, B. K., & Teicher, J. (2011). Employee voice and job satisfaction in Australia: The centrality of direct voice. Human Resource Management,
+     50, 95–111.
+Huang, C. C., & Jiang, P. C. (2012). Exploring the psychological safety of R&D teams: An empirical analysis in Taiwan. Journal of Management & Organization, 18,
+     175–192.
+Kahn, W. A. (1990). Psychological conditions of personal engagement and disengagement at work. Academy of Management Journal, 33, 692–724.
+Kark, R., & Carmeli, A. (2009). Alive and creating: The mediating role of vitality and aliveness in the relationship between psychological safety and creative work in-
+     volvement. Journal of Organizational Behavior, 30, 785–804.
+Kayes, D. C. (2006). From climbing stairs to riding waves - Group critical thinking and its development. Small Group Research, 37, 612–630.
+Kessel, M., Kratzer, J., & Schultz, C. (2012). Psychological safety, knowledge sharing, and creative performance in healthcare teams. Creativity and Innovation
+     Management, 21, 147–157.
+Kirkman, B. L., Cordery, J. L., Mathieu, J., Rosen, B., & Kukenberger, M. (2013). Global organizational communities of practice: The effects of nationality diversity, psy-
+     chological safety, and media richness on community performance. Human Relations, 66, 333–362.
+Kostopoulos, K. S., & Bozionelos, N. (2011). Team exploratory and exploitative learning: Psychological safety, task conflict, and team performance. Group & Organization
+     Management, 36, 385–415.
+Langfred, C. W. (2004). Too much of a good thing? Negative effects of high trust and individual autonomy in self-managing teams. Academy of Management Journal, 47,
+     385–399.
+Lau, D. C., & Murnighan, J. K. (2005). Interactions within groups and subgroups: The effects of demographic faultlines. Academy of Management Journal, 48, 645–659.
+Lee, J. Y., Swink, M., & Pandejpong, T. (2011). The roles of worker expertise, information sharing quality, and psychological safety in manufacturing process innovation:
+     An intellectual capital perspective. Production and Operations Management, 20, 556–570.
+Leroy, H., Dierynck, B., Anseel, F., Simons, T., Halbesleben, J. R. B., & McCaughey, D. (2012). Behavioral integrity for safety, priority of safety, psychological safety, and
+     patient safety: A team-level study. Journal of Applied Psychology, 97, 1273–1281.
+Li, A. N., & Tan, H. H. (2012). What happens when you trust your supervisor? Mediators of individual performance in trust relationships. Journal of Organizational
+     Behavior, 34, 407–425.
+Li, N., & Yan, J. (2009). The effects of trust climate on individual performance. Frontiers of Business Research in China, 3, 27–49.
+Liang, J., Farh, C. I. C., & Farh, J. L. (2012). Psychological antecedents of promotive and prohibitive voice: A two-wave examination. Academy of Management Journal, 55,
+     71–92.
+Liu, W., Zhu, R., & Yang, Y. (2010). I warn you because I like you: Voice behavior, employee identifications, and transformational leadership. The Leadership Quarterly,
+     21, 189–202.
+Liu, S., Hu, J., Li, Y., Wang, Z., & Lin, X. (2014). Examining the cross-level relationship between shared leadership and learning in teams: Evidence from China. The
+     Leadership Quarterly, 25, 282–295.
+Madjar, N., & Ortiz-Walters, R. (2009). Trust in supervisors and trust in customers: Their independent, relative, and joint effects on employee performance and crea-
+     tivity. Human Performance, 22, 128–142.
+Martins, L. L., Schilpzand, M. C., Kirkman, B. L., Ivanaj, S., & Ivanaj, V. (2013). A contingency view of the effects of cognitive diversity on team performance: The mod-
+     erating roles of team psychological safety and relationship conflict. Small Group Research, 44, 96–126.
+May, D. R., Gilson, R. L., & Harter, L. M. (2004). The psychological conditions of meaningfulness, safety and availability and the engagement of the human spirit at work.
+     Journal of Occupational and Organizational Psychology, 77, 11–37.
+Morrison, E. W., & Phelps, C. C. (1999). Taking charge at work: Extrarole efforts to initiate workplace change. Academy of Management Journal, 42, 403–419.
+Mu, S. H., & Gnyawali, D. R. (2003). Developing synergistic knowledge in student groups. Journal of Higher Education, 74, 689–711.
+Nemanich, L. A., & Vera, D. (2009). Transformational leadership and ambidexterity in the context of an acquisition. The Leadership Quarterly, 20, 19–33.
+Nembhard, I. M., & Edmondson, A. (2006). Making it safe: The effects of leader inclusiveness and professional status on psychological safety and improvement efforts
+     in health care teams. Journal of Organizational Behavior, 27, 941–966.
+Nembhard, I. M., & Edmondson, A. C. (2011). Psychological safety: A foundation for speaking up, collaboration, and experimentation. In K. S. Cameron, & G. M. Spreitzer
+     (Eds.), The Oxford handbook of positive organizational scholarship. Oxford: Oxford University Press.
+O'Neill, O. A. (2009). Workplace expression of emotions and escalation of commitment. Journal of Applied Social Psychology, 39, 2396–2424.
+Ortega, A., Sanchez-Manzanares, M., Gil, F., & Rico, R. (2010). Team learning and effectiveness in virtual project teams: The role of beliefs about interpersonal context.
+     Spanish Journal of Psychology, 13, 267–276.
+Ortega, A., Van den Bossche, P., Sanchez-Manzanares, M., Rico, R., & Gil, F. (2014). The influence of change-oriented leadership and psychological safety on team learn-
+     ing in healthcare teams. Journal of Business and Psychology, 29, 311–321.
+Palanski, M. E., & Vogelgesang, G. R. (2011). Virtuous creativity: The effects of leader behavioural integrity on follower creative thinking and risk taking. Canadian
+     Journal of Administrative Sciences, 28, 259–269.
+Pearsall, M. J., & Ellis, A. P. J. (2011). Thick as thieves: The effects of ethical orientation and psychological safety on unethical team behaviour. Journal of Applied
+     Psychology, 96, 401–411.
+Peltokorpi, V. (2004). Transactive memory directories in small work units. Personnel Review, 33, 446–467.
+Pierce, J. R., & Aguinis, H. (2013). The too-much-of-a-good-thing effect in management. Journal of Management, 39, 313–338.
+Post, C. (2012). Deep-level team composition and innovation: The mediating roles of psychological safety and cooperative learning. Group & Organization Management,
+     37, 555–585.
+Rathert, C., Ishqaidef, G., & May, D. R. (2009). Improving work environments in health care: Test of a theoretical framework. Health Care Management Review, 34,
+     334–343.
+Roberto, M. A. (2002). Lessons from Everest: The interaction of cognitive bias, psychological safety and system complexity. California Management Review, 45, 136–158.
+Roussin, C. J. (2008). Increasing trust, psychological safety, and team performance through dyadic leadership discovery. Small Group Research, 39, 224–248.
+Roussin, C. J., & Webber, S. S. (2012). Impact of organizational identification and psychological safety on initial perceptions of co-worker trustworthiness. Journal of
+     Business and Psychology, 27, 317–329.
+Roussin, C. J., MacLean, T. L., & Rudolph, J. W. (2016). The safety in unsafe teams: A multilevel approach to team psychological safety. Journal of Management, 42,
+     1409–1433.
+Sanner, B., & Bunderson, J. S. (2013). Psychological safety, learning, and performance: A comparison of direct and contingent effects. Presented at the Academy of Manage-
+     ment Conference, Orlando, FL.
+Schaubroeck, J., Lam, S. S. K., & Peng, A. C. Y. (2011). Cognition-based and affect-based trust as mediators of leader behavior influences on team performance. Journal of
+     Applied Psychology, 96, 863–871.
+Schein, E. H., & Bennis, W. (1965). Personal and organizational change through group methods. New York: Wiley.
+Schneider, B., Salvaggio, A. N., & Subirats, M. (2002). Climate strength: A new direction for climate research. Journal of Applied Psychology, 87, 220–229.
+Schulte, M., Cohen, N. A., & Klein, K. J. (2012). The coevolution of network ties and perceptions of team psychological safety. Organization Science, 23, 564–581.
+Schwab, D. P. (1980). Construct validity in organizational behavior. Research in Organizational Behavior, 2, 3–43.
+
+                                              A. Newman et al. / Human Resource Management Review 27 (2017) 521–535                                                   535
+
+Seibert, S. E., Silver, S. R., & Randolph, W. A. (2004). Taking empowerment to the next level: A multiple-level model of empowerment, performance, and satisfaction.
+    Academy of Management Journal, 47, 332–349.
+Short, J. (2009). The art of writing a review article. Journal of Management, 35, 1312–1317.
+Siemsen, E., Roth, A. V., Balasubramanian, S., & Anand, G. (2009). The influence of psychological safety and confidence in knowledge on employee knowledge sharing.
+    Manufacturing and Service Operations Management, 11, 429–447.
+Singh, B., & Winkel, D. E. (2012). Racial differences in helping behaviors: The role of respect, safety, and identification. Journal of Business Ethics, 106, 467–477.
+Singh, B., Winkel, D. E., & Selvarajan, T. T. (2013). Managing diversity at work: Does psychological safety hold the key to racial differences in employee performance?
+    Journal of Occupational and Organizational Psychology, 86, 242–263.
+Stalmeijer, R. E., Gijselaers, W. H., Wolfhagen, I., Harendza, S., & Scherpbier, A. (2007). How interdisciplinary teams can create multi-disciplinary education: The inter-
+    play between team processes and educational quality. Medical Education, 41, 1059–1066.
+Tangirala, S., Kamdar, S., Venkataramani, V., & Parke, M. R. (2013). Doing right versus getting ahead: The effects of duty and achievement orientations on employees'
+    voice. Journal of Applied Psychology, 98, 1040–1050.
+Tett, R. P., & Guterman, A. H. (2000). Situation trait relevance, trait, expression, and cross-situational consistency: Testing a principle of trait activation. Journal of
+    Research in Personality, 34, 397–423.
+Tucker, A. L. (2007). An empirical study of system improvement by frontline employees in hospital units. Manufacturing and Service Operations Management, 9,
+    492–505.
+Tucker, A. L., Nembhard, I. M., & Edmondson, A. C. (2007). Implementing new practices: An empirical study of organizational learning in hospital intensive care units.
+    Management Science, 53, 894–907.
+Tynan, R. (2005). The effects of threat sensitivity and face giving on dyadic psychological safety and upward communication. Journal of Applied Social Psychology, 35,
+    223–247.
+Ulloa, B. C. R., & Adams, S. G. (2004). Attitude toward teamwork and effective teaming. Team Performance Management, 10, 145–151.
+Van den Bossche, P., Gijselaers, W. H., Segers, M., & Kirschner, P. A. (2006). Social and cognitive factors driving teamwork in collaborative learning environments: Team
+    learning beliefs and behaviors. Small Group Research, 37, 490–521.
+Van Dyne, L., & LePine, J. A. (1998). Helping and voice extra-role behaviors: Evidence of construct and predictive validity. Academy of Management Journal, 41, 108–119.
+Walumbwa, F. O., & Schaubroeck, J. (2009). Leader personality traits and employee voice behavior: Mediating roles of ethical leadership and work group psychological
+    safety. Journal of Applied Psychology, 94, 1275–1286.
+West, M. A. (1990). The social psychology of innovation in groups. In M. A. West, & J. L. Farr (Eds.), Innovation and creativity at work: Psychological and organizational
+    strategies (pp. 309–333). Chichester, UK: Wiley.
+Whetzel, D. L., McDaniel, M. A., Yost, A. P., & Kim, N. (2010). Linearity of personality–performance relationships: A large-scale examination. International Journal of
+    Selection and Assessment, 18, 310–320.
+Wilkens, R., & London, M. (2006). Relationships between climate, process, and performance in continuous quality improvement groups. Journal of Vocational Behavior,
+    69, 510–523.
+Wong, A., Tjosvold, D., & Lu, J. (2010). Leadership values and learning in China: The mediating role of psychological safety. Asia-Pacific Journal of Human Resources, 48,
+    86–107.
+Xu, Y., & Yang, Y. (2010). Student learning in business simulation: An empirical investigation. Journal of Education for Business, 85, 223–228.
+Yukl, G. (2002). Leadership in organizations. Upper Saddle River, NJ: Prentice-Hall.
+Zhang, Y. X., Fang, Y. L., Wei, K. K., & Chen, H. P. (2010). Exploring the role of psychological safety in promoting the intention to continue sharing knowledge in virtual
+    communities. International Journal of Information Management, 30, 425–436.
+

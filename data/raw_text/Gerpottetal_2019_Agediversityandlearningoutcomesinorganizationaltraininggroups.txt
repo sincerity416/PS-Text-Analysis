@@ -1,0 +1,1404 @@
+      The International Journal of Human Resource
+      Management
+
+
+
+      ISSN: 0958-5192 (Print) 1466-4399 (Online) Journal homepage: https://www.tandfonline.com/loi/rijh20
+
+
+
+
+Age diversity and learning outcomes in
+organizational training groups: the role of
+knowledge sharing and psychological safety
+
+Fabiola H. Gerpott, Nale Lehmann-Willenbrock, Ramon Wenzel & Sven C.
+Voelpel
+
+To cite this article: Fabiola H. Gerpott, Nale Lehmann-Willenbrock, Ramon Wenzel & Sven C.
+Voelpel (2019): Age diversity and learning outcomes in organizational training groups: the role
+of knowledge sharing and psychological safety, The International Journal of Human Resource
+Management, DOI: 10.1080/09585192.2019.1640763
+
+To link to this article: https://doi.org/10.1080/09585192.2019.1640763
+
+
+
+
+       Published online: 22 Jul 2019.
+
+
+
+       Submit your article to this journal
+
+
+
+       View Crossmark data
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=rijh20
+
+THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT
+https://doi.org/10.1080/09585192.2019.1640763
+
+
+
+
+Age diversity and learning outcomes in
+organizational training groups: the role of knowledge
+sharing and psychological safety
+Fabiola H. Gerpotta, Nale Lehmann-Willenbrockb, Ramon Wenzelc and
+Sven C. Voelpeld
+a
+ WHU – Otto Beisheim School of Management, D€     usseldorf, Germany; bFaculty of Economics
+and Social Sciences, University of Hamburg, Hamburg, Germany; cCentre for Social Impact,
+University of Western Australia, Perth, WA, Australia; dDepartment of Business Administration,
+Jacobs University Bremen, Bremen, Germany
+
+
+    ABSTRACT                                                                   KEYWORDS
+    This study advances theorizing on human resource devel-                    Age diversity; knowledge
+    opment by conceptualizing a training group’s age diversity                 sharing; learning;
+    composition as an antecedent of participants’ learning out-                psychological
+                                                                               safety; training
+    comes in organizational training courses. Drawing from
+    social identity theory, we propose that a high age diversity
+    of the training group can inhibit participants’ learning out-
+    comes because individuals are less likely to share know-
+    ledge than in age-homogenous groups. Furthermore, we
+    expect that psychological safety serves as a buffer, such
+    that participants who perceive a high level of psychological
+    safety in a training group will engage in knowledge sharing
+    and consequently report high learning outcomes, regard-
+    less of the training group’s age diversity composition. We
+    tested the proposed moderated mediation model in a sam-
+    ple of 211 employees participating in an interactive one-
+    day training at an automobile manufacturer. We found that
+    perceived age diversity, but not objective age diversity, was
+    negatively linked to participants’ learning outcomes and
+    that this relationship was mediated by knowledge sharing.
+    Participants’ perceptions of psychological safety served as a
+    buffer against the negative effect of perceived age diver-
+    sity. We discuss implications for the conceptual understand-
+    ing of learning as an active process shaped by the training
+    group and encourage scholars to broaden their under-
+    standing of training design elements.
+
+
+
+
+Introduction
+In Western industrialized countries, demographic shifts have led to a
+workforce characterized by an increasing age diversity and higher
+
+CONTACT Fabiola H. Gerpott        fabiola.gerpott@whu.edu      WHU – Otto Beisheim School of Management,
+Erkrather Str. 224a, 40233 D€
+                            usseldorf, Germany.
+ß 2019 Informa UK Limited, trading as Taylor & Francis Group
+
+2    F. H. GERPOTT ET AL.
+
+
+average retirement age (Kulik, Ryan, Harper, & George, 2014). These
+societal changes imply major challenges for human resource management
+(Drabe, Hauff, & Richter, 2015) because organizations need to ensure
+that employees’ knowledge and skills remain up to date across all age
+groups (Zacher, Kooij, & Beier, 2018). As a result, human resource
+development programs are increasingly attended by employees from dif-
+ferent age groups. Organizations spend a considerable amount of resour-
+ces on developing their employees, for example US$1,252 in the United
+States per year and employee (ATD, 2016) and 1,067 Euros in Germany
+(German Economic Institute, 2017). Hence, it is important to ensure that
+training programs yield high learning outcomes (Sitzmann &
+Weinhardt, 2018).
+   To reach this goal, research has begun to investigate how the specific
+learning needs of different age groups can be addressed through adap-
+tions of the training design (e.g., Nassar et al., 2016; Wolfson, Cavanagh,
+& Kraiger, 2014). Yet, an age-diverse workforce may not only vary with
+regards to learning needs, but also constitutes a training design element
+that potentially influences participants’ learning outcomes. As part of the
+learning process, participants of formal training programs—that is, cur-
+riculum-based offerings provided by an organization with the ultimate
+goal of enhancing performance (Cerasoli et al., 2018)—often interact
+intensively with each other about their knowledge. Knowledge sharing
+interactions constitute an important component of the learning process
+because learning is an active process of acquiring and refining expert
+and practical knowledge (Kostopoulos & Bozionelos, 2011). However,
+findings from the diversity literature suggest that members of age-diverse
+groups may be less likely to openly engage in knowledge sharing
+(Ellwart, B€undgens & Rack, 2013). Hence, although the age diversity
+composition of training groups has received only limited scholarly atten-
+tion so far, there are reasons to expect that it influences processes and
+outcomes in formal training settings that rely on interactions between
+participants. By explicitly considering the role of a training group’s age
+diversity composition in interactive training settings, this study offers
+three main contributions.
+   First, we extend theorizing on training design elements in terms of
+attributes that characterize the learning experience (Bell, Tannenbaum,
+Ford, Noe, & Kraiger, 2017). Particularly, we draw from social identity
+theory (Tajfel & Turner, 2004) to conceptualize the training group’s age
+diversity composition as a training design element that constitutes a
+potential risk for participants’ evaluations of their learning outcomes in
+interactive training settings. Social identity theory posits that individuals
+continuously define their identity in relation to the social environment,
+
+                     THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT   3
+
+
+thereby striving to uphold a positive self-image (Tajfel & Turner, 2004).
+Accordingly, individuals tend to prefer others whom they perceive as
+similar because these in-group members likely confirm their self-image.
+In contrast, when individuals feel dissimilar to others, this gives rise to
+feelings of anxiety about opening up because dissimilar interaction part-
+ners may see things differently than the sender, which constitutes a
+potential threat for the self-image. Individuals engage in self- and other-
+categorization relative to individuals in other categories, which entails
+that different aspects of one’s social identity may become more or less
+salient depending on the context (Ashforth & Mael, 1989). In a training
+setting in which participants are not previously acquainted, they will
+likely make use of easily visible cues (Zellmer-Bruhn, Maloney, Bhappu,
+& Salvador, 2008). Age is a salient individual characteristic that is auto-
+matically assessed and triggers social categorization processes (Tajfel &
+Turner, 2004). Consequently, a high age diversity of the group may
+result in feelings of dissimilarity between training participants, which
+may distract them from engaging with the training content and inhibit
+their learning outcomes. Taking the notion serious that for these proc-
+esses to occur participants must perceive the others as different (e.g.,
+Shemla, Meyer, Greer, & Jehn, 2016), we untangle effects of the training
+group’s objective age diversity (i.e., based on differences in participants’
+chronological age) and perceived age diversity (i.e., based on perceived
+differences in participants’ age) as predictors of participants’ evaluation
+of their learning outcomes. This nuanced perspective addresses the call
+for research that considers alternative age-related measurements in add-
+ition to objective age (Burmeister, Fasbender, & Deller, 2018) and con-
+tributes to the discussion on diversity as a subjective phenomenon (e.g.,
+Ellwart et al., 2013; Shemla et al., 2016).
+   Second, we add to a constructivist perspective on learning by investi-
+gating knowledge sharing—that is, the purposeful or unintended activ-
+ities through which information, skills, or expertise are exchanged with
+others (Joshi, Sarker, & Sarker, 2007)—as a process through which the
+training group’s age diversity affects participants’ evaluations of learning
+outcomes. According to a constructivist learning perspective (Arib &
+Hess, 1986; Yeo & Gold, 2011), knowledge sharing constitutes an import-
+ant antecedent of learning because learning is an active process of
+acquiring and refining expert and practical knowledge. Through know-
+ledge sharing, participants reflect on their experiences, engage in deeper
+information elaboration processes, become aware of knowledge gaps, and
+link new information to existing knowledge (Nilsen & Ludvigsen, 2010;
+Vance, Boje, Mendenhall, & Kropp, 1991). By positioning knowledge
+sharing as a mediator in our model that links the training group’s age-
+
+4    F. H. GERPOTT ET AL.
+
+
+diversity to participants’ learning outcomes, this study advances the
+understanding of knowledge sharing as an active learning strategy and
+points to a behavioral mechanism through which age-diversity may affect
+participants’ learning outcomes in organizational training courses.
+   Third, this research highlights the need to consider contextual factors
+for understanding the identity-related effects of age diversity on training
+outcomes. Specifically, we build on previous research that has pointed to
+psychological safety as an important enabler of learning (Edmondson,
+1999; Edmondson & Lei, 2014). Psychological safety refers to a psycho-
+logical condition characterized by the feeling that one can safely express
+knowledge, thoughts, or ideas “without fear of negative consequences to
+self-image, status, or career” (Kahn, 1990: 708). This entails that at high
+levels of psychological safety, training participants may share their know-
+ledge regardless of age differences in the group because they feel no
+threat for their self-image when they express their knowledge.
+Consequently, their learning outcomes should be high. In contrast, at
+low levels of psychological safety, the training group’s age diversity com-
+position inhibits participants’ knowledge sharing because they may be
+afraid of critique. Taken together, we conceptualize psychological safety
+as a buffer that may help alleviate the negative relationship between the
+training group’s age diversity and participants’ learning outcomes
+through knowledge sharing. Such insights are particularly useful for
+managerial practice because organizations may find it difficult to change
+a training group’s age diversity composition (or participants’ perceptions
+thereof), but can—through interventions in the training or in the broader
+human resource management context—proactively take steps to create
+psychological safety in training settings.
+
+Theoretical background
+Learning refers to the long-lasting acquisition and refinement of both
+expert and practical knowledge as an outcome of an individual’s inter-
+action with the environment (DeSimone & Werner, 2012; Kostopoulos &
+Bozionelos, 2011). That is, individuals engage in an active process of
+relating novel information to previous experiences and assimilating this
+information, rather than passively adopting it. This perspective is
+grounded in constructivist learning research (Arib & Hess, 1986; Yeo &
+Gold, 2011) and is becoming increasingly pertinent as the nature of
+work is becoming more dynamic and complex. As a result, most individ-
+uals—as employees and learners—find they fulfill far more responsible
+and autonomous roles in acquiring and applying knowledge than a few
+years ago (Parker, 2014). These changing work characteristics are
+
+                    THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT   5
+
+
+reflected in formal training programs that are increasingly conducted in
+highly interactive ways (Bell et al., 2017). Whereas in former times the
+passive consumption of instructor-led content was normal, today most
+training courses require participants to engage in active discussions and
+to make sense of the training content through their interactions (Bell
+et al., 2017). As a consequence of such interactive learning approaches,
+the training group’s age composition becomes an important element of
+the training design because it can influence the interactions between
+participants.
+   Our theorizing focuses on interactive learning environments in
+which the sharing of participants’ knowledge with others is crucial for
+participants’ understanding, memorization and even creation of com-
+plex knowledge. That is, the type of learning we address refers to
+bidirectional knowledge construction that cannot occur without inter-
+actions (Gerpott, Lehmann-Willenbrock, & Voelpel, 2017a) and that
+critically relies on participants’ sharing of contextualized information
+to make sense of them for oneself and others (Handley, Sturdy,
+Fincham, & Clark, 2006). For example, a training on how to improve
+a technological application in a specific production line will likely
+result in low learning outcomes (i.e., acquisition of performance-rele-
+vant knowledge) if the trainer only teaches general rules about con-
+tinuous improvement. Instead, if participants share their knowledge
+about how they applied the technological application in the past, then
+others can challenge the underlying assumptions (Anthony, 2018) and
+can function as catalysts who unlock the knowledge base (Tempest,
+2003). Through this active sensemaking of the learning content, par-
+ticipants become aware of inconsistencies and can integrate new
+knowledge in their existing knowledge structures (Handley et al.,
+2006), thus resulting in a high subjective learning experience about
+how to improve the specific technological application.
+   Social identity theory (Tajfel & Turner, 2004) provides a useful lens
+for explaining why the training group’s composition may affect the
+degree to which participants engage in open interactions with each other
+to make sense of knowledge in interactive training settings. According to
+this theoretical lens, individuals—irrespective of their age—continuously
+(re)define their social identity by comparing themselves to others,
+thereby aiming to uphold a stable self-image (Tajfel & Turner, 2004). To
+confirm their self-image, individuals prefer co-workers who are similar
+over colleagues whose attributes differ from their own. Others who are
+perceived as similar are classified as belonging to the in-group and pre-
+ferred as interaction partners. In contrast, others who are perceived as
+dissimilar are categorized as out-group members and likely to be
+
+6    F. H. GERPOTT ET AL.
+
+
+evaluated “through the biased lens of category stereotypes” (Polzer,
+Milton, & Swann, 2002, p. 296).
+   An individual’s social identity can be derived from various group
+memberships, such as the organization, the department, age-cohort,
+work group, and so on (Ashforth & Mael, 1989). An individual defines
+him-/herself in terms of a social referent, such that for example “the cat-
+egory of young is meaningful only in relation to the category of old”
+(Ashforth & Mael, 1989: 21). If the social circumstances change, so do
+the prevalent characteristics that drive in-/outgroup categorization proc-
+esses. In other words, an individual’s social identity is partly a fluid phe-
+nomenon and aspects of it may be more or less activated under varying
+circumstances. For example, in one situation a self-categorization as a
+young or old worker may be particularly present (e.g., interacting in an
+age-diverse newly formed group with unknown colleagues), whereas in
+other situations (e.g., having lunch with a well-known group of age-
+diverse colleagues) parts of the identity that refer to one’s work-group
+association are more prevalent.
+
+Hypotheses development: age diversity and learning outcomes
+In training groups comprised of relative strangers, a self- and other-cat-
+egorization in terms of highly visible cues to form a first impression of
+co-trainees is particularly likely because individuals seek to reduce uncer-
+tainty (Zellmer-Bruhn et al., 2008). Age constitutes a noticeable cue that
+is associated with a range of beliefs about values, attitudes toward work,
+job satisfaction, or knowledge sharing and receiving intentions (e.g.,
+Burmeister et al., 2018; Cennamo & Gardner, 2008; Macky, Gardner, &
+Forsyth, 2008). When an individual perceives age differences in a train-
+ing group, this enhances the self- and other-categorization as young or
+old learner with certain attributes and also sparks ideas about what
+members of the other age groups think of oneself (i.e., meta-stereotypes;
+Finkelstein, King, & Voyles, 2015).
+   Self-, other-, and meta-categorizations capture participants’ attention,
+which constitutes a cognitive resource of limited availability that is par-
+ticularly important in early skill-acquisition phases such as trainings
+(Kanfer & Ackerman, 1989). In other words, in an age-diverse training
+group, participants’ cognitive processes are at least partly directed
+towards coping with inner or overt social tensions rather than towards
+engaging with the learning process. For example, instead of concentrat-
+ing energy on discussions about the training content, participants in an
+age-diverse training group worry about what others think of their know-
+ledge or their learning speed and whether they are able to successfully
+
+                      THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT       7
+
+
+complete the training (Gerpott, Lehmann-Willenbrock, & Voelpel,
+2017b). Such stereotype- and meta-stereotype-related thoughts deplete
+cognitive resources (King, Kaplan, & Zaccaro, 2008; Ryan, King, &
+Finkelstein, 2015), which accordingly cannot be spend on processing the
+information provided in the training. Given that training participants’
+cognitive resource allocation to the training content constitutes an essen-
+tial element of the learning process (Kanfer & Ackerman, 1989), we
+hypothesize the following:
+  HYPOTHESIS 1. The training group’s age diversity is negatively associated with
+  participants’ learning outcomes.
+
+
+
+Learning through knowledge sharing
+So far, we have explained why the training group’s age diversity composition
+may trigger participants’ allocation of cognitive resources on aspects beyond
+the training content, which can impair learning outcomes. Next, we turn to
+a process that is particularly important in interactive trainings and that may
+suffer from reduced cognitive resource allocation. More specifically, we
+focus on participants’ knowledge sharing as a central mechanism through
+which age diversity links to learning outcomes. Knowledge sharing describes
+all activities of participants through which information, skills, or expertise
+are exchanged with others (Joshi et al., 2007). Interactive training programs
+critically rely on the social construction of learning through the exchange of
+knowledge (Dudley-Marling, 2012). When sharing knowledge, individuals
+reflect on their experiences by putting them into words, engage in deeper
+information elaboration, become aware of knowledge gaps, seek informa-
+tion, and link new insights to existing knowledge (Nilsen, & Ludvigsen,
+2010; Vance et al., 1991). As such, knowledge sharing can foster impromptu
+discovery and new insights (Vance et al., 1991). According to a constructivist
+learning perspective (Arib & Hess, 1986; Yeo & Gold, 2011), an active sense-
+making process through talking about one’s knowledge and explaining it to
+others enhances learning through the integration of existing and new know-
+ledge (Handley et al., 2006).
+   While age-diverse training groups can potentially profit from the rich
+knowledge base of their members that can be used to help each other in the
+sensemaking process through knowledge sharing (Burmeister et al., 2018;
+Gerpott et al., 2017b), participants’ knowledge sharing activities are also par-
+ticularly at risk in age-diverse training groups. This is because sharing one’s
+knowledge allows others to judge the quality of one’s know-how (Husted &
+Michailova, 2002). In other words, knowledge sharing involves a certain risk
+for the sender as others’ reactions to this activity can potentially threaten the
+sender’s image (Gerpott, Fasbender, & Burmeister, in press). Feeling secure
+
+8      F. H. GERPOTT ET AL.
+
+
+about one’s image both internally and externally is an important pre-condi-
+tion to engage in behaviors such as knowledge sharing for which outcomes
+are unsure and may even include that one may ultimately need to change
+the (self-)image because one realizes that the own knowledge structures are
+outdated or insufficient (Edmondson, 2002; Ye, Chen, & Jin, 2006).
+Accordingly, in diverse groups, subgroup categorization and fear of rejection
+can inhibit knowledge sharing (Van Ginkel & Van Knippenberg, 2008). To
+conclude, while knowledge sharing constitutes an important mechanism
+through which participants in age-diverse training groups can receive feed-
+back on their knowledge and use it as an active sense-making strategy to
+ultimately achieve higher learning outcomes, this activity is also particularly
+at risk due to social categorization processes. We thus hypothesize
+the following:
+    HYPOTHESIS 2. Participants’ knowledge sharing partially mediates the negative
+    relationship between the training group’s age diversity and participants’
+    learning outcomes.
+
+
+
+Psychological safety as a buffer
+Psychological safety refers to the belief that risk taking in an organiza-
+tional environment is a secure endeavor. It is defined as a psychological
+condition characterized by a sense of confidence that others will not
+embarrass, reject, or punish someone for speaking up (Edmondson, 1999).
+That is, an employee who feels psychologically safe has the impression
+that s/he can express knowledge, thoughts, or ideas without being afraid
+of negative consequences to the self-image (Kahn, 1990). Notably, psycho-
+logical safety can be assessed at three different levels (i.e., individual, team,
+organization) depending on the research focus and investigated outcomes
+(for an overview see Edmondson & Lei, 2014). Given that this study con-
+centrates on learning as an outcome attributable to the individual, we con-
+tribute to the research stream on individual-level psychological safety.
+   In situations characterized by insufficient information—such as a
+training with participants who are not previously acquainted with one
+another—perceptions of high psychological safety can enhance a partici-
+pant’s belief that sharing knowledge is a safe endeavor because s/he will
+feel less threatened by exposure to the judgment of the recipients. The
+risk of knowledge sharing (i.e., being seen as ignorant, incompetent, or
+just disruptive) that is particularly evident when interacting with dissimi-
+lar others in a learning environment is thus reduced if a participant
+experiences psychological safety (Edmondson, 2002). In other words,
+knowledge sharing is more likely to occur when group members are
+familiar with and trust each other (Connelly & Kelloway, 2003). Indeed,
+
+                        THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT            9
+
+
+perceptions of psychological safety were found to help employees to feel
+comfortable to share their knowledge in new settings (Siemsen, Roth,
+Balasubramanian, & Anand, 2009) and contributed to developing trust in
+unknown individuals (Roussin & Webber, 2012). With psychological
+safety, individuals are less concerned with self-protection from dissimilar
+others in ambiguous environments, but instead motivated to actively
+approach their colleagues (Kahn, 1990).
+   On the basis of these findings, we propose that in a training experi-
+ence in which a participant perceives high psychological safety, the nega-
+tive effect of age diversity on lower levels of knowledge sharing will
+occur to a lower extent. That is, at high levels of psychological safety, it
+does not matter whether the group is age-diverse or not, participants will
+share their knowledge because they are less afraid of negative reactions
+from dissimilar others and more likely to appreciate and integrate each
+other’s unique knowledge (Zellmer-Bruhn et al., 2008). In contrast,
+under conditions of low psychological safety, the threat for one’s self-
+image becomes pertinent and participants may be less likely to talk about
+their knowledge. This behavior (i.e., sharing knowledge in age-diverse
+training groups only when one feels psychologically safe) is both socio-
+emotional (i.e., participants prefer others’ approval than disapproval) and
+instrumental (i.e., valued rewards may be dependent on others in the
+workplace) (Edmondson, 2002). To summarize, we hypothesize:
+  HYPOTHESIS 3. Psychological safety moderates the negative effect of a training
+  group’s age diversity on participants’ knowledge sharing, such that the
+  relationship is weaker for participants who perceive high psychological safety than
+  those who perceive low psychological safety.
+
+   From our line of argumentation, it logically follows that the overall
+effect of age diversity through knowledge sharing on learning outcomes
+is conditional on the level of psychological safety. This is because an
+indirect effect is a product of two effects (the effect of X on M and the
+effect of M on Y controlling for X). If one of these effects is moderated,
+then so too is the indirect effect (Muller, Judd, & Yzerbyt, 2005;
+Preacher, Rucker, & Hayes, 2007). In other words, if the interaction
+effect between the training group’s age diversity and psychological safety
+on knowledge sharing is significant, then the indirect effect of age diver-
+sity on learning outcomes through knowledge sharing should be moder-
+ated, too. To summarize our complete model (see Figure 1), we state:
+
+  HYPOTHESIS 4. Psychological safety moderates the negative effect of a training
+  group’s age diversity on participants’ learning outcomes through participants’
+  knowledge sharing, such that the relationship is weaker for participants who perceive
+  high psychological safety than those who perceive low psychological safety.
+
+10       F. H. GERPOTT ET AL.
+
+
+
+
+                 Psychological      Knowledge sharing
+               safety perceptions
+
+
+
+          (Perceived/objective)
+           age diversity of the                              Learning
+                                                             outcomes
+             training group
+
+Figure 1. Conceptual model.
+
+Objective versus perceived age diversity
+Thus far, we have outlined why we expect training groups’ age-diversity
+composition and associated knowledge sharing behaviors to have detrimen-
+tal effects on participants’ learning outcomes. Furthermore, we have posi-
+tioned psychological safety as a potential buffer against these effects.
+However, given that our theorizing relies on participants’ cognitive percep-
+tions of dissimilarities, it is important to acknowledge a debate that recently
+evolved around the notion that diversity may only matter if individuals rec-
+ognize that others differ from them (for a review, see Shemla et al., 2016).
+   A close look at the definition of diversity highlights differences between
+individuals regarding attributes that may lead to the perception that
+another person differs from oneself (Shemla & Meyer, 2012; Van
+Knippenberg, De Dreu, & Homan, 2004). This definition implies that
+diversity only influences learning outcomes if it is perceived by the recipi-
+ent. Perceived diversity describes the subjective perceptions of a group’s
+diverse composition, which does not necessarily reflect its objective diver-
+sity attributes (i.e., its composition in terms of participants’ chronological
+age). Indeed, studies measuring both objective and perceived diversity
+report weak or no relationships between the two variables (e.g., Hentschel,
+Shemla, Wegge, & Kearney, 2013). However, given that perceptions of age
+diversity may be the driver of social identity-related processes rather than
+objective age diversity, we pose the following hypothesis:
+     HYPOTHESIS 5. The hypothesized relationships are stronger for the perceived
+     (compared to the objective) age diversity of the training group.
+
+
+
+Methods
+Sample and procedure
+We gathered data from 211 employees (83% male) of a global automo-
+bile manufacturer’s plant in Germany, who participated in a one-day
+training lasting 7 h. We chose an automotive company as a research set-
+ting because the aging workforce constitutes a central challenge in this
+industry (Streb, Voelpel, & Leibold, 2009). The training groups were
+
+                    THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT   11
+
+
+heterogeneous in terms of age but homogenous in terms of other diver-
+sity attributes (i.e., mostly male, same cultural background), so that the
+likelihood of obtaining confounding diversity variables was reduced
+(Gerpott et al., 2017b). Furthermore, owing to the size of the plant (i.e.,
+over 12,000 employees), most of the training participants came from dif-
+ferent departments and did not know or met each other before the train-
+ing day. This setting was chosen to allow for immediate categorization
+processes to take place because these processes are particularly likely to
+occur in newly formed groups.
+   The training was aimed at teaching the principles of continuous
+improvement, that is, the ongoing endeavor to increase the quality of
+processes, products, and services. Newly hired employees, foremen, and
+all employees in managerial positions were encouraged to participate in
+the voluntary training and were excused from work during the times
+scheduled for it. The trainers were two experts on continuous improve-
+ment who had conducted the training for over a year at the time of data
+collection. The trainers and the works council supported the
+research project.
+   We collected the data during all training courses on continuous
+improvement that took place within one fiscal year. This provided us
+with access to 18 one-day training courses with 10 to 14 participants
+(M ¼ 11.72, SD ¼ 1.49). The participants’ average age was 33.5 years
+(SD ¼ 9.84, minimum age ¼ 17 years, maximum age ¼ 60 years). About
+87% of the trainees worked on the assembly line or in a related role. The
+remaining 13% worked as team leaders who were responsible for produc-
+tion teams.
+   The training started with a 1-h introduction in a seminar room, after
+which the trainees took part in a simulation of a production process at
+an assembly line (half an hour). Subsequently, the trainer asked the
+training group to optimize the production process in a self-directed
+group-work process according to the continuous improvement principles
+(4 h), after which their solution was implemented and tested in another
+simulation round (1 h). The trainees then completed our questionnaire
+and took part in a general feedback session with the trainer.
+   Participants were informed that study participation was voluntary, that
+their anonymity would be protected, and that by filling in the question-
+naire they gave their informed consent to participate in this research. To
+reduce evaluation apprehension, we notified participants that the data
+would be analyzed outside the company, that the data collection was
+approved by the worker’s council, and that results would only be
+reported on an aggregated level. The first author of this article was on
+site during every training session to answer questions about the project
+
+12    F. H. GERPOTT ET AL.
+
+
+and collect the questionnaires. The data of this study are not publicly
+available due to company restrictions but can be made accessible on
+request by the corresponding author.
+
+Measures
+The training group’s objective age diversity was operationalized as the
+within-group standard deviation of the training participants’ chrono-
+logical age (Hentschel et al., 2013).
+   All other variables were measured via self-report. Two bilingual trans-
+lators conducted a back-translation procedure to generate the German
+survey from the original English items. We relied on a survey design
+because participants’ perceptions of age diversity and psychological safety
+refer to private assessments that can only be described by the individual
+experiencing them (Conway & Lance, 2010). Furthermore, peer-ratings
+of knowledge sharing would have been difficult because participants
+mostly did not know the others and thus were not particularly suited to
+assess others of their actual level of expertise. Likewise, other rating sour-
+ces (e.g., a supervisor or a colleague) might find it hard to judge learning
+outcomes because the external rater may not be aware of the training
+participants’ continuous improvement efforts as these activities often
+consist of subtle workplace behaviors (Shally, Gilson, & Blum, 2009).
+   The training group’s perceived age diversity was assessed with one
+item developed by Harrison, Price, and Bell (1998): “How similar were
+the participants of the training regarding their age?” The respondents
+indicated their answers on a four-point Likert scale (1 ¼ completely dis-
+similar, 4 ¼ completely similar).
+   Knowledge sharing was measured with two items adopted from Faraj
+and Lee (2000) using a six-point answering format ranging from 1
+(“completely disagree”) to 6 (“completely agree”). The survey asked par-
+ticipants to judge their sharing of codified expert knowledge (“I shared
+my expert knowledge with the other participants”) and their contribution
+of action-related information about how things work in the organization
+(“I shared my experiences about processes and courses of action with the
+other participants”). Cronbach’s alpha for the scale was a ¼ .90.
+   Psychological safety was assessed through four items obtained from
+Van Ginkel and Van Knippenberg (2008), which they adopt from
+Edmondson (1999), who provides a detailed description of the qualitative
+development phase and the discriminant validity of the scale.
+Participants responded to the items on a six-point scale ranging from 1
+(“completely disagree”) to 6 (“completely agree”). The items were as fol-
+lows: “I had the impression the other group members wanted to hear
+
+                      THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT   13
+
+
+what I had to say,” “I had the impression the other group members
+would appreciate discussion,” “I expected the other members to react
+positively when I disagreed with them,” and “This group appreciated it
+when I mentioned new information.” Cronbach’s alpha for the scale was
+a ¼ .86.
+   Learning outcomes were measured by means of three items adapted
+from Magni, Paolino, Cappetta, and Proserpio (2013), using a six-point
+answering format ranging from 1 (“completely disagree”) to 6
+(“completely agree”). The items were as follows: “I gained new know-
+ledge about processes and courses of action according to the principles
+of continuous improvement through the training,” “I obtained new
+knowledge about the principles of continuous improvement through the
+training,” and “I obtained information and gained abilities in the training
+that will help to improve my work performance.” The scale had a
+Cronbach’s alpha of a ¼ .91.
+   The control variables were individual age (in years), job position
+(0 ¼ managerial function with responsibility, 1 ¼ regular employee with-
+out managerial function), and gender (0 ¼ male, 1 ¼ female). We
+included these control variables because previous research indicates they
+may affect our variables of interest (e.g., Bausch, Michel, & Sonntag,
+2014), and job position affected climate perceptions in the context of
+knowledge work (Sveiby & Simons, 2002).
+
+Analytical approach
+Prior to hypothesis testing, we conducted a confirmatory factor analysis
+using structural equation modeling (Mplus; Muthen & Muthen, 2012) to
+ensure that psychological safety, knowledge sharing, and learning out-
+comes were distinct constructs. The fit of the three-factor solution (v2/df
+¼ 2.46, p < 0.01, RMSEA ¼ 0.08, CFI ¼ 0.96, SRMR ¼ 0.04) clearly out-
+performed the baseline model, in which all items loaded on one factor
+(v2/df ¼ 6.51, p < 0.01, RMSEA ¼ 0.16, CFI ¼ 0.83, SRMR ¼ 0.07).
+  To test our hypotheses, we used regression analysis as well as
+PROCESS 3.1 for SPSS (Hayes, 2013, 2015) to calculate the moderated
+mediation index (i.e., PROCESS Model 7) with objective and perceived
+age diversity as the independent variable, both with and without control
+variables. The moderated mediation index is based on an interval esti-
+mate of the parameter of a function linking the indirect effect to a mod-
+erator’s values. This approach provides a single inferential test to
+determine whether a test of moderated mediation is supported, which
+occurs if the bootstrapping interval of the moderated mediation index
+does not include zero.
+
+14         F. H. GERPOTT ET AL.
+
+
+Table 1. Descriptive statistics and intercorrelations of study variables.
+Variable              M      SD       (1)       (2)      (3)      (4)        (5)       (6)      (7)     (8)
+1. Age              33.49    9.84
+2. Job position      0.87    0.33   .20
+3. Gender            0.17    0.38   .12       .14
+4. Objective age     7.17    2.36    .08      .04      .08
+   diversity
+5. Perceived age     2.07    0.87   .25      .06     .12      .25
+   diversity
+6. Psychological     4.82    0.96    .08      .08      .06      .01      .33     (.86)
+   safety
+7. Knowledge         5.05    1.04    .11      .07      .07    .04       .37     .78   (.90)
+   sharing
+8. Learning          5.07    1.10   .01        .05     .05    .09       .42     .62   .66    (.91)
+   outcomes
+Notes. All variables were measured at the individual level (N ¼ 211; 0 ¼ manager, 1 ¼ worker; 0 ¼ female,
+1 ¼ male), except for objective age diversity, which was measured at the team level (N ¼ 18, operationalized
+as standard deviation of age within the group). Cronbach a values in brackets. p < .01 (two-tailed).
+
+
+
+
+Results
+Table 1 presents the descriptive statistics and correlations of the study
+variables. Perceived and objective age diversity were moderately corre-
+lated (r ¼ .25, p < .01). Perceived age diversity was negatively linked to
+psychological safety (r ¼ .33, p < .01), knowledge sharing (r ¼ .37, p
+< .01), and learning outcomes (r ¼ .42, p < .01). Objective age diver-
+sity showed no significant relationship with these outcome variables.
+These findings indicate that the hypothesized relationships are stronger
+for perceptions (rather than objective indicators) of the training group’s
+age diversity, which provides support for H5. We validated the indicative
+evidence derived from the examination of the correlation matrix using
+multilevel hierarchical regression (Hox, 2010), which revealed no signifi-
+cant relationships between objective age diversity and psychological
+safety (B ¼ .00, p ¼ .93), knowledge sharing (B ¼ .02, p ¼ .65), and
+learning outcomes (B ¼ .05, p ¼ .32). In addition, we also ran the
+moderated mediation model using PROCESS Model 7 with objective age
+diversity as an independent variable. The results were not significant (see
+Table A1 in the Appendix).1 Although these findings are in line with
+H5, which stated that the hypothesized relationships are stronger for the
+perceived (compared to the objective) age diversity of the training group,
+a zero-effect of objective age diversity was not explicitly expected.
+   In the next step, we tested our hypotheses with perceived age diversity
+as an independent variable. In line with the recommendations of Spector
+and Brannick (2011), in the following we report the estimates without
+control variables because the inclusion of control variables did not essen-
+tially change the result patterns. The results with control variables can be
+found in Table A2 in the Appendix.
+
+                         THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT           15
+
+
+
+
+Figure 2. Interaction effect between perceived age diversity and psychological safety on par-
+ticipants’ knowledge sharing.
+
+
+
+
+   First, we found a direct negative effect in regressing learning outcomes
+on perceived age diversity, F(1, 208) ¼ 43.22, p < .01. This provides sup-
+port for H1. Second, in line with H2, knowledge sharing mediated the
+negative association between perceived age diversity and learning out-
+comes, F(2, 207) ¼ 33.57, p < .01. Third, we found a significant inter-
+action effect, such that when psychological safety was low, perceived age
+diversity inhibited trainees’ knowledge sharing behavior, F(3, 206) ¼
+90.26, p < .01. Figure 2 illustrates the interaction effect that is in line
+with H3.
+   Fourth, to test the complete moderated mediation model, we used a
+formal test that quantifies the relationship between the proposed moder-
+ator and the size of the indirect effect to determine whether the indirect
+effect depends on the moderator (Hayes, 2015). When testing the paths
+of the complete model simultaneously, H1, H2, and H3 remain sup-
+ported (see Table 2). Furthermore, the index of moderated mediation is
+positive and the confidence interval does not include zero (x ¼ .06; CI
+¼ .01 to .14), which provides support for H4. The conclusion is that the
+indirect effect of perceived age diversity on individual learning outcomes
+through knowledge sharing is positively moderated by psychological
+safety. Figure 3 illustrates our complete model.
+   An analysis of the moderator’s effects at different values reveals a non-
+significant result (0.03) under conditions of high psychological safety
+(CI ¼ .12 to .05; see Table 3). In contrast, when psychological safety
+was low, perceived age diversity was negatively linked (0.16) to know-
+ledge sharing (CI ¼ .28 to .06, see Table 3).
+
+16         F. H. GERPOTT ET AL.
+
+
+Table 2. Unstandardized OLS regression coefficients (standard errors in parentheses) with
+confidence intervals (CI).
+                                Knowledge sharing (M)                          Learning outcomes (Y)
+                            Coeff.                     95% CI             Coeff.                 95% CI
+Perceived age           0.65 (0.24)               1.12, 0.18     0.25 (0.07)           0.38, 0.11
+   diversity (X)
+Knowledge                                                             0.62 (0.06)            0.51, 0.74
+   Sharing (M)
+Psychological            0.55 (0.12)               0.30, 0.79
+   safety (W)
+XxW                     0.10 (0.05)            0.01, 0.20
+Constant              2.75 (0.64)            1.49, 4.00            2.45 (0.38)           1.71, 3.19
+                         R ¼ 0.62; F(3, 206) ¼ 114.36
+                          2
+                                                                        R2 ¼ 0.47; F(2, 207) ¼ 90.26
+Notes. N ¼ 210; p < .001; p < .01; p < .05.
+
+
+              Psychological        .55***                 Knowledge
+                 safety
+                                                           sharing
+                  (PS)             .10*
+
+                   PAD x PS                 -.65***                    .62***
+
+
+                         Perceived age                      -.25**                  Learning
+                           diversity
+                                                                                    outcomes
+                            (PAD)
+
+Figure 3. Moderated mediation model (N ¼ 210). Unstandardized regression weights.
+p <.001; p <.01; p <.05.
+
+Table 3. Conditional indirect effects of perceived age diversity on learning outcomes.
+                                          Psychological
+Mediator                                     safety                   Effect                      95% CI
+Knowledge sharing                             3.86                    0.16                    0.28, 0.06
+Knowledge Sharing                             4.82                    0.09                    0.17, 0.02
+Knowledge Sharing                             5.78                    0.03                    0.12, 0.05
+Notes. Values of the moderator psychological safety: Mean ± 1 standard deviation. N ¼ 210.
+
+
+Discussion
+The goal of this study was to assess the role of a training group’s age
+diversity composition as an antecedent of participants’ learning outcomes
+in interactive training settings. Three main findings ensued from this
+study. First, we found a negative link between age diversity as perceived
+by the training participants and their evaluations of learning outcomes,
+while no such influence existed for objective age diversity. Second, know-
+ledge sharing mediated the relationship between participants’ perceived
+age diversity of the training group and learning outcomes. Third, we
+identified participants’ perceptions of psychological safety as a buffer,
+such that the negative relationship between perceived age diversity and
+learning outcomes, mediated via knowledge sharing, only existed for
+trainees who experienced low levels of psychological safety. Considering
+the high financial investments into organizational training programs and
+
+                    THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT   17
+
+
+the ongoing demographic shifts that influence training groups’ composi-
+tions, our research is highly relevant for practitioners who want to
+ensure high learning outcomes in interactive training settings.
+Furthermore, as we outline next, our findings also have several implica-
+tions for the literature on human resource development.
+
+Theoretical implications
+First, training research has largely neglected the role of the training
+group composition as part of the training design that may affect how
+much participants learn in a training (Bell et al., 2017; Roberson, Kulik,
+& Pepper, 2001). Thus far, scholars have investigated the training design
+as an antecedent of learning outcomes in terms of training methods,
+applied learning principles, and provided opportunities for practice. Our
+research indicates that this literature should be extended to also include
+the training group’s composition as an antecedent when the learning
+experience takes place in an interactive setting. Clearly, although the
+training group composition may be irrelevant in low interactive training
+courses such as individual technology-based learning programs or trad-
+itional one-way classroom teaching, there is a trend toward substituting
+passive human resource development interventions with interactive train-
+ing designs (Bell et al., 2017). Thus, processes such as the one outlined
+in this research will continue to gain relevance for employees’ learning
+outcomes whenever the knowledge acquisition at least partly involves the
+active reflection on existing knowledge to integrate and develop new
+knowledge. Such interactive training situations can occur both in high
+touch (i.e., face-to-face) as well as low touch (i.e., technology-based)
+learning environments, as well as in formal and informal settings
+(Gerpott et al., 2017a).
+   Our study demonstrates that social identity theory provides a useful
+theoretical lens to explain why heterogeneous training groups may trig-
+ger self-, other-, and meta-categorizations that inhibit the learning pro-
+cess because participants feel at risk to openly engage with the learning
+content through sharing their knowledge. That is, we suggest that train-
+ing design scholars should explicitly consider social identity-related in-
+and outgroup categorization processes that mostly happen implicitly.
+Such processes might also be particularly relevant when developing the-
+ory on learning in ethnically diverse (rather than age-diverse) training
+groups. In such settings, participants’ learning outcomes might also be at
+risk as a result of self- and other-categorization processes. Based on the
+premises of social identity theory, the cultural diversity of a training
+group itself constitutes a promising area for theorizing that shifts the
+
+18    F. H. GERPOTT ET AL.
+
+
+focus from the reactions to cultural diversity training courses (e.g.,
+Holladay, & Qui~   nones, 2005) to the composition of these training groups
+in order to understand in more depth how much employees learn in
+intercultural settings. Similar to participants’ perceptions of age diversity,
+perceptions of cultural differences may increase participants’ insecurity
+about sharing knowledge, which in turn may result in lower levels
+of learning.
+   Second, our research provides further evidence for the argument that
+differences only make a difference when individuals recognize them
+(Hentschel et al., 2013, Shemla et al., 2016). This finding has relevant
+implications for the development of conceptual models in the training
+and learning literature such that scholars are well advised to not only
+focus on objective age differences in the training group composition. At
+the least, we suggest that future theorizing needs to be explicit about
+why (i.e., through which process) the authors assume that a specific type
+of diversity (i.e., objective or perceived) influences outcomes and whether
+any differences in the strengths of relationships are expected depending
+on the subjective or objective measurement of diversity when testing
+their conceptual model. This is particularly relevant in the context of
+international human resource management, in which the role of per-
+ceived age diversity deserves further conceptual attention (Marcus &
+Fritzsche, 2016) because the subjective meanings of perceived age diver-
+sity in different cultures may vary and can be overruled by other societal
+norms. For example, in contrast to the individualistic German context
+studied here, Hutchings and Michailova (2006) interviewed employees in
+China and demonstrated that these employees tend to place the in-group
+advantage of knowledge sharing before age norms. Accordingly, despite
+age differences, they provide more knowledge to co-workers than to
+workers outside their company because the subjective meaning of age
+diversity seems to be less relevant than the in-group identity (Hutchings
+& Michailova, 2006). Theorizing on a training group’s age diversity com-
+position may thus benefit from incorporating the role of culture to build
+a comprehensive theory of learning in formal organizational train-
+ing settings.
+   Third, our study extends previous work on learning as a constructivist
+process that can be enhanced through knowledge sharing. We contribute
+to research that aims to direct more attention to learning as an endeavor
+comprising both individual and social aspects (Salomon & Perkins,
+1998). Namely, our findings suggest that individual learning processes
+are inseparably linked to the training group context in which they take
+place. This notion is in line with the definition of learning as an outcome
+of an individual’s interaction with the environment rather than as
+
+                     THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT   19
+
+
+occurring only through introspection (DeSimone & Werner, 2012). It
+paves the way for theorizing on other active learning processes that may
+influence the effectiveness of training programs conducted with age-
+diverse training groups. For example, recent research has shown that in
+addition to knowledge sharing behaviors, employees’ knowledge receiving
+behaviors constitute a second aspect that ensures successful learning
+processes between age-diverse interaction partners (Burmeister
+et al., 2018).
+   Lastly, our study highlights the relevance of perceived psychological
+safety in alleviating the potential backlash of age diversity in training
+groups. This finding is particularly interesting in the context of social
+identity theory (Tajfel & Turner, 2004) because it shows that the negative
+consequences of identity threat through dissimilar group members can
+potentially be overcome by instilling the feeling of being able to interact
+with others without fear of negative consequences to the self-image. A
+theoretical implication of our study is thus that research on the training
+design process—which involves choosing the instructional tools and
+strategies necessary to support learning and transfer (Salas & Cannon-
+Bowers, 2001)—may benefit from shedding more light on the behavioral
+strategies of trainers that can help enhance a high psychological safety in
+training groups. Similarly to how leadership scholars have defined behav-
+ioral building blocks of leadership that can contribute to increasing psy-
+chological safety (e.g. inviting followers to share their views, opinions
+and inputs, Carmeli, Reiter-Palmon, & Ziv, 2010), training scholars could
+develop theory on specific behavioral configurations that can help to
+build psychological safety in interactive learning environments through
+the trainer. Next, we elaborate on some ideas for practice on how train-
+ers could achieve this goal.
+
+Practical implications
+We derive two main implications for organizations that wish to improve
+training programs in interactive settings with (age-)diverse participant
+groups. First, the composition of training groups, and particularly partic-
+ipants’ perceptions of them, may be difficult to change and therefore
+need to be effectively managed. Our results suggest that training pro-
+viders could focus on increasing participants’ perceptions of psycho-
+logical safety to effectively manage the learning process. For example,
+trainers could begin a training day by establishing the “ground rules”
+and creating a positive, trustful atmosphere before delving into the actual
+training content (e.g., Rodas-Meeker & Meeker, 2005). Over the course
+of the training day, the trainer could regularly hold plenum sessions in
+
+20    F. H. GERPOTT ET AL.
+
+
+which s/he makes sure that everyone is encouraged to share their know-
+ledge and point of view (Anthony, 2018; Gerpott et al., 2017b). To
+ensure that the trainer can implement these practices, the ability to cre-
+ate a safe learning environment should thus be chosen as an important
+selection criterion when recruiting trainers. For instance, previous train-
+ing participants can be asked to report on a trainer’s capability to sup-
+port their open expression of viewpoints and opinions. Alternatively,
+objective raters could participate in training sessions to assess a trainer’s
+application of behavioral markers that indicate attempts to enhance par-
+ticipants’ psychological safety (e.g., inviting participants to share their
+views, opinions and inputs, asking open questions and listening atten-
+tively). Additionally, on a more general level, perceptions of psycho-
+logical safety could be evoked in employees’ daily working lives through
+age-inclusive human resource practices that provide equal opportunities
+for all age groups and that reduce age discrimination (Boehm, Kunze, &
+Bruch, 2014; Rabl & Triana, 2013). Such practices could encourage
+employees to participate in training courses in the expectation that their
+knowledge and efforts are valued in the training setting (Zacher et al.,
+2018) and ensure that despite differences between participants knowledge
+is shared in formal and informal learning settings (Anthony, 2018).
+   Second, our study underscores the importance of considering the sub-
+jective component of diversity because only participants’ perceived age
+diversity of the training group (and not its objective age diversity) signifi-
+cantly affected individual learning outcomes. Previous research indicates
+that positive beliefs about diversity may reduce the tendency to perceive
+others as dissimilar (Homan, Greer, Jehn, & Koning, 2010). Thus, one gen-
+eral recommendation for human resource management departments is
+that initiatives that enhance people’s openness to diversity and reduce their
+tendency to perceive others as dissimilar could be beneficial for enhancing
+knowledge sharing between interaction partners from different age groups.
+For instance, human resource development interventions such as social
+events, communities of practice, and intergenerational mentoring initia-
+tives could be implemented to increase contact between employees from
+different age groups (Ropes, 2013). More opportunities for high quality
+intergenerational interactions may reduce age bias (Henry, Zacher, &
+Desmette, 2015) and increase the salience of similarities (rather than differ-
+ences) for employees (Gerpott et al., 2017b).
+
+Limitations and future research
+The design of our study—that is, a data collection via self-reports in the spe-
+cific training context of one automotive company in a cross-sectional
+
+                    THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT   21
+
+
+setting—has a number of limitations that can inspire future research.
+Specifically, scholars may be interested to test our model (1) using alterna-
+tive measurement instruments, (2) focusing on different aspects of diversity,
+and (3) investigating training programs with varying degrees of complexity.
+   First, we measured the variables of interest using self-reports, which
+bears the risk of common method bias or social desirable responses (i.e.,
+reporting behavior as more positive than it actually is). However, a mod-
+erated mediation effect as identified in the present study is unlikely the
+result of an intended response pattern. If participants replied in a way
+they considered favorable to our research aim, this would indeed have
+increased the correlations between our constructs but also severely
+deflated the interaction effect, thereby increasing the difficulty of detect-
+ing it by statistical means (Siemsen, Roth, & Oliveria, 2010). Thus, we
+consider common method bias as less of a concern (see also Fuller,
+Simmering, Atinc, Atinc, & Babin, 2016; Gerpott, Van Quaquebeke,
+Schlamp, & Voelpel, 2019). Nevertheless, future research could test the
+hypothesized relationships using objective measures of learning out-
+comes—such as the number of submitted ideas for improvement in the
+corporate idea management system or supervisor ratings of learning in
+daily work life—to gain insights into distal training transfer outcomes.
+Furthermore, studies could replicate the findings using a different meas-
+ure of perceived age diversity. Whereas our face-valid measurement of
+diversity perceptions (i.e., directly asking participants how age diverse
+they perceived the group to be) is intuitively appealing and well-estab-
+lished in the literature (Harrison et al., 1998), scholars could also assess
+training groups’ perceived age diversity with a more indirect, multi-item
+measurement approach s (e.g., Hentschel et al., 2013). Such an approach
+could tap into the training group’s underlying stereotypical perceptions.
+   Second, it is conceivable that other diversity aspects that were not sali-
+ent in our sample are important in different organizational settings. In
+addition to studying culturally diverse training groups (as discussed in
+the theoretical implications section) or gender-diverse teams, it could
+also be interesting to investigate training groups’ deep-level diversity
+characteristics, which describe less visible attributes such as personality
+traits, values, and functional background. Previous research argues that
+diverse groups, in terms of deep-level attributes, are more likely to pos-
+sess a wide range of different work-related knowledge that is unrelated
+to the threats of participants’ social identity (Harrison et al., 1998). As
+such, deep-level diversity attributes may generally have a positive effect
+on training group processes and learning outcomes.
+   Third, this study was conducted in a formal training setting in which
+participants learned the principles of continuous improvement by
+
+22      F. H. GERPOTT ET AL.
+
+
+actively engaging in the training task and in discussions with each other.
+In such settings, sharing one’s knowledge is essential for the progress of
+the training. In contrast, the role of age diversity and knowledge sharing
+may be less relevant for learning outcomes in low interactive training
+settings in which participants simply need to listen to the instructor, the
+training content is less complex, training group participants largely pos-
+sess the same knowledge, or the training is conducted using techno-
+logical tools in an individual setting. In such low-interaction training
+contexts, learning takes place independent from knowledge sharing
+interactions with others, which entails that the training group compos-
+ition can be disregarded when explaining learning outcomes.
+Furthermore, even when considering an interactive training setting, it is
+possible that knowledge sharing is not always positive. For example,
+training participants may share knowledge that is irrelevant or wrong,
+thereby consuming valuable training time and spreading incorrect infor-
+mation. We thus consider it a worthy endeavor for future research to
+also explore the potential dark sides of knowledge sharing in interactive
+training settings.
+
+
+Conclusion
+In the context of the substantial societal demographic shifts currently
+taking place in Western industrialized countries, this research is a call
+for managing the diversity of training groups rather than only managing
+training groups on diversity management. Taking a first step in this dir-
+ection, we drew from social identity theory to provide preliminary
+insights into the mechanisms and effects of perceived age diversity on
+participants’ evaluations of their learning outcomes in a training setting.
+Our work provides impetus to the notion that more research is needed
+on active learning strategies to better understand how and when design
+elements such as training groups’ diversity composition affects learning
+outcomes (Bell et al., 2017). In this regard, we hope that our study
+encourages future work on the potentials and pitfalls of diversity in the
+context of human resource development.
+
+Note
+ 1.   We also tested a multilevel moderated mediation model, as trainees in the same
+      training session shared the same instructor and contextual conditions. Namely, the
+      training group identifier was entered as a cluster variable using MLmed for SPSS
+      (Rockwood & Hayes, 2017). This analysis revealed the same result patterns and so
+      we report the more parsimonious model.
+
+                        THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT          23
+
+
+Acknowledgements
+An earlier, abridged version of this article was included in the Academy of Management
+Best Paper Proceedings 2015.
+
+
+Funding
+This research project was supported by the WDN – WISE Demographic Network, which
+is gratefully acknowledged.
+
+
+Disclosure statement
+No potential conflict of interest was reported by the authors
+
+
+References
+Anthony, C. (2018). To question or accept? How status differences influence responses
+  to new epistemic technologies in knowledge work. Academy of Management Review,
+  43(4), 661–679. doi:10.5465/amr.2016.0334
+Arib, M. A., & Hess, M. B. (1986). The construction of reality. Cambridge: Cambridge
+  University Press.
+Ashforth, B. E., & Mael, F. (1989). Social identity theory and the organization. Academy
+  of Management Review, 14(1), 20–39. doi:10.2307/258189
+ATD (2016). ATD releases 2016 state of the industry report. Retrieved from https://
+  www.td.org/insights/atd-releases-2016-state-of-the-industry-report
+Bausch, S., Michel, A., & Sonntag, K. (2014). How gender influences the effect of age on
+  self-efficacy and training success. International Journal of Training and Development,
+  18(3), 171–187. doi:10.1111/ijtd.12027
+Bell, B. S., Tannenbaum, S. I., Ford, J. K., Noe, R. A., & Kraiger, K. (2017). 100 years of
+  training and development research: What we know and where we should go. Journal
+  of Applied Psychology, 102(3), 305–323. doi:10.1037/apl0000142
+Boehm, S. A., Kunze, F., & Bruch, H. (2014). Spotlight on age-diversity climate: The
+  impact of age-inclusive HR practices on firm-level outcomes. Personnel Psychology,
+  67, 667–704. doi:10.1111/peps.12047
+Burmeister, A., Fasbender, U., & Deller, J. (2018). Being perceived as a knowledge
+  sender or knowledge receiver: A multistudy investigation of the effect of age on
+  knowledge transfer. Journal of Occupational and Organizational Psychology, 91(3),
+  518. Published online before print, doi:10.1111/joop.12208
+Carmeli, A., Reiter-Palmon, R., & Ziv, E. (2010). Inclusive leadership and employee
+  involvement in creative tasks in the workplace: The mediating role of psychological
+  safety. Creativity Research Journal, 22(3), 250–260. doi:10.1080/10400419.2010.504654
+Cennamo, L., & Gardner, D. (2008). Generational differences in work values, outcomes
+  and person-organisation values fit. Journal of Managerial Psychology, 23(8), 891–906.
+  doi:10.1109/EMR.2011.5876170
+Cerasoli, C. P., Alliger, G. M., Donsbach, J. S., Mathieu, J. E., Tannenbaum, S. I., &
+  Orvis, K. A. (2018). Antecedents and outcomes of informal learning behaviors: A
+  meta-analysis. Journal of Business and Psychology, 33, (2), 203–233. doi:10.1007/
+  s10869-017-9492-y
+
+24     F. H. GERPOTT ET AL.
+
+
+Connelly, C. E., & Kelloway, K. E. (2003). Predictors of employees’ perceptions of know-
+   ledge sharing cultures. Leadership & Organization Development Journal, 24(5),
+   294–301. doi:10.1108/01437730310485815
+Conway, J. M., & Lance, C. E. (2010). What reviewers should expect from authors
+   regarding common method bias in organizational research. Journal of Business and
+   Psychology, 25, 325–334. doi:10.1007/s10869-010-9181-6
+DeSimone, R. L., & Werner, J. M. (2012). Human resource development (6th ed.).
+   Mason, OH: Southwestern.
+Drabe, D., Hauff, S., & Richter, N. F. (2015). Job satisfaction in aging workforces: An
+   analysis of the USA, Japan and Germany. International Journal of Human Resource
+   Management, 26(6), 783–805. doi:10.1080/09585192.2014.939101
+Dudley-Marling, C. (2012). Social construction of learning. In N. M. Seel (Eds.),
+   Encyclopedia of the sciences of learning. Boston, MA: Springer. doi:10.1007/978-1-
+   4419-1428-6_96
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams.
+   Administrative Science Quarterly, 44(2), 350–383. doi:10.2307/2666999
+Edmondson, A. C. (2002). Managing the risk of learning: Psychological safety in work
+   teams. In M. West (Ed.), International handbook of organizational teamwork (pp.
+   255–275). London: Blackwell Publishing.
+Edmondson, A. C., & Lei, Z. (2014). Psychological safety: The history, renaissance, and
+   future of an interpersonal construct. Annual Review of Organizational Psychology and
+   Organizational Behavior, 1, (1), 23–43. doi:10.1146/annurev-orgpsych-031413-091305
+Ellwart, T., B€undgens, S., & Rack, O. (2013). Managing knowledge exchange and identi-
+   fication in age diverse teams. Journal of Managerial Psychology, 28(7/8), 950–972. doi:
+   10.1108/JMP-06-2013-0181
+Faraj, S., & Lee, S. (2000). Coordinating expertise in software development teams.
+   Management Science, 46, (12), 1554–1568. doi:10.1287/mnsc.46.12.1554.12072
+Finkelstein, L. M., King, E. B., & Voyles, E. C. (2015). Age metastereotyping and cross-
+   age workplace interactions: A meta view of age stereotypes at work. Work, Aging and
+   Retirement, 1, (1), 26–40. doi:10.1093/workar/wau002
+Fuller, C. M., Simmering, M. J., Atinc, G., Atinc, Y., & Babin, B. J. (2016). Common
+   methods variance detection in business research. Journal of Business Research, 69(8),
+   3192–3198. doi:10.1016/j.jbusres.2015.12.008
+German Economic Institute. (2017). Die Neunte IW-Weiterbildungserhebung [the 9th
+   IW-Study on Training and Development], 44, IW Trends 4/2017. Retrieved from
+   https://www.iwkoeln.de/fileadmin/publikationen/2017/369145/IW-Trends_2017-04_
+   Seyda_Placke.pdf
+Gerpott, F. H., Fasbender, U., & Burmeister, A. (in press). Respectful leadership and fol-
+   lowers’ knowledge sharing: A social mindfulness lens. Human Relations,
+   001872671984481. Published online before print, doi:10.1177/0018726719844813
+Gerpott, F. H., Lehmann-Willenbrock, N., & Voelpel, S. (2017a). Intergenerational learn-
+   ing in organizations: A framework and discussion of opportunities. In R. Burke, C.
+   Cooper, & A. S. Antoniou (Eds.), The aging workforce: Individual, organizational and
+   societal challenges (pp. 241–267). Bingley: Emerald Publishing.
+Gerpott, F. H., Lehmann-Willenbrock, N., & Voelpel, S. C. (2017b). A phase model of
+   intergenerational learning in organizations. Academy of Management Learning &
+   Education, 16, 193–216. doi:10.5465/amle.2015.0185
+Gerpott, F. H., Van Quaquebeke, N., Schlamp, S., & Voelpel, S. C. (2019). An identity
+   perspective on ethical leadership to explain organizational citizenship behavior (OCB):
+
+                          THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT               25
+
+
+   The interplay of follower moral identity and leader group prototypicality. Journal of
+   Business Ethics, 1063–1078. doi:10.1007/s10551-017-3625-0
+Handley, K., Sturdy, A., Fincham, R., & Clark, T. (2006). Within and beyond commun-
+   ities of practice: Making sense of learning through participation, identity and practice.
+   Journal of Management Studies, 43(3), 641–653. doi:10.1111/j.1467-6486.2006.00605.x
+Harrison, D., A., Price, K., H., & Bell, M. P. (1998). Beyond relational demography:
+   Time and the effects of surface- and deep-level diversity on work group cohesion.
+   Academy of Management Journal, 41, 96–107. doi:10.2307/256901
+Hayes, A. F. (2013). Introduction to mediation, moderation, and conditional process ana-
+   lysis: A regression-based approach. New York, NY: The Guilford Press.
+Hayes, A. F. (2015). An index and test of linear moderated mediation. Multivariate
+   Behavioral Research, 50(1), 1–22. doi:10.1080/00273171.2014.96268
+Henry, H., Zacher, H., & Desmette, D. (2015). Reducing age bias and turnover inten-
+   tions by enhancing intergenerational contact quality in the workplace: The role of
+   opportunities for generativity and development. Work, Aging and Retirement, 1, (3),
+   243–253. doi:10.1093/workar/wav005
+Hentschel, T., Shemla, M., Wegge, J., & Kearney, E. (2013). Perceived diversity and team
+   functioning: The role of diversity beliefs and affect. Small Group Research, 44(1),
+   33–61. doi:10.1177/1046496412470725
+Holladay, C. L., & Qui~nones, M. A. (2005). Reactions to diversity training: An international com-
+   parison. Human Resource Development Quarterly, 16(4), 529–545. doi:10.1002/hrdq.1154
+Homan, A. C., Greer, L. L., Jehn, K. A., & Koning, L. (2010). Believing shapes seeing:
+   The impact of diversity beliefs on the construal of group composition. Group
+   Processes & Intergroup Relations, 13, 477–493. doi:10.1177/1368430209350747
+Hox, J. J. (2010). Multilevel analysis. New York: Routledge.
+Husted, K., & Michailova, S. (2002). Diagnosing and fighting knowledge-sharing hostil-
+   ity. Organizational Dynamics, 31(1), 60–73.
+Hutchings, K., & Michailova, S. (2006). The impact of group membership on knowledge
+   sharing in Russia and China. International Journal of Emerging Markets, 1, (1), 21–34.
+   doi:10.1108/17468800610644988
+Joshi, K., Sarker, S., & Sarker, S. (2007). Knowledge transfer within information systems
+   development teams: Examining the role of knowledge source attributes. Decision
+   Support Systems, 43(2), 322–335. doi:10.1016/j.dss.2006.10.003
+Kahn, W. A. (1990). Psychological conditions of personal engagement and disengage-
+   ment at work. Academy of Management Journal, 33, 692–724. doi:10.2307/256287
+Kanfer, R., & Ackerman, P. L. (1989). Motivation and cognitive abilities: An integrative/
+   aptitude-treatment interaction approach to skill acquisition. Journal of Applied
+   Psychology, 74, (4), 657–690. doi:10.1037/0021-9010.74.4.657
+King, E. B., Kaplan, S., & Zaccaro, S. (2008). Metaperceptions in diverse workgroups:
+   Intrapersonal perspectives and intragroup processes. In B. Mannix, M. Neale, & C.
+   Anderson (Eds.), Research on managing groups and teams (pp. 109–142). Oxford: Elsevier.
+Kostopoulos, K. C., & Bozionelos, N. (2011). Team exploratory and exploitative learning:
+   Psychological safety, task conflict, and team performance. Group & Organization
+   Management, 36, 385–415. doi:10.1177/1059601111405985
+Kulik, C. T., Ryan, S., Harper, S., & George, G. (2014). Aging populations and manage-
+   ment. Academy of Management Journal, 57(4), 929–935. doi:10.5465/amj.2014.4004
+Macky, K., Gardner, D., & Forsyth, S. (2008). Generational differences at work:
+   Introduction and overview. Journal of Managerial Psychology, 23(8), 857–861. doi:10.
+   1108/02683940810904358
+
+26      F. H. GERPOTT ET AL.
+
+
+Magni, M., Paolino, C., Cappetta, R., & Proserpio, L. (2013). Diving too deep: How cog-
+   nitive absorption and group learning behavior affect individual learning. Academy of
+   Management Learning & Education, 12, 51–69. doi:10.5465/amle.2011.0096
+Marcus, J., & Fritzsche, B. A. (2016). The cultural anchors of age discrimination in the
+   workplace: A multilevel framework. Work, Aging and Retirement, 2, (2), 217–229. doi:
+   10.1093/workar/waw007
+Muller, D., Judd, C. M., & Yzerbyt, V. Y. (2005). When mediation is moderated and
+   moderation is mediated. Journal of Personality and Social Psychology, 89, (6), 852–863.
+   doi:10.1037/0022-3514.89.6.852
+Muthen, L. K., & Muthen, B. O. (2012). Mplus User’s Guide. (7th ed.) Los Angeles, CA:
+   Muthen & Muthen.
+Nassar, M. R., Bruckner, R., Gold, J. I., Li, S. C., Heekeren, H. R., & Eppinger, B. (2016).
+   Age differences in learning emerge from an insufficient representation of uncertainty in
+   older adults. Nature Communications, 7(1), 11609. doi:10.1038/ncomms11609
+Nilsen, L. L., & Ludvigsen, S. R. (2010). Collaborative work and medical talk:
+   Opportunities for learning through knowledge sharing. Communication & Medicine,
+   7, 143–153. doi:10.1558/cam.v7i2.143
+Parker, S. K. (2014). Beyond motivation: Job and work design for development, health,
+   ambidexterity, and more. Annual Review of Psychology, 65(1), 661–691. doi:10.1146/
+   annurev-psych-010213-115208
+Polzer, J. T., Milton, L. P., & Swann, W. B. Jr., (2002). Capitalizing on diversity:
+   Interpersonal congruence in small work groups. Administrative Science Quarterly,
+   47(2), 296–324. doi:10.2307/3094807
+Preacher, K. J., Rucker, D. D., & Hayes, A. F. (2007). Addressing moderated mediation
+   hypotheses: Theory, methods, and prescriptions. Multivariate Behavioral Research,
+   42(1), 185–227. doi:10.1080/00273170701341316
+Rabl, T., & Triana, M. (2013). How German employees of different ages conserve
+   resources: Perceived age discrimination and affective organizational commitment.
+   International Journal of Human Resource Management, 24(19), 3599–3612. doi:10.
+   1080/09585192.2013.777936
+Roberson, L., Kulik, C. T., & Pepper, M. B. (2001). Designing effective diversity training:
+   Influence of group composition and trainee experience. Journal of Organizational
+   Behavior, 22(8), 871–885. doi:10.1002/job.117
+Rockwood, N. J., & Hayes, A. F. (2017). May). MLmed: An SPSS macro for multilevel
+   mediation and conditional process analysis. Poster presented at the Annual Meeting of
+   the Association of Psychological Science (APS), Boston, MA.
+Rodas-Meeker, M., & Meeker, L. (2005). Building trust: The great enabler. In S.
+   Schuman (Ed.), The IAF handbook of group facilitation: Best practices from the leading
+   organization in facilitation (pp. 89–101). San Francisco, CA: Jossey-Bass.
+Ropes, D. (2013). Intergenerational learning in organizations. European Journal of
+   Training and Development, 37(8), 713–727. doi:10.1108/EJTD-11-2012-0081
+Roussin, C., & Webber, S. (2012). Impact of organizational identification and psycho-
+   logical safety on initial perceptions of coworker trustworthiness. Journal of Business
+   and Psychology, 27, 317–329. doi:10.1007/s10869-011-9245-2
+Ryan, K. M., King, E. B., & Finkelstein, L. M. (2015). Younger workers’ metastereotypes,
+   workplace mood, attitudes, and behaviors. Journal of Managerial Psychology, 30(1),
+   54–70. doi:10.1108/JMP-07-2014-0215
+Salas, E., & Cannon-Bowers, J. A. (2001). The science of training: A decade of progress.
+   Annual Review of Psychology, 52, (1), 471–499. doi:10.1146/annurev.psych.52.1.471
+
+                         THE INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT          27
+
+
+Salomon, G., & Perkins, D. N. (1998). Individual and social aspects of learning. Review
+   of Research in Education, 23, 1–24. doi:10.2307/1167286
+Shally, C. E., Gilson, L. L., & Blum, T. C. (2009). Interactive effects of growth need
+   strength, work context, and job complexity on self-reported creative performance.
+   Academy of Management Journal, 52, 489–505. doi:10.5465/amj.2009.41330806
+Shemla, M., & Meyer, B. (2012). Bridging diversity in organizations and cross-cultural
+   work psychology by studying perceived differences. Industrial and Organizational
+   Psychology, 5(3), 370–372. doi:10.1111/j.1754-9434.2012.01464.x
+Shemla, M., Meyer, B., Greer, L., & Jehn, K. A. (2016). A review of perceived diversity
+   in teams: Does how members perceive their team’s composition affect team processes
+   and outcomes? Journal of Organizational Behavior, 37, S89–S106. doi:10.1002/job.1957
+Siemsen, E., Roth, A. V., Balasubramanian, S., & Anand, G. (2009). The influence of psycho-
+   logical safety and confidence in knowledge on employee knowledge sharing. Manufacturing
+   & Service Operations Management, 11, 429–447. doi:10.1287/msom.1080.0233
+Siemsen, E., Roth, A., & Oliveira, P. (2010). Common method bias in regression models
+   with linear, quadratic, and interaction effects. Organizational Research Methods, 13(3),
+   456–476. doi:10.1177/1094428109351241
+Sitzmann, T., & Weinhardt, J. M. (2018). Training engagement theory: A multilevel per-
+   spective on the effectiveness of work-related training. Journal of Management, 44(2),
+   732–756. doi:10.1177/0149206315574596
+Spector, P. E., & Brannick, M. T. (2011). Methodological urban legends: The misuse of
+   statistical control variables. Organizational Research Methods, 14(2), 287–305. doi:10.
+   1177/1094428110369842
+Streb, C. K., Voelpel, S. C., & Leibold, M. (2009). Aging workforce management in the
+   automobile industry: Defining the concept and its constituting elements. German
+   Journal of Research in Human Resource Management, 23(1), 8–27. doi:10.1688/1862-
+   0000_ZfP_2009_01_Streb
+Sveiby, K. E., & Simons, R. (2002). Collaborative climate and effectiveness of knowledge
+   work – An empirical study. Journal of Knowledge Management, 6, (5), 420–433. doi:
+   10.1108/13673270210450388
+Tajfel, H., & Turner, J. C. (2004). The social identity theory of intergroup behavior. In
+   J. T. Host & J. Sidanius (Eds.), Key readings in social psychology. Political psychology:
+   Key readings (pp. 276–293). New York: Psychology Press.
+Tempest, S. (2003). Intergenerational learning: A reciprocal knowledge development pro-
+   cess that challenges the language of learning. Management Learning, 34, (2), 181–200.
+   doi:10.1177/1350507603034002002
+Vance, C. M., Boje, D. M., Mendenhall, M. E., & Kropp, H. R. (1991). A taxonomy of
+   individual learning benefits from external knowledge-sharing meetings. Human
+   Resource Development Quarterly, 2(1), 37–52. doi:10.1002/hrdq.3920020107
+Van Ginkel, W. P., & Van Knippenberg, D. (2008). Group information elaboration and
+   group decision making: The role of shared task representations. Organizational Behavior
+   and Human Decision Processes, 105(1), 82–97. doi:10.1016/j.obhdp.2007.08.005
+Van Knippenberg, D., De Dreu, C. K. W., & Homan, A. C. (2004). Work group diver-
+   sity and group performance: An integrated review and research agenda. Journal of
+   Applied Psychology, 89, (6), 1008–1022. doi:10.1037/0021-9010.89.6.1008
+Wolfson, N. E., Cavanagh, T. M., & Kraiger, K. (2014). Older adults and technology-
+   based instruction: Optimizing learning outcomes and transfer. Academy of
+   Management Learning & Education, 13, 26–44. doi:10.5465/amle.2012.0056
+
+28        F. H. GERPOTT ET AL.
+
+
+Ye, S., Chen, H., & Jin, X. (2006). An empirical study of what drives users to share
+  knowledge in virtual communities. In J. Lang, F. Lin, J. Wang (Eds.), Knowledge sci-
+  ence, engineering and management. KSEM 2006. Lecture Notes in Computer Science
+  (pp. 563–575). Berlin, Heidelberg: Springer. doi:10.1007/11811220_48
+Yeo, R. K., & Gold, J. (2011). The inseparability of action and learning: Unravelling
+  Revans’ action learning theory for Human Resource Development (HRD). Human
+  Resource Development International, 14(5), 511–526. doi:10.1080/13678868.2011.
+  604956
+Zacher, H., Kooij, D. T. A. M., & Beier, M. E. (2018). Active aging at work:
+  Contributing factors and implications for organizations. Organizational Dynamics,
+  47(1), 37–45. doi:10.1016/j.orgdyn.2017.08.001
+Zellmer-Bruhn, M. E., Maloney, M. M., Bhappu, A. D., & Salvador, R. (2008). When
+  and how do differences matter? An exploration of perceived similarity in teams.
+  Organizational Behavior & Human Decision Processes, 107, 41–59. doi:10.1016/j.
+  obhdp.2008.01
+
+
+Appendix
+
+Table A1. Results of the moderated mediation analysis with objective age diversity as the
+independent variable.
+                              Knowledge sharing (M)                          Learning outcomes (Y)
+                                 Coeff.             95% CI                       Coeff.              95% CI
+Objective age                  0.56 (0.69)       0.92, 2.04                  0.04 (0.03)        0.11, 0.03
+   diversity (X)
+Knowledge                                                                    0.93 (0.18)        0.54, 1.32
+   sharing (M)
+Psychological                  1.85 (1.09)       0.48, 4.19
+   safety (W)
+XxW                           0.12 (0.15)        0.44, 0.19
+Constant                      3.58 (5.08)       14.48, 7.32                   0.62 (0.98)        1.48, 2.71
+                          R ¼ 0.71; F(3, 14) ¼ 11.35
+                          2
+                                                                          R2 ¼ 0.66; F(2, 15) ¼ 14.50
+Notes. N ¼ 18 training groups; p < .001; p < .01; p < .05. Unstandardized OLS regression coefficients
+(standard errors in parentheses) with confidence intervals (CI). Index of moderated mediation: x ¼ 0.12; CI
+¼ 0.42 to 0.19.
+
+
+Table A2. Results of the moderated mediation analysis with control variables.
+                           Knowledge sharing (M)                             Learning outcomes (Y)
+                             Coeff.             95% CI                         Coeff.             95% CI
+Perceived age            0.67 (0.24)      1.14, 0.19                 0.31 (0.07)      0.45, 0.17
+   diversity (X)
+Knowledge                                                                  0.62 (0.06)        0.51, 0.73
+   Sharing (M)
+Psychological            0.54 (0.13)        0.29, 0.78
+   safety (W)
+XxW                       0.11 (0.05)        0.01, 0.20
+Age                        0.00 (0.00)       0.01, 0.01                 0.01 (0.01)      0.03, 0.00
+Gender                    0.10 (0.12)       0.34, 0.14                 0.22 (0.15)        0.51, 0.08
+Job position                0.06 (0.14)      0.21, 0.34                  0.30 (0.17)        0.03, 0.64
+Constant                 2.69 (0.72)       1.27, 4.12                  2.74 (0.61)         1.55, 3.94
+                      R2 ¼ 0.63 F(6, 203) ¼ 56.94                  R2 ¼ 0.49 F(5, 204) ¼ 39.76
+Notes. N ¼ 210; 0 ¼ manager, 1 ¼ worker; 0 ¼ female, 1 ¼ male. p < .001; p < .01; p < .05.
+Unstandardized OLS regression coefficients (standard errors in parentheses) with confidence intervals (CI).
+Index of moderated mediation: x ¼ 0.07; CI ¼ 0.01 to 0.14.
+

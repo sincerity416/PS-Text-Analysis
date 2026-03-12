@@ -1,0 +1,1371 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/251192207
+
+
+
+Examining organizational learning in schools: The role of psychological
+safety, experimentation, and leadership that reinforces learning
+
+Article in Journal of Educational Change · February 2012
+DOI: 10.1007/s10833-011-9167-9
+
+
+
+CITATIONS                                                                                              READS
+
+85                                                                                                     825
+
+4 authors, including:
+
+            Monica Higgins                                                                                        Ann Ishimaru
+            Harvard University                                                                                    University of Washington Seattle
+            35 PUBLICATIONS 5,380 CITATIONS                                                                       11 PUBLICATIONS 795 CITATIONS
+
+                SEE PROFILE                                                                                          SEE PROFILE
+
+
+
+            Rebecca Holcombe
+            State of Vermont
+            2 PUBLICATIONS 954 CITATIONS
+
+                SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+
+              Improving practice View project
+
+
+
+              Family Leadership Design Collaborative View project
+
+
+
+
+ All content following this page was uploaded by Ann Ishimaru on 16 July 2015.
+
+ The user has requested enhancement of the downloaded file.
+
+J Educ Change
+DOI 10.1007/s10833-011-9167-9
+
+
+
+
+Examining organizational learning in schools: The role
+of psychological safety, experimentation, and leadership
+that reinforces learning
+
+Monica Higgins • Ann Ishimaru •
+Rebecca Holcombe • Amy Fowler
+
+
+
+
+ Springer Science+Business Media B.V. 2011
+
+
+
+Abstract This study draws upon theory and methods from the field of organiza-
+tional behavior to examine organizational learning (OL) in the context of a large
+urban US school district. We build upon prior literature on OL from the field of
+organizational behavior to introduce and validate three subscales that assess key
+dimensions of organizational learning that build upon and extend prior education
+research: psychological safety, experimentation, and leadership that reinforces
+learning. Data from 941 teachers across 60 schools in this urban district suggest
+that organizational learning is an underlying condition which is expressed by tea-
+cher perceptions of subfactors of psychological safety, experimentation, and lead-
+ership that reinforces learning. Implications for adopting the conceptual framework
+and methods employed in this research for studying organizational learning and
+school change are discussed.
+
+Keywords Organizational learning  Psychological safety  Experimentation 
+Leadership  School change  Teacher perceptions  Confirmatory factor analysis
+
+
+Introduction
+
+In response to the No Child Left Behind Act, many schools focused their efforts on
+implementing new programs to help them reach performance goals outlined by their
+states’ accountability systems. And yet, these efforts have not yielded the results
+reformers anticipated (Giles and Hargreaves 2006). As scholars and practitioners
+now agree, new initiatives and structures alone are unlikely to lead to lasting
+change. Rather, sustainable change in schools is a function of the beliefs, norms, and
+expectations of those working within those schools, as well as their capacity for
+
+M. Higgins (&)  A. Ishimaru  R. Holcombe  A. Fowler
+Harvard Graduate School of Education, Appian Way, Cambridge, MA 02138, USA
+e-mail: higginmo@gse.harvard.edu
+
+
+                                                                             123
+
+                                                                          J Educ Change
+
+
+learning (Elmore 2002). Over and beyond identifying effective curricula or
+requiring educators to use data to improve performance, schools must strengthen
+their internal capacity to manage change processes in order to reach high levels of
+performance. This is a different approach to educational change; it is one that goes
+beyond a focus on compliance or support for programmatic change to a focus on
+organizational learning and capacity building within schools (Hopkins et al. 1997;
+Stoll 2009).
+   Unfortunately, many schools still lack what Stoll (1999) has called an ‘‘internal
+capacity’’ (p. 506) for learning—the capacity to engage in and sustain all members
+of the school community with the shared purpose of improving student learning. As
+David Cohen (1990) observed, ‘‘Unfortunately, most schools offer teachers little
+room for learning, and little help in managing the problems that learning would
+provide’’ (p. 327). This was true a decade ago when the National Commission on
+Teaching and America’s Future concluded that in order to realize significant
+improvements in student learning, low-performing schools needed to be redesigned
+as learning organizations—as organizations capable of supporting the learning of all
+members and of continually improving practice (Fullan 1995; Senge 1990). Linda
+Darling-Hammond (1996), commenting on the Commission’s report, explained.
+  It is now clear that most schools and teachers cannot produce the kind of
+  learning demanded by the new reforms—not because they do not want to, but
+  because they do not know how, and the systems they work in do not support
+  their efforts to do so. (p. 3)
+   Understanding how to create school systems that can themselves be ‘‘learning
+organizations’’ to improve instruction and enhance student achievement has
+remained an elusive phenomenon. As Leithwood et al. (1998) commented,
+‘‘Although there are compelling reasons to view schools from an organizational
+learning perspective and some powerful theoretical tools to shape such a
+perspective, empirical evidence is thin, to say the least’’ (p. 268). Today, the
+reviews of organizational learning (OL) theory continue, and the application of
+these theories to improve our understanding of the dynamics of district instructional
+reform remains of significant interest (e.g., Boyd 2008). Still, scholars conclude that
+OL work has become more fragmented and suggest that future research take strides
+toward integrating parallel streams of research that have proceeded on this subject
+(Knapp 2008). Further, researchers call for more and better empirical research to
+understand how the process of capacity building unfolds in schools (Copland and
+Knapp 2006; Gallucci 2008).
+   This article responds to recent calls to action for research on organizational
+learning in education. First, we draw upon research in organizational behavior to
+introduce and validate a survey instrument for measuring key aspects of
+organizational learning in the context of schools. The instrument was designed by
+scholars in the fields of management and organizational behavior. For this study, we
+selected a subset of scales to validate building upon recent research about the role of
+the sociocultural environment of schools in supporting change (e.g., Bryk et al.
+2010; McLaughlin and Talbert 2006). We adapted the subscales for use in schools
+based on preliminary, cognitive pretesting and subsequent factor analyses, and offer
+
+123
+
+J Educ Change
+
+
+the modified scales here as a tool for understanding how, from the perspective of
+teachers, organizational learning is manifest at a school site. This study serves the
+goal of providing better conceptual integration of prior organizational learning
+theories because it draws both on research on cognitive dimensions of organiza-
+tional learning (e.g., Argyris and Schon 1996) and sociocultural learning theory
+(e.g., Honig 2008).
+   We begin with a brief review of the literature on organizational learning and its
+linkages to organizational change, and then propose specific areas of opportunity
+that remain for education research. In particular, drawing from organizational
+behavior research by Garvin et al. (2008), we investigate three elements of their
+research outlining dimensions or ‘‘building blocks’’ of organizational learning that
+may be especially important elements of a learning environment for teachers in
+urban school settings: ‘‘psychological safety’’ (Edmondson 1999, p. 350), exper-
+imentation, and leadership that reinforces learning. We use confirmatory factor
+analysis (CFA) to validate each of the subscales that sample these constructs and
+then test the degree to which they are essential components of the secondary
+construct of organizational learning. Specifically, we examine how the constructs of
+psychological safety, experimentation, and leadership that reinforces learning are
+related to organizational learning in schools and explore the implications of these
+relationships for both future educational research and practice.
+
+
+Background and theory
+
+Numerous excellent reviews exist on the topic of organizational learning as it
+applies to schools and school systems (see, for example, Cousins 1996; Leithwood
+and Aitken 1995; Leithwood et al. 1998; and the issue dedicated to organizational
+learning in the American Journal of Education, Boyd 2008). Further, recent books
+on learning communities (e.g., McLaughlin and Talbert 2006) and school
+improvement in large urban districts (e.g., Bryk et al. 2010) provide extensive
+reviews of the literature and important updates on related research. In this section,
+rather than provide another extensive literature review, we focus our attention on the
+OL literature that we believe may be especially useful in the study of education
+reform.
+
+Background
+
+Although definitions abound regarding the term ‘‘organizational learning,’’ scholars
+generally concur that organizational learning refers to a higher order of collective
+learning that extends beyond a single individual; individuals within an organization
+thus learn from one another and/or group(s) (see Gallucci 2008).
+   The term, ‘‘organizational learning,’’ itself was first introduced by March and
+Simon (1958) and later became popular as students and colleagues of March and
+Simon plunged into the study of knowledge management. Much of this work
+focused on information search, acquisition, integration, and assimilation in
+organizations. Knowledge and information, including prior experiences, were
+
+                                                                           123
+
+                                                                           J Educ Change
+
+
+viewed as resources for organizations (generally in the private sector) that could
+help organizations ‘‘learn’’ and develop (Levinthal and March 1993; Levitt and
+March 1988). Of particular interest were the rational, information processing or
+sense-making cycles that people engage in when they learn (Huber 1991). For
+example, extensive research has looked at ‘‘absorptive capacity’’ which refers to an
+individual’s or organization’s capacity to recognize the value of new kinds of
+information absorbing it into existing habits of minds or ways of organizing (Cohen
+and Levinthal 1990). Overall, this has been a largely cognitive perspective on
+organizational learning that has aimed to understand how people think about
+complex problems, solve them, and in addition, avoid errors (e.g., Argyris and
+Schon 1996).
+   In contrast to this cognitive stream of research on organizational learning,
+another stream of research has proceeded in parallel which has been referred to by
+some as sociocultural learning theory (e.g., Honig 2008). This OL research stream
+has focused on individuals’ social interactions within organizations (e.g., Vygotsky
+1978). From this vantage point, people learn primarily through the socially
+embedded activities, behaviors, and practices that they engage in (Wertsch 1996).
+Thus, rather than study how people cognitively do or do not process information
+effectively, scholars in this tradition focus specifically on how social practices shape
+individuals’ learning. For example, research in this stream has studied how people
+or organizations assist others in learning (e.g., Cole and Wertsch 1996) and how
+communities of practice or learning communities emerge and evolve (e.g., Stein and
+Coburn 2008). Overall, the emphasis in this stream of work has been on the social
+processes of learning in organizations (see Knapp 2008, for a review).
+   Recently, these two OL research streams have come closer together in
+perspective. As Honig (2008) describes, the New Institutional Sociologists have
+built upon early cognitive scientific approaches to studying organizational learning
+by examining how social and cultural contexts influence individuals’ searches for
+information and sense-making (e.g., Van de Ven and Polley 1992; see Honig 2008,
+for a review). However, despite this convergence, educational scholars who study
+organizational learning continue to call for further integration between these two
+perspectives (e.g., Knapp 2008). In the particular context of schools and school
+change, scholars point out that negotiation and internal conflict are part and parcel
+of growth and learning in schools; therefore in-depth examinations of teacher
+behaviors and practices are essential to understanding organizational learning (e.g.,
+Gallucci 2008; Hubbard et al. 2006). At the same time, education scholars have
+written extensively about the merits of effective data gathering and analyses on the
+part of teachers in order to effect change in schools and school systems (e.g.,
+Boudett et al. 2005) suggesting that the cognitive perspective on OL is also
+valuable. Thus, these recent streams of research also emphasize the need for a more
+integrative approach to understanding OL in schools.
+
+An integrative stance
+
+We concur with recent educational scholars’ assessments of the bifurcation in the
+organization learning literature and the merits of considering information related
+
+123
+
+J Educ Change
+
+
+processes along with more social related practices that individuals engage in at
+work. Interestingly, at precisely the same time that this call for integration has come
+in the education literature (e.g., Knapp 2008), literature in the adjacent field of
+organizational behavior proposed a theoretical model that takes into consideration
+both of these approaches. This framework, proposed by Garvin, Edmondson, and
+Gino in 2008, suggests that in order to understand organizational learning, we need
+to consider several ‘‘building blocks’’ (p. 2): (1) a ‘‘supportive learning environ-
+ment’’ (one in which individuals feel psychologically safe, value differences, are
+open to new ideas, and have time for reflection; p. 3); (2) ‘‘concrete learning
+processes and practices’’ (including the creation, collection, and transfer of
+information, experimentation, and analyses; p. 3); and (3) ‘‘leadership that
+reinforces learning’’ (including leader behaviors such as listening attentively and
+encouraging multiple points of view; p. 4). These building blocks were developed
+based upon organizational research and described as ‘‘essential for organizational
+learning and adaptability’’ (Garvin et al. 2008, p. 2).
+   Garvin et al. (2008) introduced this OL framework in a practitioner journal for
+management scholars, but the full model has not yet been tested. In their recent
+article, Garvin and colleagues proposed a series of questions associated with each
+building block designed for use in both the private and public sectors to measure the
+extent to which employees report that an organization—and units within an
+organization—possess the conditions the authors feel are necessary for organiza-
+tional learning. The hypothesized model by Garvin et al. (2008) incorporates both
+cognitive and sociocultural dimensions of organizational learning.
+   Garvin, Edmondson, and Gino’s model echoes some of the recent research on OL
+in education. For example, their approach aligns with the work of Peter Senge
+(1990) in schools, which—similar to his work on private sector organizations—has
+emphasized systems thinking, shared vision, and understanding interdependency
+and change. Similarly, work on professional learning communities (PLCs) in
+schools identifies characteristics of successful PLCs that include facilitative
+leadership, participative decision making, shared vision and commitment, and
+collaborative activity (Giles and Hargreaves 2006; Hord 1997; Imants 2003; Louis
+et al. 1996; Marks and Louis 1999; Stoll et al. 2006). Recent research on teacher
+learning communities in particular stresses the interdependence of teacher’s work
+and the importance of school culture to adult and student learning (e.g., McLaughlin
+and Talbert 2006). Garvin and colleagues’ model also mirrors education research
+that takes a more cognitive approach and emphasizes management and information
+processes (e.g., Honig 2004). Thus, in many respects, this instrument integrates both
+OL research streams as called for by recent education research.
+   In addition, Garvin and colleagues’ model attempts to refine our understanding of
+organizational climate as a key factor in promoting learning and change. In
+particular, they suggest ways in which their proposed building blocks influence the
+organization’s ‘‘learning environment’’ (Garvin et al. 2008, p. 5). Psychological
+safety, an aspect of the learning environment of an organization, describes the
+comfort of teachers in speaking up and asking questions which are key
+organizational dynamics within which collective learning takes place (Edmondson
+1999). This added dimension has the potential to build upon research in education
+
+                                                                            123
+
+                                                                         J Educ Change
+
+
+showing that open and reflective dialogue among teachers is central to building
+effective professional learning communities in schools (Bryk et al. 1999).
+   Garvin and colleagues’ attention to social factors, or conditions for learning,
+mirrors education literature on the social factors that shape teaching and learning,
+such as politics and values, that make up the social realities of teachers’ work
+(McLaughlin et al. 1990). Research in urban school contexts has examined specific
+relationships between social trust within a school, professional community, and a
+school’s capacity for innovation and experimentation (Bryk et al. 1999, 2010). For
+example, Silins et al. (2002), drawing on Australian data from their Organisational
+Learning and Leadership Questionnaire, found that having a trusting and
+collaborative climate within a school positively impacted student outcomes such
+as engagement and participation in school. Goh et al. (2006) extended this work
+using the Goh and Richards (1997) Organizational Learning Survey to investigate
+whether schools tend to examine previous mistakes and errors as part of their
+process of crafting strategic responses to the challenges of school improvement.
+Their findings suggest that only good news tends to be shared in schools, and in fact,
+some school cultures do not uniformly support constructive criticism or challenges
+to past practice. Bryk and Schneider (2003) note that open and honest conversations
+among colleagues about what does and does not work requires high levels of
+relational trust and a sense of safety for teachers to expose their vulnerabilities in
+front of each other.
+   In the current study, we extend this recent education research by bringing in key
+aspects of Garvin et al. (2008) model to assess the organizational learning climate,
+processes, and leadership in schools. In particular, we investigate and apply one
+subscale in each of the three building blocks in Garvin and colleagues’ model:
+‘‘psychological safety,’’ ‘‘experimentation,’’ and ‘‘leadership that reinforces learn-
+ing’’ (p. 5).
+
+Psychological safety (PS)
+
+Over the past decade, organizational behavior scholars such as Edmondson have
+found that certain learning conditions such as ‘‘psychological safety,’’ the feeling
+that one can safely speak up and ask for help, are associated with important
+organizational outcomes such as decreased numbers of errors and improved
+organizational systems and processes indicative of organization level learning
+(Edmondson 1999, 2003). Edmondson suggests that when work teams promote
+psychological safety by, for example, encouraging employees to ask questions or
+treat mistakes as opportunities for learning, employees are more likely to take the
+kinds of risks associated with breakthroughs or game-changing innovations in
+practice (Edmondson 1999).
+    Although related concepts have been studied in schools and districts, the
+literature would be strengthened by examining teachers’ perceptions of psycholog-
+ical safety which may be tied to a school organization’s ability to engage all
+members in purposeful, sustained learning to improve practice. For instance, in their
+four-factor nested model of organizational learning, Silins et al. (2002) examined
+the extent to which people feel free to take initiative and risks as a key mediator of
+
+123
+
+J Educ Change
+
+
+leadership effects on student outcomes, yet little is known about the school
+environment around disagreements and help-seeking. Indeed, recent education
+research calls for future research that investigates ways of reducing defensiveness
+such as providing an environment that is ‘‘safe’’ for admitting mistakes and that
+rewards individuals for trying out new approaches to instructional practice (Goh
+et al. 2006). Introducing and validating the construct of psychological safety would
+address this call and contribute to our understanding of how certain kinds of
+organizational climates can facilitate learning in schools.
+
+Experimentation (EXP)
+
+A second dimension of the Garvin et al. (2008) model that we pull out for special
+consideration in this context is ‘‘experimentation.’’ This particular element is part of
+Garvin and colleagues’ ‘‘learning processes and practices’’ (p. 3) building block and
+aligns well with the cognitive strand of organizational learning research. A great
+deal of recent education research has investigated processes for the collection,
+creation, analysis, transfer, and application of information and knowledge in schools
+(Schechter 2008; Stoll et al. 2006) including recent research on the social networks
+that enable innovation in schools (Moolenaar et al. 2011).
+   The research is less clear on what experimentation and innovation look like in
+schools and how prevalent teachers feel experimentation and innovation actually
+are, although some recent work by the Chicago Consortium for School Research
+has examined teacher attitudes about trying out new practices, staying positive,
+and taking responsibility for school improvement (Bryk et al. 2010). Specifically,
+the CCSR innovation scale indicates teachers’ orientations towards continual
+learning and new ideas as well as their willingness to be part of an active learning
+environment (Chicago Consortium for School Research, 2007). However, the
+focus has often been on teacher attitudes and orientations rather than teacher
+perceptions about new behaviors and practices that are enacted schoolwide.
+Moreover, it is not clear whether teachers see experimentation and innovation as
+the same construct; rather, the focus in some of the work on innovation in
+education has been on gathering and assessing appropriate data for teaching and
+learning. For example, recent research by Schechter (2008) using his Organiza-
+tional Learning Mechanisms (OLM) scale has examined in-depth how information
+is acquired, analyzed, disseminated, stored, retrieved, and then ‘‘put to use’’ by
+teachers in elementary schools. The final item, ‘‘put to use,’’ includes an
+assessment of how teachers change the curriculum based upon feedback they
+receive (Schechter 2008, p. 162). Still, in this example, as in others, much less is
+known about the extent to which teachers ‘‘try out’’ or ‘‘experiment’’ with new
+ideas and instructional practices in schools. Adding this component of ‘‘exper-
+imentation’’ to our assessment of OL in schools would extend prior OL research
+by enabling scholars to better understand what role experimentation plays in the
+context of organizational learning. That said, the recent emphasis on standard-
+ization and centralization of instruction in an era of high stakes accountability
+raises questions about what experimentation looks like in schools and who
+actually engages in experimentation and at what level. The items by Garvin et al.
+
+                                                                             123
+
+                                                                          J Educ Change
+
+
+(2008), as adapted here, attempt to capture teacher perceptions of experimentation
+at the school level.
+
+Leadership that reinforces learning (LTRL)
+
+In addition, we pull out a third component in the Garvin et al. (2008) model which is
+‘‘leadership that reinforces learning.’’ In previous years, the literature on leading
+district reform has focused primarily on theories of alignment rather than theories of
+organizational learning. The perspective has been that the leader’s primary
+responsibility is to ensure that all facets of the school system such as its structure,
+staffing, and the curriculum are aligned with specific agreed upon targets or goals
+for change. With recent emphasis on compliance with centralized reform initiatives
+such as No Child Left Behind, this pressure to execute against specific targets has
+only increased. Yet as Knapp (2008) recently argued, this perspective fails to
+capture the complexities of leading schoolwide reform. Challenges abound for
+school leaders today including the unevenness of capacity in schools, lack of
+resources, incomplete and ambiguous information, and competing stakeholder
+agendas. Consequently, it comes as no surprise to education scholars such as Knapp
+that scholars and practitioners alike have now turned to the ‘‘construct of learning to
+embrace the challenge of reforming districts’’ (Knapp 2008, p. 524). Here, we
+address this need for empirical research on the role of school leaders in facilitating
+organizational learning by considering the role of the principal in creating
+conditions for organizational learning in schools.
+    Each of the leadership items in the Garvin et al. (2008) model are consistent with
+the idea espoused in education research that leaders, such as superintendents and
+principals, should not only be good learners themselves; they should facilitate
+learning in their teachers (Collinson et al. 2006; Johnson 1996). Therefore, the
+Garvin model moves us beyond leadership theories centered on organizing to
+execute, to leadership that centers on organizing to learn (see Edmondson 2008, on
+organizing to learn).
+    Recent literature on educational leadership has begun to focus on the key role of
+leaders in developing teachers’ capacity, though few instruments examine specific
+leadership behaviors associated with facilitating organizational learning amongst
+teachers schoolwide. For example, the Vanderbilt Assessment of Leadership in
+Education (VAL-ED) examines the extent to which principals support, implement,
+and monitor communities of professional practice and develop cultures of learning
+for students (Porter et al. 2010). Similarly, Leithwood and Jantzi’s (2006)
+transformational leadership instrument probes whether principals support and
+encourage collaborative work and the consideration of new ideas. In both cases,
+however, little is known about specific leadership behaviors that reinforce a learning
+climate amongst school personnel.
+    In the present research, we single out these three dimensions to add to the
+complementary streams of literature described above, and we test the conceptual
+framework and instrument developed by Garvin et al. (2008) for measuring
+organizational learning. The hypothesized model by Garvin et al. (2008) of the
+relationship between the proposed building blocks and organizational learning is
+
+123
+
+J Educ Change
+
+
+based upon prior research on OL in organizational behavior but has yet to be
+validated, or, for our purposes, adapted and then validated for the context of
+education. Moreover, it is unclear whether the dimensions of interest (psychological
+safety, experimentation, and leadership that reinforces learning) are preconditions
+for organizational learning or manifestations of OL; thus, a deeper understanding of
+this relationship requires empirical testing. We modified and validated subscales for
+each of the three dimensions of interest: psychological safety (as measured by three
+items), experimentation (as measured by three items), and leadership that reinforces
+learning (as measured by six items). We then explored the relationship of each of
+these subscales to the larger construct of organizational learning. Thus, our
+empirical research question was: What is the relationship between psychological
+safety, experimentation, and leadership that reinforces learning with regards to
+organizational learning? Specifically, we asked:
+1.     Are the subscales of psychological safety (PS), experimentation (EXP), and
+       leadership that reinforce learning (LTRL) discrete subfactors of the second-
+       order factor of organizational learning?
+2.     Are the subfactors (PS, EXP, LTRL) necessary intermediaries to organizational
+       learning?
+3.     What is the direction of the relationship between organizational learning and
+       the subfactors (PS, EXP, and LTRL)?
+
+
+
+Data
+
+The present study uses survey data from 941 teachers in a large urban district in the
+United States. The district is representative of the largest urban districts in the
+country with over 100,000 students enrolled in more than 500 schools constituting a
+predominately low-income, minority population. The survey items used for this
+study were included in a larger pilot survey designed to provide principals with
+feedback from teachers on their performance.
+   The survey instrument was administered by the district in electronic format at the
+end of the spring of 2008 to a stratified convenience sample of teachers in 60
+schools within the district. In all, 941 teachers responded for a total response rate of
+37%.1 The sample was stratified by school level and principal tenure,2 and all school
+identifiers were stripped from the dataset before it was released by the district. Of
+the 60 schools, 8 had response rates greater than 50%, and 32 had response rates
+greater than 30%. The schools’ response rates ranged widely from 5 to 74%. Post
+hoc focus groups suggested that the low overall response rate was at least in part due
+to the timing of the administration of the survey which was in late spring.
+   Teacher-level demographics were not available to the researchers beyond the
+grade range taught and whether or not the teacher held a leadership position in their
+
+1
+    According to our district contact, district surveys typically have response rates of about 20%.
+2
+ Principals were categorized according to whether or not they were new; 60% of the sampled schools
+were led by new principals.
+
+
+                                                                                              123
+
+                                                                         J Educ Change
+
+
+school. Of the teachers responding to the survey, 33% taught pre-kindergarten
+through 6th grade, 12% taught 7th or 8th grade, and 63% taught 9–12th grade.
+Leadership positions were held by 39% of the respondents (e.g., site council
+representative, union delegate, curriculum coordinator, lead teacher, department
+head, or other). Of the schools represented by responding teachers, 33% were
+elementary schools and 67% were middle and high schools. The data did not contain
+additional school characteristics.
+
+
+
+Measures
+
+We selected scales of interest from the full Garvin et al. (2008) organizational
+learning survey tool and modified them for use in a school context. In particular,
+we examined three subscales sampling the constructs of psychological safety (PS),
+experimentation (EXP), and leadership that reinforces learning (LTRL). After a
+review of item content and cognitive pretesting (in which respondents talked
+through their thought processes as they read and answered each item), we modified
+items in the scales to sample these constructs making the language specific to
+schools (e.g., changed ‘‘unit’’ to ‘‘school’’) and clarified for respondents that the
+level of analysis was at the school level. We also eliminated a handful of items we
+anticipated would not function well in a school context. For example, from the
+original 5-item experimentation scale, we removed an item that read, ‘‘This unit
+frequently employs prototypes or simulations when trying out new ideas.’’ (Garvin
+et al. 2008, p. 5). We also removed two items from the original 8-item leadership
+that reinforces learning scale that had to do with a leader’s provision of resources,
+time, and money, whereas all other items in the scale involved leader behaviors
+that supported learning. Finally, we removed two psychological safety items that
+differed from other items in the original 5-item scale as they assessed actions rather
+than dispositions. The modified subscales piloted in this study were thus as
+follows:
+•   Psychological Safety (PS): This 3-item subscale from the OL building block,
+    Supportive Learning Environment, measures on a 7-point response scale
+    (7 = highest) whether teachers feel their school is a place where they can make
+    mistakes and take the kinds of personal and intellectual risks that are necessary
+    for continuous improvement. Teachers who felt psychologically safe indicated
+    that people in their school were usually comfortable talking about problems and
+    disagreements, that they were eager to share information about what does and
+    doesn’t work, and that mistakes were not be held against them.
+•   Experimentation (EXP): This 3-item subscale from the OL building block,
+    Learning Processes and Practices, measures on a 7-point scale (7 = highest)
+    how teachers perceive the school’s capacity for experimentation to achieve
+    improvements. For example, items ask teachers if they feel within their schools
+    that experimentation occurs frequently with new instructional practices or
+    strategies, and/or there exists a formal process for conducting and evaluating
+    experiments or new ideas.
+
+
+123
+
+J Educ Change
+
+
+•     Leadership that Reinforces Learning (LTRL): This 6-item subscale measures the
+      full Leadership building block and captures the extent to which principals’
+      behavior communicates the support and value they place on learning. Teachers
+      who responded with the highest rating (7 = highest) felt that their principal
+      exemplified behaviors such as asking probing questions and acknowledging his
+      or her own limitations with regard to knowledge, information, or expertise.3
+
+
+
+Procedures
+
+Prior to our use of the three subscales selected for this study, the full Garvin et al.
+(2008) organizational learning tool was subjected to two stages of field testing and
+refinement using 432 subjects in four separate populations to ensure the reliability
+and validity of the measures. Although the original field testing included two public
+sector organizations, neither were educational institutions, so we then reviewed and
+conducted cognitive testing with educational practitioners and researchers on the
+full original scales for psychological safety (PS), experimentation (EXP), and
+leadership that reinforces learning (LTRL) to assess the applicability of individual
+items to the school context. We made slight modifications to the language of items
+making them specific to school contexts and then embedded our items in a larger,
+pilot survey administered to teachers in a large urban school district. Because all the
+items were drawn from a survey measuring organizational learning, we expected
+items and subscales to be highly correlated. However, our specific concern here is
+rather the dimensionality and underlying structure of organizational learning as
+captured in the subscales and their covariance. Thus, we used confirmatory factor
+analysis (CFA) to confirm the structure of our factors, refine our scales, and examine
+how they related to the construct of organizational learning. Finally, we used path
+analysis to explore the directionality of any relationships confirmed in our data.
+
+
+Data Analyses
+
+Question 1: Are the subscales of psychological safety (PS), experimentation
+(EXP), and leadership that reinforces learning (LTRL) discrete subfactors of the
+second-order factor of organizational learning?
+   To begin, we examined the subscales of psychological safety, experimentation,
+and leadership that reinforces learning for their internal consistency reliability
+(Hatcher 1994). Specifically, we examined descriptive statistics for each subscale,
+bivariate correlations among the individual items, and estimated the Cronbach’s
+alpha reliability statistics for the subscales.
+   Since much of the literature suggests multiple components to the secondary
+construct of organizational learning (e.g., Goh et al. 2006; Leithwood et al. 1998;
+Silins et al. 2002), we then followed the procedures for confirmatory factor analysis
+
+3
+    See Appendix A for the text of study measures.
+
+
+                                                                            123
+
+                                                                         J Educ Change
+
+
+described by Friendly (1995) and Kline (2005) to examine whether the subscales of
+psychological safety, experimentation, and leadership that reinforces learning are,
+indeed, discrete subfactors of the secondary factor of organizational learning. We fit
+a hypothetical model, as suggested by the Garvin et al. (2008) model (see Fig. 1),
+using the maximum likelihood method in the SAS system’s CALIS procedure and
+examined three commonly used goodness-of-fit indices to determine model fit: the
+Root Mean Square Error of Approximation (RMSEA), Bentler’s Comparative Fit
+Index (Bentler 1989), and the Bentler and Bonnet’s Non-Normed Fit Index (Bentler
+and Bonett 1980; Hatcher 1994; Kline 1994, 2005). As recommended by Hatcher
+(1994), we identified poorly functioning items by examining residuals. We then
+examined the substance of the questions in order to determine if there was a
+substantive reason that might explain the poor fit prior to removal.
+   We refit the reduced model and examined factor loadings, correlations (R2), error
+terms, and p values to confirm that our proposed hypothetical model was an
+appropriate description of the data.
+Question 2: Are the subfactors (PS, EXP, LTRL) necessary intermediaries to
+organizational learning?
+   We again used CFA to investigate two alternative hypotheses: (1)whether the
+subfactors of psychological safety, experimentation, and leadership that reinforces
+learning are discrete factors that are important to the construct of organizational
+learning (H0), or whether (2) there are no subfactors in the domain of organizational
+learning (H1). As above, we fit hypothetical models (see Fig. 2) and examined fit to
+determine which rival hypothesis was confirmed by the data.
+Question 3: What is direction of the relationship between organizational learning
+and the subfactors (PS, EXP, and LTRL)?
+   Using CFA and path analysis, we examined two rival hypotheses (see Fig. 3) to
+determine the direction of the relationship between organizational learning and
+psychological safety, experimentation, and leadership that reinforces learning (PS,
+EXP, and LTRL). Specifically, we were interested in finding out whether the factors
+were expressions of organizational learning (H0) or whether, in contrast they were
+determinants of organizational learning (H1).
+
+
+Findings: Validation of proposed building blocks of organizational learning
+
+Question 1: Are the subscales of psychological safety (PS), experimentation
+(EXP), and leadership that reinforces learning (LTRL) discrete subfactors of the
+second-order factor of organizational learning?
+   We first examined the internal consistency reliability of the organizational
+learning construct and its three hypothesized components of psychological safety,
+experimentation, and leadership that reinforces learning. In Table 1, Panels A–C,
+we display the item intercorrelations, the item means, and standard deviations for
+each of the three subscales of organizational learning. We also provide the estimated
+
+
+123
+
+J Educ Change
+
+
+
+
+Fig. 1 Hypothetical model of the relationship between the three subscales of psychological safety (PS),
+experimentation (EXP), and leadership that reinforces learning (LTRL) and the hypothesized second-
+order factor of organizational learning
+
+
+Cronbach’s alpha internal consistency reliability for each subscale. When we look at
+these descriptive statistics for each of the subscales; we note that each subscale
+appears to hang together as a construct and is thus an appropriate candidate for
+CFA.
+
+
+                                                                                          123
+
+                                                                                        J Educ Change
+
+
+
+
+Fig. 2 Rival hypothetical models to test whether the subfactors (PS, EXP, and LTRL) are necessary
+intermediaries to OL
+
+
+
+
+Fig. 3 Rival hypothetical models to test the directionality of the relationship between subfactors (PS,
+EXP, and LTRL) and the second-order construct of organizational learning (OL)
+
+
+   As expected, the correlations between these subscales were high ranging from
+0.61 between experimentation (EXP) and leadership that reinforces learning
+(LTRL) to 0.85 between psychological safety (PS) and leadership that reinforces
+
+
+123
+
+J Educ Change
+
+
+Table 1 Panels A–C: Tables showing the within subscale item correlations, item means, and item
+standard deviations for psychological safety (PS), experimentation (EXP), and leadership that reinforces
+learning (LTRL)
+
+Panel A: Psychological safety
+
+Indicators                        PS1                              PS2                             PS3
+
+PS1                               1.00
+PS2                               0.66***                          1.00
+PS3                               0.61***                          0.64***                         1.00
+Chronbach coefficient alpha = .83
+Mean                              4.69                             4.56                            5.31
+SD                                2.06                             1.86                            1.63
+N = 933
+
+Panel B: Experimentation
+
+Indicators                       EXP1                            EXP2                            EXP3
+
+EXP1                             1.00
+EXP2                             0.74***                         1.00
+EXP3                             0.49***                         0.45***                         1.00
+Chronbach coefficient alpha = .79
+Mean                             4.83                            5.00                            3.95
+SD                               1.65                            1.63                            1.83
+N = 922
+
+Panel C: Leadership that reinforces learning
+
+Indicators       LTRL1           LTRL2           LTRL3           LTRL4          LTRL5           LTRL6
+
+LTRL1            1.00
+LTRL2            0.78***         1.00
+LTRL3            0.79***         0.75***         1.00
+LTRL4            0.80***         0.77***         0.79***         1.00
+LTRL5            0.88***         0.80***         0.82***         0.86***        1.00
+LTRL6            0.50***         0.51***         0.46***         0.52***        0.55***         1.00
+Chronbach coefficient alpha = .79
+Mean             5.20            4.91            5.01            5.12           4.95            4.61
+SD               1.92            1.98            1.89            1.99           2.02            2.02
+N = 914
+
+*** p \ .001
+
+
+learning (LTRL). Our interest here, however, is the covariance between these
+subscales which gives us a better understanding of the underlying dimensionality of
+the larger construct of organizational learning. To this end, we used CFA to assess
+whether the three target subscales (PS, EXP, and LTRL) represent constructs that
+are captured by the second-order factor of organizational learning. We first fit a
+hypothetical model for the 3-item construct of psychological safety, the 3-item
+
+                                                                                           123
+
+                                                                                        J Educ Change
+
+
+construct of experimentation, and the 6-item construct of leadership that reinforces
+learning. This model posits that each latent factor can be accurately estimated by
+including all items in the scale accounting for their respective measurement errors
+(Hatcher 1994). The hypothetical model failed to achieve good model fit.
+    Following the steps outlined in our procedures, we identified that one item in
+each of the experimentation (EXP) and leadership that reinforces learning (LTRL)
+scales had exceptionally large residuals. In addition to these problematic residuals,
+the third item in the experimentation subscale4 differed substantively from the other
+two experimentation items in focusing on the existence of a process rather than on
+actual practices. Similarly, the sixth item in the leadership that reinforces learning
+subscale5 also had problematic residuals and differed substantively from the
+remaining leadership that reinforces learning items. In this case, the reverse-coded
+item was the only one to attribute proactively negative behaviors to the principal.
+After removing these two items, we then refit the reduced model and confirmed that
+this final, proposed model accurately described our data.
+    This final reduced, fitted model contains three psychological safety items, two
+experimentation items, and five leadership that reinforces learning items. It met the
+threshold for an acceptable model fit based on three goodness-of-fit statistics. The
+RMSEA, which measures the ‘‘badness of fit,’’ indicated an acceptable model fit
+with a value of 0.08 (where \0.05 indicates good fit and \0.08 indicates a fair fit)
+(Hatcher 1994). The Bentler’s Comparative Fit Index (CFI) of 0.98 and Bentler and
+Bonnet’s Non-Normed Fit Index (NNFI) of 0.99 also indicated good fit (with good
+fit indicated by values exceeding 0.90 for both indices; Hatcher 1994).
+    Thus, as seen in Fig. 4, the final model fit indicates that psychological safety,
+experimentation, and leadership that reinforces learning are, indeed, discrete
+subfactors of the secondary factor of organizational learning. All estimated factor
+loadings and item error variances were statistically significant at the p \ 0.0001 level.
+    Given this final model, we calculated individual indicator reliability for each item
+and found these ranged from a low of 0.51 for the third item on the psychological
+safety subscale (PS3) to a high of 0.92 for the fifth item on the leadership that
+reinforces learning subscale (LTRL5). At the subscale level, psychological safety
+(PS) has a composite reliability of 0.83 but captures only 63% of the observed
+variance, largely due to low item reliability for both the second and third items in the
+scale (PS2 and PS3). Experimentation has a composite reliability of 0.86 and
+captures 75% of observed variance with individual reliabilities of 0.86 and 0.64 for
+the two items. Finally, leadership that reinforces learning (LTRL) has a composite
+reliability of 0.95 and captures 81% of observed variance with all individual items
+having strong individual reliabilities (see Table 2 below). Each of the subscales
+displays strong composite reliability indicating strong internal consistency reliability
+(Kline 2005). Altogether, these findings support the internal reliability consistency of
+each of the three subscales of psychological safety, experimentation, and leadership
+that reinforces learning (PS, EXP, and LTRL) with 3, 2, and 5 indicator variables,
+respectively, as well as the second-order factor of organizational learning.
+
+4
+    EXP3: ‘‘This school has a formal process for conducting and evaluating experiments or new ideas.’’
+5
+    LTRL6: ‘‘My principal criticizes views different from his or her own.’’
+
+
+123
+
+J Educ Change
+
+
+
+
+Fig. 4 Final fitted model of the relationship between the three subscales of psychological safety (PS),
+experimentation (EXP), and leadership that reinforces learning (LTRL) and the hypothesized second-
+order factor of organizational learning
+
+
+Question 2: Are the subfactors of psychological safety, experimentation, and
+leadership that reinforces learning (PS, EXP, LTRL) necessary intermediaries to
+organizational learning (OL)?
+
+
+                                                                                          123
+
+                                                                                       J Educ Change
+
+
+Table 2 Table showing the loadings and the estimated composite reliability indices for each of the
+subscales and the second-order factor of organizational learning in our final fitted model
+Construct and indicators           Standardized     Indicator      Error       Composite      Variance
+                                   loading          reliability*   variance*   reliability    extracted
+
+Psychological safety                                                           0.83           0.63
+PS1                                0.90             0.80           0.20
+PS2                                0.76             0.57           0.43
+PS3                                0.71             0.51           0.49
+Experimentation                                                                0.86           0.75
+EXP1                               0.93             0.86           0.14
+EXP2                               0.80             0.64           0.36
+Leading that reinforces learning                                               0.95           0.81
+LTRL1                              0.92             0.84           0.16
+LTRL2                              0.85             0.72           0.28
+LTRL3                              0.87             0.75           0.25
+LTRL4                              0.90             0.80           0.20
+LTRL5                              0.96             0.92           0.08
+
+* Indicator reliability is the square of the standardized loading. Error variance is determined by sub-
+tracting the indicator reliability from 1
+
+
+
+   To test whether the three factors of psychological safety, experimentation, and
+leadership that reinforces learning (PS, EXP, and LTRL) were necessary
+intermediaries to the second-order factor of OL, we tested two rival, hypothesized
+models which describe two possible relationships between OL and the indicators of
+teacher perceptions of OL. The rival hypotheses were constructed to follow CFA
+procedures for testing moderation or mediation of the intermediate constructs on
+overall organizational learning (Kline 2005). The first model (H0 in Fig. 5) proposes
+that organizational learning is an underlying condition which is expressed by
+teacher perceptions of the subfactors of psychological safety, experimentation, and
+leadership that reinforces learning.
+   This hypothesized model met the threshold for acceptable model fit based on
+three goodness-of-fit statistics. Specifically, the RMSEA indicated an acceptable
+model fit with a value of 0.08. Finally, the Bentler’s Comparative Fit Index (CFI) of
+0.98 and Bentler and Bonnet’s Non-Normed Fit Index (NNFI) of 0.98 also indicate
+good fit (Hatcher 1994).
+   In contrast, our rival model posited that the relationships between organizational
+learning and the indicators of teacher perceptions were direct and not moderated by
+the subfactors of psychological safety, experimentation, and leadership that
+reinforces learning (PS, EXP, and LTRL). However, we reject this model based
+on poor fit statistics (RMSEA = 0.17, CFI = 0.880, NNFI = 0.85). We, thereby,
+conclude that the three subfactors of psychological safety, experimentation, and
+leadership that reinforces learning are necessary mediating factors within the
+second-order construct of organizational learning (as shown in Fig. 5).
+
+
+
+123
+
+J Educ Change
+
+
+
+
+Fig. 5 Figure showing rival hypotheses regarding the relationship between the second-order factor of OL
+and the indicators of organizational learning (items)
+
+
+Question 3: What is direction of the relationship between organizational learning
+and the subfactors of psychological safety, experimentation, and leadership that
+reinforces learning?
+   Despite the plethora of research on OL, there is little empirical evidence
+regarding the directionality of the relationship between overall organizational
+learning and its subcomponents. Thus, for our final set of analyses, we used CFA to
+examine the pathway between OL and the three subfactors of psychological safety,
+experimentation, and leadership that reinforces learning (PS, EXP, and LTRL), in
+order to determine the direction of this relationship. We examined and fit two rival
+hypotheses to determine whether the factors were expressions of organizational
+learning or whether, in contrast, they were determinants of organizational learning.
+
+
+                                                                                          123
+
+                                                                                 J Educ Change
+
+
+   Our first hypothesized model (H0 in Fig. 6) proposes that OL is an underlying
+construct or condition that expresses itself through the subfactors of psychological
+safety, experimentation, and leadership that reinforces learning. Based on the fit
+statistics for this model, we confirmed this hypothesis. Specifically, the RMSEA,
+which measures the ‘‘badness of fit,’’ indicated an acceptable model fit with a value of
+0.08 (Hatcher 1994). Bentler’s Comparative Fit Index (CFI) of 0.98 and Bentler and
+Bonnet’s Non-Normed Fit Index (NNFI) of 0.98 also indicate good fit (Hatcher 1994).
+   Our rival model (H1 in Fig. 6) hypothesized that teacher perceptions of
+psychological safety, experimentation, and leadership that reinforces learning
+predict levels of organizational learning. The fit statistics for this model suggest that
+this model fits the data poorly: RMSEA = 0.22, CFI = 0.83, NNFI = 0.75. We,
+thereby, conclude that the observed levels of the indicators of psychological safety,
+experimentation, and leadership that reinforces learning subfactors are measurable
+expressions or manifestations of the second-order construct of organizational
+learning.
+
+
+Discussion
+
+The goal of the present research was to investigate the merits of drawing upon
+and applying organizational learning theory and methods from the field of
+
+
+
+
+Fig. 6 Figure showing rival hypotheses regarding the directionality of the relationship between
+organizational learning and the indicators used to sample this domain
+
+
+123
+
+J Educ Change
+
+
+organizational behavior to better understand organizational learning in schools. We
+investigated these both conceptually and empirically. From a conceptual perspec-
+tive, our review of the OL literature pointed toward a need for better integration
+between two parallel streams of OL research: a cognitive stream that has
+emphasized individuals’ abilities to search, process, store, and manage information
+and a sociocultural stream that has emphasized the social relationships and practices
+in which learning is embedded. As education scholars suggested, the OL literature
+in education has become bifurcated, which has undermined research progress on
+organizational reform.
+   To answer this call for integration in the literature, we drew specifically upon the
+work of Garvin et al. (2008) who published an organizational learning tool for
+practitioners but whose dimensions had not yet been tested or adapted, and for our
+purposes, we applied it to the context of education. By introducing specific
+constructs from organizational behavior theory such as ‘‘psychological safety’’
+(Edmondson 1999), experimentation, and leadership that reinforces learning, we
+provide new ways of describing and also studying the learning environment for
+adults, specifically teachers, in schools. Rather than presenting these constructs as a
+comprehensive tool, we see these measures as augmenting the existing instruments
+and scales in the growing literature on organizational learning in schools, and we
+present them as an integrated conceptualization of key aspects of OL.
+   Using confirmatory factor analyses, we were able to validate three subscales for
+use assessing levels of psychological safety, experimentation, and leadership that
+reinforces learning. We were also able to confirm that even though each of these
+constructs captures a different and necessary dimension of organizational learning,
+they are all explained by the second-order factor of organizational learning. For
+practical purposes, the discrete nature of the subscales suggests that organizational
+learning is indeed a multifaceted construct. As Garvin and colleagues suggest, there
+are discrete dimensions within the domain of organizational learning: ‘‘Each block
+and its discrete subcomponents, though vital to the whole, are independent and can
+be measured separately’’ (Garvin et al. 2008, p. 2). We cannot sample one
+dimension (e.g., experimentation) and assume that we have adequately sampled the
+global construct of organizational learning, nor can we generalize about levels of
+organizational learning from observed levels of one discrete dimension. Rather, the
+subscales considered simultaneously and in an integrated way describe the overall
+construct of organizational learning. In this case, we found that the quality of a
+school’s organizational learning is best understood by considering our three
+subscales jointly.
+   We also found that the second-order factor of organizational learning predicts
+levels of psychological safety, experimentation, and leadership that reinforces
+learning. In other words, in schools with strong organizational learning cultures,
+teachers are more likely to report higher levels of psychological safety,
+experimentation, and leadership that reinforces learning. Although future research
+is warranted, our analyses suggest, therefore, that rather than using the subscales to
+sample preconditions of organizational learning, we may be able to use these scales
+to better understand the dimensionality of organizational learning in different
+contexts. Prior research has suggested that ‘‘building blocks of organizational
+
+                                                                            123
+
+                                                                             J Educ Change
+
+
+learning reinforce each other’’ (Garvin et al. 2008, p. 5), but this is the first empirical
+test of the directionality of these relationships.
+   One way to think about the practical significance of our findings is to consider
+hypothetical examples of how these subcomponents might or might not relate to one
+another in practice. Our findings suggest that only addressing one dimension of
+organizational learning may not lead to higher levels of organizational learning.
+Indeed, one possible interpretation of the analysis is that efforts to increase levels of
+organizational learning cannot do so in a piecemeal way by focusing on one or
+another of the dimensions of organizational learning. For example, consider a
+hypothetical faculty meeting in which the principal acknowledges the limitations of
+her own knowledge and seeks input and direction from the group. However, suppose
+the teachers in her school, for whatever historical and/or external reason, don’t feel
+eager to share what works and does not work and as a faculty, have no habit of
+experimenting with new ways of working. In this context, the principal’s exercise
+of leadership behaviors that support learning might not be a good measure of
+organizational learning in the school as a whole.
+   Rather, achieving higher levels of organizational learning may necessitate paying
+attention to several dimensions of organizational learning concurrently. To return to
+our prior example, in this hypothetical school, the organization has relatively high
+levels of leadership that reinforce learning, but the staff feels unsafe and has little
+experience with experimentation. In order to improve organizational learning, our
+findings suggest that the principal – who already leads in ways that reinforce
+learning—might also need to attend to strategies that address psychological safety
+and experimentation. She might examine these aspects of the climate further and
+follow up with opportunities for pair and share conversations, anonymous feedback,
+and teacher-coach assisted experimentation. However, interventions that might be
+appropriate for this school are potentially very different from possible interventions
+for a school with similar, overall reported levels of organizational learning but in
+which teachers report high levels of psychological safety yet low levels of
+experimentation and leadership that reinforce learning—a context that perhaps
+suggests complacency.
+   As Garvin and colleagues imply, multiple building blocks are ‘‘vital to the
+whole,’’ (Garvin et al. 2008, p. 2); they are essential to building an overarching
+organizational learning environment. This parts/whole perspective jibes nicely with
+recent research on school reform by Bryk et al. (2010) who liken reform to baking a
+cake in which five essential ingredients—including creating an effective school
+learning climate for teachers—must all be included. Here, we offer specific
+constructs that we hope will complement the existing literature in enabling scholars
+and practitioners alike to measure several key facets of organizational learning and
+consider their implications for school improvement.
+
+
+Study limitations and implications for future research
+
+Of course, this study is not without limitations. Future research conducted with a
+larger sample, a higher response rate, and the inclusion of other scales to conduct
+
+123
+
+J Educ Change
+
+
+correlational analyses to test convergent and divergent validity would allow us to
+investigate further whether the relationships originally proposed by Garvin et al.
+(2008) among these OL building blocks of organizational learning perform as
+theory and prior research would suggest. Moreover, teachers in high schools were
+overrepresented in our sample compared to those in elementary schools. Organi-
+zational and cultural differences between elementary and comprehensive high
+school settings may contribute to different understandings of constructs like
+‘‘psychological safety’’ and ‘‘organizational learning’’ in these two contexts—a
+difference that could be untangled in further research. Such analyses would provide
+greater validity for the use of these measures and the instrument introduced by
+Garvin and colleagues employed here.
+   Secondly, this validation study suggests the need for additional development,
+refinement, and field testing of items that sample key dimensions of organizational
+learning. For example, experimentation was reduced to only two items and in its
+modified form, had a relatively high level of error which indicates that it is a weak
+measure. Substantively, a reasonable explanation for this may be that in school
+settings, the word ‘‘experimentation’’ has different connotations than it does in other
+sectors. Moreover, because control over curriculum and instruction is increasingly
+centralized in this particular school system and in other similar large urban school
+systems, teachers may be less likely to associate ‘‘experimentation’’ at the school
+level as a positive component of organizational learning. The weakness of the
+measure may also be related to the substantive changes required for the best overall
+model fit; the two retained items related to the frequency of experimentation while
+the third item (which was eliminated) related to monitoring or evaluating the results
+of experimentation. Examining data on additional measures of organizational
+learning focused on this construct within a different district context, and using
+different, less loaded terms might better inform our understanding of the construct
+of experimentation and/or innovation in school settings. Such analyses might also
+further our ability to extend and build upon recent education research on innovation
+(e.g., Moolenaar et al. 2011).
+   Third, lacking access to demographic and socioeconomic data or disaggregated
+data on student performance linked to the schools in this study, we were also limited
+in our ability to examine relationships between specific school contexts and
+observed levels of organizational capacity beyond those reported. For example,
+although we found that teachers in some schools felt, on average, more
+psychologically safe than teachers in other schools, the limitations of our data
+prevent us from exploring whether these teachers differ from their colleagues in
+some substantive ways making them less likely, for example, to fear being penalized
+for their mistakes. It also limited us on assessing whether those schools differ in
+systematic ways from other schools.
+   Finally, we cannot draw conclusions about what leads to the reported levels of
+organizational capacity that we observed in these data. Without longitudinal data
+that links teacher and school responses over time, we cannot investigate causal links
+between various teacher and school-level characteristics such as access to and
+availability of resources and the levels of organizational learning in those schools.
+Future research that examines these constructs longitudinally along with some clear
+
+                                                                            123
+
+                                                                           J Educ Change
+
+
+outcome indicators would strengthen our understanding of ‘‘organizational capac-
+ity,’’ especially if such quantitative data were coupled with qualitative research. For
+example, insights into the actual behaviors that teachers engage in when
+‘‘experimenting’’ would help us better understand if and how reported levels of
+‘‘experimentation’’ match with actual changes in instructional practice in the
+classroom in schools.
+
+
+Conclusion
+
+This study suggests that a more theoretically integrated understanding of
+organizational learning in schools has much to offer efforts to improve instruction
+and enhance student achievement systemwide. By taking a conceptually integrated
+stance and empirically testing an organizational learning instrument in a large urban
+district, this research contributes to our knowledge of how, from the perspective of
+teachers, organizational learning is manifest at a school site. In this way, our work
+builds upon seminal research on the social context in which teachers work (e.g.,
+McLaughlin et al. 1990) and aligns with contemporary research on organizational
+learning in school systems as well (e.g., Bryk et al. 2010). In particular, the modified
+scales of psychological safety, experimentation, and leadership that reinforces
+learning provide a nuanced tool for examining the key organizational climate,
+practices and processes, and leadership within which collective learning takes place.
+Our findings not only reaffirm the notion that effective school change processes
+must go beyond new programs and structures and attend to the overall culture for
+capacity building, they also suggest that piecemeal interventions that address
+isolated elements of organizational learning may be insufficient for refashioning
+schools into ‘‘learning organizations.’’
+   At the same time, we note that organizational learning may be but one element in
+the equation for high performance. As organizational scholars have recently
+suggested, high performance is most likely achieved when organizations feel a
+strong sense of accountability (or shared responsibility) for creating positive
+outcomes (Edmondson 2008). In the context of school systems design, education
+scholars contend that the accountability of local professionals to educate and
+support every child and his or her caretakers is paramount to improving
+performance (Bryk et al. 2010). At the local level, then, the ideal school may
+possibly be one in which teachers feel psychologically safe to speak up and ask for
+help and are motivated to do so by their shared responsibility or accountability for
+high-quality teaching and learning. As Edmondson (2008) argues, an environment
+in which people feel psychologically safe but not accountable is one in which there
+is apt to be complacency, whereas an environment in which one feels accountable
+but not psychologically safe is one in which individuals are less likely to take risks
+or engage in the kind of transformational learning many experts deem necessary to
+improve schools today. In isolation, the constructs of psychological safety and
+experimentation cannot definitively diagnose the condition of an individual school’s
+organizational culture, but findings based on these scales can point educators and
+researchers towards aspects of school culture that need further exploration. That
+
+123
+
+J Educ Change
+
+
+said, future researchers can build upon our work by examining OL differences
+across schools including observed differences in reported levels of psychological
+safety and experimentation. Moreover, researchers can clarify the relationship
+between these constructs and various teacher and school characteristics including
+teacher experience and teacher learning orientation as well as teachers’ collective
+efficacy and shared accountability for student learning.
+
+
+Appendix A: Items in the scales
+
+Indicators in the initial, hypothesized subscales of organizational learning
+
+Items in the psychological safety (PS) subscale:
+(1)   In this school, it is easy to speak up about what is on your mind.
+(2)   People in this school are usually comfortable talking about problems and
+      disagreements.
+(3)   People in this school are eager to share information about what does and
+      doesn’t work.
+   Items in the experimentation (EXP) subscale:
+(1)   This school experiments frequently with new ways of working.
+(2)   This school experiments frequently with new instructional practices or
+      strategies.
+(3)   This school has a formal process for conducting and evaluating experiments or
+      new ideas.
+   Items in the leadership that reinforces learning (LTRL) subscale:
+(1)   My principal invites input from others in discussions.
+(2)   My principal acknowledges his or her own limitations with respect to
+      knowledge, information, or expertise.
+(3)   My principal asks probing questions.
+(4)   My principal listens attentively.
+(5)   My principal encourages multiple points of view.
+(6)   My principal criticizes views different from his or her own. (reverse coded
+      item)
+
+
+
+
+References
+
+Argyris, C., & Schon, D. A. (1996). Organizational learning II: Theory, methods and practice. Reading,
+     MA: Addison-Wesley.
+Bentler, P. M. (1989). Causal modeling via structural equation systems. In J. R. Nesselroade &
+     R. B. Cattell (Eds.), Handbook of multivariate experimental psychology: Perspectives on individual
+     difference (2nd ed., pp. 317–335). New York: Plenum Press.
+
+
+
+
+                                                                                          123
+
+                                                                                            J Educ Change
+
+
+Bentler, P. M., & Bonett, D. G. (1980). Significance tests and goodness of fit in the analysis of covariance
+     structures. Psychological Bulletin, 88, 588–606.
+Boudett, K. P., City, E. A., & Murnane, R. J. (Eds.). (2005). Data wise: A step-by-step guide to using
+     assessment results to improve teaching and learning. Cambridge, MA: Harvard Education Press.
+Boyd, W. L. (Ed.). (2008). American Journal of Education, 114(4), 521–700.
+Bryk, A. S., Camburn, E., & Louis, K. S. (1999). Professional community in Chicago elementary schools:
+     Facilitating factors and organizational consequences. Educational Administration Quarterly, 35(5),
+     751–781.
+Bryk, A. S., & Schneider, B. (2003). Trust in schools: A core resource for school reform. Educational
+     Leadership, 60(6), 40–44.
+Bryk, A. S., Sebring, P. E., Allensworth, A. L., & Easton, J. Q. (2010). Organizing schools for
+     improvement: Lessons from Chicago. Chicago: University of Chicago Press.
+Chicago Consortium for School Research. (2007). Items that compose the measure innovation. Retrieved
+     from http://ccsr.uchicago.edu/surveymeasures2007/innv.html.
+Cohen, D. (1990). A revolution in one classroom: The case of Mrs. Oublier. Educational Evaluation and
+     Policy Analysis, 12(3), 311–329.
+Cohen, W., & Levinthal, D. (1990). Absorptive capacity: A new perspective on learning and innovation.
+     Administrative Science Quarterly, 35(1), 128–152.
+Cole, M., & Wertsch, J. V. (1996). Beyond the individual-social antinomy in discussions of Piaget and
+     Vygotsky. Human Development, 39(5), 250–256.
+Collinson, V., Cook, T., & Conley, S. (2006). Organizational learning in schools and school systems:
+     Improving learning, teaching, and leading. Theory into Practice, 45(2), 107–116.
+Copland, M. A., & Knapp, M. S. (2006). Connecting leadership with learning: A framework for
+     reflection, planning, and action. Alexandria, VA: Association for Supervision and Curriculum
+     Development.
+Cousins, J. B. (1996). Understanding organizational learning for educational leadership and school
+     reform. In K. Leithwood, J. Chapman, P. Corson, P. Hallinger, & A. Hart (Eds.), International
+     handbook of educational leadership and administration (pp. 589–652). Dordrecht, The Netherlands:
+     Kluwer Academic.
+Darling-Hammond, L. (1996). What matters most: A competent teacher for every child. Phi Delta
+     Kappan, 78(3), 193–200.
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative
+     Science Quarterly, 44(2), 350–383.
+Edmondson, A. C. (2003). Speaking up in the operating room: How team leaders promote learning in
+     interdisciplinary action teams. Journal of Management Studies, 40(6), 1419–1452.
+Edmondson, A. C. (2008). The competitive imperative of learning. Harvard Business Review, 86(7),
+     60–67.
+Elmore, R. F. (2002). Unwarranted intrusion. Education Next, 2(1), 30–35.
+Friendly, M. (1995). Planning a factor analytic study. Retrieved from http://www.psych.yorku.ca/
+     lab/psy6140/fa/facplan.htm.
+Fullan, M. (1995). The school as learning organization: Distant dreams. Theory into Practice, 34(4),
+     230–235.
+Gallucci, C. (2008). Districtwide instructional reform: Using sociocultural theory to link professional
+     learning to organizational support. American Journal of Education, 114(4), 541–581.
+Garvin, D. A., Edmondson, A. C., & Gino, F. (2008). Is yours a learning organization? Harvard Business
+     Review, 86(3), 109–116.
+Giles, C., & Hargreaves, A. (2006). The sustainability of innovative schools as learning organizations and
+     professional learning communities during standardized reform. Educational Administration
+     Quarterly, 42(1), 124–156.
+Goh, S., Cousins, J., & Elliott, C. (2006). Organizational learning capacity, evaluative inquiry and
+     readiness for change in schools: Views and perceptions of educators. Journal of Educational
+     Change, 7(4), 289–318.
+Goh, S., & Richards, G. (1997). Benchmarking the learning capability of organizations. European
+     Management Journal, 15(5), 575–583.
+Hatcher, L. (1994). A step-by-step approach to using the SAS system for factor analysis and structural
+     equation modeling. Cary, NC: SAS Institute.
+Honig, M. I. (2004). Where’s the ‘up’ in bottom-up reform? Educational Policy, 18(4), 527–561.
+
+
+
+123
+
+J Educ Change
+
+
+Honig, M. I. (2008). District central offices as learning organizations: How sociocultural and
+      organizational learning theories elaborate district central office administrators’ participation in
+      teaching and learning improvement efforts. American Journal of Education, 114(4), 627–664.
+Hopkins, D., Harris, A., & Jackson, D. (1997). Understanding the school’s capacity for development:
+      Growth states and strategies. School Leadership and Management, 17(3), 401–411.
+Hord, S. (1997). Professional learning communities: Communities of continuous inquiry and improve-
+      ment. Austin, TX: Southwest Educational Development Lab.
+Hubbard, L., Mehan, H., & Stein, M. K. (2006). Reform as learning: When school reform collides with
+      school culture and community politics. New York: Routledge.
+Huber, G. P. (1991). Organizational learning: The contributing processes and the literatures. Organization
+      Science, 2(1), 88–115.
+Imants, J. (2003). Two basic mechanisms for organisational learning in schools. European Journal of
+      Teacher Education, 26(3), 293–311.
+Johnson, S. M. (1996). Leading change: The challenge of the new superintendency. San Francisco: Jossey
+      Bass.
+Kline, P. (1994). An easy guide to factor analysis. New York: Routledge.
+Kline, R. B. (2005). Principles and practice of structural equation modeling (2nd ed.). New York:
+      Guilford Press.
+Knapp, M. (2008). How can organizational and sociocultural learning theories shed light on district
+      instructional reform? American Journal of Education, 114(4), 521–539.
+Leithwood, K., & Aitken, R. (1995). Making schools smarter: A system for monitoring school and district
+      progress. Thousand Oaks, CA: Corwin.
+Leithwood, K., & Jantzi, D. (2006). Transformational school leadership for large-scale reform: Effects on
+      students, teachers, and their classroom practices. School Effectiveness and School Improvement,
+      17(2), 201–227.
+Leithwood, K., Leonard, L., & Sharratt, L. (1998). Conditions fostering organizational learning in
+      schools. Educational Administration Quarterly, 34(2), 243–276.
+Levinthal, D. A., & March, J. G. (1993). The myopia of learning. Strategic Management Journal, 14,
+      95–112.
+Levitt, B., & March, J. G. (1988). Organizational learning. Annual Review of Sociology, 14, 319–340.
+Louis, K. S., Marks, H. M., & Kruse, S. (1996). Teachers’ professional community in restructuring
+      schools. American Educational Research Journal, 33(4), 757–798.
+March, J. G., & Simon, H. A. (1958). Organizations. New York: Wiley.
+Marks, H. M., & Louis, K. S. (1999). Teacher empowerment and the capacity for organizational learning.
+      Educational Administration Quarterly, 35(5), 707–750.
+McLaughlin, M. W., & Talbert, J. E. (2006). Building school-based teacher learning communities. New
+      York: Teachers College Press.
+McLaughlin, M. W., Talbert, J. E., & Bascia, N. (1990). The contexts of teaching in secondary schools:
+      Teachers’ realities. New York: Teachers College Press.
+Moolenaar, N. M., Daly, A. J., & Sleegers, P. J. C. (2011). Ties with potential: Social network structure
+      and innovative climate in Dutch schools. Teachers College Record, 113(9).
+Porter, A., Polikoff, M., Goldring, E., Murphy, J., Elliott, S., & May, H. (2010). Developing a
+      psychometrically sound assessment of school leadership: The VAL-ED as a case study. Educational
+      Administration Quarterly, 46(2), 135–173.
+Schechter, C. (2008). Organizational learning mechanisms: The meaning, measure, and implications for
+      school improvement. Educational Administration Quarterly, 44(2), 155–186.
+Senge, P. M. (1990). The fifth dimension: The art and practice of the learning organization. New York:
+      Doubleday.
+Silins, H. C., Mulford, W. R., & Zarins, S. (2002). Organizational learning and school change.
+      Educational Administration Quarterly, 38(5), 613–642.
+Stein, M., & Coburn, C. (2008). Architectures for learning: A comparative analysis of two urban school
+      districts. American Journal of Education, 114(4), 583–626.
+Stoll, L. (1999). Realising our potential: Understanding and developing capacity for lasting improvement.
+      School Effectiveness and School Improvement, 10(4), 503–532.
+Stoll, L. (2009). Capacity building for school improvement or creating capacity for learning? A changing
+      landscape. Journal of Educational Change, 10(2/3), 115–127.
+Stoll, L., Bolam, R., McMahon, A., Wallace, M., & Thomas, S. (2006). Professional learning
+      communities: A review of the literature. Journal of Educational Change, 7(4), 221–258.
+
+
+                                                                                             123
+
+                                                                                         J Educ Change
+
+
+Van de Ven, D., & Polley, A. (1992). Learning while innovating. Organization Science, 3(1), 92–116.
+Vygotsky, L. S. (1978). In M. Cole, V. John-Steiner, S. Scribner, & E. Souberman (Eds.). Mind in society:
+    The development of higher psychological processes. Cambridge, MA: Harvard University Press.
+Wertsch, J. V. (1996). A sociocultural approach to socially shared cognition. In L. B. Resnick, J.
+    M. Levine, & S. D. Teasley (Eds.), Perspectives on socially shared cognition (pp. 85–100).
+    Hyattsville, MD: American Psychological Association.
+
+
+
+
+ 123
+View publication stats
+

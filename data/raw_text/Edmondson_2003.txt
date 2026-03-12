@@ -1,0 +1,2161 @@
+               Psychological Safety, Trust, and Learning in Organizations:
+
+                                         A Group-level Lens
+
+
+
+                                       Amy C. Edmondson
+                                     Harvard Business School
+                                        Morgan Hall T93
+                                       Boston, MA 02163
+
+
+                                           May 5, 2003
+
+
+
+                                             Abstract
+
+This paper discusses psychological safety and distinguishes it from the related construct of
+interpersonal trust. Trust is the expectation that others' future actions will be favorable to one's
+interests; psychological safety refers to a climate in which people are comfortable being (and
+expressing) themselves. Although both constructs involve a willingness to be vulnerable to
+others' actions, they are conceptually and theoretically distinct. In particular, psychological
+safety is centrally tied to learning behavior, while trust lowers transactions costs and reduces the
+need to monitor behavior. This paper proposes a model of antecedents and consequences of
+psychological safety in work teams and emphasizes the centrality of psychological safety for
+learning behavior. Drawing from field research in a variety of organizational settings, I describe
+different approaches to studying and measuring psychological safety in teams. I conclude with
+implications of this work including limitations of psychological safety in practice and
+suggestions areas for future research.
+
+
+
+
+                                                                                                  1
+
+       There's much greater openness on this team—it's intangible.
+                - Marketing member, new product development team, manufacturing company
+
+       [In this team] people are put down for being different...
+                 - Accountant, publications team, manufacturing company
+
+       Mistakes [in this unit] are serious, because of the toxicity of the drugs—so you’re never afraid to
+       tell the nurse manager.
+                 - Nurse, Team A, Memorial Hospital
+
+       [The team leader] treats you as guilty if you make a mistake... I was called into her office and
+       made to feel like a two-year old... You get put on trial...
+               - Nurse, Team B, Memorial Hospital
+
+
+                                                 Introduction
+
+       Much work in today's organizations is accomplished collaboratively—involving sharing
+
+information and ideas, integrating perspectives, and coordinating tasks. Teams provide a structural
+
+mechanism through which this collaboration often occurs. A defining characteristic of teams is the
+
+need for different individuals to work together to achieve a shared outcome (Hackman, 1987).
+
+Both the research literature and anecdotal experiences of people who have worked on teams
+
+suggest that working interdependently with others is not always easy. Put simply, some teams
+
+work – members collaborate well – and others don't (Hackman, 1990). What allows people to
+
+openly share ideas and contribute a part of themselves to a collaborative undertaking? This paper
+
+argues that understanding how people perceive the interpersonal climate in the teams in which they
+
+work is an important part of the larger question of understanding both teamwork and learning in
+
+organizations. Trust, the unifying theme of this volume, is a critical input to this interpersonal
+
+climate, as is mutual respect. In this chapter I show that such a climate, which I refer to as one of
+
+psychological safety, enables the willing contribution of oneself – of one's ideas and actions – to
+
+collective work.
+
+       A recent increase in research on trust in organizations suggests a growing interest in
+
+intrapsychic states that affect performance and other organizational outcomes (Kramer, 1999).
+
+Most research on trust has focused on either the experiences of individuals or on organizations as
+
+
+                                                                                                             2
+
+entities and how trust can facilitate inter-organizational relationships, such as with suppliers or
+
+customers. This paper examines psychological safety an intrapsychic state that is especially
+
+salient at the group level of analysis. Below I suggest that psychological safety has particular
+
+salience for small groups, in the same way that trust is particularly relevant for the dyadic
+
+relationship.
+
+       To describe psychological safety and how it differs from trust, I call the reader's attention
+
+to the words of four team members at the opening of this chapter. These data are selected to
+
+represent hundreds of similar quotes, in which team members almost immediately volunteer
+
+descriptions that reveal the presence or absence of psychological safety in their teams in response
+
+to an open-ended question such as, "What is it like to work in this team?" Despite the important
+
+relationship of psychological safety to trust, trust does not accurately capture a particular
+
+dimension of interpersonal experience conveyed in these descriptions – that of how valued and
+
+comfortable an employee feels in that work setting. This paper presents evidence from recent
+
+studies of operating room, nursing, new product development, management, service, and
+
+production teams to illustrate how the construct of psychological safety differs from the related
+
+construct of trust and to propose antecedents and consequences of psychological safety in work
+
+teams. I also examine implications of team psychological safety for organizational learning,
+
+limitations of the construct, and areas for future research.
+
+
+                                 Psychological Safety and Trust
+
+       As psychological safety and trust both describe intrapsychic states related to interpersonal
+
+experience, it is important to clarify conceptual differences between these related constructs, as
+
+well as to establish empirical evidence of the existence and value of psychological safety – the
+
+less familiar of the two. I highlight psychological safety as a distinct, complementary
+
+
+
+                                                                                                      3
+
+phenomenon that, like trust, can affect various behavioral and organizational outcomes. This
+
+section thus distinguishes psychological safety from trust and illustrates this difference drawing
+
+from my own and others’ research.
+
+Psychological safety defined
+
+       Psychological safety describes individuals’ perceptions about the consequences of
+
+interpersonal risks in their work environment. It consists of taken-for-granted beliefs about how
+
+others will respond when one puts oneself on the line, such as by asking a question, seeking
+
+feedback, reporting a mistake, or proposing a new idea. I argue that individuals engage in a kind
+
+of tacit calculus at micro-behavioral decision points, in which they assess the interpersonal risk
+
+associated with a given behavior. In this tacit process, one weighs the potential action against the
+
+particular interpersonal climate, as in, “If I do ‘X’ here, will I be hurt, embarrassed or
+
+criticized?” A negative answer to this tacit question allows the actor to proceed. In this way, an
+
+action that might be unthinkable in one work group can be readily taken in another, due to
+
+different beliefs about probable interpersonal consequences.
+
+       Others have defined psychological safety similarly. Kahn (1990: 708) described it as
+
+“feeling able to show and employ one's self without fear of negative consequences to self-image,
+
+status, or career.” In a qualitative field study, Kahn (1990: 703) found that psychological safety
+
+was one of three psychological conditions that “shaped how people inhabited their roles [in the
+
+organization].” Recent empirical research shows that psychological safety promotes work
+
+engagement (May, Gilson, & Harter, forthcoming). Similarly, in classic research on
+
+organizational change, Schein and Bennis (1965) proposed that a work environment
+
+characterized by psychological safety is necessary for individuals to feel secure and thus capable
+
+of changing their behavior.
+
+
+
+
+                                                                                                     4
+
+       More recently, Schein (1985: 298-299) argued that psychological safety helps people
+
+overcome the defensiveness, or “learning anxiety,” that occurs when people are presented with
+
+data that disconfirm their expectations or hopes, which can thwart productive learning behavior.
+
+Psychological safety does not imply a cozy environment in which people are necessarily close
+
+friends, nor does it suggest an absence of pressure or problems. Rather, it describes a climate in
+
+which the focus can be on productive discussion that enables early prevention of problems and
+
+accomplishment of shared goals, because people are less likely to focus on self-protection. For
+
+this reason, particular attention has been paid to psychological safety in the clinical psychology
+
+literature, as an important element of the therapeutic context (Rappoport, 1997; Swift &
+
+Copeland, 1996; Waks, 1988).
+
+       Unlike most research on psychological safety, my work has focused specifically on the
+
+experience of people in organizational work teams. Work teams are groups within the context of
+
+a larger organization, with clearly defined membership and shared responsibility for a team
+
+product or service (Alderfer, 1987; Hackman, 1987); such teams range in size but often comprise
+
+between five and twenty people. I posit team psychological safety as a group-level construct,
+
+meaning that the construct characterizes the team as a unit rather than individual team members.
+
+Consistent with this, I argue that perceptions of psychological safety tend to be highly similar
+
+among people who work closely together, such as members of an intact team, both because team
+
+members are subject to the same set of contextual influences and because these perceptions
+
+develop out of salient shared experiences (Edmondson, 1999a). For example, most members of
+
+a team will conclude that making a mistake does not lead to rejection when they have had team
+
+experiences in which appreciation and interest are expressed in response to discussion of their
+
+own and others' mistakes. The similarity of beliefs in social systems such as organizations or
+
+
+
+
+                                                                                                     5
+
+work groups is the subject of much inquiry (see reviews by Klimoski & Mohammed, 1994;
+
+Walsh, 1995).
+
+Definitions of trust
+
+       Although a concise and universally accepted definition of trust has remained elusive
+
+(Creed & Miles, 1995; Kramer, 1999), most definitions include an aspect of perceived risk of
+
+vulnerability—also an element of psychological safety as noted above. As discussed below,
+
+however, the nature of this vulnerability is more narrowly defined for psychological safety than
+
+for trust. Mayer, Davis and Schoorman (1995: 712) conceptualize trust as “the willingness of a
+
+party to be vulnerable to the actions of another party, based on the expectation that the other will
+
+perform a particular action important to the truster, irrespective of the ability to monitor or
+
+control the other party.” Similarly, Jones and George (1998: 531-2) maintain that trust is “an
+
+expression of confidence between the parties in an exchange of some kind—confidence that they
+
+will not be harmed or put at risk by the actions of the other party or confidence that no party to
+
+the exchange will exploit the other’s vulnerability.” These authors argue that “trust leads to a set
+
+of behavioral expectations among people, allowing them to manage the uncertainty or risk
+
+associated with their interactions so that they can jointly optimize the gains that will result from
+
+cooperative behavior” (1998: 532).
+
+       Trust is often conceptualized in terms of choice—that is, in terms of the truster’s
+
+decision-making process. Kramer (1999) identifies two approaches in the trust literature,
+
+rational and relational models of choice. Although psychological safety also involves an element
+
+of choice—generally a tacit choice—its definition is easily distinguished from definitions of trust
+
+within the rational model, in which individuals are presumed to make efficient choices based on
+
+risk-evaluation by maximizing expected gains or minimizing expected losses. In this model,
+
+
+
+
+                                                                                                       6
+
+people choose to trust when it is rational to do so. Such rational choices are made through
+
+“conscious calculation of advantages, a calculation that in turn is based on an explicit and
+
+internally consistent value system” (Schelling, 1960: 4; ref in Kramer, 1999). This includes
+
+evaluating the incentives of the other person to honor that trust (Hardin, 1992; as ref in Kramer,
+
+1999). The relational model, in contrast, takes into consideration social aspects, conceptualizing
+
+trust “not only as a calculative orientation toward risk, but also a social orientation toward other
+
+people and towards society as a whole” (Kramer, 1999: 573); in this model, choices are more
+
+affective and intuitive than calculative.
+
+Psychological safety versus trust
+
+       As noted above, the concepts of psychological safety and trust have much in common;
+
+they both describe psychological states involving perceptions of risk or vulnerability, as well as
+
+making choices to minimize negative consequences, and, as explored below, both have potential
+
+positive consequences for work groups and organizations. This section clarifies the distinction
+
+between the two constructs, to propose that they are complementary but distinct interpersonal
+
+beliefs. Three elements of psychological safety are described to distinguish it from trust—the
+
+object of focus, timeframe, and level of analysis.
+
+       Focus on “self” versus “other.” People often equate trust with giving others the benefit
+
+of the doubt—indicating a focus on others’ potential actions or trustworthiness. In discussing
+
+psychological safety, the question is instead whether others will give you the benefit of the doubt
+
+when, for instance, you have made a mistake. To illustrate, at the heading of this chapter, two
+
+nurses describe the interpersonal context in which they work; one reports that she is “never
+
+afraid” to tell her team's manager about mistakes, while the other reports being “made to feel like
+
+a two-year-old” by the manager in her team. Although it might be the case that the first nurse
+
+
+
+
+                                                                                                       7
+
+trusts her manager and the second does not, the meaning of these descriptions is not captured by
+
+the construct of trust. Instead, they depict an interpersonal belief that pertains to feelings of
+
+safety in interpersonal interactions. The nurse who reports being made to feel like a two year old
+
+is likely to monitor her own actions to protect herself, rather than trying to protect herself by
+
+monitoring others' actions.
+
+       Narrow temporal bounds. The tacit calculus inherent in psychological safety considers
+
+the very short-term interpersonal consequences one expects from engaging in a specific action.
+
+For example, a nurse facing the decision of whether to ask a physician in the unit about a
+
+questionable medication dosage may be so focused on the potential immediate consequences of
+
+this question, such as being scolded or humiliated for being uninformed, that she temporarily
+
+discounts the longer-term consequence of not speaking up—that is, the harm that may be caused
+
+to a patient. Although the differential weighting of consequences in this example is clearly
+
+irrational, I have heard countless similar stories across markedly different organizational settings.
+
+The experience of the second nurse highlights this point. After embarrassing past encounters
+
+with her manager, she was inclined to avoid speaking up about errors for fear of getting “put on
+
+trial,” thereby unwittingly discounting the longer-term consequences for patients and for the
+
+team of her silence. The construct of trust, in contrast, pertains to anticipated consequences
+
+across a wide temporal range, including the relatively distant future.
+
+       Group-level analysis. As noted above, team psychological safety is proposed to
+
+characterize groups, rather than describing individual or temperamental differences. It is
+
+conceptualized as an emergent property of the collective, that describes the level of interpersonal
+
+safety experienced by people in a particular group. Members of work teams tend to hold similar
+
+perceptions about this—that is, about “the way things are around here”—because they are
+
+
+
+
+                                                                                                    8
+
+subject to the same influences (for example, by having a common manager) and because many of
+
+their beliefs develop out of shared experiences. Thus, team members of the nurse who reported
+
+being “made to feel like a two year old” independently reported similar feelings of discomfort
+
+about speaking up, for example commenting that “nurses are blamed for mistakes” and “[if you
+
+make a mistake here,] doctors bite your head off.” These nurses, either from personal or
+
+vicarious experience, came to the conclusion that, on this team, reporting mistakes was
+
+interpersonally penalized. In summary, the presence or absence of psychological safety tends to
+
+be experienced at the group level of analysis (Edmondson, 1999a), unlike trust, which pertains
+
+primarily to a dyadic relationship –whether between individuals or collectives such as firms (as
+
+in supplier relationships).
+
+
+                         Studying and Measuring Psychological Safety
+
+Recent Research on Psychological Safety in Work Teams
+
+       In this section I describe field research in four distinct organizational settings that has
+
+explored the nature and role of psychological safety in work groups. Each has taken a slightly
+
+different approach to measuring psychological safety, in part driven by ongoing refinement of
+
+the construct and in part driven by constraints inherent in a given research site or situation. To
+
+clarify how psychological safety can be measured I summarize these projects below.
+
+       Medication error study. In a study designed to investigate the effects of team structure
+
+on the rate of medication errors, an unexpected result suggested the possibility of differences in
+
+psychological safety across eight nursing teams in two hospitals. The highest performing of
+
+these teams, with the most skilled nurse managers, had higher detected error rates than teams
+
+lower on these dimensions. Using interview, observation and archival data, I found significant
+
+differences in members' beliefs about the social consequences of reporting medication errors
+
+
+                                                                                                     9
+
+(Edmondson, 1996). These beliefs could be characterized as tacit; they were automatic, taken-
+
+for-granted assessments of the “way things are around here,” as illustrated in the two nurses’
+
+quotes discussed above. These beliefs varied markedly across the teams; in some teams,
+
+members saw it as self-evident that speaking up is natural and necessary and, in others, speaking
+
+up was viewed as a last resort. The level of psychological safety thus could be inferred from
+
+members' spontaneous reports about what it was like to work in their team and how they viewed
+
+the reporting of errors. These inferences, made by a research assistant unaware of my
+
+hypotheses, were highly correlated with detected error rates. Finally, the study included a single
+
+survey item, “if you make a mistake in this team, it is held against you,” which also provided a
+
+rough index of team psychological safety.
+
+       Change program study. Edmondson and Woolley (2003) used interviews and a survey to
+
+study an organization-wide change program in a large manufacturing company, and found that
+
+psychological safety was associated with the acceptance and perceived usefulness of the
+
+program. First, in interviews, we noticed that people who supported the new program were more
+
+likely to report a sense of psychological safety; for example, one subordinate successfully using
+
+the program’s guidelines with his manager explained, “I could be myself, I don’t have to put on
+
+an act of anything, worry about saying the wrong thing because something [bad] may happen if I
+
+do.” In contrast, a manager in a dyad in which the program was regarded cynically reported,
+
+“I’ve been stepped on a few times for being too straightforward…I’m not real comfortable that
+
+there wouldn’t be repercussions [for speaking up about problems].” Drawing from the interview
+
+data, we developed a six-item survey variable (see Table 1) to assess psychological safety. This
+
+measure had adequate psychometric properties and was a significant predictor of program
+
+acceptance and success, also measured by the survey. The focus in this study was on dyadic
+
+
+
+
+                                                                                                   10
+
+relationships, and psychological safety was measured at the individual level of analysis, with
+
+several items focusing specifically on the manager relationship.
+
+         Manufacturing company study. In a study of 51 teams of different types (including
+
+management, new product development, sales and production teams), I developed and tested a
+
+new seven-item survey measure of team psychological safety, shown in Table 1 (Edmondson,
+
+1999a; 2002). This measure displayed internal consistency reliability and discriminant validity,
+
+and predicted team learning behavior and team performance—as rated by independent observers.
+
+Other survey variables (from Hackman, 1990) assessing team characteristics were included in
+
+the study, allowing me to examine the relationship between psychological safety and well-
+
+designed teams. The study included extensive observation of and interviews with subsets of the
+
+teams to establish the correspondence between qualitative and quantitative data assessing
+
+psychological safety and other variables. Analysis of the individual-level survey data (n=427)
+
+demonstrated the convergence of team members' perceptions of psychological safety, using the
+
+intraclass correlation coefficient. These results supported aggregation to a group level data set
+
+(N=51), with which substantive relationships were tested.
+
+         Cardiac surgery team study. Edmondson, Bohmer and Pisano (2000; 2001) studied
+
+cardiac surgery operating room teams in sixteen hospitals to explore the role of psychological
+
+safety in interdisciplinary teams learning to use a radical new technology, in this case, for
+
+minimally invasive cardiac surgery.1 We used a structured interview protocol and a few open
+
+ended questions to interview 165 informants, including all members of each operating room
+
+
+1
+  Minimally invasive cardiac surgery differed from traditional cardiac surgery in two ways. First, it promised shorter
+and less painful recovery for patients (rather than cutting open the patient’s chest and splitting the breastbone the
+surgeon accessed the heart through a tiny incision between the ribs). Second, the small incision transformed a
+routine procedure with well-established roles and tasks into one that required communication and coordination
+among members of the operating room team. Direct tactile and visual data previously available to surgeons was
+replaced by information displayed on monitors that had to be communicated to the surgeon by others. The OR team
+thus had to learn a new work routine that altered the surgeon’s role as sole authority with privileged access to data.
+
+
+                                                                                                                   11
+
+team, as well as others in each hospital who might provide additional information or perspective
+
+about the implementation of the new technology. Both because of the small number of teams
+
+and because of the busy schedule of surgeons and other operating room team members, it was
+
+impractical to use a team survey in this setting.
+
+       Instead, we developed two independent quantitative measures of psychological safety by
+
+coding qualitative data as follows. First, notes from informants' responses to several questions
+
+about the team, including what they would do if faced with a certain potential complication, were
+
+rated by the interviewers using a three-point scale: “the atmosphere and interaction in this team
+
+is characterized by (3) open reciprocal communication (very free and effortless), (2) respectful
+
+but guarded communication (picking the right moment to speak, pronounced awareness of status
+
+differences), and (1) communication that is quite limited, with some members extremely hesitant
+
+to speak up (low status members walk on eggshells).” Second, we asked two research assistants
+
+to rate 168 quotes previously coded as relevant to psychological safety on a three-point scale
+
+from high (easy to speak up about anything on one's mind) to low (people appear to be very
+
+uncomfortable speaking up and only do with extreme difficulty), using anchors we developed
+
+together in a preparatory training session. One-way ANOVA showed highly significant
+
+differences in ratings across teams, and these data were aggregated to produce a group-level
+
+measure that was significantly correlated with the interviewers’ ratings (Edmondson,
+
+forthcoming).
+
+       These four studies have investigated and measured psychological safety using both
+
+quantitative and qualitative data, and the resulting data have consistently supported aggregation
+
+to the group level of analysis. Findings and examples from these studies are used throughout this
+
+paper to illustrate several new theoretical propositions.
+
+
+
+
+                                                                                                    12
+
+Other measures of psychological safety
+
+         In a qualitative field study in an architecture firm and a summer camp, Kahn (1990) used
+
+a series of open-ended questions to measure the constructs of psychological safety,
+
+meaningfulness and availability. The study examined the effect of psychological safety on team
+
+members’ willingness to engage, that is, “employ or express themselves physically, cognitively,
+
+and emotionally during role performances,” versus disengage, that is, “withdraw and defend
+
+their personal selves” (1990: 694).
+
+         West (1990: 311) investigated a related construct, “participative safety,” in work teams—
+
+defining it as “a construct in which the contingencies are such that involvement in decision-
+
+making is motivated and reinforced while occurring in an environment which is perceived as
+
+interpersonally non-threatening.” Anderson and West (1994b) developed a survey instrument,
+
+the Team Climate Inventory (TCI), to measure participative safety and three other “team
+
+climate” factors.2 Team climate refers to “the norms, atmosphere, practices, interpersonal
+
+relationships, enacted rituals and ways of working developed by a team” (Anderson & West,
+
+1994a: 81). The TCI’s participative safety scale includes such issues as influence over decision
+
+making, information sharing, interaction frequency and safety (Anderson & West, 1994a). (See
+
+Table 1.) Versions of the instrument have been used by several researchers in settings including
+
+health care, community psychiatric care, social service, and industrial management (Kivimaki,
+
+Kuk, Elovainio, Thomson, & al, 1997; Schippers, 2003).
+
+
+                                   Antecedents of Psychological Safety
+
+
+
+
+2
+ The others are vision, task orientation, and support for innovation. The TCI can be obtained from the Institute of
+Work Psychology at Sheffield University, Sheffield, England.
+
+
+                                                                                                                      13
+
+         A central challenge in organizational research on both trust and psychological safety is
+
+how to create these positive states.3 This section proposes antecedent conditions likely to give
+
+rise to psychological safety in work teams. Some of these propositions are supported by past
+
+research; others will require future work to support arguments presented here. Five factors that
+
+may increase the chances of intact work groups having psychological safety are presented below.
+
+Although I draw upon others research on individuals' experiences, these propositions focus on
+
+the work group or team context.
+
+Leader behavior
+
+         There can be little doubt that formal power relations affect perceptions of interpersonal
+
+risk in the workplace. The research literature has demonstrated this in numerous ways, showing
+
+for example that bad news is rarely transmitted “up” the hierarchy (Lee, 1993) and that
+
+subordinates are less likely to ask for help from bosses than from peers or others (Lee, 1997). In
+
+a related vein, supportive managerial behavior has been shown to have a positive effect on
+
+creativity (e.g. Amabile, Conti, Coon, Lazenby, & Herron, 1996, Deci, Connell, & Ryan, 1989).
+
+Creativity, a form of free self-expression, is likely to involve some degree of psychological
+
+safety in an organizational setting.
+
+         Research has also shown that team members are particularly aware of the behavior of the
+
+leader (Tyler & Lind, 1992), such that his or her responses to events and behaviors are likely to
+
+influence other members' perceptions of appropriate and safe behavior. One implication of the
+
+finding that leader behavior is especially influential is that leaders of work groups may have to
+
+
+
+3
+  Kramer (1999: 575-581) identified individual and organizational factors that affect trust. These include (1) the
+truster’s disposition – that is, their generalized attitude toward people, based on past experiences with trust in
+general (2) the past history or cumulative interaction between the truster and the trustee, or a combination of the
+truster’s expectations and the extent to which they are validated over time, (3) the input of third parties, (4) the
+category or role of the trustee, for example, successful role occupation signals trust in competence, and (5) explicit
+and tacit organizational rules and norms which filter down to the micro-level, such as “open-door” policies.
+
+
+                                                                                                                     14
+
+go out of their way to be open and coaching oriented to create an atmosphere of psychological
+
+safety. A benefit of this effort for the leaders is that they are more likely to learn what people are
+
+really thinking and feeling, if psychological safety is present (see discussion of consequences,
+
+below). In short, leader behavior sets a salient example for how to behave, and beliefs about
+
+how leaders will use their power is likely to affect psychological safety. At the group level of
+
+analysis, the behaviors that directly influence members’ perceptions are generally not those of
+
+the organizations’ chief executive or senior managers but are instead those of team leaders,
+
+middle managers, and front line supervisors, who interact face to face with team members. I
+
+speculate that three aspects of leader behavior in particular will promote psychological safety:
+
+(1) being available and approachable, (2) explicitly inviting input and feedback and (3) modeling
+
+openness and fallibility.
+
+       Accessibility. By making themselves available and approachable, leaders may reduce
+
+perceived barriers that prohibit discussion. In contrast, if leaders assume authoritative stances or
+
+act in punitive ways, team members are likely to feel that their opinions are not welcomed or
+
+valued (Edmondson, 1996). In our study of operating room (OR) teams, we found that surgeon
+
+accessibility varied significantly and that this was associated with differences in team members'
+
+perceptions of psychological safety. An OR nurse at Suburban Hospital4 implicitly makes this
+
+association, describing the surgeon leading her team as “very accessible. He’s in his office,
+
+always just two seconds away. He can always take five minutes to explain something, and he
+
+never makes you feel stupid.” In striking contrast, the surgeon in another team requested that
+
+non-physician team members go through his residents rather than speak to him directly.
+
+Through this behavior, these two surgeons conveyed vastly different messages to their respective
+
+teams. The first surgeon increased the likelihood that people would come to him with questions
+
+
+
+
+                                                                                                    15
+
+or problems, while the second surgeon closed off potential discussion by making it difficult to
+
+reach him. Overall, our measures of psychological safety showed that teams with accessible,
+
+coaching oriented surgeons were more likely to perceive the team environment as safe.
+
+           Inviting input. Similarly, leaders who explicitly ask for team members’ input are likely to
+
+encourage team psychological safety. Soliciting feedback suggests to others that their opinion is
+
+respected; it may also contribute to as norm of active participation. At the other end of the
+
+spectrum, when leaders discourage input or discussion, verbally or otherwise, team members are
+
+less likely to express their opinions, fearing potential negative consequences. The extent to
+
+which surgeons encouraged input and feedback from OR team members varied greatly across the
+
+16 hospitals we studied. To illustrate, the OR technician who runs the heart-lung bypass
+
+machine (the “perfusionist”) at Suburban Hospital recalled:
+
+            [The surgeon] gave us a talk about what minimally invasive surgery is about—the kind of
+           communication he wanted in the OR, what results he expected, and told us to immediately let him
+           know—let us know if anything is out of place.
+
+           In contrast, the surgeon at Decorum Hospital, described by several team members as “the
+
+commander of the ship,” did not actively encourage discussion from his team. This team’s
+
+perfusionist commented:
+
+           He’s a tough man. He doesn’t openly invite input from my point of view. He may get it
+           elsewhere, but there is no open forum. For example, sitting in a room and talking about [the
+           device] and what we can do to make it better and keep it going; no there is none of that
+           communication at all.
+
+           Modeling openness and fallibility. How team leaders behave is likely to set an implicit
+
+model of acceptable behavior in the team, because of the implications of power in organizations.
+
+Team members are thus likely to mimic the behavior of leaders, such that if leaders are taciturn
+
+and their behavior indicates that certain matters are best not discussed, others will follow their
+
+example. Explicitly demonstrating fallibility or vulnerability can help reduce counterproductive
+
+4
+    All hospital names are pseudonyms.
+
+
+                                                                                                             16
+
+barriers created by status differences. Team members who hear their leader admit to the group
+
+that he or she made a mistake are likely to remember this the next time they make mistakes and
+
+feel more comfortable bringing this up. To illustrate, a perfusionist in the OR team at Eastern
+
+Medical Center reported: “[The surgeon] has created an atmosphere where that happens. He
+
+models the behavior. He’ll say ‘I screwed up. My judgment was bad in this case.’” By
+
+admitting mistakes himself, this surgeon signaled to the team that errors and concerns could be
+
+discussed without fear of punishment (Edmondson et al., 2001). In sum, team members are
+
+likely to conclude that their team environment is safe if the leader is coaching-oriented, invites
+
+questions and feedback, and has non-defensive responses to questions and challenges.
+
+        Proposition 1: The actions of team leaders—including being accessible, inviting input
+
+        and modeling openness—promote team psychological safety.
+
+Trusting and respectful interpersonal relationships
+
+        Much research examines the cognitive and affective bases for interpersonal trust (e.g.
+
+McAlister, 1995; Zucker, 1986). Others have studied the role of interpersonal trust with respect
+
+to psychological safety; for example, a recent study (May, Gilson & Harter, forthcoming)
+
+showed that co-worker trust had a significant positive effect on psychological safety. Kahn
+
+(1990) concluded that: “interpersonal relationships [in the architecture firm] promoted
+
+psychological safety when they were supportive and trusting.” Informants in his study felt free to
+
+share ideas and concepts about designs when they believed that any criticism would be
+
+constructive rather than destructive (Kahn, 1990). The belief that others see one as competent
+
+(an aspect of respect) is particularly salient in this context; those who feel that their capability is
+
+in question are more likely to feel judged or monitored and thus may keep their opinions to
+
+themselves for fear of harming their reputation (Moingeon & Edmondson, 1998). In sum, if
+
+
+
+
+                                                                                                      17
+
+relationships within a group are characterized by trust and respect, individuals are likely to
+
+believe they will be given the benefit of the doubt—a defining characteristic of psychological
+
+safety.
+
+           Proposition 2: Trust and respect in horizontal group relationships promote team
+
+           psychological safety.
+
+“Practice fields”
+
+           “Practice fields,” a term introduced by Senge (1990), describes forums deliberately set up
+
+to practice rather than take action and to reflect upon the results. Senge (1990) points out that it
+
+is difficult for managers to learn because they lack the practice or rehearsal settings used by other
+
+kinds of teams, such as professional sport teams, orchestras, or cockpit crews; instead,
+
+management teams typically must learn in the real playing field, where the stakes are high. As a
+
+former hospital chief commented about airplane pilots, “Nobody says [to pilots], ‘Well, you read
+
+the book on the 727, now take it up.’”5 Cockpit crews in training use simulations to help them
+
+learn in a safe environment—to see which strategies work, what they will require of each
+
+member, where the weak links are, and to practice responding to unexpected events—prior to
+
+their first flight.
+
+           In contrast, managers and most physicians must make decisions in the “real” playing
+
+field, without the benefit of a practice field in which to try out different strategies and learn from
+
+failure. Therefore, managers who set up a kind of practice field environment, off line, can
+
+deliberately try to cultivate psychological safety in that environment such that participants
+
+understand that harmful consequences of mistakes and failures are removed or suspended. These
+
+practice fields can take the form of trial (“dry”) runs, off site or off-line meetings, and multiple
+
+
+
+5
+    Ellen Goodman, “Getting it right in the O.R.,” The Boston Globe, Jan 13, 2000, p. A19.
+
+
+                                                                                                       18
+
+kinds of simulations. (See Isaacs & Senge, 1992 and Sterman, 1989 for descriptions of the use
+
+of management simulation exercises to promote learning.)
+
+       Practice fields are likely to contribute to psychological safety not only because real
+
+financial or medical consequences are removed but also because they convey to the members of
+
+the team that learning is important and that getting it right the first time is understood to not
+
+always be possible. Discussing and experiencing aspects of the team task off line highlights
+
+potential problems that may occur, and because there are no material consequences of errors
+
+individuals are likely to speak up about them. This use of practice fields is related to leader
+
+behavior in that leaders are most often in a position to suggest and implement them.
+
+       Across the cardiac surgery teams, we found striking differences in the use of “dry run”
+
+sessions, in which the team ran through the operation without a patient present, following formal
+
+training and in advance of the first real case. Some teams conducted thorough dry runs with all
+
+team members present, running through all of the steps of the procedure, as if it were happening,
+
+and even discussing how they wished to communicate with each other as a team in the real
+
+operation. Other teams conducted practice sessions without the high status, potentially
+
+intimidating surgeons present; some reviewed only technical aspects of the equipment, rather
+
+including communication, and finally some teams reported only reading the manual to prepare.
+
+A particularly thorough dry run was carried out by an OR team at Suburban Hospital, which also
+
+had a high level of psychological safety. This team went through the entire procedure, step-by-
+
+step, while talking about how they would communicate with each other differently than in
+
+conventional cases. As reported by the perfusionist:
+
+       [First] we had a couple of talks in advance, and [then] the night before [the first case] we walked
+       through the process step by step. Took two and half or three hours to do it. We communicated
+       with each other as if it were happening, i.e., the balloon is going in, and so on. The surgeon gave
+       us a talk about what [the new technology] is about. The kind of communication he wanted in the
+
+
+
+
+                                                                                                             19
+
+         OR, what results he expected, and told us to immediately let him know—let us know if anything is
+         out of place.
+
+         In striking contrast, at another hospital, the team that conducted the first operation
+
+included none of the members who had attended training, other than the surgeon; in fact, the
+
+operation was the first time many of them had seen any of the equipment. The extent to which a
+
+team engaged in a thorough dry run was significantly correlated with team psychological safety
+
+across all 16 teams.6 Surgeons who conducted such practice fields signaled to other team
+
+members that mistakes were inevitable and that input and communication were required for
+
+success. This allowed other team members to perceive their environment as safe to discuss
+
+mistakes and offer observations.
+
+         Proposition 3: The use of “practice fields” promotes team psychological safety.
+
+Organizational context support
+
+         Past research has shown that structural features of team design, including context support,
+
+increase team effectiveness (Hackman, 1987; Wageman, 1998). The extent of context support
+
+experienced by a team is proposed to foster team psychological safety as well, because access to
+
+resources and information is likely to reduce insecurity and defensiveness in a team, such as
+
+caused by concerns about unequal distribution of resources within or between an organization’s
+
+teams.
+
+         Survey measures of team psychological safety and context support7 were highly
+
+correlated in the manufacturing company study; however, this association was a rule with some
+
+striking exceptions. Some teams with notably high psychological safety in this sample faced
+
+substantial organizational barriers, such as having members frequently pulled away to work on
+
+
+
+6
+ Both variables were measured by structured interview scales; the correlation was r=50, p<.05.
+7
+ Context support items include “this team gets all the information it needs to do our work and plan our schedule,”
+and “good work is rewarded in this organization.” The correlation was r=.70, p<.01, for n=51 teams.
+
+
+                                                                                                                     20
+
+other tasks, yet continued to have a sense of openness and cohesion that may have been
+
+strengthened by the shared experience of surmounting hurdles (Edmondson, 1999a). In sum, this
+
+study suggested that context support may be helpful but not essential in promoting psychological
+
+safety.
+
+          Proposition 4: A supportive organizational context promotes team psychological safety.
+
+Emergent group dynamics
+
+          In addition to the effects of formal power and leadership behavior discussed above,
+
+informal, emergent dynamics in a team are also likely to affect psychological safety. The notion
+
+of emergent group dynamics describes the interplay of roles and “characters” that people assume
+
+or are assigned in typical work relationships (Kahn, 1990; Bales & Strodtbeck, 1951). Kahn
+
+proposes that team members assume roles and unacknowledged characters in the unconscious
+
+plays that develop in organizations, such as those dealing with authority, competition and
+
+sexuality. These roles are often formed independently of formal assignments. He further
+
+proposes that the psychological safety experienced by a group member will depend on where
+
+their “character” stands in the informal group play.
+
+          In Kahn’s (1990) study of an architecture firm, the firm’s president was viewed as the
+
+“father figure,” with other members taking supporting roles such as “mother” or “son.” Each of
+
+these “family members” experienced different degrees of safety to express themselves based on
+
+their relationship to the father. The “mother” felt that her role “lets me interact with him [the
+
+president] and with others pretty much as I want to, within limits” (1990: 710). Similarly, a
+
+“favored son” claimed “I tend to be seen as the next generation of designers that he lays out. My
+
+designs aren’t questioned as much as those of others, and I think it’s because I’m seen as
+
+following his tradition, but in my own way” (1990: 710). In contrast, the team member who took
+
+
+
+
+                                                                                                    21
+
+on the persona of the “bad son” wore earrings, cracked jokes, dyed his hair red…and felt
+
+“frustrated” because he felt that he was seldom able to engage. This study showed that
+
+differences in psychological safety can emerge as a consequence of group interactions.
+
+       Proposition 5: Team psychological safety is influenced by informal dynamics in the
+
+       team.
+
+                             Consequences of Psychological safety
+
+       As noted earlier, the level of psychological safety in a team is likely to affect the way
+
+members interact with each other. In particular, psychological safety is likely to affect behaviors
+
+related to learning and improvement (Edmondson, 1999a; 1999b). Below, I discuss five specific
+
+learning-oriented behaviors that may be enabled by team psychological safety.
+
+Help-seeking
+
+       Each member of a team can look to other members to provide information or perspective
+
+to help them solve a challenging problem. Help seeking can increase others’ awareness of
+
+opportunities for cooperative behavior (Anderson & Williams, 1996). Yet power dynamics often
+
+cause people in organizations to avoid seeking the help they need. Using an experimental
+
+paradigm, Lee (1997) showed that co-worker power (whether confederates were labeled bosses
+
+or subordinates) affected participants’ help-seeking behavior. In the presence of a high power
+
+colleague, participants confronted with a difficult problem-solving task were significantly less
+
+likely to ask for help than if the colleague had low power—despite the fact that help was
+
+essential for task completion. As this result suggests, seeking help from those in a position to
+
+judge your performance or ability involves interpersonal risk. Asking for help brings a potential
+
+risk of appearing incompetent, and—as psychological safety alleviates excessive concern about
+
+others' reactions—it is likely to promote help seeking in teams.
+
+
+
+                                                                                                   22
+
+        To illustrate this association, I found substantial differences in self-reported help seeking
+
+behavior across teams in the manufacturing company. Members of a factory production team,
+
+for example, volunteered reports of seeking help to assess their product; for example, “if we have
+
+a quality issue—we’re not sure about something we’ve just done—we’ll bring others in without
+
+telling them what the issue is to ask them if they see a problem with this part.” This team stood
+
+in striking contrast to another production team in the same company, whose members, according
+
+to an internal consultant, didn’t ask for help because they “don’t want to look like brown-
+
+nosers.” And a local supervisor noted, “If there’s a technical problem, they don’t ask the
+
+engineers for help,” and similarly “they were having problems with the glue, but they didn’t get
+
+help; they just sit and don’t work, then they get overtime on Saturday.” The survey measure of
+
+team psychological safety was significantly correlated with responses to a single survey item
+
+measuring help-seeking behavior8 filled out by two or three independent observers of each team
+
+(r=.37, p<.01), supporting the following proposition.
+
+        Proposition 6: Psychological safety promotes help-seeking behavior in work teams.
+
+Feedback-seeking
+
+        Attention to feedback has been shown to promote learning (Schön, 1983) and enhance
+
+performance of individual managers (Ashford & Tsui, 1991) and teams (Ancona & Caldwell,
+
+1992). Like help-seeking, feedback-seeking is often essential to successful task completion, and
+
+carries similar interpersonal risk. Requests for feedback from other team members or other
+
+groups place the seekers in a vulnerable situation, where they are poised to hear negative
+
+criticism. This may cause them “learning anxiety,” driven by the fear of losing “effectiveness
+
+
+
+8
+ The item was, "This team asks for help from others in the company when something comes up that team members
+don't know how to handle." The response alternatives were "Never, Infrequently, Sometimes, Often, or Always,"
+and observer' mean responses provided a group-level measure.
+
+
+                                                                                                           23
+
+and self-esteem” (Schein, 1995). Team psychological safety, which diminishes the concern that
+
+others will respond in a way that is cruel or humiliating, is likely to encourage feedback-seeking.
+
+       Two new product development teams in the manufacturing company represented
+
+extremes of feedback-seeking behavior. The “Sidekick” team actively sought feedback from
+
+more experienced people in the company. A senior manager noted that “[Sidekick’s leader] asks
+
+me to come [to some meetings]; she wants my view, my industry experience and how Sidekick
+
+fits with [the company’s] systems strategy.” In contrast, a team working on a similar project, the
+
+“Radar” team, remained strikingly insular. Members reported spending considerable time
+
+developing details of a new product design before soliciting customer input, only to discover that
+
+customers were not interested in the product idea in the first place. Members of this team also
+
+did not feel comfortable offering ideas or bringing up problems in the team, and one explained
+
+“[the team leader] doesn’t want to hear it.” Another member noted that the leader of the team
+
+“would be afraid to tell [the senior manager] when things weren't going well—so we didn't
+
+always get his [the senior manager’s] feedback.”
+
+       A team’s ability to seek feedback can have a significant effect on their performance.
+
+Because Radar received little external input, the team was less able to notice and fix what they
+
+were doing wrong. One team member noted “We did make changes, but too slowly […] we
+
+found ourselves going in circles a lot. Sometimes this took a lot of time.” Another member
+
+explained “…[there were a lot of] blind alleys…We had a preconceived notion of what was
+
+important that prevented us from seeing [the solution we finally developed].” Sidekick had
+
+greater team psychological safety than Radar, and overall, team psychological safety was
+
+
+
+
+                                                                                                   24
+
+correlated with observer’s ratings of team feedback-seeking behavior (a three-item scale)9
+
+(r=.51, p<.001).
+
+         Proposition 7: Psychological safety facilitates feedback-seeking behavior in and by a
+
+         team.
+
+Speaking up about errors and concerns
+
+         In both the management and medical literatures, noted scholars have advocated
+
+discussion of concerns and failures in organizations (Kohn, Corrigan, & Donaldson, 2000;
+
+Leonard-Barton, 1995; Michael, 1976; Schein, 1993; Sitkin, 1992), but less attention has been
+
+paid to the social psychological factors enabling people to do this. Psychological safety is
+
+proposed to allow team members to speak up about concerns and problems directly, by
+
+alleviating concerns about repercussions. Psychological safety makes it possible for people to
+
+believe that the benefits of speaking up outweigh the costs (e.g., the potential embarrassment) for
+
+the speaker.
+
+         The role of psychological safety was particularly salient in the cardiac surgery and
+
+nursing team studies. Healthcare provides a good context in which to draw examples of
+
+speaking up—especially given recent public attention to the widespread problem of error in
+
+hospitals (Pear, 1999; Zuger, 1999). Remaining silent about a questionable medication order in a
+
+nursing team could lead to serious patient injury. Similarly, in an OR team, not speaking up
+
+about a potential problem can critically affect clinical outcomes. Yet, in some of the OR teams
+
+we studied, speaking up about potentially life threatening problems was often seen as difficult or
+
+impossible to do, such that team members would first wait to see if someone else might notice
+
+the same concern and speak up instead.
+
+
+9
+ A representative item is "This team asks its internal customers (those who receive or use its work) for feedback on its
+performance." Cronbach's alpha for this scale, created for this paper, is .79.
+
+
+                                                                                                                   25
+
+       In the cardiac surgery study, psychological safety was assessed in part using team
+
+members’ reports of how easy or difficult it was to speak up, such our measures of psychological
+
+safety and speaking up are confounded. However, these data shed light on how perceptions
+
+related to the interpersonal context affect people’s willingness to speak up and also show that the
+
+willingness to speak up can vary across otherwise highly similar teams. The homogeneity of OR
+
+teams in cardiac surgery—in terms of structural features such as composition, task, or goal—
+
+highlights the role of interpersonal and intrapsychic factors in explaining observed behavioral
+
+differences across teams. To illustrate, members of the OR team at Decorum reported being
+
+uncomfortable mentioning potential problems they observed during the minimally invasive
+
+operation; as a nurse explained,
+
+       [If I noticed that the balloon pressure was a little low], I’d tell the adjunct. Or I might whisper to
+       the anesthesiologist, ‘Does it look like it migrated?’ In fact I’ve seen that happen. It drives me
+       crazy. They are talking about it, the adjunct is whispering to the anesthesiologist, it looks like it
+       moved or there is a leak in the ASD or something and I’m saying you’ve got to tell him. Why
+       don’t you tell him? But they are not used to saying anything. They are afraid to speak out. But
+       for this procedure you have to say stuff.
+
+Similarly, the perfusionist at Decorum described an interaction with the surgeon after he had
+
+noticed and mentioned having some trouble with the venous return:
+
+       The surgeon said, ‘Jack, is that you?’ I said ‘yes’. He said, ‘Are you ‘doing’ this case?’ I said,
+       ‘No, I’m assisting.’ ‘Well in the future, if you are not doing this case I don’t want to hear from
+       you.’ It is a very structured communication.
+
+Other members of this team reported that they would only speak up if they had caused the
+
+problem, not if it was someone else’s mistake. This can be contrasted with other teams in the
+
+sample. For example, an anesthesiologist at Saints Hospital noted that everyone in the OR team
+
+was very comfortable speaking up:
+
+       We speak up easily. At the beginning, we spoke up about everything; after a while, we realized
+       what was really important. No one is intimidated by the surgeons or the situation. I think the
+       surgeons make it so. They make it easy to speak up…. It is not a problem even for an RN to speak
+       up.
+
+
+
+
+                                                                                                                26
+
+And in another team, a perfusionist explained, “You have to level with these guys. I feel
+
+comfortable when admitting a mistake.” (Memorial Hospital). At Urban Hospital, a senior OR
+
+nurse reported an incident in which a junior nurse pointed out the senior’s mistake:
+
+         ...in the last case, we needed to reinsert a guide wire and I grabbed the wrong wire and I didn’t
+         recognize it at first. My circulating nurse said, ‘Sue, you’ve grabbed the wrong wire.’ This shows
+         how much the different roles don’t matter. We all have to know about everything. You have to
+         work as a team.
+
+Her ease in sharing this story about an error being pointed out by a subordinate in an interview
+
+itself suggests a high level of comfort admitting mistakes in her team.
+
+         These examples show how a sense of psychological safety can make it easier to speak up
+
+across status and role boundaries. Like many work settings, the hospital environment is highly
+
+structured, including having well defined status differences within the OR team. Some surgeons
+
+recognized a need to work to reduce these kinds of barriers to be able to learn to carry out
+
+minimally invasive surgery. An anesthesiologist at Eastern Medical Center highlighted this
+
+point:
+
+         The perception that the surgeon has to know everything has to change... Each person has an
+         important job. For minimally invasive surgery you can’t ever stop talking. For [minimally
+         invasive surgery], I have to be able to tell the surgeon to stop. This is very new. I would never
+         had dared to say anything like that before, nothing was that important. So you have to develop a
+         way to deal with communication in advance, such as anesthesia can be telling the surgeon what to
+         do. It has got to be legitimate. This is really important.
+
+Speaking up, especially in ways that can reflect on others’ performance, means crossing the lines
+
+that delineate roles. In particularly stratified work environments, this can require courage on the
+
+part of the speaker; however, psychological safety can reduce concerns about interpersonal
+
+sanctions from crossing status lines.
+
+         Finally, evidence of this relationship is provided by the nursing team study in which the
+
+reverse-scored survey item (“If you make a mistake in this team, it is held against you”) was
+
+correlated with errors made that were actually intercepted by other team members before
+
+
+
+
+                                                                                                              27
+
+reaching patients (Edmondson, 1996). Some teams thus reported being comfortable speaking up
+
+about errors (“People feel more willing to admit errors here because [the nurse manager] goes to
+
+bat for you.” (Team C, Memorial Hospital), in contrast to others (“people are nervous about
+
+being called into the principal’s office...” and “people don’t advertise errors here; if there’s no
+
+adverse event, then don’t report it.” (Team D, Memorial Hospital)
+
+       Proposition 8: Team psychological safety promotes speaking up about errors and
+
+       concerns.
+
+
+Innovative Behavior and Innovation
+
+       Innovative behavior can be defined as doing novel or different things intelligently, to
+
+produce useful outcomes. West (1990) argued that “participative safety” in teams encourages the
+
+freedom to offer new ideas and experiment with different behaviors without fear of looking
+
+stupid or being embarrassed. Innovative behavior has much in common with “voice,” defined by
+
+Van Dyne and LePine (1998: 109) as being comfortable “making innovative suggestions for
+
+change and recommending modifications to standard procedures even when others disagree.”
+
+       West (1990: 320) theorizes that “participative safety is a necessary but not sufficient
+
+condition for high levels of innovation. He draws from developmental and clinical psychology
+
+to show a basis for this relationship, noting that research on child development shows that
+
+children with secure bonds with their parents are more likely to explore new situations sooner
+
+than children whose bonds are less secure (Ainsworth & Bell, 1974; in West, 1990). Similarly,
+
+research indicates that patients whose therapeutic alliances are characterized by interpersonal
+
+safety, lack of judgement, and consistency of support are more likely to explore the most
+
+threatening aspects of their experiences (West, 1990; Rogers, 1961). West argues similarly that
+
+innovation will occur more frequently if people feel safe. Psychological safety, by enabling risk-
+
+
+
+                                                                                                      28
+
+taking and the willingness to suggest new ideas without fear of embarrassment, may support
+
+innovative behavior and innovation in teams.
+
+       Other research has shown that participation leads to less resistance to change (Wall &
+
+Lischeron, 1977; in West, 1990), and that the more frequently people participate in decision-
+
+making, the more likely they are to offer ideas for new and improved ways of working (West &
+
+Wallace, 1988). This increased interaction leads to cross-fertilization of ideas (Mumford &
+
+Gostafson, 1988; in West, 1990) which is important to creativity and innovation. Similarly, if
+
+psychological safety promotes information sharing, this gives individuals more knowledge with
+
+which to develop new ideas.
+
+       West argues that participative safety influences quality of innovation as well as quantity.
+
+For example, the cross-fertilization of ideas can increase an innovation’s significance or novelty.
+
+Moreover, innovations developed in this way are likely be implemented because high levels of
+
+participation lead to less resistance to change (Wall & Lischeron, 1977) and because thorough
+
+discussion may surface potential weaknesses or errors in advance, preventing later problems, in
+
+the process of producing an innovation.
+
+       I found substantial differences in innovation across cardiac surgery teams learning to use
+
+a new technology. As an administrator at University Hospital reported “Our surgeons are very
+
+creative. They see something that works well here and they see it will apply elsewhere.” In
+
+contrast, an anesthesiologist at State University Hospital commented: “It is best not to stick your
+
+neck out. Innovation is tolerated at best.” Consistent with this argument, a quantitative measure
+
+
+
+
+                                                                                                 29
+
+of innovation from the structured interview protocol (Edmondson, forthcoming) was correlated
+
+with measures of psychological safety (r=0.51, p<0.05).10
+
+        Proposition 9: Team psychological safety promotes innovative behavior and innovation.
+
+Boundary spanning
+
+        Boundary-spanning behavior describes external communication with other groups, such
+
+as needed to coordinate objectives, schedules or resources. Boundary spanning can also involve
+
+interpersonal risk, including asking for help or resources, seeking feedback and delivering bad
+
+news such as delays or design problems. It is through such activities that teams can clarify
+
+performance requirements, obtain information and resources, and coordinate their tasks with
+
+other groups. Past research has shown that boundary spanning promotes effective team
+
+performance (Ancona, 1990; Ancona & Caldwell, 1992). However, these benefits will be
+
+unrealized if team members are unwilling to incur the risks involved, for example, because they
+
+wish to avoid appearing to have problems. Thus, I argue that team psychological safety is likely
+
+to foster boundary spanning behavior, because team members who are accustomed to taking
+
+interpersonal risks within the team may be able to transfer that behavior to other, external
+
+interactions (Edmondson, 1999c).
+
+        The operating room teams I studied varied considerably in boundary-spanning activities.
+
+Some surgeons spoke informally on a daily basis with or attended frequent meetings with other
+
+groups. Other members of the same OR teams also tended to have a high level of boundary
+
+spanning, as illustrated in the following description; “It is informal at my level; there are no
+
+formal meetings, just informal networking with the catheter lab and the SICU… I try to put my
+
+face out there and let them know we’re available.” In contrast, in another team, a perfusionist
+
+10
+  Team innovation was measured as the sum of three correlated variables: (1) innovative modification of surgical
+procedures, (2) novel application of the procedure (used to something previously considered impossible), and (3)
+
+
+
+                                                                                                                   30
+
+reported, “In this hospital everyone acts independently and assumes everyone is doing their job.
+
+There are not meetings to see how stuff is going. It just doesn’t happen. It has the feel of a
+
+factory sometimes. The key players talk team but it is not practice.” Furthermore, quantitative
+
+measures of team boundary-spanning as measured with a structured interview protocol were
+
+highly correlated with team psychological safety11 (Edmondson, forthcoming). Similarly, in the
+
+manufacturing study team psychological safety and boundary spanning, measured in two
+
+surveys, were significantly correlated both for self-reported12 and observer-rated boundary
+
+spanning behavior13 (Edmondson, 1999c).
+
+         Proposition 10: Psychological safety encourages team members to engage in boundary
+
+         spanning.
+
+
+                                            Implications and Issues
+
+
+Psychological safety and organizational learning
+
+         The behavioral consequences of psychological safety discussed above and shown in
+
+Figure 1 fall under the broad rubric of activities through which learning occurs in organizations.
+
+Research on trust has identified numerous benefits of trusting attitudes and behaviors in
+
+organizations—for example (as discussed in Kramer, 1999) trusting environments reduce
+
+transaction costs within an organization (Uzzi, 1997; Williamson, 1993), increase spontaneous
+
+sociability among organization members (Fukuyama, 1995; Messick et al., 1983), and facilitate
+
+appropriate forms of deference to organizational authorities (Arrow, 1974; Gabarro, 1978;
+
+Miller, 1992; Tyler, 1994; Tyler & Lind, 1992). A unifying theme is trust research envisions
+
+
+
+expansion of patient eligibility criteria due to reflection on accumulated experiences.
+11
+    r=.70, p<.01, N=16
+12
+    r=.78, p<.01, N=51
+13
+   r=.48, p<.01, N=51
+
+
+                                                                                                  31
+
+trust as a substitute for control (Handy); unlike research on psychological safety, the theme of
+
+learning has not played a central role in this work.
+
+       An extensive literature on organizational learning has paid less attention to the behaviors
+
+at the level of work teams that allow organizations to learn, with notable exceptions (e.g.,
+
+Edmondson, 2002; Kasl, Marsick, & Dechant, 1993; Senge, 1990). Much essential learning in
+
+organizations takes place in the interpersonal interactions between members of work groups
+
+(Edmondson, 2002), yet learning behaviors are limited when individuals have concerns about
+
+interpersonal consequences. Argyris (1990) suggested that when people experience interpersonal
+
+threat, they utilize “defensive routines” that thwart their own and their organization’s learning.
+
+Similarly, Schein (1995) proposes that the “learning anxiety” created by the fear of confronting
+
+disconfirming data increases “in direct proportion to the amount of disconfirmation, leading to
+
+the maintenance of the equilibrium by defensive avoidance of the disconfirming information.”
+
+The anxiety associated with not learning must be greater than the anxiety associated with the risk
+
+of looking or feeling incompetent for individuals to engage in learning behavior.
+
+       One implication of research on psychological safety is that interpersonal threat in an
+
+organization is neither objective nor homogenous. The studies discussed in this paper indicate
+
+that interpersonal beliefs vary from team to team, even within strong organizational cultures and
+
+contexts. Thus, the interpersonal risk inherent in learning in organizational settings can be
+
+mitigated by a climate of psychological safety among colleagues or coworkers. A face-to-face
+
+work team can provide a safety net for learning, or, in contrast, be a place where the risk of
+
+learning behavior is magnified. Some teams are therefore likely to learn faster than others. The
+
+phenomenon of organizational learning may be better described as a patchwork quilt than as a
+
+uniform fabric, such that a single organization does not learn (or fail to learn) as an entity but
+
+
+
+
+                                                                                                     32
+
+rather encompasses varying pockets of learning (Edmondson, 2002). One implication of this for
+
+practice is that managers must focus on creating psychological safety in face-to-face work units
+
+throughout the organization. Attempts to enhance organizational learning through top-down,
+
+uniform approaches are likely to have limited effectiveness without attention to the way
+
+interpersonal climate can vary across groups (Edmondson & Woolley, 2003).
+
+Limits of Psychological Safety
+
+       If psychological safety promotes learning behavior in work groups, does this suggest that
+
+more psychological safety is always good? First, the size of the teams examined in the above
+
+studies presents a potential boundary condition for this proposition. The surgery, nursing, new
+
+product development, production and management teams studied were all relatively small,
+
+ranging from five to 20 or, infrequently to as many as 30 members. Yet, in some organizational
+
+environments, such as in the automotive or semiconductor industries, groups of 200 or more
+
+people often share responsibility for designing, developing or bringing a new product to market.
+
+Given the reduced salience of face-to-face interaction in planning and executing work in a team
+
+of 200 as compared to a team of five, psychological safety may not play a critical a role in the
+
+learning of such a team, and further research is needed to investigate this. Moreover, the
+
+increased number of relationships and complex interdependencies in a very large group may
+
+diminish the amount of repeated interaction between any subset of members and thereby reduce
+
+the degree to which consistent perceptions of psychological safety take shape. Finally, the role
+
+of psychological safety in dispersed, or “virtual teams” (Leonard, Brands, Edmondson, &
+
+Fenwick, 1998; Sole & Edmondson, 2002) may be very different from in the teams discussed in
+
+this paper.
+
+
+
+
+                                                                                                   33
+
+       Second, psychological safety is not sufficient to ensure learning behavior. Without a clear
+
+and compelling shared goal, for example, members of a team may lack motivation to engage in
+
+learning-oriented actions, which require both effort and thought. People are more likely to offer
+
+ideas, ask for help, and seek or provide feedback if they believe that their effort makes a
+
+difference in achieving an outcome that they care about. Similarly, effective learning behavior
+
+involves effort and thought, to, for example, identify gaps that could be filled through help
+
+seeking. This line of argument suggests that a sense of safety from harmful personal
+
+consequences must be combined with a need and capacity for thoughtful, intelligent action, if
+
+effective learning behavior is to occur. Creating an environment of psychological safety could
+
+be counterproductive if managers believe that this is all that is needed to promote learning—by
+
+inadvertently removing structural supports that might be seen as blocking safety but might
+
+instead support systematic thought and action.
+
+       The results of the research discussed in this paper suggest certain consistent positive
+
+effects of team psychological safety and negative effects of an interpersonal climate that lacked
+
+safety. In these examples, the question of whether a team can have too much psychological
+
+safety has not been addressed. On the one hand, excessive psychological safety could be
+
+detrimental. If people are too comfortable with each other, they may spend an inappropriate
+
+amount of time in casual conversation at the expense of their work. A complete lack of
+
+censorship could create such a low barrier to seeking feedback and help or speaking up with
+
+concerns that valuable time is wasted on unimportant things.
+
+       On the other hand, an argument can be made that no amount of interpersonal fear is
+
+helpful in promoting performance. Although fear of not achieving goals, or anxiety about
+
+survival in an ever more competitive environment may motivate productive work, anxiety
+
+
+
+
+                                                                                                  34
+
+triggered by interpersonal fear may not be helpful. Schein (1995) noted that learning occurs in
+
+organizations when survival anxiety exceeds anxiety about learning – and certainly fails to occur
+
+when the opposite is the case. In practice, such theoretical distinctions are likely to blur;
+
+distinguishing interpersonal and other sources of fear may be unrealistic. Envisioning the
+
+possibility of a team with excessive safety, somehow lacking an edge to drive them forward, is
+
+not difficult. Managers thus may face a tension in trying to draw a line somewhere to set high
+
+standards and prevent sloppy work—such as by discouraging questions or comments unrelated to
+
+the task at hand —without closing down communication about important issues. If they
+
+inadvertently communicate that suppression of questions and concerns is wise, they are likely to
+
+suppress learning.
+
+       A third potential limitation is that excessive team psychological safety may promote
+
+intergroup tensions in organizations. Teams that are actively engaged in exciting projects and
+
+enjoying the intense sense of camaraderie that such collaboration often implies may
+
+inadvertently communicate an impression of self-satisfaction and arrogance that other
+
+organizational groups interpret as denigrating of them. Many effective new product development
+
+teams, assigned to a strategically important project, have fallen into this trap (e.g., Wheelwright
+
+& Verlinden, 1999). Although these teams often have psychological safety and open, direct
+
+confrontation inside the team, they often have done less to encourage others in the organization
+
+to speak openly to them.
+
+       Finally, there may be situations in which the lack of an interpersonal barrier to speaking
+
+up may actually exacerbate problems rather than help them. Peterson (1999) hypothesized that
+
+group member “voice” may be more useful in groups characterized by common understanding
+
+than in those where such understanding is absent. An implication of this for teams in which
+
+
+
+
+                                                                                                   35
+
+people fundamentally disagree about task-related issues is that psychological safety may open
+
+the door for getting stuck in counterproductive discussions, which they lack the interpersonal
+
+skill to resolve. This suggests the need for psychological safety to be accompanied by
+
+interpersonal competence (Argyris, 1993) for maximal learning to take place.
+
+Future Research
+
+       The propositions presented in this paper suggest several directions for future research.
+
+First, further work is needed to develop and operationalize the construct of team psychological
+
+safety with additional kinds of teams. To develop a consistently reliable and valid measure of
+
+psychological safety, future research must continue to collect data from a variety of team and
+
+organizational settings. For example, the effect of psychological safety in culturally diverse
+
+teams warrants further research, since foreign-born workers may be hesitant to ask questions,
+
+admit a lack of understanding, or make negative statements (Thiederman, 1988). The use of
+
+multiple methods to triangulate across measures would serve to further solidify the survey
+
+measure of team psychological safety used in the studies discussed here and shown in Table 1.
+
+       Second, further research is needed to test many of the propositions in this paper.
+
+Preliminary data from many teams were offered to illustrate the viability of these arguments;
+
+however, more systematic research is clearly required. Similarly, conceptual and empirical work
+
+is warranted to explore the relationships among the proposed antecedents and consequences of
+
+psychological safety. For instance, the decisions and actions of the team leader are likely to have
+
+a significant effect on each of the other antecedent variables. Leaders can pay attention to
+
+informal group dynamics that arise, elicit trust and respect, implement practice fields, and make
+
+sure the team has sufficient access to resources (e.g., Hackman & Walton, 1986). Similarly, the
+
+relationship between practice fields and other antecedent factors can be explored. Do off-line
+
+
+
+
+                                                                                                  36
+
+practice sessions increase the likelihood of trusting interpersonal relationships or alter informal
+
+group dynamics? Relationships among the proposed consequences of psychological safety thus
+
+may also prove fruitful avenues for further exploration.
+
+                                            Conclusion
+
+
+       At this stage of research on team psychological safety, a few preliminary conclusions can
+
+be articulated. First, the existence of psychological safety as a distinct concept with implications
+
+for organizational behavior is supported by data from a variety of organizational settings. The
+
+notion that psychological safety tends to be shared by members of face-to-face work teams has
+
+strong empirical support from several studies. Moreover, despite a lack of extensive systematic
+
+empirical research thus far, the proposition that psychological safety exists and may influence
+
+certain kinds of behaviors in organizations has considerable face validity.
+
+       Second, evidence from several types of work groups in very different organizational
+
+contexts suggests an important role for psychological safety in facilitating collaborative work, in
+
+particular when work groups face uncertainty and change and need to learn together. Thus,
+
+psychological safety may have important consequences for understanding organizational
+
+learning. The studies reviewed above point to specific actions that team leaders can take to
+
+promote psychological safety and to thereby catalyze a process of encouraging learning in an
+
+organization, work group by work group.
+
+       Neither scholarly nor lay notions of trust precisely capture the concept of psychological
+
+safety. Although interpersonal trust is likely to be an essential prerequisite for team
+
+psychological safety, this paper argues and illustrates that is not the same construct. This work
+
+thus contributes to the literature by expanding the range of salient intrapsychic experiences likely
+
+to influence organizational behavior.
+
+
+
+                                                                                                      37
+
+References
+
+
+Ainsworth, M. D., & Bell, S. M. (1974). Mother-infant interaction and the development of
+       competence. In K. Connolly & J. Bruner (Eds.), The Growth of Competence. New York:
+       Academic Press.
+Alderfer, C. P. (1987). An intergroup perspective on organizational behavior. In J. W. Lorsch
+       (Ed.), Handbook of Organizational Behavior (pp. 190-222). Englewood Cliffs, NJ:
+       Prentice Hall.
+Amabile, T. M., Conti, R., Coon, H., Lazenby, J., & Herron, M. (1996). Assessing the work
+       environment for creativity. Academy of Management Journal, 39(5), 1154-1183.
+Ancona, D. (1990). Outward bound: Strategies for team survival in the organization. Academy of
+       Management Journal, 33(334-365).
+Ancona, D. G., & Caldwell, D. F. (1992). Bridging the boundary: External activity and
+       performance in organizational teams. Administrative Science Quarterly, 37, 634-655.
+Anderson, N., & West, M. (1994a). The personality of teamworking. Personnel Management,
+       26(11), 81.
+Anderson, N., & West, M. (1994b). The Team Climate Inventory. Windsor, UK: Berks ASE.
+Anderson, S. E., & Williams, L. J. (1996). Interpersonal, job, and individual factors related to
+       helping processes at work. Journal of Applied Psychology, 81(3), 282-296.
+Argyris, C. (1990). Overcoming Organizational Defenses: Facilitating Organizational Learning.
+       Boston: Allyn and Bacon.
+Argyris, C. (1993). Knowledge for action: A guide to overcoming barriers to organizational
+       change. San Francisco: Jossey-Bass.
+Arrow, K. (1974). The Limits of Organization. New York: Norton.
+Ashford, S. J., & Tsui, A. S. (1991). Self regulation for managerial effectiveness: The role of
+       active feedback seeking. Academy of Management Journal, 34(2), 251-280.
+Bales, R., & Strodtbeck, F. (1951). Phases in group problem solving. Journal of Abnormal and
+       Social Psychology, 46, 485-495.
+Creed, D. W. E., & Miles, R. E. (1995). Trust in organizations: A conceptual framework linking
+       organizational forms, managerial philosophies, and the opportunity cost of controls. In R.
+       M. Kramer & T. R. Tyler (Eds.), Trust in organizations: Frontiers in theory and research
+       (pp. 16-38). Thousand Oaks, CA: Sage Publications.
+Deci, E. L., Connell, J. P., & Ryan, R. M. (1989). Self-determination in a work organization.
+       Journal of Applied Psychology, 74(4), 580-91.
+Edmondson, A. C. (1996). Learning from mistakes is easier said than done: Group and
+       organizational influences on the detection and correction of human error. Journal of
+       Applied Behavioral Science, 32(1), 5-28.
+Edmondson, A. (1999a). Psychological safety and learning behavior in work teams.
+       Administrative Science Quarterly, 44(2), 350-383.
+Edmondson, A. (1999b). A psychological safety net: Investigating organizational learning at the
+       group level of analysis. Working Paper, Harvard Business School, October 4, 1999.
+       Boston, MA.
+Edmondson, A. (1999c). A safe harbor: Social psychological conditions enabling boundary
+       spanning in work teams. Research on Managing Groups and Teams, 2, 179-199.
+
+
+
+
+                                                                                               38
+
+Edmondson, A. C. (2002). The Local and Variegated Nature of Learning in Organizations: A
+        Group-Level Perspective. Organization Science 13, no. 2 (March-April 2002): 128-146.
+Edmondson, A.C. (forthcoming). Speaking up in the Operating Room: How Team Leaders
+        Promote Learning in Interdisciplinary Action Teams. Journal of Management Studies .
+Edmondson, A. C., Bohmer, R. M., & Pisano, G. P. (2000). The role of team learning in
+        organizational adaptation to new technology. Working Paper, Harvard Business School.
+        Boston, MA.
+Edmondson, A. C., Bohmer, R. M., & Pisano, G. P. (2001). Team Learning and New
+        Technology Adaptation. Administrative Science Quarterly 46 (December 2001): 685-716.
+Edmondson, A.C. & Woolley, A. W. (2003). Understanding outcomes of organizational learning
+        interventions. In M. Easterby-Smith & M. Lyles (Eds), International Handbook on
+        Organizational Learning and Knowledge Management. London: Blackwell.
+Fukuyama, F. (1995). Trust: The Social Virtues and the Creation of Prosperity. New York: Free
+        Press.
+Gabarro, J. (1978). The development of trust and expectations. In A. Athos & J. Gabarro (Eds.),
+        Interpersonal Behavior: Communication and Understanding in Relationships (pp. 290-
+        303). Cambridge: Blackwell.
+Hackman, J. R. (1987). The design of work teams. In J. W. Lorsch (Ed.), Handbook of
+        organizational behavior (pp. 315-342). Englewood Cliffs, NJ: Prentice Hall.
+Hackman, J. R. (Ed.). (1990). Groups that work (and those that don't). San Francisco: Jossey-
+        Bass.
+Hackman, J. R., & Walton, R. E. (1986). Leading groups in organizations. In P. S. Goodman
+        (Ed.), Designing effective work groups (pp. 73-119). San Francisco: Jossey-Bass.
+Handy, C. (1995). Trust and the virtual organization. Harvard Business Review 73 (May/June) 3:
+        40-50.
+Hardin, R. (1992). The street-level epistemology of trust. Anal. Krit., 14, 152-156.
+Isaacs, W., & Senge, P. (1992). Overcoming limits to learning in computer-based learning
+        environments. European Journal of Operations Research, 59, 183-196.
+Jones, G. R., & George, J. M. (1998). The experience and evolution of trust: Implications for
+        cooperation and teamwork. Academy of Management Review, 23(3), 531-546.
+Kahn, W. A. (1990). Psychological conditions of personal engagement and disengagement at
+        work. Academy of Management Journal, 33(4), 692-724.
+Kasl, E., Marsick, V. J., & Dechant, K. (1993). Teams as learners: A research based model of
+        team learning. Journal of Applied Behavioral Science, 33(2), 227-246.
+Kivimaki, M., Kuk, G., Elovainio, M., Thomson, L., & al, e. (1997). The Team Climate
+        Inventory (TCI)--four or five factors? Testing the structure of TCI in samples of low and
+        high complexity jobs. Journal of Occupational and Organizational Psychology, 70(4),
+        375-389.
+Klimoski, R., & Mohammed, S. (1994). Team mental model: Construct or metaphor? Journal of
+        Management, 20(2), 403-437.
+Kohn, L. T., Corrigan, J. M., & Donaldson, M. (2000). To Err Is Human: Building a Safer
+        Health System. Washington, DC: National Academy Press.
+Kramer, R. M. (1999). Trust and distrust in organizations: Emerging perspectives, enduring
+        questions. Annual Review of Psychology, 50, 569-598.
+Lee, F. (1993). Being polite and keeping MUM: How bad news is communicated in
+        organizational hierarchies. Journal of Applied Social Psychology, 23(14), 1124-1149.
+
+
+
+                                                                                              39
+
+Lee, F. (1997). When the going gets tough, do the tough ask for help? Help seeking and power
+        motivation in organizations. Organizational Behavior And Human Decision Processes,
+        72( 3), 336-363.
+Leonard, D. A., Brands, P. A., Edmondson, A., & Fenwick, J. (1998). Virtual teams: Using
+        communications technology to manage geographically dispersed development groups. In
+        S. P. Bradley & R. L. Nolan (Eds.), Sense and Respond: Capturing Value in the Network
+        Era (pp. 285-298). Boston, MA: Harvard Business School Press.
+Leonard-Barton, D. (1995). Wellsprings of knowledge: Building and sustaining the sources of
+        innovation. Boston: Harvard Business School Press.
+May, D. R., Gilson, R. L., and Harter, L. (forthcoming). The psychological conditions of
+        meaningfulness, safety, and availability and the engagement of the human spirit at work.
+        Journal of Occupational and Organizational Psychology.
+Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational
+        trust. Academy of Management Review, 20(3), 709-734.
+McAlister, D. (1995). Affect- and cognition-based trust as foundations for interpersonal
+        cooperation in organizations. Academy of Management Journal, 38(1), 24-59.
+Messick, D., Wilke, H., Brewer, M., Kramer, R., Zemke, P., & Lui, L. (1983). Individual
+        adaptations and structural change as solutions to social dilemmas. Journal of Personality
+        and Social Psychology, 44, 294-309.
+Michael, D. N. (1976). On learning to plan and planning to learn. San Francisco: Jossey-Bass.
+Miller, G. (1992). Managerial Dilemmas: The Political Economy of Hierarchies. New York:
+        Cambridge Univ. Press.
+Moingeon, B., & Edmondson, A. (1998). Trust and organisational learning. In N. Lazaric & E.
+        Lorenz (Eds.), Trust, learning and economic expectations (pp. 247-284). London:
+        Edward Elgar, Inc.
+Mumford, M., & Gostafson, S. (1988). Creativity syndrome: integration, application and
+        innovation. Psychological Bulletin, 103, 27-43.
+Pear, R. (1999, Dec 19, 1999). Report outlines medical errors in V.A. hospitals. New York Times,
+        pp. 1.
+Peterson, R. S. (1999). Can you have too much of a good thing? The limits of voice for
+        improving satisfaction with leaders. Personality & Social Psychology Bulletin, 25(3),
+        313-324.
+Rappoport, A. (1997). The patient's search for safety: The organizing principle in psychotherapy.
+        Psychotherapy, 34(3), 250-261.
+Rogers, C. (1961). On Becoming a Person. Boston: Houghton Mifflin.
+Schein, E. (1985). Organizational culture and leadership. San Francisco: Jossey-Bass.
+Schein, E. H. (1993). How can organizations learn faster? The challenge of entering the green
+        room. Sloan Management Review, 34, 85-92.
+Schein, E. (1995). Kurt Lewin's change theory in the field and in the classroom: Notes toward a
+        model of managed learning. Working Paper. Available at
+        http://www.a2zpsychology.com/articles/kurt_lewin's_change_theory.htm.
+Schein, E., & Bennis, W. (1965). Personal and Organizational Change through Group Methods.
+        New York: Wiley.
+Schelling, T. (1960). The Strategy of Conflict. New Haven, CT: Yale Univ. Press.
+Schippers, M. (2003). Reflexivity in Teams. Doctoral dissertation, Vrije Universiteit Amsterdam
+Schön, D. (1983). The Reflective Practitioner. New York: Basic Books.
+
+
+
+                                                                                               40
+
+Senge, P. M. (1990). The fifth discipline: the art and practice of the learning organization. New
+        York: Doubleday.
+Sitkin, S. B. (1992). Learning through failure: the strategy of small losses. In L. L. Cummings &
+        B. Staw (Eds.), Research in organizational Behavior (Vol. 14, pp. 231-266). Greenwich,
+        CT: JAI Press.
+Sole, D. & Edmondson, A. (2002) Situated Knowledge and Learning in Dispersed Teams.
+        British Journal of Management 13 (September 2002): S17-S34.
+Sterman, J. (1989). Modeling managerial behavior: Misperceptions of feedback in dynamic
+        decision-making. Management Science, 35(3), 321-339.
+Swift, W., & Copeland, J. (1996). Treatment needs and experiences of Australian women with
+        alcohol and drug problems. Drug & Alcohol Dependence, 40(3), 211-219.
+Thiederman, S. (1988). Managing the foreign-born work force: Keys to effective cross-cultural
+        motivation. Manage, 40(3), 26-29.
+Tyler, T. (1994). Psychological models of the justice motive. Journal of Personality and Social
+        Psychology, 57, 830-38.
+Tyler, T. R., & Lind, E. A. (1992). A relational model of authority in groups, Advances in
+        Experimental Psychology (Vol. 25, pp. 115-191). New York: Academy Press.
+Uzzi, B. (1997). Social structure and competition in interfirm networks: the paradox of
+        embeddedness. Administrative Science Quarterly, 42, 35-67.
+Van Dyne, L., & LePine, J. A. (1998). Helping and voice extra-role behaviors: Evidence of
+        construct and predictive validity. Academy of Management Journal, 41(1), 108-119.
+Wageman, R. (1998). The effects of team design and leader behavior on self-managing team: A
+        field study. Working paper, Columbia University.
+Waks, L. J. (1988). Design principles for laboratory education in the creative process. Person-
+        Centered Review, 3(4), 463-478.
+Wall, T., & Lischeron, J. (1977). Worker Participation: A Critique of the Literature and Some
+        Fresh Evidence. Maidenhead, England: McGraw-Hill.
+Walsh, J. (1995). Managerial and organizational cognition: Notes from a trip down memory lane.
+        Organization Science, 6(3), 280-321.
+West, M. A. (1990). The social psychology of innovation in groups. In M. A. West, J. L. Farr, &
+        e. al (Eds.), Innovation and creativity at work: Psychological and organizational
+        strategies (pp. 309-333). Chichester, England UK: John Wiley & Sons.
+West, M., & Wallace, M. (1988). Innovation in primary health care teams: the effects of roles
+        and climates. Paper presented at the Royal Psychological Society Occupation Psychology
+        Annual Conference, University of Manchester. Abstract in Bulletin of the British
+        Psychological Society, Abstracts, p. 23.
+Wheelwright, S. C., & Verlinden, M. C. (1999). Eli Lilly: The Evista Project. HBS No. 699-016.
+        Boston, MA: Harvard Business School Publishing.
+Williamson, O. (1993). Calcluativeness, trust, and economic organization. Journal of Law
+        Economics, 34, 453-502.
+Zucker, L. G. (1986). Production of trust: Institutional sources of economic structure, 1840-1920.
+        Research in Organizational Behavior, 8, 53-111.
+Zuger, A. (1999, Dec 14, 1999). The healing arts, cast in shades of gray. New York Times, pp. 7.
+
+
+
+
+                                                                                               41
+
+Table 1: Survey scales used to measure psychological safety
+
+
+(a) Edmondson (1996)
+•    "If you make a mistake in this team, it is held against you."
+
+(b) Edmondson and Wooley (2000)
+•   If I make a mistake in this job, it is often held against me. (R)
+•   It is difficult to ask others in this department for help.(R)
+•   My manager often encourages me to take on new tasks or to learn how to do things I have never done before
+•   If I was thinking about leaving this company to pursue a better job elsewhere, I would talk to my manager about it.
+•   If I had a problem in this company, I could depend on my manager to be my advocate.
+•   Often when I raise a problem with my manager, s/he does not seem very interested in helping me find a solution. (R)
+
+(c) Edmondson (1999a)
+•   If you make a mistake on this team, it is often held against you.
+•   Members of this team are able to bring up problems and tough issues.
+•   People on this team sometimes reject others for being different.
+•   It is safe to take a risk on this team.
+•   It is difficult to ask other members of this team for help.
+•   No one on this team would deliberately act in a way that undermines my efforts.
+•   Working with members of this team, my unique skills and talents are valued and utilized
+
+(d) Anderson and West (Anderson & West, 1994b; as used by Kivimaki et al., 1997)
+•   We share information generally in the team rather than keeping it to ourselves
+•   We have a "we are together" attitude.
+•   We all influence each other.
+•   People keep each other informed about work-related issues in the team.
+•   People feel understood and accepted by each other.
+•   Everyone's view is listened to, even if it is in a minority.
+•   There are real attempts to share information throughout the team.
+•   There is a lot of give and take.
+
+
+
+
+                                                                                                                          42
+
+ Figure 1: Model of Antecedents and Consequences of Team Psychological Safety
+
+
+
+
+Organizational                 Shared Beliefs                Team Learning
+ Conditions                                                    Behaviors
+
+
+   Team                                                          Feedback
+   leader                                                        seeking
+   behavior
+
+
+   Informal
+   group                                                         Help
+   dynamics                                                      seeking
+
+
+   Trust and                 Team Psychological                  Speaking
+   respect                        Safety                         up about
+                                                                 concerns/
+                                                                 mistakes
+
+   Use of
+   practice                                                      Innovation
+   fields
+
+
+   Supportive
+   organizat'n                                                   Boundary
+   context                                                       spanning
+
+
+
+
+                                                                                43
+

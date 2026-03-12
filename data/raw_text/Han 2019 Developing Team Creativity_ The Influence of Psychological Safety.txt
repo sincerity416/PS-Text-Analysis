@@ -1,0 +1,1053 @@
+Boise State University
+ScholarWorks
+Organizational Performance and Workplace                    Department of Organizational Performance and
+Learning Faculty Publications and                                                     Workplace Learning
+Presentations
+
+2019
+
+Developing Team Creativity: The Influence of Psychological Safety
+and Relation-Oriented Shared Leadership
+Soo Jeoung Han
+Boise State University
+
+Yunsoo Lee
+Korea University
+
+Michael Beyerlein
+Texas A&M University
+
+
+
+
+This is the peer reviewed version of the following article:
+Han, S.J.; Lee, Y.; & Beyerlein, M. (2019). Developing Team Creativity: The Influence of Psychological Safety and
+Relation‐Oriented Shared Leadership. Performance Improvement Quarterly, 32(2), 159-182.
+which has been published in final form at doi: 10.1002/piq.21293. This article may be used for non-commercial
+purposes in accordance with Wiley Terms and Conditions for Self-Archiving.
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+ Developing Team Creativity: The Influence of Psychological Safety
+            and Relation-Oriented Shared Leadership
+                    Soo Jeoung Han                                                              Yunsoo Lee
+                  Boise State University                                                      Korea University
+                        Boise, ID                                                            Seoul, North Korea
+
+                                                        Michael Beyerlein
+                                                      Texas A&M University
+                                                       College Station, TX
+
+
+                                                               Abstract
+
+           This study examines the effects of a psychosocially safe environment and two types of shared
+           leadership on project team creativity. We focused on specific dimensions of shared leadership
+           to examine their association with creative outcomes. To measure the dimensions, we conducted
+           a survey of 260 graduate and undergraduate students working in project teams at a large
+           Southwestern university. We found that a psychologically safe environment enabled team
+           members to perform task-oriented and relation-oriented tasks. However, only relation-oriented
+           shared leadership positively influenced team creativity. Based on our findings, we provided
+           research and practical implications, as well as study limitations and future research suggestions.
+
+Keywords: psychological safety, shared leadership, team creativity
+
+
+Collaboration helps solve complex problems by sharing different perspectives when working on a team project (Funk,
+2014). Project require team members to perform a defined, specialized task within a definite time period (Chiocchio
+& Essiembre, 2009). However, there seems to have been little attention paid to the study of ways team members create
+an effective team environment where collaboration enables creativity. This study examined the effects of a safe
+environment for collaboration and sharing the leadership role to unleash the creative capability of their teams.
+
+Team creativity is essential when members collaborate to generate new ideas by synthesizing different ideas and
+values (Campbell, 1960; Hoever, Van Knippenberg, Van Ginkel, & Barkema, 2012). While there are many studies on
+team creativity, very few studies have examined the effects of team contextual factors on team creativity (Shin, Kim,
+Lee, & Bian, 2012; Zhu, Gardner, & Chen, 2018). This is a critical omission from a theoretical standpoint because
+team creativity requires several conditions that enable contributions from all members to be crafted into joint solutions,
+such as working in a psychologically safe environment and having shared empowerment among team members.
+
+Therefore, we examined the potential effects of psychological safety on shared leadership and team creativity because
+it represents the degree that members perceive the group as being a safe setting for interpersonal risk-taking
+(Edmondson, 1999). Since team creativity is difficult to achieve, we assumed that shared leadership would support it
+in a psychologically safe environment. For example, inclusive leadership positively relates to psychological safety,
+which, in turn, enhances team members’ involvement in creative work (Carmeli, Reiter-Palmon, & Ziv, 2010).
+However, a recent meta-analysis study by Hülsheger, Anderson, and Salgado (2009) failed to find a consistent effect
+of psychological safety on innovative team performance, suggesting the need for future research. Thus, we explored
+the simultaneous effects of team members’ contextual factors on team creativity by introducing psychological safety
+and shared leadership.
+
+In a leaderless group, shared leadership emerges as an evolving “mutual influence process” (Pearce, 2004, p. 48) and
+is “relationally produced, emerging through interactions and communication between actors in a context” (Denis,
+Langley, & Sergi, 2012, p. 49). The literature has suggested that shared leadership can affect both team and individual
+outcomes (Nicolaides et al., 2014; Hülsheger et al., 2009). For example, shared leadership enhances individual
+creativity because team members tend to take the initiative to solve problems (Wood & Fields, 2007). Although
+organizations and higher education institutions rely on team structures to increase creativity, many researchers
+primarily looked at creativity as an individual level phenomenon (Hirst, Van Knippenberg, & Zhou, 2009; Kurtzberg
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+& Amabile, 2001; Zhang, & Bartol, 2010; Zhou & George, 2003). More studies examining the effects of shared
+leadership on team creativity (e.g., Lee, Lee, & Seo, & Choi, 2015; Serban & Roberts, 2016) are necessary as the
+concept represents a joint effort emerging from group interactions and activities, which may increase team creativity
+as a whole.
+
+ Since the mid-1990s, researchers have examined the value of shared leadership among team members but used
+various constructs (e.g., transformational, transactional, aversive, directive, and empowering leadership) and
+measurement strategies (i.e., aggregation methods, and social network approaches) to explore different behavioral
+forms of shared leadership (D’Innocenzo, Mathieu, & Kukenberger, 2016). Conceptually, relation-oriented and task-
+oriented leadership have been part of the research literature since the 1950s (Halpin, 1957), but the previous research
+literature focused on the style of a formal leader. Bass (1991) suggested the distinction between these two orientations
+represented transactional and transformational leadership, so a number of studies have compared these two styles of
+leadership at the individual level. In contrast, shared leadership emerged as a team performance factor fairly recently
+(e.g., Pearce, 2004; Pearce & Conger, 2002). However, empirical studies of the two dimensions of shared leadership
+have been rare. Our study adds value by examining the effects of the different dimensions of shared leadership on
+team creativity. This is the first study to use two dimensions from the Grille and Kauffeld’s (2015) shared leadership
+scales.
+
+To examine the relationships of a psychologically safe environment, shared leadership, and team creativity for team
+assignments, the following research question guided this inquiry: Do psychologically safe environments and shared
+leadership enable higher levels of team creativity?
+
+                                              Literature Review and Hypotheses
+
+We reviewed scholarly articles that studied team psychological safety and shared leadership as potentially important
+factors in enabling creativity in project teams. Then, we reviewed antecedents of team creativity.
+
+Team Psychological Safety
+
+Team member engagement in learning-oriented, knowledge-based work can be more effective when team members
+feel psychologically safe (Edmondson, 2004). Psychological safety implies that group members value each other’s
+skills and talents, feel free to take risks, share information, and discuss mistakes without fear of retribution
+(Edmondson, 1999, 2002, 2012). Team psychological safety refers to a “shared belief that the team feels safe for
+interpersonal risk taking” (Edmondson, 1999, p. 354). Based on systematic literature review of psychological safety,
+62 empirical studies have focused on the outcomes of psychological safety, such as performance, creativity, employee
+attitudes (e.g., positive attitudes towards teamwork), communication, knowledge sharing, and learning behaviors
+(Newman, Donohue, & Eva, 2017).
+
+Furthermore, team psychological safety is critical in relationship with team conflicts, because when team members
+experience high levels of team psychological safety initially followed by an increasing relationship conflict within the
+team over time, team identification decreased, resulting in lower satisfaction with the team (Johnson & Avolio, 2018).
+Psychological safety appears to enable team members to use task conflict effectively to generate more creative ideas
+and critically discuss decisions, without taking the constructive conflict personally (Bradley, Postlethwaite, Klotz,
+Hamdani, & Brown, 2012). Therefore, psychological safety has relevance to team processes (e.g., shared leadership)
+as well as team creative outcomes.
+
+Shared Leadership
+
+Most work on leadership has focused on traditional leadership in which one individual projects downward influence
+on organizational members (Pearce & Sims, 2000). However, as teams become more complex, shared leadership may
+be more effective for leading teams (Pearce, Manz, & Sims, 2009; Pearce & Sims, 2000). A growing number of studies
+have examined shared leadership in teams (i.e., collective leadership and distributed leadership), and scholars noted
+that shared team leadership can affect team effectiveness (Day, Gronn, & Salas, 2004; Han, Lee, Beyerlein, & Kolb,
+2018; Marks, Mathieu, & Zaccaro, 2001: Mathieu, Maynard, Rapp, & Gilson, 2008).
+
+
+
+
+                                                                    2
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Although scholars have recently suggested a variety of definitions of shared leadership (Carson, Tesluk, & Marrone,
+2007; Pearce & Conger, 2002; Pearce & Sims, 2000; Zhou, 2012), we found similar characteristics among these
+definitions (Day, Gronn, & Salas, 2004). Shared leadership acknowledges the interdependent nature of leadership
+through “collective achievement, shared responsibility, and the importance of teamwork” (Fletcher & Käufer, 2003,
+p. 23). We adopted Carson et al.’s (2007, p. 1218) definition of shared leadership as “an emergent team property that
+results from the distribution of leadership influence across multiple team members”. According to Carson et al. (2007),
+leadership originates from individual team members taking responsibility for activities that influence the other team
+members through interaction. As a result, a leadership network shapes and influences the whole team’s actions and
+outcomes. Under the concept of shared leadership, task-oriented and relation-oriented shared leadership were
+categorized separately (Grille & Kauffeld, 2015), so we have chosen these two sub-concepts of shared leadership.
+
+Task-Oriented Shared Leadership (TOSL). A task process consists of the activities that team members deliberately
+execute to achieve a goal. TOSL indicates team members sharing concern for achieving a good standard of
+performance (Grille & Kauffeld, 2015). Behaviors related to task-oriented leadership include coordination activities,
+such as organizing work, assigning work to team members, and explaining rules and standard procedures (Yukl,
+Gordon, & Taber, 2002). Explicit communication supports what needs to be done and how it should be done to
+promote effective team performance. To explain whether and how TOSL relates to team creativity, we adopt the
+information exchange perspective (Mesmer-Magnus & DeChurch, 2009), which covers knowledge exchange and task-
+oriented communication related to the generation of creative ideas (Smith, Collins, & Clark, 2005). Information
+exchange is an important process linked to team creativity because sharing task-relevant information leads to more
+thorough and creative information processing, problem solving, and decision making (Van Knippenberg, De Dreu, &
+Homan, 2004).
+
+Relation-Oriented Shared Leadership (ROSL). Relation-oriented team processes enhance the emotional strength of
+a team, such as support and collaboration, resulting in both positive team attitudes and increased performance (Mannix
+& Neale, 2005; Thilo, 2005). ROSL behaviors include respecting team members’ opinions and connecting emotionally
+to members (Yukl et al., 2002). Effective team members practice a variety of positive socio-emotional behaviors, such
+as supporting team members and showing consideration for the needs and feelings of others (Yukl et al., 2002).
+Likewise, shared team leadership is one of the important process factors that leads to team creativity and performance
+(Wang, Waldman, & Zhang, 2014). Therefore, it is important to examine what team members share in what kind of
+context, and learn how shared leadership affects different output variables. In this paper, we will examine team
+creativity as our output variable, as discussed in the next section.
+
+Team Creativity
+
+Researchers have begun to study how team creativity can be enhanced as many project teams desire to produce creative
+outcomes (Joo, Song, Lim, & Yoon, 2012; Zhu et al., 2018). Team creativity can be defined as the “joint novelty and
+usefulness of a final idea developed by a group of people” (Hoever et al., 2012, p. 983). Although many studies
+explored a concept of creativity at the individual level, researchers have only recently started to examine team
+creativity as one of the key factors for organizational success (Perry-Smith & Shalley, 2014).
+
+Researchers have found both positive and negative antecedents of team creativity. For example, inhibitors to team
+creativity may include distrust between team leaders and members, personality differences, and generational
+differences in viewpoints (Han, Chae, Macko, Park, & Beyerlein, 2017). Rosso (2014) also found that lacking time,
+equipment, and human resources can be top constraints for R&D team creativity. On the other hand, the need for an
+integration of ideas and perspective taking is key in fostering team creativity, as creative solutions are required in
+complex situations (Hoever et al., 2012). In addition, Zhu et al. (2018) found that a collaborative team climate can be
+positively related to creativity. Specifically, team creativity researchers suggest that team members who feel
+psychologically safe may contribute unique expertise and insights, so they cooperatively craft inputs into useful and
+original solutions (Han et al., 2017; West, 2002).
+
+
+
+
+                                                                    3
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Hypothesized Research Model
+
+The model was framed by using the perspective of the traditional input-process-outcome (IPO) model to illustrate the
+pattern of emergent team processes. The IPO framework has served as a major team model for decades (Salas, Stagl,
+& Burke, 2004). For this study, the team input (team psychological safety) was identified as team process enablers.
+The team processes (shared leadership) were used to capture team dynamics, and the team output was used as team
+outcomes (team creativity).
+
+Creativity can seem risky because it introduces novel ideas that other members are likely to reject. Consequently,
+behavior cues from other members that signal psychological safety act as important contextual variables related to
+creativity (George, 2007). When team members feel psychologically safe sharing creative ideas, they are more likely
+to come up with innovative solutions and engage in initiative and proactive behaviors (Edmondson, 2004; Kark &
+Carmeli, 2008; Zhang & Bartol, 2010). Psychological safety increases the likelihood that team members feel free to
+question suggestions and decisions without fear of negative interpersonal consequences, so they tend to behave more
+creatively (Burke, Stagl, Salas, Pierce, & Kendall, 2006). Over time, members who had the opportunity to explain
+their new ideas were more creative than members that had been given no voice (Streicher, Jonas, Maier, Frey, &
+Spießberger, 2012). Under a low level of psychological safety, people may feel helpless or at risk when speaking,
+which hinders their attempts at creativity (Baer & Frese, 2003). Psychological safety will thus influence the team’s
+creativity. Based on the literature review, we suggest the following hypotheses:
+
+         Hypothesis 1: Psychological safety among team members positively affects team creativity.
+
+Psychological safety and empowerment can also affect teams in terms of task- and relation-oriented shared leadership
+(Carson et al., 2007; Grille, Schulte, & Simone Kauffeld, 2015). A sense of psychological safety within the team
+enables members to enhance TOSL by opening up to feedback from others and encouraging knowledge sharing, which
+affects the degree to which team members accept mutual performance monitoring (Robson, Katsikeas, & Bello, 2008;
+Yagil & Luria, 2010). Concerning ROSL, psychological safety provides the opportunity to enhance the quality of
+interpersonal relationships within the team (Yagil & Luria, 2010). Positive interpersonal relationships relate to
+willingness to support other members, share experiences and expertise, and identify opportunities for common
+improvement (Rhee, 2007; Yagil & Luria, 2010). Creating a safe environment encourages learning for team members
+through sharing their experiences (Merriam, Caffarella, & Baumgartner, 2012). Individuals who trust and get along
+well with each other effectively share knowledge without fear (Choo, Linderman, & Schroeder, 2007, Kostopoulos &
+Bozionelos, 2011). Therefore, we hypothesize that:
+
+         Hypothesis 2: Psychological safety positively affects task-oriented shared leadership.
+
+         Hypothesis 3: Psychological safety positively affects relation-oriented shared leadership.
+
+We also argue that shared leadership has a positive effect on team creativity. Previous studies have shown that shared
+leadership can enhance individual creativity (Wood & Fields, 2007), as well as team creativity when mediated by
+team processes experienced by team members (Gu, Chen, Huang, Liu, & Huang, 2016; Hülsheger et al., 2009;
+Kirkman & Rosen, 1999; Lee et al., 2015)A meta-analytic study summarizing 30 years of creativity research
+(Hülsheger et al., 2009) found that team processes, such as task-orientation and team cohesion, better predict team
+creativity than individual creativity. According to a recent empirical study, shared leadership related positively to both
+team creativity and individual creativity via knowledge sharing (Gu et al., 2016). Lee et al. (2015) reported that shared
+leadership positively contributed to team creativity. When it comes to a creative task, Serban and Roberts (2016) found
+that task cohesion was positively associated with shared leadership, which improved task satisfaction of a team.
+Interestingly, teams seem to require relational processes over time, whereas task-oriented processes are temporary
+(Amabile, Barsade, Mueller, & Staw, 2005). Integrating TOSL with information exchange perspectives and ROSL,
+we argue that shared team leadership motivates team creativity. Therefore, we propose the hypotheses below:
+
+         Hypothesis 4: Task-oriented shared leadership among team members positively affects team
+         creativity.
+
+         Hypothesis 5: Relation-oriented shared leadership among team members positively affects team
+         creativity.
+
+
+
+
+                                                                    4
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Figure 1 depicts the hypothesized relationships in the research model. We examined how the two dimensions of shared
+leadership play a role when considering a psychologically safe team environment on team creativity. We then focused
+on the logic behind the mediating effects of two dimensions of shared leadership between psychological safety and
+team creativity. The support behind the mediation effects is based on a conceptual framework of antecedents and
+outcomes of shared leadership (Kang and Svensson, 2018) and an empirical study (Serban & Roberts, 2016). Both
+argued that one of the antecedents of shared leadership is having a supportive environment, and outcomes of shared
+leadership include creativity and performance. Lastly, we have included several control variables in the research model
+to focus on the relationship among team process factors.
+
+                                                    [Insert Figure 1 about here]
+
+                                                               Methods
+
+Sample and Data Collection
+
+We invited students from organized graduate and undergraduate courses in an educational human resource
+development department at a large Southwestern university. Most of those teams conduct a project involving
+organizational clients in the profit or not-for-profit sectors lasting from four to ten weeks during the semester. Projects
+typically involve the following phases: build a relationship with the client, write a proposal approved by client and
+instructor, prepare questions for survey or interview data collection, collect and analyze data, write a report concluding
+with recommendations, and present the findings in a meeting with the client. Some of the teams attend class on campus
+and thus have the opportunity to meet face-to-face, supplementing meetings with electronic communications. Other
+classes are online with students geographically dispersed; thus they work virtually, relying on electronic
+communication devices all or most of the time. Online and offline teams meet the same project requirements, although
+online teams rely more on virtual collaboration.
+
+The students represented both undergraduate and graduate levels. As a part of convenience sampling, all instructors
+in the department received invitations to involve their students in the study. Out of 20 faculty members, half of them
+agreed to encourage students to participate in this study. This study collected data through online-questionnaires about
+four weeks into the semester, and 287 students participated in the online survey. Of the 287 students, a subset of 260
+provided usable data.
+
+Measures
+
+We conducted an online survey about one month after the semester began to examine team members’ perceptions of
+psychological safety, shared leadership, and team creativity. The survey questionnaire consisted of scales representing
+the variables described above with course and team identifiers.
+
+Team Psychological Safety. Edmondson’s (1999) team psychological safety scale was used to assess team members’
+perceptions. The psychological safety scale consists of seven items on a 5-point Likert-type scale. A sample item is:
+“Working with members of this team, my unique skills and talents are valued and utilized.” Cronbach’s alpha for this
+scale was .82. The reliability, validity, and factor structure of the measure were reported in Edmondson’s (1999) study.
+
+Shared Leadership. We assessed shared leadership with the questionnaire by Grille and Kauffeld (2015). The
+questionnaire measures four different aspects of shared leadership behavior: task-, relation-, change-, and micropolitic-
+oriented leadership using 5-point Likert-type scales. The four scales demonstrated good measurement qualities in a
+confirmatory factor analysis in two independent German samples (Grille & Kauffeld, 2015). For this study, we used
+the task-oriented leadership scale and the relation-oriented shared leadership scale because change- and micropolitical-
+oriented leadership dimensions are more relevant to a corporation setting than a higher education setting. Cronbach’s
+alpha of the TOSL scale was .81 in study 1 and .84 in study 2; the ROSL scale was .88 in study 1 and .91 in study 2,
+respectively (Grille & Kauffeld, 2015). In their studies, Confirmatory Factor Analysis provided evidence of
+discriminant validity. In addition, the two scales correlated with related measures, such as transformational and
+transactional leadership, providing evidence of convergent validity. The TOSL scale consists of items such as: “As a
+team we ensure that everyone knows their tasks.” The ROSL scale consists of items such as: “We support each other
+in handling conflicts within the team.”
+
+
+
+
+                                                                    5
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Team Creativity. We asked for individual team members’ perceptions about their team’s creativity using three items
+on a five-point scale (Kratzer, Leenders, and Van Engelen, 2010), such as, “how would you rate the newness and
+originality of the solutions your team finds to problems?” Cronbach’s alpha for this scale was .86.
+
+Control Variables. First, we collected data of possible correlates of the main variables as possible demographic
+controls, such as age, gender (0 = female and 1 = male), and level of education (0 = undergraduate and 1 = graduate).
+Second, we controlled for the following variables: course type (0 = offline, 1 = online), extent of rich communication
+media use, and number of team members.
+
+In terms of online and offline media richness, we used an existing measure of electronic communication dependence
+(Kirkman, Rosen, Tesluk, & Gibson, 2006). Possible media choices included face-to-face meetings,
+videoconferencing, teleconferencing, discussion boards, email, instant messaging, knowledge repositories, and
+planning and scheduling tools. We asked participants to report the percentage of time they spent using each type of
+media when carrying out work, with their percentages summing to 100 percent. Communication media that are
+synchronous occurs in real time and allows non-verbal communication that are generally regarded as richer media
+(Kirkman & Mathieu, 2005); therefore, we classified face-to-face meetings, video-conferencing, and teleconferencing
+as richer communication media, as compared with the other options. We then aggregated the percentage of time spent
+in face-to-face meetings, video-conferencing, and teleconferencing as a measure of rich communication to indicate
+how often team members used these three forms of media.
+
+Analysis
+
+To examine the hypothesized model, the present study adopted structural equation modeling (SEM). In the present
+study, SEM analysis was performed using the AMOS statistical package (version 20), and thus a full-information
+maximum likelihood (FIML) was adopted to address missing values. To evaluate the fitness of the research model as
+well as alternative models, this study used the Tucker–Lewis index (TLI ≥ .90, Hu & Bentler, 1999), the comparative
+fit index (CFI; ≥ .90, Hu & Bentler, 1999), the root mean square error of approximation (RMSEA; ≤ .08, Browne &
+Cudeck, 1993), and the standardized root mean square residual (SRMR; ≤ .08, Hu & Bentler, 1999). Finally, as this
+study used cross-sectional data, Harman’s single-factor test (Harman, 1967) was conducted to identify the common
+method variance bias.
+
+                                                    Data Analysis and Results
+
+In this section, we discussed the process of data analysis and its results. Most participants were female (66.5%), white
+(60.0%), undergraduate students (70.0%), majoring in the same department (65.8%) with a mean age of 24.6. Table 1
+shows the demographics of the participating students. We investigated students’ ethnicity, education level, gender,
+and course type, and the number of students in each team.
+
+                                                    [Insert Table 1 about here]
+
+Verification of Validity and Reliability
+
+To check the quality of the scales, we performed a Confirmatory Factor Analysis and calculated Cronbach’s α in order
+to verify scale validity and reliability. According to the results, the factor loading of all items on its respective latent
+variable was significant and higher than .05. Each variable (psychological safety .702; TOSL .867; ROSL.883;
+creativity .864) also met the criterion Cronbach’s α of .60 (Van de Ven & Ferry, 1980) for internal consistency.
+
+We conducted Harman’s single-factor test (Harman, 1967) in order to check the common method bias. The analysis
+revealed two factors with eigenvalues greater than 1.00 among four factors; no single factor explained a majority of
+the variance (the first factor explaining 35.661%). This indicates that the common method bias is not a serious issue
+in this study.
+
+Descriptive Statistics and Correlation Analysis
+
+Means, standard deviations, skewness, kurtosis, and correlation were calculated. The mean and standard deviation of
+age were 24.57 and 7.11, and the mean and standard deviation of team size were 3.16 and 1.69, respectively. Team
+size ranged from three to eight. The mean and standard deviation of all study variables in this study showed
+
+
+
+                                                                    6
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+distributions from 3.62 to 3.98, and from .56 to .68 on five-point scales, respectively. The normality assumption was
+also satisfied (skewness < 2, kurtosis < 7; West, Finch, & Curran, 1995). Correlations are presented in Table 2.
+Correlations among the study variables were statistically significant ranging from r = .376 to r = .773. The result of
+collinearity diagnostics indicated that multi-collinearity did not occur (r < .90; tolerance > 0.1; VIF < 10; Kline, 2005).
+
+                                                    [Insert Table 2 about here]
+
+Analyses of the Structural Models
+
+Table 3 presents the fitness indices for research models. To evaluate the fitness of the structural model, this study used
+TLI, CFI, RMSEA, and SRMR. These indexes pursue parsimony of the model and are relatively less sensitive to the
+sample size than other indexes (Browne & Cudeck, 1993). The results indicated that the data fit the structural model.
+
+                                                    [Insert Table 3 about here]
+
+Table 4 shows the results of research model from Figure 1 (Model 1) and the results after the addition of the control
+variables (Model 2). The results of Model 2 indicated that no control variables showed significant relationships in the
+model with this data set except for the parameter from team size to TOSL.
+
+                                                    [Insert Table 4 about here]
+
+Psychological safety had a positive impact on both TOSL (β = .705, p < .001; supporting H2) and ROSL (β = .698, p
+< .001; supporting H3), whereas the direct effect of psychological safety on team creativity was not significant, thus
+failing to support Hypothesis 1. Interestingly, ROSL had a positive influence on team creativity (β = .422, p < .05;
+supporting H5), but the parameter between TOSL and creativity was not significant, thus failing to support H4.
+
+Although both ROSL and TOSL are components of shared leadership and their correlation was .77 in the model, their
+relationships with creativity were quite different. Thus, we additionally analyzed Task-oriented Shared Leadership-
+Mediating Model (TSMM) and Relation-oriented Shared Leadership-Mediating Model (RSMM), respectively. The
+goodness-of-fit indices of the TSMM (TLI = .921, CFI = .940, RMSEA = .059, and SRMR =.0552) and RSMM (TLI
+= .961, CFI = .970, RMSEA = .041, and SRMR =.0458) met the criteria.
+
+Table 5 shows the results of the TSMM and RSMM. In both models, psychological safety still had a positive effect
+on TOSL (β = .702, p < .001) and ROSL (β = .700, p < .001). The effect of psychological safety on creativity, like the
+previous analysis, was not significant in either model. Taken together, the reason the lack of a significant relationship
+between TOSL and creativity in TSMM was determined to be due to the high correlation between TOSL and ROSL,
+which warrants further investigation.
+
+                                                    [Insert Table 5 about here]
+
+A summary of the results of our hypotheses testing is depicted in Figure 2.
+
+                                                    [Insert Figure 2 about here]
+
+                                                              Discussion
+
+In this study, we found that a psychologically safe environment and relation-oriented shared leadership promote
+creativity in team projects. Previous studies supported the importance of psychological safety in the development of
+shared leadership (e.g., Carmeli et al., 2010; Nembhard & Edmondson, 2006). Our study expands the research of
+Edmondson and her colleagues (Edmondson, 1999, 2004; Nembhard & Edmondson, 2006), by focusing on the effect
+of psychological safety on two specific aspects of shared leadership and team creativity.
+
+Our study demonstrates the importance of psychological safety, which leads to ROSL, which enhances team creativity.
+When team members cultivate a social climate in which they feel safe to speak up, they may become more willing to
+improve ROSL, which results in openness to discuss new ideas with their team members and generate novel and useful
+solutions. The characteristics of ROSL include: (a) addressing each member’s concerns, (b) recognizing good
+performance, (c) promoting team cohesion, and (d) supporting each other when handling conflicts within the team
+(Grille & Kauffeld, 2015). Other researchers also support this relationship by arguing that social support promotes
+
+
+                                                                    7
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+creative teams (Madjar, Oldham, & Pratt, 2002; Rhee, 2007), which not only expand individual members’ cognitive
+and psychological resources, but also enhance synergistic dynamics among team members to elevate overall team
+creativity (Rhee, 2007). ROSL and team psychological safety act as prerequisites to performance, because in their
+absence, team members can be defensive or become silent when their ideas are criticized or rejected (Yaniv, 2004).
+
+This study sheds light on the role of shared leadership because we found that team psychological safety leads to team
+creativity only when ROSL occurs. A direct relationship between psychological safety and team creativity did not
+occur when shared leadership was included in the model, which may clarify the claims of other scholars in the
+psychological safety and behavior literature (e.g., Baer & Frese, 2003; Gong, Cheung, Wang, & Huang, 2012).
+Although it may be true that a psychologically safe team environment can enhance team creativity, other variables
+seem to play important mediating roles in addition to ROSL. For example, positive group affective tone related to
+team creativity when team trust is low, which means that members might perceive conditions of psychological safety
+under these variable combinations (Tsai, Chi, Grandey, & Fung, 2012). To further examine this possibility, it would
+be interesting to explore conditions where the joint influence of high levels of team psychological safety and TOSL
+might affect team creativity, such as routine work, complex projects, or large team sizes where a level of formal
+organization aids the group process. Researchers can also include different variables with shared leadership, such as
+trust or task-conflict, when looking at the effect of psychological safety on team creativity to clarify the relationship.
+
+Interestingly, although the impact of ROSL in this model was statistically significant, we found that TOSL, such as
+monitoring a team’s goals and assigning tasks, did not significantly affect team creativity. This seems to imply that
+close monitoring or controlling the behavior of team members may not lead to a members’ creative output (e.g.,
+George & Zhou, 2001; Zhou, 2003), although that may be less likely in collectivist cultures (Hui, Au, & Fock, 2004).
+Therefore, although the lack of a significant relationship between TOSL and creativity in this study seems surprising,
+the result does align with the aforementioned studies that have examined the negative effect of TOSL.
+
+Additionally, in our model, no control variables, such as age, gender, education level, course type, and degree of media
+richness, showed significant relationships with the main variables except for the relationship of team size and TOSL.
+This suggests that as team size increases, TOSL increases, which may indicate that increased complexity created by
+adding members requires more attention to the organizing activities of TOSL. In this study, the highest response rates
+(47.7 %) involved groups of four members, and the largest teams included 7-8 members (23.8%). As instructors tend
+not to design student teams with more than 10 students, we may interpret this result to suggest that large groups may
+perform well when using TOSL compared to a small group with 3-4 members – an implication worth further
+investigation.
+
+In contrast to studies from 10 or 15 years ago, (e.g., Gurtner, Kolbe, & Boos, 2007; Kirkman, Rosen, Tesluk, &
+Gibson, 2004), we found no difference between virtual and face-to-face teams in their pattern of shared leadership
+and creativity. This suggests that virtual and face-to-face interactions may not be significantly different now due to
+the development of technology because virtual communication now enables immediate feedback through overcoming
+the limitations of time and space (Malhotra & Majchrzak, 2014). According to a meta-analysis study with 1,105
+experimental studies of technology use in higher education (Schmid et al., 2014), learning is best supported when each
+member is actively engaged via technological tools that provide cognitive support. This technology based learning
+culture may increase team members’ potential to share leadership and develop creativity.
+
+Finally, project team process interweaves task work with teamwork to achieve performance goals (Han & Beyerlein,
+2016), which typically requires creative thinking. Our findings suggest that TOSL (formal structure) becomes more
+important as the number of members increase, but that ROSL (informal structure) is essential for creativity in any size
+teams. Perhaps, the tipping point where adding TOSL helps with creativity represents a micro-level version of what
+Brown and Eisenhardt (1998) call the edge – a place where structure and chaos meet so that creative solutions emerge.
+
+Theoretical Implications
+
+The present findings have several implications for future research. This study is the first one to empirically test TOSL
+and ROSL as separate dimensions of shared leadership, thus adding to arguments advocating for their distinctiveness.
+We found that the effects of the two shared leadership dimensions on team creativity were different. This finding may
+lead to the refinement of existing studies that treated shared leadership as a unified construct (Arnold, Arad, Rhoades,
+& Drasgow, 2000; Hon & Chan, 2013; Lee et al., 2015). Our model indicates that the question of “what is shared”
+matters. Little literature exists about which dimensions of shared leadership may be most potent in influencing
+
+
+                                                                    8
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+different indicators of team creativity. Future researchers can examine shared leadership with these questions: what is
+shared among teams and under what conditions shared leadership behavior is most or least effective on team creativity
+and why?
+
+Our model of how ROSL enhances team creativity may be especially impactful in certain kinds of work or at certain
+points in the creative process. The level of creativity required for a job may change the level of shared leadership and
+its empowerment relationship (Unsworth, Wall, & Carter, 2005). For monotonous work low in task control,
+complexity, and significance (Ohly, Sonnentag, & Pluntke, 2006), it may not be apparent that people can work
+collaboratively to lead creative efforts. Therefore, scholars should further examine the effect of ROSL in different
+contextual settings.
+
+Practical Implications
+
+The present findings have several implications for educators and managers in terms of instructional design, coaching,
+training, and learning culture. Instructors or managers can coach each team member to practice effective shared
+leadership behaviors and teaming behaviors that can help increase team creativity. In addition, instructors and
+managers need to acknowledge that modern day learning systems are more flexible and adaptable to different levels
+of learning strategies. Therefore, empowering team members to manage their own learning and foster creative thinking
+and action by creating positive and supportive environments is important to supplement the effect of formal courses.
+A psychologically safe environment can be viewed as a prerequisite in order for team members to have shared
+leadership, which may increase team creativity and group learning. Therefore, we recommend instructors and
+managers design team activities by considering psychological safety so that team members can remove their fear of
+sharing creative ideas.
+
+Limitations and Future Research Suggestions
+
+We noted some limitations in this study. First, the generalizability of the results may be limited because the study used
+a sample of undergraduate and graduate students from one large Southwestern university in a single
+department. Second, the correlation between psychological safety and shared leadership was very high. Therefore, we
+cannot ignore the possibility of a suppression effect in the structural model. However, the result of confirmatory factor
+analysis showed that shared leadership consisted of two dimensions: ROSL and TOSL. The result of analysis of
+common methods bias and collinearity diagnostic also indicated that common methods bias and multicollinearity had
+not occurred. We recommend that future researchers study this model with a different sample and instruments. Third,
+we used a short time frame when measuring team creativity and other enabling variables. An early team climate of
+team members may be different from mature stages, which may occur at the end of a long semester (George & Zhou,
+2007). We encourage future researchers to use a longer timeframe when measuring team climate and team creativity
+to examine change over time in these important relationships. Fourth, we relied on self-report surveys. Future
+researchers can also include other sources (e.g., scoring rubrics for final products from instructors or evaluations from
+clients of projects).
+
+                                                             Conclusion
+
+This study has shown strong connections between a psychologically safe team environment and team creativity via
+relation-oriented shared leadership (ROSL) among team members, all of which are critical in improving team learning
+and performance. Overall, we learned the importance of examining separate behavioral dimensions of shared
+leadership when specifying a process model for team creativity. In addition to theoretical implications, we suggest to
+practitioners that team member interactions serve as the key mechanism that explain the relationship between
+psychological safety and team creativity. In other words, socio-emotional relations among team members and a
+positive interpersonal environment may enhance team creativity. Relations among team members should be
+foundational when collaborating in a project to achieve creative goals.
+
+
+
+
+                                                                    9
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+                                                             References
+
+Amabile, T. M., Barsade, S. G., Mueller, J. S., & Staw, B. M. (2005). Affect and creativity at work. Administrative
+          Science Quarterly, 50(3), 367-403. doi:10.2189/asqu.2005.50.3.367
+Arnold, J. A., Arad, S., Rhoades, J. A., & Drasgow, F. (2000). The empowering leadership questionnaire: The
+          construction and validation of a new scale for measuring leader behaviors. Journal of Organizational
+          Behavior, 21(3), 249-269.
+Baer, M., & Frese, M. (2003). Innovation is not enough: Climates for initiative and psychological safety, process
+          innovations, and firm performance. Journal of Organizational Behavior, 24(1), 45-68. doi:10.1002/job.179
+Bass, B. M. (1991). From transactional to transformational leadership: Learning to share the vision. Organizational
+          dynamics, 18(3), 19-31.
+Bradley, B. H., Postlethwaite, B. E., Klotz, A. C., Hamdani, M. R., & Brown, K. G. (2012). Reaping the benefits of
+          task conflict in teams: the critical role of team psychological safety climate. Journal of Applied Psychology,
+          97(1), 151-158. doi:10.1037/a0024200
+Brown, S. L., & Eisenhardt, K. M. (1998). Competing on the edge: Strategy as structured chaos. Harvard Business
+          Press.
+Browne, M. W., & Cudeck, R. (1993). Alternative ways of assessing model fit. In K. A. Bollen & J. S. Long (Eds.),
+          Testing structural equation model (pp. 136–162). Newbury Park, CA: Sage.
+Burke, C. S., Stagl, K. C., Salas, E., Pierce, L., & Kendall, D. (2006). Understanding team adaptation: a conceptual
+          analysis and model. Journal of Applied Psychology, 91(6), 1189-1207. doi:10.1037/0021-9010.91.6.1189
+Campbell, D. T. (1960). Blind variation and selective retentions in creative thought as in other knowledge processes.
+          Psychological Review, 67(6), 380-400. doi:10.1037/h0040373
+Carmeli, A., Reiter-Palmon, R., & Ziv, E. (2010). Inclusive leadership and employee involvement in creative tasks
+          in the workplace: The mediating role of psychological safety. Creativity Research Journal, 22(3), 250-260.
+          doi:10.1080/10400419.2010.504654
+Carson, J. B., Tesluk, P. E., & Marrone, J. A. (2007). Shared leadership in teams: An investigation of antecedent
+          conditions and performance. Academy of Management Journal, 50(5), 1217-1234.
+          doi:10.2307/AMJ.2007.20159921
+Chiocchio, F., & Essiembre, H. (2009). Cohesion and performance: A meta-analytic review of disparities between
+          project teams, production teams, and service teams. Small group research, 40(4), 382-420.
+Choo, A. S., Linderman, K. W., & Schroeder, R. G. (2007). Method and psychological effects on learning behaviors
+          and knowledge creation in quality improvement projects. Management Science, 53(3), 437-450.
+          doi:10.1287/mnsc.1060.0635
+Day, D. V., Gronn, P., & Salas, E. (2004). Leadership capacity in teams. The Leadership Quarterly, 15(6), 857-880.
+          doi:10.1016/j.leaqua.2004.09.001
+Denis, J. L., Langley, A., & Sergi, V. (2012). Leadership in the plural. The Academy of Management Annals, 6(1),
+          211-283.
+D’Innocenzo, L., Mathieu, J. E., & Kukenberger, M. R. (2016). A meta-analysis of different forms of shared
+          leadership–team performance relations. Journal of Management, 42(7), 1964-1991.
+          doi:10.1177/0149206314525205
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science
+          Quarterly, 44(2), 350-383. doi:10.2307/2666999
+Edmondson, A. C. (2002). Managing the risk of learning: Psychological safety in work teams. Division of Research,
+          Harvard Business School.
+Edmondson, A. C. (2004). Psychological safety, trust, and learning in organizations: A group-level lens. In R. M.
+          Kramer & K. S. Cook (Eds.), Trust and distrust in organizations: Dilemmas and approaches (pp. 239 –
+          272). New York, NY: Sage
+Edmondson, A. C. (2012). Teaming: How organizations learn, innovate, and compete in the knowledge economy.
+          John Wiley & Sons.
+Fletcher, J. K., & Käufer, K. (2003). Shared leadership (pp. 21-47). C. L. Pearce, & J. A. Conger (Eds.), Shared
+          leadership: Reframing the hows and whys of leadership. Thousand Oaks, CA: Sage.
+Funk, R. J. (2014). Making the most of where you are: Geography, networks, and innovation in organizations.
+          Academy of Management Journal, 57(1), 193-222. doi:10.5465/amj.2012.0585
+George, J. M. (2007). Creativity in organizations. Academy of Management Annals, 1(1), 439-477.
+          doi:10.1080/078559814
+
+
+
+
+                                                                   10
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+George, J. M., & Zhou, J. (2001). When openness to experience and conscientiousness are related to creative
+         behavior: an interactional approach. Journal of Applied Psychology, 86(3), 513-524.doi:10.1037/0021-
+         9010.86.3.513
+George, J. M., & Zhou, J. (2007). Dual tuning in a supportive context: Joint contributions of positive mood, negative
+         mood, and supervisory behaviors to employee creativity. Academy of Management Journal, 50(3), 605-
+         622. doi:10.5465/AMJ.2007.25525934
+Gong, Y., Cheung, S. Y., Wang, M., & Huang, J. C. (2012). Unfolding the proactive process for creativity
+         integration of the employee proactivity, information exchange, and psychological safety perspectives.
+         Journal of Management, 38(5), 1611-1633. doi:10.1177/0149206310380250
+Grille, A., & Kauffeld, S. (2015). Development and Preliminary Validation of the Shared Professional Leadership
+         Inventory for Teams (SPLIT). Psychology, 6, 75-92. doi:10.4236/psych.2015.61008
+Grille, A., Schulte, E. M., & Kauffeld, S. (2015). Promoting shared leadership: A multilevel analysis investigating
+         the role of prototypical team leader behavior, psychological empowerment, and fair rewards. Journal of
+         Leadership & Organizational Studies, 22(3), 324-339.
+Gu, J., Chen, Z., Huang, Q., Liu, H., & Huang, S. (2016). A multilevel analysis of the relationship between shared
+         leadership and creativity in inter‐organizational teams. The Journal of Creative Behavior. Advance online
+         publication. doi:10.1002/jocb.135
+Gurtner, A., Kolbe, M., & Boos, M. (2007). Satisfaction in virtual teams in organizations. The Electronic Journal
+         for Virtual Organizations and Networks, 9, 9-29.
+Han, S. J. & Beyerlein, M. (2016). Framing the effects of multinational cultural diversity on virtual team processes.
+         Small Group Research, 47(4), 1-33. doi:10.1177/1046496416653480
+Han, S. J., Chae, C, Macko, P., Park, W., & Beyerlein, M. (2017). How virtual team leaders cope with creativity
+         challenges. European Journal of Training and Development, 41(3), 261-276. doi.org/10.1108/EJTD-10-
+         2016-0073
+Han, S. J., Lee, Y., Beyerlein, M., & Kolb, J. (2018). Shared leadership in teams: The role of coordination, goal
+         commitment, and knowledge sharing on perceived team performance. Team Performance Management: An
+         International Journal, 24(3/4), 150-168. doi.org/10.1108/TPM-11-2016-0050
+Halpin, A. W. (1955). The leader behavior and leadership ideology of educational administrators and aircraft
+         commanders. Harvard Educational Review, 25, 18-32.
+Harman, H. H. (1967). Modem factor analysis. Chicago: University of Chicago. Hirst, G., Van Knippenberg, D., &
+         Zhou, J. (2009). A cross-level perspective on employee creativity: Goal orientation, team learning
+         behavior, and individual creativity. Academy of management journal, 52(2), 280-293.
+Hoever, I. J., Van Knippenberg, D., Van Ginkel, W. P., & Barkema, H. G. (2012). Fostering team creativity:
+         perspective taking as key to unlocking diversity's potential. Journal of Applied Psychology, 97(5), 982-996.
+         doi:10.1037/a0029159
+Hon, A. H., & Chan, W. W. (2013). Team creative performance the roles of empowering leadership, creative-related
+         motivation, and task interdependence. Cornell Hospitality Quarterly, 54(2), 199-210.
+         doi:10.1177/1938965512455859
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional
+         criteria versus new alternatives. Structural equation modeling: a multidisciplinary journal, 6(1), 1-55.
+Hui, M. K., Au, K., & Fock, H. (2004). Empowerment effects across cultures. Journal of International Business
+         Studies, 35, 46-60.
+Hülsheger, U. R., Anderson, N., & Salgado, J. F. (2009). Team-level predictors of innovation at work: a
+         comprehensive meta-analysis spanning three decades of research. Journal of Applied Psychology, 94(5),
+         1128-1145. doi:10.1037/a0015978
+Johnson, H. H., & Avolio, B. J. (2018). Team Psychological Safety and Conflict Trajectories’ Effect on Individual’s
+         Team Identification and Satisfaction. Group & Organization Management, 1059601118767316.
+Joo, B. K. B., Song, J. H., Lim, D. H., & Yoon, S. W. (2012). Team creativity: The effects of perceived learning
+         culture, developmental feedback and team cohesion. International Journal of Training and Development,
+         16(2), 77-91. doi:10.1111/j.1468-2419.2011.00395.x
+Kang, S., & Svensson, P. G. (2018). Shared leadership in sport for development and peace: A conceptual framework
+         of antecedents and outcomes. Sport Management Review.
+Kark, R., & Carmeli, A. (2009). Alive and creating: The mediating role of vitality and aliveness in the relationship
+         between psychological safety and creative work involvement. Journal of Organizational Behavior, 30(6),
+         785-804. doi:10.1002/job.571
+
+
+
+
+                                                                   11
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Kirkman, B. L., & Rosen, B. (1999). Beyond self-management: Antecedents and consequences of team
+         empowerment. Academy of Management Journal, 42(1), 58-74. doi:10.2307/256874
+Kirkman, B. L., & Mathieu, J. E. (2005). The dimensions and antecedents of team virtuality. Journal of
+         Management, 31(5), 700-718. doi:10.1177/0149206305279113
+Kirkman, B. L., Rosen, B., Tesluk, P. E., & Gibson, C. B. (2004). The impact of team empowerment on virtual team
+         performance: The moderating role of face-to-face interaction. Academy of Management Journal, 47(2),
+         175-192.
+Kirkman, B. L., Rosen, B., Tesluk, P. E., & Gibson, C. B. (2006). Enhancing the transfer of computer-assisted
+         training proficiency in geographically distributed teams. Journal of Applied Psychology, 91(3), 706-716.
+         doi:10.1037/0021-9010.91.3.706
+Kline, R. B. (2005). Principles and practice of structural equation modeling (2nd ed.). New York: The Guilford
+         Press.
+Kostopoulos, K. C., & Bozionelos, N. (2011). Team exploratory and exploitative learning: Psychological safety,
+         task conflict, and team performance. Group & Organization Management, 36(3), 385-415.
+         doi:10.1177/1059601111405985
+Kratzer, J., Leenders, R. T. A., & Van Engelen, J. M. (2010). The social network among engineering design teams
+         and their creativity: A case study among teams in two product development programs. International
+         Journal of Project Management, 28(5), 428-436. doi:10.1016/j.ijproman.2009.09.007
+Kurtzberg, T. R., & Amabile, T. M. (2001). From Guilford to creative synergy: Opening the black box of team-level
+         creativity. Creativity Research Journal, 13(3-4), 285-294. doi:10.1207/S15326934CRJ1334_06
+Lee, D. S., Lee, K. C., Seo, Y. W., & Choi, D. Y. (2015). An analysis of shared leadership, diversity, and team
+         creativity in an e-learning environment. Computers in Human Behavior, 42, 47-56.
+         doi:10.1016/j.chb.2013.10.064
+Madjar, N., Oldham, G. R., & Pratt, M. G. (2002). There's no place like home? The contributions of work and
+         nonwork creativity support to employees' creative performance. Academy of Management Journal, 45(4),
+         757-767. doi:10.2307/3069309
+Malhotra, A., & Majchrzak, A. (2014). Enhancing performance of geographically distributed teams through targeted
+         use of information and communication technologies. Human Relations, 67(4), 389-411.
+Mannix, E., & Neale, M. A. (2005). What differences make a difference? The promise and reality of diverse teams
+         in organizations. Psychological Science in the Public Interest, 6(2), 31–55. doi:10.1111/j.1529-
+         1006.2005.00022.x
+Marks, M. A., Mathieu, J. E., & Zaccaro, S. J. (2001). A temporally based framework and taxonomy of team
+         processes. Academy of Management Review, 26(3), 356-376. doi:10.5465/AMR.2001.4845785
+Mathieu, J., Maynard, M. T., Rapp, T., & Gilson, L. (2008). Team effectiveness 1997-2007: A review of recent
+         advancements and a glimpse into the future. Journal of management, 34(3), 410-476.
+Merriam, S. B., Caffarella, R. S., & Baumgartner, L. M. (2012). Learning in adulthood: A comprehensive guide. San
+         Francisco, CA: Jossey-Bass.
+Mesmer-Magnus, J. R., & De Church, L. A. (2009). Information sharing and team performance: a meta-analysis.
+         Journal of Applied Psychology, 94(2), 535-546. doi:10.1037/a0013773
+Nembhard, I. M., & Edmondson, A. C. (2006). Making it safe: The effects of leader inclusiveness and professional
+         status on psychological safety and improvement efforts in health care teams. Journal of Organizational
+         Behavior, 27(7), 941-966. doi:10.1002/job.413
+Newman, A., Donohue, R., & Eva, N. (2017). Psychological safety: A systematic review of the literature. Human
+         Resource Management Review, 27(3), 521-535.
+Nicolaides, V. C., LaPort, K. A., Chen, T. R., Tomassetti, A. J., Weis, E. J., Zaccaro, S. J., & Cortina, J. M. (2014).
+         The shared leadership of teams: A meta-analysis of proximal, distal, and moderating relationships. The
+         Leadership Quarterly, 25(5), 923-942. doi:10.1016/j.leaqua.2014.06.006
+Ohly, S., Sonnentag, S., & Pluntke, F. (2006). Routinization, work characteristics and their relationships with
+         creative and proactive behaviors. Journal of Organizational Behavior, 27(3), 257-279. doi:10.1002/job.376
+Pearce, C. L. (2004). The future of leadership: Combining vertical and shared leadership to transform knowledge
+         work. The Academy of Management Executive, 18(1), 47-57.
+Pearce, C. L., & Conger, J. A. (2002). Shared leadership: Reframing the hows and whys of leadership. Sage
+         Publications.
+Pearce, C. L., Manz, C. C., & Sims, H. P. (2009). Where do we go from here? Is shared leadership the key to team
+         success? Organizational Dynamics, 38(3), 234-238.
+
+
+
+
+                                                                   12
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Pearce, C. L., & Sims, H. P. (2000). Shared leadership: Toward a multi-level theory of leadership. Advances in
+          Interdisciplinary Studies of Work Teams, 7, 115-139.
+Perry-Smith, J. E., & Shalley, C. E. (2014). A social composition view of team creativity: The role of member
+          nationality-heterogeneous ties outside of the team. Organization Science, 25(5), 1434-1452.
+          doi:10.1287/orsc.2014.0912
+Rhee, S. Y. (2007). Group emotions and group outcomes: The role of group member interactions. In E. A. Mannix,
+          M. A. Neale, & C. P. Anderson (Eds.), Research on managing groups and teams (Vol. 10, pp. 65–96).
+          Greenwich, CT: JAI Press
+Robson, M. J., Katsikeas, C. S., & Bello, D. C. (2008). Drivers and performance outcomes of trust in international
+          strategic alliances: The role of organizational complexity. Organization Science, 19(4), 647-665.
+          doi:10.1287/orsc.1070.0329
+Rosso, B. D. (2014). Creativity and constraints: Exploring the role of constraints in the creative processes of
+          research and development teams. Organization Studies, 35(4), 551-585. doi: 10.1177/0170840613517600
+Salas, E., Stagl, K. C., & Burke, C. S. (2004). 25 years of team effectiveness in organizations: research themes and
+          emerging needs. International review of industrial and organizational psychology, 19, 47-92.
+Schmid, R. F., Bernard, R. M., Borokhovski, E., Tamim, R. M., Abrami, P. C., Surkes, M. A., & Woods, J. (2014).
+          The effects of technology use in postsecondary education: A meta-analysis of classroom applications.
+          Computers & Education, 72, 271-291. doi:10.1016/j.compedu.2013.11.002
+Serban, A., & Roberts, A. J. (2016). Exploring antecedents and outcomes of shared leadership in a creative context:
+          A mixed-methods approach. The leadership quarterly, 27(2), 181-199. doi:10.1016/j.leaqua.2016.01.009
+Shin, S. J., Kim, T. Y., Lee, J. Y., & Bian, L. (2012). Cognitive team diversity and individual team member
+          creativity: A cross-level interaction. Academy of Management Journal, 55(1), 197-212.
+          doi:10.5465/amj.2010.0270
+Smith, K. G., Collins, C. J., & Clark, K. D. (2005). Existing knowledge, knowledge creation capability, and the rate
+          of new product introduction in high-technology firms. Academy of management Journal, 48(2), 346-357.
+          doi:10.5465/AMJ.2005.16928421
+Streicher, B., Jonas, E., Maier, G. W., Frey, D., & Spießberger, A. (2012). Procedural fairness and creativity: Does
+          voice maintain people's creative vein over time? Creativity Research Journal, 24(4), 358-363.
+          doi:10.1080/10400419.2012.730334
+Tsai, W. C., Chi, N. W., Grandey, A. A., & Fung, S. C. (2012). Positive group affective tone and team creativity:
+          Negative group affective tone and team trust as boundary conditions. Journal of Organizational Behavior,
+          33(5), 638-656. doi:10.1002/job.775
+Thilo, J. L. (2005). Leadership in the ASC: Opportunity and responsibility. Ambulatory Surgery, 12(1), 11-14.
+          doi:10.1016/j.ambsur.2005.02.005
+Unsworth, K. L., Wall, T. D., & Carter, A. (2005). Creative requirement a neglected construct in the study of
+          employee creativity? Group & Organization Management, 30(5), 541-560. doi:
+          10.1177/1059601104267607
+Van de Ven, A. H., & Ferry, D. L. (1980). Measuring and Assessing Organizations, NY: Wiley.
+Van Knippenberg, D., De Dreu, C. K., & Homan, A. C. (2004). Work group diversity and group performance: An
+          integrative model and research agenda. Journal of Applied Psychology, 89(6), 1008-1022.
+          doi:10.1037/0021-9010.89.6.1008
+Wang, D., Waldman, D. A., & Zhang, Z. (2014). A meta-analysis of shared leadership and team effectiveness.
+          Journal of Applied Psychology, 99(2), 181-198. doi:10.1037/a0034531
+West, M. A. (2002). Sparkling fountains or stagnant ponds: An integrative model of creativity and innovation
+          implementation in work groups. Applied Psychology, 51(3), 355-387. doi:10.1111/1464-0597.00951
+West, S. G., Finch, J. F., & Curran, P. J. (1995). Structural equation models with non-normal variables: Problems
+          and remedies, in Hoyle, R. (Ed.), Structural Equation Modeling: Concepts, Issues and Applications (pp.
+          56-75), Newbury Park, CA: Sage.
+Wood, M. S., & Fields, D. (2007). Exploring the impact of shared leadership on management team member job
+          outcomes. Baltic Journal of Management, 2(3), 251-272. doi:10.1108/17465260710817474
+Yagil, D., & Luria, G. (2010). Friends in need: the protective effect of social relationships under low-safety climate.
+          Group & Organization Management, 35(6), 727-750. doi:10.1177/1059601110390936
+Yaniv, I. (2004). The benefit of additional opinions. Current Directions in Psychological Science, 13(2), 75-78. doi:
+          10.1111/j.0963-7214.2004.00278.x
+
+
+
+
+                                                                   13
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Yukl, G., Gordon, A., & Taber, T. (2002). A hierarchical taxonomy of leadership behavior: Integrating a half
+         century of behavior research. Journal of Leadership & Organizational Studies, 9(1), 15-32.
+         doi:10.1177/107179190200900102
+Zhang, X., & Bartol, K. M. (2010). Linking empowering leadership and employee creativity: The influence of
+         psychological empowerment, intrinsic motivation, and creative process engagement. Academy of
+         Management Journal, 53(1), 107-128. doi:10.5465/AMJ.2010.48037118
+Zhou, J. (2003). When the presence of creative coworkers is related to creativity: Role of supervisor close
+         monitoring, developmental feedback, and creative personality. Journal of Applied Psychology, 88, 413-422.
+Zhou, W. (2012). Moderating and mediating effects of shared leadership on the relationship between
+         entrepreneurial team diversity and performance. City University of New York.
+Zhou, J., & George, J. M. (2003). Awakening employee creativity: The role of leader emotional intelligence. The
+         Leadership Quarterly, 14(4), 545-568. doi:10.1016/S1048-9843(03)00051-1
+Zhu, Y. Q., Gardner, D. G., & Chen, H. G. (2018). Relationships between work team climate, individual motivation,
+         and creativity. Journal of Management, 44(5), 2094-2115. doi: 10.1177/0149206316638161
+
+
+Table 1
+
+Demographic Information.
+
+Variable                      n               %                         Variable                     n               %
+Ethnicity                                                               Gender
+White                         156             60.0                      Male                         87              33.5
+African American              19              7.3                       Female                       173             66.5
+Hispanic                      61              23.5                      Course type
+Asian                         18              6.9                       Online                       86              33.1
+Native American               1               0.4                       Offline                      174             66.9
+Other                         5               1.9                       Members
+Education level                                                         Three                        21              8.1
+Freshman                       9               3.5                      Four                         124             47.7
+Sophomore                     34              13.1                      Five                         21              8.1
+Junior                        76              29.2                      Six                          32              12.3
+Senior                        63              24.2                      Seven                        11              4.2
+M.S. student                  74              28.5                      Eight                        51              19.6
+Ph.D. student                 4               1.5                       Total                        260             100.0
+
+
+
+
+                                                                   14
+
+This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at Performance Improvement Quarterly, published by Wiley on behalf
+of the International Society for Performance Improvement. Copyright restrictions may apply. doi: 10.1002/piq.21293
+
+
+Table 2
+
+Means, Standard Deviations, Skewness, Kurtosis, and Correlations of Study Variables
+
+                                           1                2               3                4               5               6                7               8                9              10
+ Control Variables
+ 1. Age                          1
+ 2. Gender                    .205**          1
+ 3. Team size                -.305**     -.275**          1
+ 4. Course type               .622**        .048     -.430**           1
+ 5. Richness                 -.462**       -.044      .586**       -.677**         1
+ 6. Education level           .660**        .016     -.485**        .842**     -.630**                                        1
+Independent & Dependent Variables
+ 7. Psychological Safety     -.284**       -.084        .062       -.270**      .221**                                    -.210**             1
+ 8. TOSL                       -.115       -.093        .097         -.090       .108                                       -.032          .506**             1
+ 9. ROSL                     -.216**       -.096       .143*       -.225**      .193**                                    -.170**          .549**          .773**              1
+10. Creativity               -.163**      -.122*        .084         -.107       .105                                      -.123*          .376**          .429**           .478**              1
+  M                            24.57                    3.16                                                                                 3.98            3.87             3.90            3.62
+  SD                            7.11                    1.69                                                                                 .56             .68              .64              .67
+  Skewness                                                                                                                                  -.363           -.615            -.346           -.365
+  Kurtosis                                                                                                                                  -.145           1.117            1.131            .836
+Note: TOSL: Task-oriented Shared Leadership; ROSL: Relation-oriented Shared Leadership
+*** p < .001
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Table 3
+
+Fit Indices for Models
+
+                          χ2            df        TLI            CFI        RMSEA (CI)         SRMR
+ Criteria                                         >.900          >.900      <.08               <.08
+ Model 1                323.263***      164       .926           .936       .061 (.051, .071)  .0510
+ Model 2                467.125***      260       .923           .938       .055 (.047, .063)  .0518
+Note: As Model 1 and Model 2 (with and without control variables) are saturated models, each model has the same
+model fit indices with its measurement model.
+***p < .001
+
+
+Table 4
+
+Results of Research Models
+
+                                                                Model 1                               Model 2
+                                                                b       β                  S.E.       B       β                   S.E.
+Age                            →   TOSL                                                               .000         -.001          .007
+                                   ROSL                                                               .000         .004           .007
+                                   Creativity                                                         -.003        -.041          .006
+Gender                         →   TOSL                                                               .024         .018           ..085
+                                   ROSL                                                               -.014        -.010          .085
+                                   Creativity                                                         -.065        -.058          .072
+Team size                      →   TOSL                                                               .067         .178*          .029
+                                   ROSL                                                               .046         .121           .029
+                                   Creativity                                                         -.001        -.004          .025
+Course type                    →   TOSL                                                               .046         .034           .158
+                                   ROSL                                                               -.040        -.030          .158
+                                   Creativity                                                         .201         .177           .133
+Media richness                 →   TOSL                                                               .000         .004           .001
+                                   ROSL                                                               .000         -.019          .001
+                                   Creativity                                                         .000         -.005          .001
+Education level                →   TOSL                                                               .253         .184           .160
+                                   ROSL                                                               .081         .058           .158
+                                   Creativity                                                         -.197        -.169          .136
+Psychological safety           →   TOSL                         .834       .664***         .124       .919         .705***        .142
+Psychological safety           →   ROSL                         .898       .700***         .124       .923         .698***        .137
+Psychological safety           →   Creativity                   .175       .163            .117       .175         .158           .129
+Task leadership                →   Creativity                   -.010      -.012           .140       .003         .004           .148
+ Relation leadership           →   Creativity                   .364       .435*           .150       .353         .422*          .152
+*p < .05, *** p < .001
+
+
+
+
+                                                                   16
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+Table 5
+
+Results of Research Models
+
+                                                                 TSMM                                  RSMM
+                                                                 b          β               S.E.       B    β                      S.E.
+Age                          →     Shared leadership             .000       -.003           .007       .000        .002            .007
+                                   Creativity                    -.003      -.038           .006       -.003       -.041           .006
+Gender                       →     Shared leadership             .022       .016            .087       -.012       -.009           .085
+                                   Creativity                    -.077      -.068           .073       -.065       -.058           .071
+Team size                    →     Shared leadership             .069       .182*           .030       .045        .119            .029
+                                   Creativity                    -.003      -.010           .026       -.001       -.004           .024
+Course type                  →     Shared leadership             .051       .038            .161       -.040       -.029           .158
+                                   Creativity                    .172       .151            .136       .201        .177            .132
+Media richness               →     Shared leadership             .000       .006            .001       .000        -.021           .001
+                                   Creativity                    .000       -.016           .001       .000        -.004           .001
+Education level              →     Shared leadership             .258       .185            .163       .079        .056            .158
+                                   Creativity                    -.238      -.203           .138       -.195       -.167           .133
+Psychological safety         →     Shared leadership             .955       .702***         .149       .924        .700***         .137
+Psychological safety         →     Creativity                    .257       .226            .133       .175        .159            .126
+ Shared leadership       → Creativity           .271    .325**     .086    .354      .425***    .089
+Note: TSMM: Task-oriented Shared Leadership-Mediating Model; RSMM: Relation-oriented Shared Leadership-
+Mediating Model
+*p < .05, **p < .01, *** p < .001
+
+
+
+
+Figure 1. Hypothesized research model
+
+
+
+                                                                   17
+
+ This is an author-produced, peer-reviewed version of this article. The final, definitive version of this document can be found online at
+ Performance Improvement Quarterly, published by Wiley on behalf of the International Society for Performance Improvement. Copyright
+ restrictions may apply. doi: 10.1002/piq.21293
+
+
+
+
+Figure 2. The structural model with testing results with standardized coefficients
+
+
+
+
+                                                                   18
+

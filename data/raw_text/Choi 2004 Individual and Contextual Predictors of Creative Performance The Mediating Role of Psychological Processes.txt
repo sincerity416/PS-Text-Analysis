@@ -1,0 +1,704 @@
+      Creativity Research Journal
+
+
+
+
+      ISSN: 1040-0419 (Print) 1532-6934 (Online) Journal homepage: https://www.tandfonline.com/loi/hcrj20
+
+
+
+
+Individual and Contextual Predictors of Creative
+Performance: The Mediating Role of Psychological
+Processes
+
+Jin Nam Choi
+
+To cite this article: Jin Nam Choi (2004) Individual and Contextual Predictors of Creative
+Performance: The Mediating Role of Psychological Processes, Creativity Research Journal,
+16:2-3, 187-199, DOI: 10.1080/10400419.2004.9651452
+
+To link to this article: https://doi.org/10.1080/10400419.2004.9651452
+
+
+
+
+       Published online: 22 Jun 2011.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 1926
+
+
+
+       View related articles
+
+
+
+       Citing articles: 45 View citing articles
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=hcrj20
+
+Creativity Research Journal                                                                          Copyright © 2004 by
+2004, Vol. 16, Nos. 2 & 3, 187–199                                                       Lawrence Erlbaum Associates, Inc.
+
+
+
+
+          Individual and Contextual Predictors of Creative Performance:
+                  The Mediating Role of Psychological Processes
+                                                   Jin Nam Choi
+                                                   McGill University
+
+
+
+ABSTRACT: Studies on creativity have identified crit-         nificance for managers who want to better tap into their
+ical individual and contextual variables that contrib-        employees’ creative energy and encourage innovation
+ute to individuals’ creative performance. However, the        in the workplace (Scott & Bruce, 1994).
+psychological mechanisms through which these factors              With no doubt, individuals’ creative performance
+influence creative performance have not yet been sys-         should be understood as the outcome of a complex
+tematically investigated. This study explored potential       interchange between individuals and their context
+psychological processes that mediate the effects of var-      (Oldham & Cummings, 1996; Woodman et al., 1993).
+ious individual and contextual variables on the cre-          Existing studies have identified critical individual and
+ative performance of individuals. The results, based on       contextual variables that contribute to individuals’ cre-
+longitudinal, multisource data, show that underlying          ative performance and have isolated the ways the two
+psychological processes (creative self-efficacy and           sets of variables relate to each other in predicting cre-
+creativity intention) completely mediated the effect of       ative performance. Nevertheless, the present literature
+individual (motivation, personality, ability) and con-        does not offer an in-depth explanation of why these in-
+textual factors (social influences from leaders and           dividual and contextual factors influence creativity. It
+peers) on creative performance. This study informs the        is tautological to mention that a person produces cre-
+literature of potential psychological mechanisms              ative outcomes because he or she is a creative person
+through which individual and contextual factors influ-        working in a creativity-prone environment, leaving the
+ence the creative performance of individuals.                 black box unopened. In fact, to interpret the results of
+                                                              their investigations of individual and contextual pre-
+Creativity has been identified as a source of organiza-       dictors of creative performance, many scholars have
+tional innovation (Amabile, Conti, Coon, Lazenby, &           proposed mediating psychological processes such as
+Herron, 1996; Woodman, Sawyer, & Griffin, 1993)               psychological freedom, sensitivity to opportunities for
+and is thus regarded as a key factor for the high perfor-     improvement, increased motivation for pursuing new
+mance of organizations operating in uncertain and             directions, and so forth (e.g., Hennessey & Amabile,
+competitive environments (Oldham & Cummings,                  1998; Zhou & George, 2001). Nevertheless, the psy-
+1996). Scholars of creativity have long investigated          chological mechanisms that explain the effect of vari-
+personal dispositions and other individual characteris-       ous individual and contextual factors on creativity have
+tics that are associated with creativity (e.g., intelli-      not yet been systematically investigated. This study
+gence, cognitive style, personality characteristics; see      fills this gap in the literature by identifying and empiri-
+Amabile, 1988). Relatively recently, creativity re-
+searchers have begun to examine contextual–situa-             This research was partially funded by Small Research Grant from the
+tional factors that promote individual or team creativ-       Faculty of Management and Internal SSHRC Grant from the Re-
+                                                              search Grants Office, both at McGill University.
+ity (e.g., Amabile et al., 1996; Isaksen, Lauer, &
+                                                                  Correspondence and requests for reprints should be sent to Jin
+Ekvall, 1999; Tierney, Farmer, & Graen, 1999; Wood-           Nam Choi, McGill University, Faculty of Management, 1001
+man et al., 1993). Revealing individual and contextual        Sherbrooke Street West, Montreal, Quebec, Canada H3A 1G5.
+factors that contribute to creativity bears practical sig-    E-mail: jinnam.choi@mcgill.ca
+
+
+
+
+Creativity Research Journal                                                                                                 187
+
+J. N. Choi
+
+
+cally testing critical psychological processes that me-      work group support, freedom, absence of organiza-
+diate the effects of stable personal dispositions (e.g.,     tional impediments, supervisory encouragement,
+personality, motivation, ability) and social influences      sufficient resources, and workload pressure. On the ba-
+from leaders and peers on creative performance.              sis of studies revealing individual and contextual fac-
+    Adopting the most common definition (Amabile,            tors predicting creativity, some scholars have sug-
+1988; Oldham & Cummings, 1996), I define creativity          gested frameworks integrating these factors. Glynn
+as the generation of novel or original ideas that are use-   (1996), for instance, presented a comprehensive model
+ful or relevant, and creative performance as the behav-      to explain individual creativity and organizational in-
+ioral manifestation of creativity potential (e.g., pre-      novation by using a host of individual (motivation, per-
+senting novel ideas, reframing a given problem). I           sonality, expectations), job (novelty, challenge), and
+begin with a brief review of previous studies that have      organizational (structure, culture, technology) vari-
+examined individual and contextual factors related to        ables.
+creativity. I then identify critical psychological pro-          Individual and contextual predictors of creativity
+cesses that may be affected by these individual and          have been empirically investigated in several studies.
+contextual factors and immediately precede creative          For example, Oldham and Cummings (1996) detected
+performance, thereby operating as mediators between          a four-way interaction among individual and contex-
+individual and contextual factors and the creative out-      tual variables, in which creative performance was
+come. The present hypotheses were tested using longi-        highest when employees with highly creative personal-
+tudinal data collected from multiple sources over three      ities work on complex, challenging tasks under sup-
+time periods.                                                portive and noncontrolling supervision. Tierney et al.
+                                                             (1999) also reported significant interactions among
+                                                             employee characteristics (cognitive style, motivation),
+                                                             leader characteristics (motivation), and relational char-
+         Individual and Contextual Factors                   acteristics (leader–member exchange quality).
+              in Creative Performance
+
+    Researchers have attended to various individ-
+ual-difference variables, including cognitive styles or                        The Present Study
+abilities, motivational orientation, and personality
+traits pertinent to creativity. Studies have shown that         As briefly reviewed earlier, creative performance is
+creativity is associated with a particular cognitive         influenced by various individual and contextual factors
+process, such as divergent thinking (Tierney et al.,         and their interactions (e.g., Oldham & Cummings,
+1999). Intrinsic motivation has also been recognized         1996; Scott & Bruce, 1994). In interpreting these re-
+as a key predictor of individual creativity (Amabile,        sults, scholars have often suggested that personal dis-
+1996) because the challenge and enjoyment of the             positions and contextual factors increase creative per-
+work itself promote persistence, exploration, and ex-        formance through their impact on psychological
+perimentation that often lead to creative outcomes           processes, such as increased attention to learning and
+(Hennessey & Amabile, 1998). Finally, researchers            improvement, confidence in one’s creative abilities,
+have consistently reported a positive relationship be-       and willingness or motivation to pursue novel efforts in
+tween creativity-related personality traits (e.g.,           a given setting (Anderson & West, 1998; Oldham &
+innovativeness, openness to experience) and creative         Cummings, 1996; Redmond, Mumford, & Teach,
+performance (Flynn & Goldsmith, 1993; Gough,                 1993; Zhou & George, 2001).
+1979; Oldham & Cummings, 1996).                                 Nevertheless, systematic conceptualization and em-
+    On the other hand, some researchers of creativity        pirical investigation of the psychological processes
+have attended to the role of context in creativity. For      that have been proposed to mediate the influence of in-
+example, Amabile and her colleagues (Amabile et al.,         dividual and contextual factors on creativity have not
+1996; Amabile & Gryskiewicz, 1989) have identified           yet been done. The present study extends the literature
+key environmental conditions that nurture creativity:        by identifying and testing key psychological processes
+challenging work, organizational encouragement,              that mediate the effect of these factors on creative per-
+
+
+
+188                                                                                   Creativity Research Journal
+
+                                                                     Psychological Processes of Creative Performance
+
+
+
+
+                                     Figure 1. Conceptual framework of the present study.
+
+
+formance. Figure 1 summarizes the three sets of pre-              Gough (1979) also showed that negatively weighed
+dictors examined in this study and their hypothesized             items in his creative personality scale were negatively
+relationships with respect to creative performance. In            related to various creativity measures. In this study,
+the sections that follow I discuss each cluster of predic-        these negative items were labeled as cautious person-
+tors and advance hypotheses explaining their relation-            ality. I expect to find positive and negative influences
+ships.                                                            of creative and cautious personalities, respectively,
+                                                                  with regard to creative performance.
+                                                                      Another critical individual characteristic is creativ-
+Individual Characteristics
+                                                                  ity-relevant skills, particularly cognitive styles or prob-
+    Scholars have long believed that the source of cre-           lem-solving skills beneficial to creative performance
+ativity is individuals’ voluntary exploration of fresh al-        (Amabile, 1988; Woodman et al., 1993). For instance,
+ternatives based on intrinsic task interest (Rogers,              studies have shown that the Kirton (1976) Adaptor–In-
+1954) and that this voluntary effort is encouraged by             novator Scale captures the cognitive orientation perti-
+any freedom and spontaneity inherent in the situation             nent to creativity, in that innovators are more creative
+(Amabile, 1988). From this perspective, rewards and               than adaptors (Tierney et al., 1999). Building on this
+extrinsic motivation impose situational constraints that          line of research, this study attends to creative ability,
+reduce freedom and distract people’s attention from               that is, skills or competencies relevant to creative per-
+the task itself (Amabile, 1996). However, in contrast to          formance, such as the ability to generate new ideas or
+this prevailing belief, recent studies by Eisenberger             look at problems from novel perspectives. The actual
+and his colleagues (Eisenberger & Rhoades, 2001;                  level of abilities relevant to creativity may be a critical
+Eisenberger, Rhoades, & Cameron, 1999) have shown                 precondition of creative performance.
+that extrinsic motivation can actually increase creativ-
+ity when the reward is contingent on creativity. These
+                                                                  Contextual Factors
+studies indicate that extrinsic motivation can increase
+creativity by enhancing self-determination and intrin-                This study examines two proximal sources of social
+sic task interest (Eisenberger et al., 1999). In sum,             influence, the leader and peers. Many authors have ac-
+there is substantial theoretical reason to believe that           knowledged the importance of leadership in encourag-
+both intrinsic and extrinsic motivation contribute to             ing creativity (e.g., Amabile et al., 1996; Redmond et
+creativity.                                                       al., 1993). The literature has consistently shown that
+    Numerous studies have reported that having a cre-             open, participative, noncontrolling, and supportive
+ative personality promotes creative activities (Flynn &           leaders engender more creative outcomes than direc-
+Goldsmith, 1993; Oldham & Cummings, 1996).                        tive and controlling leaders do (Amabile et al., 1996;
+
+
+
+Creativity Research Journal                                                                                             189
+
+J. N. Choi
+
+
+Axtell, Holman, Unsworth, Wall, & Waterson, 2000;            ficacy and creativity intention. Creative self-efficacy
+Oldham & Cummings, 1996). Specifically, supportive           reflects the role of perceived behavioral control (“the
+leadership involves leader behaviors such as encourag-       perceived ease or difficulty of performing the behav-
+ing open interactions and seeking ideas from and pro-        ior,” Ajzen, 1991, p. 188) in the context of creative per-
+viding feedback to members, which facilitate creative        formance. In other words, it refers to a person’s belief
+performance of followers.                                    that he or she can successfully perform creative behav-
+   Peer group members may also affect individuals’           ior in a particular setting (Bandura, 1997). Creativity
+creative performance. As an immediate social sur-            intention reflects the degree of motivation an individ-
+rounding, the group exerts substantial influence on          ual has to engage in creative behavior within a given
+individuals. Group climate reflects group members’           setting. According to Ajzen, intention is an indication
+perceptions of the group and peer members. Open              “of how hard people are willing to try, of how much of
+group climate entails members’ perceptions of mutual         an effort they are planning to exert, in order to perform
+openness and expectations for sharing ideas among            the behavior” (p. 181). Thus, the following relation-
+members (Amabile et al., 1996, p. 1160). Boss,               ships are hypothesized:
+Koberg, and Rohan (2001) found that open sharing of
+problems and responsibilities within the team was as-           Hypothesis 1. Creative self-efficacy is positively
+sociated with increased creativity of hospital workers.           associated with creative performance.
+A nonthreatening group environment renders diverse              Hypothesis 2. Creativity intention is positively
+ideas and competing viewpoints acceptable and al-                 associated with creative performance.
+lows for explorations of alternative approaches with-
+out threat of reprisal (participative safety; Anderson          Both creative self-efficacy and creativity intention
+& West, 1998).                                               are oriented toward the specific situation and task at
+                                                             hand (e.g., developing creative products in re-
+                                                             search-and-development teams, presenting creative
+Mediating Role of Underlying Psychological
+                                                             ideas in the classroom) and thus are expected to me-
+Processes
+                                                             diate the effect of more general personal dispositions
+    Thus far, I have identified several key individual and   on creative performance. Personal dispositions such
+contextual factors that have been found to influence         as motivation, personality, and ability may set the
+creative performance. This section introduces a new          overall inclination for a person to be creative. How-
+set of variables that have not been investigated in previ-   ever, even when a person holds stable dispositions
+ous studies. Specifically, I attend to psychological pro-    that favor creativity in general, his or her intention to
+cesses that may mediate the relationships of stable in-      engage in creative behavior may vary in different sit-
+dividual dispositions and contextual influences with         uations (cf. domain-specific innovativeness; Flynn &
+creative performance. To theoretically isolate psycho-       Goldsmith, 1993). For example, an engineer who is
+logical processes immediately preceding creative per-        highly oriented toward creative solutions in his or her
+formance, I draw on the theory of planned behavior           development project can totally neglect new ways of
+(Ajzen, 1991), in which human behavior is determined         dealing with personal financial issues. In contrast, an
+by perceived behavioral control and intention. Inten-        employee who loves routine and simplicity in his or
+tion is, in turn, predicted by subjective norms, attitudes   her assembly-work job may want to engage in cre-
+toward the behavior, and perceived behavioral control.       ative activities during his or her leisure time. Thus,
+Perceived behavioral control (or, more generally,            although stable personal dispositions (motivation,
+self-efficacy belief with regard to the task to be per-      personality, and ability) tend to determine the overall
+formed) and intention (or motivation specifically di-        likelihood of a person’s being creative across situa-
+rected to the behavior) represent two key psychologi-        tions, a person’s creative self-efficacy and creativity
+cal readiness factors (i.e., “can” and “will”), providing    intention in a given setting (e.g., in class, at work, at
+a favorable condition for actual performance of the be-      home) may constitute a more direct predictor of his
+havior in many situations (e.g., Taylor & Todd, 1995).       or her creative performance in that setting.
+    In the present context, I propose that creative per-        More specifically, I propose that creative self-effi-
+formance can be directly predicted by creative self-ef-      cacy is influenced by a person’s creative ability and
+
+
+
+190                                                                                   Creativity Research Journal
+
+                                                                  Psychological Processes of Creative Performance
+
+
+creative or cautious personality and directly influences        ory of planned behavior, subjective norms regarding
+his or her creative performance, thus mediating these           the behavior constitute an important predictor of be-
+individual dispositions’ effects on creative perfor-            havioral intention. Therefore, social support for cre-
+mance. Although individuals’ creative self-efficacy             ative behavior from one’s leader and peers may posi-
+largely relies on their actual possession of creative           tively influence both creative self-efficacy and
+ability, their personality may also affect their level of       creativity intention, which in turn directly predict cre-
+creative self-efficacy; even with the same creative abil-       ative performance within that setting.
+ity, a cautious person may develop a lower level of cre-
+ative self-efficacy than a person with a creative person-          Hypothesis 5. Creative self-efficacy will mediate
+ality.                                                               the effects of supportive leadership and open
+                                                                     group climate on creative performance.
+   Hypothesis 3. Creative self-efficacy will mediate               Hypothesis 6. Creativity intention will mediate the
+     the effects of cautious–creative personality and                effects of supportive leadership and open group
+     creative ability on creative performance.                       climate on creative performance.
+
+   On the other hand, creativity intention may be influ-
+enced by all of the three individual characteristics (mo-
+tivation, personality, and ability) because a person’s in-
+                                                                                        Method
+clination toward a specific behavior can be shaped by
+general motivational orientation and personality char-
+                                                                Data Collection Procedure
+acteristics (Amabile, 1996; Oldham & Cummings,
+                                                                and Participants
+1996) as well as by plausibility of the behavior based
+on the present ability (Larrick, 1993).                            Data were collected from undergraduate students
+                                                                taking an introductory course in organizational behav-
+   Hypothesis 4. Creativity intention will mediate the          ior at a North American business school. Participation
+     effects of intrinsic–extrinsic motivation, cau-            was voluntary and rewarded with gift certificates of-
+     tious–creative personality, and creative ability on        fered through a draw. The course involved a total of 28
+     creative performance.                                      instructors teaching 430 students composing 14 sec-
+                                                                tions (each section was taught by 2 instructors). The
+     These psychological processes are also hypothe-            classes met twice a week for sessions of 2-hr each dur-
+sized to mediate the effects of social influences on cre-       ing the 13-week semester. Throughout the semester,
+ative performance. Deci and Ryan (1985) maintained              less than one fourth of class time was spent on lecture.
+that rather than serving as the direct determinant of be-       Instead, the majority of class time was devoted to exer-
+havior, contextual factors influence behavior through           cises and discussions. For this reason, the course re-
+the psychological meaning (functional significance)             quired intense participation from the students, and in-
+that individuals attach to them. Accordingly, the same          structors encouraged students to contribute to the class
+context may have different impacts on human behavior            by offering examples, personal points of view, and
+depending on how individuals construe and respond to            questions for discussion.
+it. It is thus expected that the effects of social factors on      The students completed the survey instruments for
+creative performance are mediated by psychological              the present study three times, at the 4th week (Time 1;
+process variables that reflect the person’s appraisal of        T1), the 8th week (Time 2; T2), and the 12th week
+the situation.                                                  (Time 3; T3) of the semester. The instructors offered
+     Specifically, social surroundings favorable to cre-        their evaluation of each and every student’s creative
+ative behavior (supportive leadership, open group cli-          performance at the 12th week (T3). Of the 430 stu-
+mate) may promote both creative self-efficacy and cre-          dents, 386 students (response rate = 89.8%) offered
+ativity intention. Prior studies have revealed that a           data for the present study by participating in at least
+person’s self-efficacy belief is malleable and can be re-       one of the three waves of data collection (the sample
+inforced by social support (Bandura, 1997; Lindsley,            sizes for T1, T2, and T3 were 349, 344, and 331, re-
+Brass, & Thomas, 1995). Also, in Ajzen’s (1991) the-            spectively). Women composed 51.6 % of the present
+
+
+
+Creativity Research Journal                                                                                          191
+
+J. N. Choi
+
+
+sample. The average age and year at the university          depicting personal characteristics, and participants
+were, respectively, 19.8 years and 2.1 (1 = freshmen, 2     were asked to rate the degree to which each adjective
+= sophomore, 3 = junior, 4 = senior).                       accurately describes them. Of the 30 items in the origi-
+                                                            nal scale, I chose 7 adjectives that clearly capture per-
+                                                            sonality characteristics related to creativity and cau-
+Measures
+                                                            tiousness. The creative personality scale included four
+    The questionnaires used for each wave of data           items (inventive, creative, imaginative, innovative) that
+collection assessed different sets of variables. Spe-       showed high internal consistency (α = .87). The cau-
+cifically, the T1 questionnaire assessed personal dis-      tious personality scale comprised three adjectives
+positions such as personality (creative personality,        (cautious, commonplace, conventional) with accept-
+cautious personality) and task motivation (intrinsic        able reliability (α = .72). A factor analysis demon-
+motivation, extrinsic motivation). The T2 question-         strated that these two scales are clearly distinguishable,
+naire measured the creative ability of participants and     with high factor loadings to corresponding factors
+social influences from the leaders and peers (support-      (greater than .55) and low cross loadings (less than
+ive leadership, open group climate). Finally, the T3        .16). Moreover, these two personality scales were neg-
+questionnaire collected underlying psychological pro-       atively and significantly correlated with each other (r =
+cesses (creative self-efficacy, creativity intention). At   –.24, p = .001).
+T3, the creative performance of each student partici-
+pant was evaluated by two instructors per student.             Creative ability (T2). Drawing on the literature
+The items used to measure each construct are de-            enumerating creativity-related skills (e.g., Amabile,
+scribed later. Each scale included multiple items and       1988; Axtell et al., 2000), I developed a five-item index
+showed acceptable internal consistencies. A 7-point         (α = .73) to obtain participants’ self-reported assess-
+Likert-type scale was used as the response format for       ments of their creativity-relevant skills. Sample items
+all items.                                                  were “I am able to generate new ideas,” “I appreciate
+                                                            and accept different perspectives,” and “I can present
+   Intrinsic and extrinsic motivation (T1). Partici-        creative solutions for a given problem.”
+pants’ task motivation was measured by two scales ap-
+pearing in the Work Preference Inventory (Amabile,             Supportive leadership (T2). The extent to
+Hill, Hennessey, & Tighe, 1994). The intrinsic motiva-      which instructors supported students’ participation and
+tion scale included four items (α = .83) that assessed      ideas was measured by three items (α = .74), including
+the degree to which respondents enjoyed the challenge       “Instructors regularly encourage students to participate
+of the work at hand. Sample items were “I enjoy tack-       in the class,” “Instructors explicitly seek students’
+ling problems that are completely new to me” and “I         ideas or comments throughout the class,” and “Instruc-
+enjoy trying to solve complex problems.” The extrinsic      tors frequently and properly reinforce students who
+motivation scale had four items (α = .76) that measured     participate throughout the class.”
+the extent to which participants relied on external in-
+centives as the impetus for their work. This scale in-         Open group climate (T2). The extent to which
+cluded items such as “I am strongly motivated by the        active participation and open sharing of ideas were ex-
+grades I can earn” and “As long as I can do what I en-      pected in the class was assessed by a three-item mea-
+joy, I’m not that concerned about exactly what grades       sure (α = .73), including the items “In this class, open
+or awards I can earn” (reverse coded). Each item was        and active participation is a norm,” “Classmates en-
+followed by a 7-point scale ranging from 1 (not at all      courage each other to participate actively,” and “As a
+true) to 7 (absolutely true).                               group, we feel that each one of us needs to contribute to
+                                                            class exercise and discussion.”
+   Creative and cautious personality (T1). To mea-
+sure participants’ personality characteristics related to      Creative self-efficacy (T3). Participants’ self-
+creativity, Gough’s (1979) creative personality scale       efficacy with regard to using their creativity in the
+was adapted. This scale included a series of adjectives     classroom setting was assessed by a four-item measure
+
+
+
+
+192                                                                                  Creativity Research Journal
+
+                                                                  Psychological Processes of Creative Performance
+
+
+(α = .71). Example items include “I feel confident that         participants was conducted using principal-compo-
+I can introduce new ideas to the class in a convincing          nents analysis. This procedure produced nine factors,
+manner,” and “I feel nervous when I present different           and each item was loaded to its respective factors with
+views to classmates” (reverse coded).                           factor loadings ranging between .54 and .92. This clear
+                                                                factor structure indicates that the nine scales reported
+   Creativity intention (T3). Participants’ inten-              by students were empirically distinct and that the con-
+tion to exert creative effort during the class was mea-         founding from common method variance was not seri-
+sured by a two-item scale (α = .83), including the items        ous in the present data.
+“I am strongly motivated to offer new and constructive             The framework in Figure 1 and the hypotheses ad-
+ideas to the class” and “I am willing to use and practice       vanced here were tested by confirmatory structural
+my creativity during this class.” The distribution of this      equation modeling (SEM) analysis using the EQS pro-
+two-item measure was slightly negatively skewed, but            gram (Bentler, 1995). SEM is an appropriate procedure
+it was not significantly different from a continuous,           for the present study because it estimates relative im-
+normal distribution (Kurtosis test, p = .48).                   pacts of multiple predictors on multiple outcomes that
+                                                                are linked by more than two causal steps, controlling
+    Creative performance (T3). At the end of the                for measurement errors (Bollen, 1989). In the present
+semester (T3), each of the two instructors responsible          data, the overall missing data rate for the study vari-
+for the same class independently evaluated their stu-           ables amounted to 18%; therefore, 82% (N = 317) of
+dents’ level of creative performance on a 7-point scale         the total sample (N = 386) was used as the actual sam-
+ranging from 1 (very little) to 7 (quite a lot). In the eval-   ple in the SEM procedures described here.
+uation sheet prepared for instructors, creativity was de-
+fined as “the extent to which this particular student (1)
+                                                                Measurement Model
+is open to and actively listens to others’ ideas, (2) gen-
+erates and presents new/fresh ideas, alternative expla-             In the present data, nine scales rated by students
+nations, different perspectives, or other creative solu-        were measured using 32 items, and an additional vari-
+tions, and (3) integrates multiple perspectives or              able (instructor-rated creative performance) was pro-
+combines ideas or materials from different modules in           vided by two instructors’ rating of each student. Over-
+a constructive manner.” The interrater agreement of the         all, a full measurement model could be created from 34
+two instructors’ ratings of creative performance was            data points (or items) that indicated 10 latent factors.
+acceptable (effective reliability of judges = .70; see          Given the current sample size, however, it would not be
+Rosenthal & Rosnow, 1991, pp. 51–52).                           desirable to build a full measurement model including
+                                                                all 34 indicators. Instead, the number of indicators per
+                                                                latent construct was limited to 2. Thus, when the mea-
+                                                                sure included more than two items, a factor analysis of
+                          Results                               scale items was conducted using principal-component
+                                                                analysis, specifying a two-factor solution (without this
+   Table 1 presents means, standard deviations, and             requirement, all measures produced a single factor) to
+intercorrelations between the study variables. Al-              obtain two subscales, each representing distinct
+though the present study used design features that              within-scale variance. Two creativity ratings offered
+might reduce common method variance, such as the                by two instructors composed two indicators of creative
+three-wave longitudinal design and the outcome mea-             performance.
+sure reported by two external evaluators (Podsakoff &               To estimate the measurement model with the latent
+Organ, 1986), all predictors were based on self-report          factors as have been specified, I allowed covariances
+data from the same source. To examine whether com-              between each latent variable and every other latent
+mon method variance was a substantial threat to the             variable in the model. The statistical test of this mea-
+present study, Harman’s one-factor test was performed           surement model is equivalent to a confirmatory factor
+(Podsakoff & Organ, 1986). Factor analysis of the 32            analysis of all study variables. This model fitted the
+items composing the nine scales rated by the student            data well, χ2(125) = 162.12, p < .001; comparative fit
+
+
+
+
+Creativity Research Journal                                                                                         193
+
+194
+
+
+
+
+                                                                                                                                                                        J. N. Choi
+                              Table 1. Means, Standard Deviations, and Intercorrelations Among Variables
+                              Variable                           M           SD      1         2        3         4        5        6        7       8       9     10
+
+                               1. Intrinsic Motivation (T1)     4.93     1.11        —
+                               2. Extrinsic Motivation (T1)     5.11     1.56      .05         —
+                               3. Creative Personality (T1)     4.90     1.17      .24***   –.07        —
+                               4. Cautious Personality (T1)     4.04     1.14     –.17**     .04     –.24***      —
+                               5. Creative Ability (T2)         5.17     0.79      .23***    .14*     .30***   –.19**      —
+                               6. Supportive Leadership (T2)    6.19     0.72      .13*      .10      .09      –.06      .28***     —
+                               7. Open Group Climate (T2)       5.67     0.86      .05       .11*     .04       .01      .19***   .47***     —
+                               8. Creative Self-Efficacy (T3)   5.11     1.12      .17**     .06      .29***   –.33***   .43***   .22***   .20**     —
+                               9. Creativity Intention (T3)     5.28     1.23      .04       .03      .12*     –.06      .13*     .11      .16**   .23***    —
+                              10. Creative Performance (T3)     4.39     1.61      .11*      .17**    .13*     –.16**    .19***   .17**    .12*    .35***   .11*   —
+
+                              Note. T1 = Time 1; T2 = Time 2; T3 = Time 3.
+                              *p < .05. **p < .01 ***p < .001.
+Creativity Research Journal
+
+                                                                            Psychological Processes of Creative Performance
+
+
+
+
+Figure 2. Longitudinal structural model of creative performance. T1 = Time 1; T2 = Time 2; T3 = Time 3. Thicker lines represent statistically
+more significant results. Dotted lines represent statistically nonsignificant results. *p < .05. **p < .01. ***p < .001.
+
+
+
+index (CFI) = .98; goodness-of-fit index (GFI) = .95;                     open group climate and supportive leadership, neither
+root-mean-square error of the approximation                               was significantly associated with creative self-efficacy
+(RMSEA) = .031, and thus it was used in the testing                       or creativity intention. Taking this multicollinearity
+of all of the structural models discussed here.                           into account, I removed the less significant paths, and
+                                                                          only the path from open group climate to creative
+                                                                          self-efficacy and another from supportive leadership to
+Structural Model and Hypothesis Testing                                   creativity intention were kept in the final model. This
+   The present hypotheses suggest that three sets of                      slightly revised model showed a model fit comparable
+variables (stable personal dispositions, social influ-                    to that of the initial model, χ2(153) = 278.54; CFI =
+ences, and underlying psychological processes) influ-                     .92; GFI = .92; RMSEA = .051. Figure 2 displays this
+ence creative performance and that underlying psycho-                     final model and estimates of its parameters. The fig-
+logical processes mediate the effects of the other two                    ures along the paths represent standardized path coeffi-
+clusters of variables on creative performance. Using                      cients.
+the aforementioned measurement model, a structural                            Although the proposed model fits the data well, the
+model was tested incorporating every path based on                        possibility still exists that other models may provide an
+Hypotheses 1 through 6. This initial model showed a                       equally good or better fit to the data. Accordingly, I
+good fit to the present data, χ2(151) = 252.01; CFI =                     identified and tested two alternative structural models
+.94; GFI = .93; RMSEA = .046. In this initial model,                      based on plausible alternative hypotheses. The first al-
+however, because of a very high correlation between                       ternative model (direct-effect-only model) was created
+
+
+
+Creativity Research Journal                                                                                                             195
+
+J. N. Choi
+
+
+by removing the paths from individual characteristics        performance was mediated by creative self-efficacy (β
+and social influences to psychological processes and         = .25, p = .001).
+adding direct paths from these variables to creative
+performance, χ2(156) = 476.53; CFI = .80; GFI = .86;
+RMSEA = .081. The second alternative model (di-
+rect-and-indirect-effect model) was created by adding                               Discussion
+direct paths from individual characteristics and social
+influences to creative performance in addition to their          The present study examined the effects of various
+indirect paths via psychological processes, χ2(146) =        individual, contextual, and psychological process vari-
+313.00; CFI = .90; GFI = .91; RMSEA = .060.                  ables on creative performance and their interrelation-
+    Although a commonly applied criterion for model          ships. It identified a set of psychological processes that
+comparison is statistical significance of the change in      explain a plausible mechanism through which individ-
+chi-square, this criterion is applicable only when nested    ual characteristics and contextual factors influence in-
+models are compared. To facilitate the comparison of         dividuals’ creative performance. The analysis of longi-
+the two alternative models and the proposed model that       tudinal, multisource data showed that underlying
+are not nested to each other, I used the Akaike informa-     psychological processes completely mediated the ef-
+tion criterion (AIC): For the two models from the same       fects of individual characteristics and social influences
+data, the model with the smaller AIC is to be preferred.     on creative performance. This study informs the litera-
+AICs of the present model, the first alternative model,      ture of potential psychological mechanisms through
+and the second alternative model were –27.46, 164.53,        which the person and the social context affect creative
+and 21.00, respectively. This comparison clearly dem-        performance. It also suggests several interesting impli-
+onstrates that the present model performed better than       cations for further research on creativity as discussed
+the other two alternative models.                            later.
+    Overall, the SEM results summarized in Figure 2              This study provides empirical evidence that extrin-
+support the present hypotheses. Creative self-efficacy       sic motivation increases creative performance through
+and creativity intention directly influenced creative        its effect on creativity intention. In fact, controlling for
+performance (Hypotheses 1 and 2 were supported),             other predictors, only extrinsic motivation (but not in-
+mediating the effects of seven individual and contex-        trinsic motivation) was positively related to creativity
+tual variables examined. Confirming the mediational          intention. This pattern indicates that, contrary to the
+hypotheses (Hypotheses 3 and 4), individual character-       prevalent belief, extrinsic motivation may not unilater-
+istics influenced creative performance through their         ally destroy creativity. As Eisenberger and Rhoades
+impacts on creative self-efficacy and creativity inten-      (2001) suggested, the key moderator of the relation-
+tion. Of interest, extrinsic motivation and intrinsic mo-    ship between extrinsic motivation and creativity might
+tivation had opposite effects on creativity intention (β     be the reward contingency. Extrinsic motivation per se
+= .17, p = .018, and β = –.20, p = .028, respectively).      may neither increase nor decrease creativity. Instead,
+Creative personality significantly increased creativity      people with high extrinsic motivation may display high
+intention (β = .26, p = .008), but not creative self-effi-   creative performance when reward criteria involve cre-
+cacy (β = .10, p = .17). In contrast, cautious personality   ativity, whereas the same people may stick to conven-
+showed significant effects on both psychological pro-        tional approaches when the situation signals that effi-
+cess variables as hypothesized. Creative ability was         ciency, rather than creativity, will be rewarded. Given
+also positively associated with both psychological pro-      that creativity is explicitly sought and encouraged in
+cess variables.                                              most contemporary work and educational settings
+    The effects of social influence variables on creative    (Amabile, 1996), extrinsic motivation may often in-
+performance were also mediated by underlying psy-            crease rather than decrease the creative performance of
+chological processes (Hypotheses 5 and 6 were sup-           individuals.
+ported). Instructors’ supportive leadership behavior in-         An alternative explanation of this finding may in-
+fluenced students’ creative performance by enhancing         volve the type of creativity involved. The present mea-
+their creativity intention (β = .29, p = .003), and the      sure of creative performance was based on expressed
+positive effect of an open group climate on creative         or public creativity observed by two instructors. Ap-
+
+
+
+196                                                                                    Creativity Research Journal
+
+                                                              Psychological Processes of Creative Performance
+
+
+parently, the present dependent measure reflects the        effect of group composition in terms of members’
+“responsive or expected creativity” that was demanded       personality characteristics on group performance in
+by the situation (Unsworth, 2001), and thus it might be     brainstorming or group-level creativity.
+more likely to be influenced by a person’s extrinsic            Despite numerous studies of individual and contex-
+motivation. This narrow operationalization indeed ig-       tual factors predicting creativity (Axtell et al., 2000;
+nores other types of creativity such as proactive or con-   Oldham & Cummings, 1996; Scott & Bruce, 1994), an
+tributory creativity, which are triggered by internal       in-depth exploration of why these variables influence
+drivers and voluntary efforts rather than by external ex-   creativity has not yet been conducted systematically.
+pectations (Unsworth, 2001). These latter types of cre-     This study has expanded the literature by identifying
+ativity might be better predicted by intrinsic task moti-   and testing psychological processes that explain a
+vation. Nevertheless, in current organizational and         mechanism through which various individual and con-
+educational settings, creativity is often elicited by the   textual factors increase or decrease creative perfor-
+task and expected in many situations (e.g., quality cir-    mance. The results reveal that personal dispositions
+cles, brainstorming sessions, focus groups, case dis-       and social surroundings indirectly influence creative
+cussions). Perhaps this kind of expected creativity may     performance by shaping critical psychological pro-
+benefit more from individuals’ extrinsic motivation         cesses rather than directly influencing creative perfor-
+than from intrinsic motivation as shown in this study.      mance. This mediational pattern resonates with many
+Future studies should examine different types of cre-       researchers’ speculations regarding the potential influ-
+ativity that may be facilitated or hindered by different    ence of individual and contextual factors on psycho-
+motivational (intrinsic vs. extrinsic) or goal orienta-     logical states that may be directly responsible for cre-
+tions (performance vs. learning) that people bring into     ativity (Amabile, 1988; Redmond et al., 1993). This
+the situation.                                              study highlights the need for investigating more proxi-
+    This study examined two opposing personality            mal, situation-specific predictors that may be more di-
+types that may underlie various creativity-related per-     rectly related to creativity in a particular setting than
+sonality characteristics such as innovativeness, open       general individual and contextual factors. Further re-
+information processing, and tolerance for ambiguity         search can be targeted to the role of additional psycho-
+(Flynn & Goldsmith, 1993; Gough, 1979). Factor              logical process variables such as psychological free-
+analysis indicates that being cautious and being cre-       dom (Amabile, 1996) or increased attention or
+ative constitute two independent personality charac-        sensitivity to improvements or original ideas (Zhou &
+teristics. Of interest, only cautious personality, not      George, 2001).
+creative personality, was a significant predictor of            Although the present design features, such as
+creative self-efficacy (β = –.42, p = .001, and β = .10,    three-wave longitudinal data and the criterion reported
+p = .095, respectively). This suggests the possibility      by multiple external observers, improve the internal va-
+that the inhibitory effect of being cautious with re-       lidity of the findings, caution is warranted in generaliz-
+spect to a person’s creativity-related efficacy belief is   ing the results to other settings, particularly the work-
+greater than the facilitative effect of being a cre-        place. To understand creativity in organizational
+ative-type personality, particularly in the case of ex-     settings, researchers may need to take into account other
+pressed creativity, in which cautious people experi-        types of psychological processes, such as confidence in
+ence difficulty in presenting their ideas to others. This   one’s ideas (e.g., value addition, implementability) and
+interpretation corresponds to the research on brain-        comparisons of costs and benefits of sharing ideas in
+storming showing that the group setting itself im-          terms of potential gains and potential image risks. More-
+poses barriers to individual creativity due to evalua-      over, additional individual and contextual variables may
+tion apprehension experienced by members (Paulus            operate in the workplace, such as task characteristics,
+& Yang, 2000). Therefore, to improve the creative           empowerment, amount of resources, organizational cli-
+performance of individuals in a group setting, it may       mate, and other organizational impediments or facilita-
+be important to reduce the restraining forces residing      tors (Amabile et al., 1996; Isaksen et al., 1999). Thus, a
+within individuals, such as being cautious, being hes-      natural extension of the present study would be to iden-
+itant, being introverted, or having a tendency to           tify distinct psychological processes responsible for
+self-censor ideas. Future studies might examine the         creative performance in organizations and test the po-
+
+
+
+Creativity Research Journal                                                                                      197
+
+J. N. Choi
+
+
+tential impact of various organizational contextual fac-               Bandura, A. (1997). Self-efficacy: The exercise of control. New
+tors on these psychological processes.                                      York: Freeman.
+                                                                       Bentler, P. M. (1995). EQS Structural Equation Program (Version
+   The present focus on psychological processes pro-                        6.1 for Windows) [Computer software and manual]. Los An-
+vides a process-based explanation of how and why                            geles: BMDP Statistical Software.
+some factors contribute to individual creativity                       Bollen, K. A. (1989). Structural equations with latent variables.
+whereas others do not. Indeed, the nature of the rela-                      New York: Wiley.
+tionships between person and context and their impact                  Boss, R. W., Koberg, C. S., & Rohan, N. S. (2001, August). Work re-
+                                                                            lated correlates of individual creativity: Testing an
+on critical psychological processes may vary depend-                        interactionist model. Paper presented at the meeting of the
+ing on the distinct nature of the individual and contex-                    Academy of Management, Washington, DC.
+tual variables under consideration. Conceptually, clear                Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-de-
+theorizing and testing of the relationships between var-                    termination in human behavior. New York: Plenum.
+ious individual and contextual factors with regard to                  Eisenberger, R., & Rhoades, L. (2001). Incremental effects of reward
+                                                                            on creativity. Journal of Personality and Social Psychology, 81,
+underlying psychological processes of creativity will
+                                                                            728–741.
+provide an enriched understanding of the creative pro-                 Eisenberger, R., Rhoades, L., & Cameron, J. (1999). Does pay for
+cesses engaged in by individuals, teams, and organiza-                      performance increase or decrease perceived self-determination
+tions. In a practical sense, this improved understanding                    and intrinsic motivation? Journal of Personality and Social
+of creative processes will also promote the effective-                      Psychology, 77, 1026–1040.
+ness of training and other interventions designed to in-               Flynn, L. R., & Goldsmith, R. E. (1993). A validation of the Gold-
+                                                                            smith and Hofacker Innovativeness Scale. Educational and
+crease creativity in organizations by revealing the me-                     Psychological Measurement, 53, 1105–1116.
+diating psychological processes that should be targeted                Glynn, M. A. (1996). Innovative genius: A framework for relating
+as an intermediate outcome of these interventions.                          individual and organizational intelligences to innovation. Acad-
+                                                                            emy of Management Review, 21, 1081–1111.
+                                                                       Gough, H. G. (1979). A creative personality scale for the adjective
+                                                                            checklist. Journal of Personality and Social Psychology, 37,
+                                                                            1398–1405.
+                          References                                   Hennessey, B. A., & Amabile, T. M. (1998). The conditions of cre-
+                                                                            ativity. In R. J. Sternberg (Ed.), The nature of creativity (pp.
+Ajzen, I. (1991). The theory of planned behavior. Organizational Be-        11–38). Cambridge, England: Cambridge University Press.
+    havior and Human Performance, 50, 179–211.                         Isaksen, S. G., Lauer, K. J., & Ekvall, G. (1999). Situational outlook
+Amabile, T. M. (1988). A model of creativity and innovation in orga-        questionnaire: A measure of the climate for creativity and
+    nizations. In B. Staw & L. L. Cummings (Eds.), Research in or-          change. Psychological Reports, 85, 665–674.
+    ganizational behavior (Vol. 10, pp. 123–167). Greenwich, CT:       Kirton, M. (1976). Adaptors and innovators: A description and mea-
+    JAI.                                                                    sure. Journal of Applied Psychology, 61, 622–629.
+Amabile, T. M. (1996). Creativity in context: Update to the social     Larrick, R. P. (1993). Motivational factors in decision theories: The
+    psychology of creativity. Boulder, CO: Westview.                        role of self-protection. Psychological Bulletin, 113, 440–450.
+Amabile, T. M., Conti, R., Coon, H., Lazenby, J., & Herron, M.         Lindsley, D. H., Brass, D. J., & Thomas, J. B. (1995). Efficacy–per-
+    (1996). Assessing the work environment for creativity. Acad-            formance spirals: A multilevel perspective. Academy of Man-
+    emy of Management Journal, 39, 1154–1184.                               agement Review, 20, 645–678.
+Amabile, T. M., & Gryskiewicz, N. D. (1989). The creative environ-     Oldham, G. R., & Cummings, A. (1996). Employee creativity: Per-
+    ment scale: Work Environment Inventory. Creativity Research             sonal and contextual factors at work. Academy of Management
+    Journal, 2, 231–253.                                                    Journal, 39, 607–634.
+Amabile, T. M., Hill, K. G., Hennessey, B. A., & Tighe, E. (1994).     Paulus, P. B., & Yang, H.-C. (2000). Idea generation in groups: A ba-
+    The Work Preference Inventory: Assessing intrinsic and extrin-          sis for creativity in organizations. Organizational Behavior and
+    sic motivational orientations. Journal of Personality and Social        Human Decision Processes, 82, 76–87.
+    Psychology, 66, 950–967.                                           Podsakoff, P. M., & Organ, D. W. (1986). Self-reports in organiza-
+Anderson, N. R., & West, M. A. (1998). Measuring climate for work           tional research: Problems and prospects. Journal of Manage-
+    group innovation: Development and validation of the team cli-           ment, 12, 531–544.
+    mate inventory. Journal of Organizational Behavior, 19,            Redmond, M. R., Mumford, M. D., & Teach, R. (1993). Putting cre-
+    235–258.                                                                ativity to work: Effects of leader behavior on subordinate cre-
+Axtell, C. M., Holman, D. J., Unsworth, K. L., Wall, T. D., &               ativity. Organizational Behavior and Human Decision Pro-
+    Waterson, P. E. (2000). Shopfloor innovation: Facilitating the          cesses, 55, 120–151.
+    suggestion and implementation of ideas. Journal of Occupa-         Rogers, C. (1954). Toward a theory of creativity. ETC: A Review of
+    tional and Organizational Psychology, 73, 265–285.                      General Semantics, 11, 249–260.
+
+
+
+
+198                                                                                                   Creativity Research Journal
+
+                                                                         Psychological Processes of Creative Performance
+
+
+Rosenthal, R., & Rosnow, R. L. (1991). Essentials of behavioral re-    Unsworth, K. L. (2001). Unpacking creativity. Academy of Manage-
+     search: Methods and data analysis (2nd ed.). New York:                ment Review, 28, 289–297.
+     McGraw-Hill.                                                      Woodman, R. W., Sawyer, J. E., & Griffin, R. W. (1993). Toward a
+Scott, S. G., & Bruce, R. A. (1994). Determinants of innovative be-        theory of organizational creativity. Academy of Management
+     havior: A path model of individual innovation in the workplace.       Review, 18, 293–321.
+     Academy of Management Journal, 37, 580–607.                       Zhou, J., & George, J. M. (2001). When job dissatisfaction leads to
+Taylor, S., & Todd, P. (1995). Assessing IT usage: The role of prior       creativity: Encouraging the expression of voice. Academy of
+     experience. MIS Quarterly, 19, 561–570.                               Management Journal, 44, 682–696.
+Tierney, P., Farmer, S. M., & Graen, G. B. (1999). An examination of
+     leadership and employee creativity: The relevance of traits and
+     relationships. Personnel Psychology, 52, 591–620.
+
+
+
+
+Creativity Research Journal                                                                                                          199
+

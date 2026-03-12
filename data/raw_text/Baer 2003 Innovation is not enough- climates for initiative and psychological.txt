@@ -1,0 +1,1252 @@
+Journal of Organizational Behavior
+J. Organiz. Behav. 24, 45–68 (2003)
+Published online in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/job.179
+
+
+
+
+                     Innovation is not enough: climates for
+                     initiative and psychological safety, process
+                     innovations, and firm performance
+                     MARKUS BAER* AND MICHAEL FRESE
+                     Work and Organizational Psychology, University of Giessen, Giessen, Germany
+
+
+
+
+Summary              This paper contributes to the discussion on contingencies of process innovations by focusing
+                     on and introducing organizational-level constructs of climate for initiative and psychological
+                     safety. We argue that process innovations, defined as deliberate and new organizational
+                     attempts to change production and service processes, need to be accompanied by climates that
+                     complement the adoption and implementation of such innovations. Our study of 47 mid-sized
+                     German companies examines the relation between process innovations, climates for initiative
+                     and psychological safety, and firm performance. Results show that climates for initiative and
+                     psychological safety were positively related to two measures of firm performance—longitu-
+                     dinal change in return on assets (holding prior return on assets constant) and firm goal achieve-
+                     ment—and moderated the relation between process innovations and firm performance.
+                     Copyright # 2003 John Wiley & Sons, Ltd.
+
+
+
+
+Introduction
+
+‘Innovation has become the industrial religion of the late 20th century. Business sees it as the key to
+increasing profits and market share. Governments automatically reach for it when trying to fix the
+economy’ (Innovation in industry, 1999, p. A1). In particular, innovations aimed at enhancing organi-
+zational production and service procedures and processes such as Business Process Reengineering
+(BPR), Total Quality Management (TQM), Lean Production, Simultaneous Engineering, or Just-in-
+Time Production (JIT) have been embraced by a wide variety of businesses with increasing frequency.
+We define those deliberate and new organizational attempts to change production and service pro-
+cesses as process innovations. While terms such as manufacturing practices and management techni-
+ques have been used to categorize new practices like team-based work and TQM (Waterson et al.,
+1999; Staw & Epstein, 2000), West et al. (2002—working paper) recognized these practices as inno-
+vations and distinguished between product innovation and innovations in production processes, work
+organization, and human resource management practices. We concur with West et al. (2002—working
+
+
+* Correspondence to: Markus Baer, Department of Business Administration, University of Illinois at Urbana-Champaign, 350
+Wohlers Hall, 1206 South Sixth Street, Champaign, IL 61820-6980, U.S.A. E-mail: baer@uiuc.edu
+
+
+                                                                                             Received 18 June 2001
+                                                                                               Revised 24 May 2002
+Copyright # 2003 John Wiley & Sons, Ltd.                                                Accepted 25 September 2002
+
+                                                                                                              10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+46    M. BAER AND M. FRESE
+
+
+paper) in viewing these as innovations due to the novel issues that are associated with their adoption
+and implementation.
+   Process innovations are assumed to bring multiple benefits to an organization and help an organiza-
+tion achieve competitive advantage. However, a considerable number of businesses have adopted these
+practices without much success. For example, Waterson et al. (1999) studied the effectiveness of several
+modern manufacturing practices in the UK and discovered that approximately 50–60 per cent of the
+companies thought their innovations met objectives only ‘moderately’, ‘a little’, or ‘not at all.’ Studying
+the implementation of BPR in 216 US and Canadian hospitals, Ho, Chan, and Kidwell (1999) found that
+most hospital executives indicated that process reengineering efforts were barely to moderately success-
+ful in accomplishing the desired objectives. Finally, in a recent study on the organizational effects of
+popular management techniques, Staw and Epstein (2000) found no significant relation between com-
+panies being associated with quality, teams, and empowerment, and changes in economic performance
+over time. They also found no effects of TQM implementation on performance.
+   One possible explanation for these findings is that despite a high level of implementation, critical
+contingencies that complement the process innovations are not in place. Contingencies that have been
+considered important to the success of TQM, for example, are organizational structure, culture, and
+climate (Detert, Schroeder, & Mauriel, 2000; Douglas & Judge, 2001; Emery, Summers, & Surak,
+1996). In this paper we concentrate on organizational climate as a contingency and identify those
+climate dimensions that positively affect the relation between process innovations and company per-
+formance. Process innovations are often employed ‘off the shelf’, causing the human side of the socio-
+technical system to be lost (e.g., Harmon, 1992). The need to develop organizational climates in which
+people participating in the change process feel safe in taking interpersonal risks, are encouraged to
+propose new ideas, openly discuss problems, and proactively approach work is easily neglected, lead-
+ing many technically driven implementation attempts to failure. Specifically, we examine the direct
+and indirect effects of two climate dimensions—climate for initiative and climate for psychological
+safety—on two measures of firm performance—change in return on assets (ROA) and firm goal
+achievement. To our knowledge, this has not been done before.
+   Research on manufacturing practices (Waterson et al., 1999) has shown that organizations tend to
+adopt multiple innovations simultaneously. Accordingly, our primary concern is to identify those cli-
+mate dimensions that affect the success of process innovations in general rather than specifying con-
+ditions that are unique to individual process innovations such as BPR, TQM, or JIT. However, we use
+examples of those specific innovations to support our focus on two particular aspects of organizational
+climate as being crucial in complementing these improvement initiatives.
+   We find that two climate dimensions are of particular importance in complementing the successful
+adoption of process innovations. First, the organizational environment has to be supportive of an active
+approach toward work (Frese, Kring, Soose, & Zempel, 1996). For example, in exploring the nature of
+work under TQM, Victor, Boynton, and Stephens-Jahng (2000) found that TQM was dual in nature,
+consisting of activities related to continuous improvement as well as activities related to standardized
+production work. They argued that performance and degree of implementation both depended on
+employees’ abilities to autonomously switch between those role requirements. Tailby and Turnbull
+(1987) argued for the need of employees to show initiative in the context of Just-in-Time Production.
+Due to the absence of local buffers in JIT, disruptions in the work process lead to negative conse-
+quences at a later stage of the production process, possibly leading to failure to meet delivery dead-
+lines. To reduce disruptions, employees need to be able to sense problems and act proactively about
+them before they occur, indicating the importance of initiative at work (Parker, 1998). Proactively
+switching between dual work roles and keeping production running smoothly requires a work envir-
+onment in which such behaviors are expected, valued, and frequently displayed, or a climate for
+initiative.
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                             10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY              47
+
+
+   Second, the work environment has to be one in which people are safe to take interpersonal risks and
+value each individual’s contribution to the work process (Edmondson, 1999). One characteristic com-
+mon to most process innovations is the increased focus on cooperation. For example, Detert et al.
+(2000) argue that one key value of TQM is its focus on collaboration as a means to enhance decision-
+making, quality, and morale. Similarly, Just-in-Time Production is a process that increases employees’
+dependence on each other’s work, thereby increasing the need for employees to collaborate in their
+work (Parker & Wall, 1996). Successful cooperation requires the existence of a climate in which
+employees feel safe in displaying proactive behavior in a social context, or a climate for psychological
+safety. Accordingly, a climate of trust and support has been linked to successful TQM implementation
+(Emery et al., 1996).
+   The first goal of our study is then to examine the importance of organizational climates for initiative
+and psychological safety in achieving the intended performance benefits of innovations, thus moder-
+ating the relation between process innovations and firm performance.
+   Our second goal is to explore the existence of main effects of climates for initiative and psycholo-
+gical safety on firm performance, independent of their effects on the relation between process innova-
+tions and performance. Research on climate has provided some support for the direct link between
+climate dimensions and business performance (Denison, 1990; Marcoulides & Heck, 1993). In a recent
+study of companies from growing as well as declining industries, Kangis and Williams (2000) found
+support for a positive relation between measures of perceived work environment and various indicators
+of organizational performance. Similarly, Stetzer and Morgeson (1997) suggested that organizations
+with high performance climates will not only be more effective, but will also avoid organizational inef-
+fectiveness and lost productivity. In their study of 25 outdoor work crew divisions, they found that a
+climate characterized by quality and cooperation was negatively related to indicators of organizational
+ineffectiveness. In line with research on organizational climate, this paper investigates the direct rela-
+tion between climate and organizational performance.
+   Before we explore the nature of the two climate dimensions in greater detail, we discuss the defini-
+tions that our climate factors are based on and review our rationale for conceptualizing climates for
+initiative and psychological safety on the organizational level of analysis.
+
+
+
+
+Organizational Climate
+
+There are two conflicting views regarding the nature of organizational climate (Glick, 1988). James
+(1982) and James, Joyce, and Slocum (1988) conceptualized organizational climate as an aggregated
+psychological climate. Psychological climate refers to a ‘set of perceptions that reflect how work
+environments, including organizational attributes, are cognitively appraised and represented in terms
+of their meaning to and significance for individuals’ (James et al., 1988, p. 129). They argue that if
+people in an organization share similar perceptions of a psychological climate dimension, it is legit-
+imate to aggregate these individual perceptions into an indicator of organizational climate. Thus, orga-
+nizational climate is the property of individuals and refers to how individuals in an organization
+generally perceive the organization. However, since the aggregation of multiple individual perceptions
+requires some level of agreement, an organizational climate does not exist if people substantially differ
+in the way they perceive organizational characteristics (Glick, 1988).
+   In contrast to this view, Glick (1985, 1988) has repeatedly argued for the conceptualization of orga-
+nizational climate as an organizational rather than individual attribute resulting from sociological and
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                               J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                              10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+48    M. BAER AND M. FRESE
+
+
+organizational processes. He defines organizational climate as ‘a broad class of organizational, rather
+than psychological, variables that describe the organizational context for individuals’ actions’ (Glick,
+1985, p. 613). Such organizational variables mainly refer to formal and informal interpersonal prac-
+tices (Schneider, 1985) and intersubjectively developed meanings resulting from organizational sense-
+making processes (Glick, 1985). Whereas James (1982) and James et al. (1988) define organizational
+climate as an average of individuals’ perceptions, Glick (1985, 1988), Schneider (1985), and Schneider
+and Reichers (1983) conceptualize organizational climate in terms of other constructs such as inter-
+personal practices, intersubjectively developed meanings, and policies and practices, and not as a mere
+aggregation of psychological climate. However, whether climate is a shared perception or a shared set
+of conditions remains a controversy in the literature (Denison, 1996).
+   In contrast to climate, which refers to surface level manifestations of underlying values and assump-
+tions (Denison, 1996), culture constitutes a ‘deeper, less consciously held set of meanings than most of
+what has been called organizational climate’ (Reichers & Schneider, 1990, p. 24). According to Schein
+(1985), culture exists simultaneously on three levels. At the deepest level are assumptions: basic
+beliefs about reality and human nature. The second level is constituted of values, or social principles,
+goals, and standards thought to have intrinsic worth. Finally, on the surface are artefacts, which are the
+visible and tangible results of activity grounded in values and assumptions. Climate is largely
+concerned with those grounded activities that produce visible and tangible outcomes. Thus, we concur
+with Reichers and Schneider (1990) that climate can be conceptualized as a manifestation of culture
+and that culture can most accurately be understood as existing at a higher level of abstraction than
+climate.
+   In this paper we adopt Glick’s (1985, 1988) definition of organizational climate. Our study
+concentrates on process innovations that affect the wider organization of manufacturing, referring
+to practices and philosophies with an organization-wide focus (Bolden, Waterson, Warr, & Clegg,
+1997). Achieving the intended benefits of process innovations depends upon the effort of the organiza-
+tion as a whole. Organizations that display a work environment characterized by initiative and psycho-
+logical safety may have a higher chance in promoting the effectiveness of process innovations.
+Accordingly, we conceptualize climates for initiative and psychological safety as organizational-level
+constructs (Klein et al., 1994) that describe organizational attributes regarding initiative and
+interpersonal safety.
+
+
+
+Climate for Initiative
+
+As an organizational-level construct, climate for initiative refers to formal and informal organizational
+practices and procedures guiding and supporting a proactive, self-starting, and persistent approach
+toward work. Our conceptualization of climate for initiative is derived from the construct of personal
+initiative (Frese et al., 1996, 1997), which was developed as an individual-level construct. Support for
+the notion of a climate for initiative comes from research on taking charge (Morrison & Phelps, 1999).
+Investigating the factors that motivate employees to engage in this form of extrarole behavior,
+Morrison and Phelps (1999) found that taking charge was related to felt responsibility, self-efficacy,
+and perceptions of top management openness. Their results suggest that top management support for a
+general climate for initiative is important for people to show initiative.
+   Our first prediction is that climate for initiative is positively related to organizational performance.
+Potential mechanisms for the effects of climate for initiative are: top management and peers allow and
+encourage personal initiative of individuals and groups (Morrison & Phelps, 1999), people and groups
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                              10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY               49
+
+
+feel responsible for their work (Frese et al., 2002—submitted manuscript), people exercise more dis-
+cretion in how they do their jobs (Frese et al., 2002—submitted manuscript), and people work on their
+ideas longer and with more intensity in order to turn them into useful suggestions (Frese, Teng, &
+Wijnen, 1999).
+   Evidence suggests that individual-level personal initiative is related to better performance. Proactive
+blue- and white-collar workers perform better (Hacker, 1992) primarily because they prevent negative
+events from occurring and they plan better and are more active in acquiring useful information
+(Wall, Jackson, & Davids, 1992). Proactive personality—a concept similar to personal initiative
+but conceptualized as a dispositional construct—has also been shown to be related to career success
+(Seibert, Crant, & Kraimer, 1999) and to individual job performance in real estate agents
+(Crant, 1995).
+   Frequently, however, initiative is negatively sanctioned by peers or managers because taking initia-
+tive ‘rocks the boat’ and is perceived as threatening by those directly affected. In the short run, initia-
+tive may not be welcome because it interrupts routines. In the long run, however, a high degree of
+personal initiative in the workforce leads to new ideas, smoother production and service processes,
+better implementation of innovations, and ultimately to better performance. Formal and informal orga-
+nizational practices and procedures guiding and supporting a proactive, self-starting, and persistent
+approach toward work are potentially helpful in increasing organizational performance through
+encouraging a high level of initiative in the workforce. In such a climate, actions are taken to prevent
+problems and errors that lead to serious disruptions in production, actions and ideas that help produc-
+tion are self-started even if nobody is around to help or give orders, and difficulties and problems are
+met with persistence to overcome them. All of these factors should help to increase smooth production,
+thereby increasing company performance. A climate for initiative should therefore increase general
+organizational-level performance.
+   Second, a climate for initiative is hypothesized to function as a contingency variable that supports
+process innovations being realized to their full potential. We defined organizational process innova-
+tions as deliberate and new organizational attempts to change production and service processes. When-
+ever something new is introduced into an organization, smooth functioning can only be achieved when
+people actively participate in the introduction of the innovation. Furthermore, innovation implementa-
+tion cannot be planned in such a way that no unexpected problems occur along the way. Problems must
+therefore be anticipated and dealt with proactively and the implementation itself often requires that
+people think about and use new procedures with a self-starting sense.
+   A climate for initiative also continues to play an important role after an innovation has been
+fully implemented. More traditional production processes are characterized by putting responsibility
+for production into the hands of management. In contrast, modern manufacturing concepts put
+responsibility for production and quality back into the hands of shop floor employees (Imai, 1986;
+Wall & Jackson, 1995). Furthermore, newer production systems are characterized by a higher
+degree of production uncertainty (Wall & Jackson, 1995; Wright & Cordery, 1999). Less
+certainty implies more unexpected problems and barriers that need to be overcome and the necessity
+of self-starting behaviors to avoid production breakdowns. Thus, the extent to which the work
+environment is characterized as being open to and supportive of an active approach toward work is
+essential.
+   What happens if process innovations are implemented in a company with a low level of climate for
+initiative? In such a climate, people may feel helpless and victim to the innovation. They may not act
+when things go wrong. Since problems appear during the implementation of an innovation, innovation
+paired with a low level of climate for initiative may negatively effect company performance. Thus, we
+predict that firm performance depends on the interaction between process innovation and climate for
+initiative; that is, climate for initiative functions as a moderator.
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                                10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+50      M. BAER AND M. FRESE
+
+
+Climate for Psychological Safety
+
+Psychological safety was originally used as an individual- and team-level concept. To demonstrate a
+relation between perceived psychological safety climate and job involvement, effort, and performance,
+Brown and Leigh (1996) adopted Kahn’s (1990) definition of psychological safety as referring to an
+employee’s ‘sense of being able to show and employ one’s self without fear of negative consequences
+to self-image, status or career’ (p. 708). Edmondson (1999) defined team psychological safety as a
+shared belief that a team is safe for taking interpersonal risks and found strong support for an associa-
+tion between team psychological safety and team learning behavior, which in turn was related to team
+performance. We extend the construct of team psychological safety to an organizational climate for
+psychological safety. A climate for psychological safety refers to formal and informal organizational
+practices and procedures guiding and supporting open and trustful interactions within the work envir-
+onment. Thus, a climate for psychological safety describes a work environment where employees are
+safe to speak up without being rejected or punished.
+   Employees working in an organization that provides a personally non-threatening and supportive
+climate should be more likely to take the risk of proposing a new idea than in an environment where
+‘proposing a new idea will lead to an attack, to him or her being censored, ridiculed or penalized . . . ’
+(West, 1990, p. 312). In other words, organizations with a climate for psychological safety will
+enhance learning behavior as well as the use of employees’ creative potential. Potential mechanisms
+by which climate for psychological safety produces a higher degree of performance are: ease and
+reduced risk in presenting new ideas in a safe climate (Edmondson, 1999; West, 1990), better team
+learning (Edmondson, 1999), higher level of job involvement and exertion of greater effort (Brown
+& Leigh, 1996), and smoother collaboration in solving problems. Thus, we propose that companies
+displaying a strong climate for psychological safety perform better than companies that fail to establish
+such a climate.
+   In addition to the direct relation to performance, climate for psychological safety should also func-
+tion as a moderator of the relation between process innovations and firm performance. Since modern
+process innovations are characterized by a higher degree of interdependence of traditionally distinct
+processes (Dean & Snell, 1991), there is an increased need for employees to collaborate in their work
+(Parker & Wall, 1996). Since employees must increasingly perform activities that are more interper-
+sonal in nature, feeling safe in interactions becomes important. Furthermore, employees must be able
+to take the risk of openly proposing new ways of working and to come up with alternative problem-
+solving approaches. A climate in which it is safe to speak up and take risks is argued to complement the
+adoption and implementation of modern process innovations, thereby functioning as a critical contin-
+gency in enhancing the full potential of innovations.
+   In summary, we investigate the following hypotheses:
+     Hypothesis 1: Climate for initiative is positively related to company performance.
+     Hypothesis 2: Climate for initiative moderates the relation between process innovations and com-
+     pany performance such that a high level of climate for initiative is associated with a positive relation
+     and a low level of climate for initiative is associated with a negative relation.
+     Hypothesis 3: Climate for psychological safety is positively related to company performance.
+     Hypothesis 4: Climate for psychological safety moderates the relation between process innovations
+     and company performance such that a high level of climate for psychological safety is associated
+     with a positive relation and a low level of climate for psychological safety is associated with a nega-
+     tive relation.
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                  J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                            10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                               INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY              51
+
+
+Organizational Context
+
+
+ Companies
+ Mid-sized companies for which current financial performance data were available and which did
+ not experience extraordinary occurrences such as a merger in their recent past were selected from a
+ large database of German companies. Companies were distributed throughout Germany. More than
+ half were manufacturing firms from the food, clothing, metal goods, mechanical/computer engi-
+ neering, and electrical engineering sectors. Our sample also included companies from the transpor-
+ tation, utilities, wholesale trade, financial services, and miscellaneous services sectors. Almost all
+ were profitable and reported a positive return on assets for the period between January and Decem-
+ ber 1998, ranging from 0.01 to 31.52 per cent with a mean of 8.61 per cent. For six companies,
+ return on assets was approximated with zero since they reported losses during this time period
+ and no information regarding their return on assets was available. Companies in our sample were
+ engaged in a significant amount of innovative activity with respect to the 12 process innovations
+ assessed in this study. The greatest amount of innovative change occurred in the areas of Business
+ Process Reengineering, Total Quality Management, Computer Integrated Manufacturing, Team-
+ Based Working, and Supply-Chain Partnering.
+
+ Informants
+ At least three managers from each company in our sample provided us with information about their
+ organization’s climate, innovativeness, and performance. We asked our contact person in each
+ company to distribute surveys to managers, providing as much a representative cross-section of
+ the company’s management as possible. Respondents in our study represent a diverse set of man-
+ agers occupying a wide variety of positions (e.g., CEO, CFO, Plant Director, Director of Human
+ Resources, Director of Research & Development) in a variety of departments (e.g., Production,
+ Marketing, Sales, Finance, Human Resources).
+
+ Time
+ Surveys were sent out in the fall of 1998 and archival data on company profitability for the period
+ between January and December 1998 were obtained in the summer and fall of 1999. Our study was
+ executed at a time when economic conditions in Germany were more favorable than they are at
+ present; such favorable conditions might have played a role in the dynamics observed in this
+ research. Thus, it is important to keep those conditions in mind when evaluating this research
+ and making generalizations to periods when economic conditions are more hostile.
+
+
+
+
+Method
+
+Sample and procedures
+The sample was developed from information on over 6000 German companies provided by
+Hoppenstedt (1998). In selecting companies, we used four major criteria. First, the companies had
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                              J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                              10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+52    M. BAER AND M. FRESE
+
+
+to employ between 100 and 900 people. We focused on mid-sized companies because we believe that
+the assessment of organizational climate becomes more difficult as the number of employees increases
+and only smaller companies are characterized by a unitary climate. Second, we chose companies from
+the industrial and service sectors because of the widespread use of process innovations in those sectors
+and because companies from those sectors are typical of the German economy (Simon, 1996). Third,
+we required current information on the financial performance of the company. Fourth and finally, since
+merging can have a strong negative effect on a company’s economic performance (Bühner, 1990), we
+excluded any companies that had recently merged.
+   In collecting information on organizational climate and process innovations, we focused on an
+organization’s management. There were two reasons for this. First, management receives information
+on a wide variety of departments and is therefore a more valid source for the assessment of an
+organization’s general climate and the level of change in process innovations. Additionally, manage-
+ment plays a key role in forming and shaping an organization’s climate by setting the tone in the orga-
+nization and determining the kinds of behaviors that are expected and supported. Second,
+concentrating on an organization’s management may allow one to control for potential sources of bias.
+Perceptual measures of organizational climate are frequently biased by characteristics of the infor-
+mants. To control for this, Glick (1985) recommended the use of a sampling strategy advocated by
+Seidler (1974), in which researchers should systematically select the same kind of key informants
+in all of the sampled organizations. This strategy is argued to hold the level of bias constant across
+organizations, thereby increasing the validity of the organizational climate measure.
+   Based on company information from the database, we selected one manager from either the
+personnel or marketing department per company, or if no such information was available,
+questionnaires were addressed to the personnel department. Each company then received seven ques-
+tionnaires on climate and organizational change. The contact person was asked to distribute the
+questionnaires to his or her colleagues, providing as much a representative cross-section of their com-
+pany’s management as possible. We included companies that returned three or more questionnaires in
+our analyses. In all, 269 companies were approached and a total of 47 companies (17 per cent)
+provided sufficient data for inclusion. From 37 of these (79 per cent), we received three questionnaires;
+from 10 (21 per cent) we received four or more questionnaires (number of individual
+respondents ¼ 165).
+   Companies were located across Germany and included a variety of industries. Nineteen sectors
+were identified using the Standard Industrial Classification Codes (SIC). The firms in this study
+represented manufacturing (60 per cent), utilities (6 per cent), commerce (11 per cent), financial
+services (10 per cent), and miscellaneous service industries (13 per cent). The average firm size was
+410 employees (SD ¼ 272.48). Of the 47 companies, 49 per cent were limited liability companies
+and 51 per cent were publicly traded. To test whether the firms included in our analyses were represen-
+tative of the sample as a whole, we computed chi-square tests on sectors and legal forms. No significant
+differences were found for sector distribution (2 ¼ 1.898, p > 0.10) or legal form (2 ¼ 0.297,
+p > 0.10). Thus, firms included in our study showed a sector and legal form distribution similar to
+the sample as a whole. Further, we performed t-tests on two additional variables: average number of
+employees (one of the control variables) and firm performance as measured by return on assets 1998
+(one of the dependent variables). There were no statistically significant differences between partici-
+pating and non-participating companies in terms of average number of employees (mean
+difference ¼ 48 employees, t ¼ 1.14, p > 0.10) or return on assets 1998 (mean difference ¼ 4.38 per
+cent, t ¼ 0.74, p > 0.10). These data suggest that firms included in our analyses were not systematically
+different from the sample as a whole with regards to firm size, firm profitability, sector distribution, or
+legal form.
+
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                               10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                 INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY               53
+
+
+Measures
+
+The questionnaire contained 12 items regarding the level of change on process innovations (one per
+practice), scales on initiative and psychological safety, and finally, a self-reported measure of the firm’s
+goal achievement. All measures formed 5-point scales ranging from 1 (doesn’t apply at all/no change
+at all) to 5 (entirely applies/a lot of change). We also obtained information on firm profitability
+(Hoppenstedt, 1999).
+
+Process innovativeness
+We selected 12 types of process innovations frequently used in modern companies, such as Business
+Process Reengineering and Just-In-Time Production. These 12 practices are based on the empirical and
+theoretical work by Bolden et al. (1997) and Waterson et al. (1999), who reviewed the research on
+modern manufacturing techniques and suggested 12 core techniques. We presented a short definition
+of each innovation so that respondents understood specifically what we meant. Each innovation was
+measured by one item and respondents were asked to estimate on a 5-point scale ranging from 1 (no
+change at all) to 5 (a lot of change) the degree of change that had taken place in their company over the
+last two years with respect to each process innovation (Table 4—see Appendix).
+   Since we believe that climate factors are of particular importance when organizational processes
+change, we constructed the measures of process innovations to capture the degree of change rather
+than the degree of implementation or use. Waterson et al. (1999) reported that the extent of use of these
+innovations was highly intercorrelated and concluded that there was a general orientation of compa-
+nies to innovate or not to innovate. In our data, these process innovations were also highly intercorre-
+lated and we therefore calculated an index of process innovativeness by averaging values across the 12
+innovations ( ¼ 0.91). The rationale behind this measure was to specify the mean level of process
+innovation as an indicator of an organization’s willingness to innovate rather than to imply that a
+higher level of process innovativeness is necessarily better. All hypotheses were tested using this com-
+posite measure of changes in process innovations.
+
+Climate for initiative
+The measure of climate for initiative was adapted from the 7-item measure of self-reported initiative
+by Frese et al. (1997). The seven items were transformed to be used on the organizational level for
+initiative. A sample item is ‘People in our company use opportunities quickly in order to attain goals’
+( ¼ 0.94). The items are reproduced in the Appendix (Table 5).
+
+Climate for psychological safety
+The measure of climate for psychological safety contained seven items developed by Edmondson
+(1999). These seven items were transformed to be used on the organizational level and were translated
+into German. A sample item is ‘When someone in our company makes a mistake, it is often held
+against them’ (reversed scoring). The item ‘No one in this organization would deliberately act in a
+way that undermines others’ efforts’ was excluded from the scale because it was misleading. Partici-
+pants seemed to respond to this item as if it was negatively formulated, thereby reducing internal con-
+sistency of the scale ( ¼ 0.82 with six items). The items included in this scale are listed in the
+Appendix (Table 6).
+
+Firm performance
+Two indicators of firm performance were used in this study: firm goal achievement and return on
+assets. Firm goal achievement measures one aspect of firm performance, namely, how well the
+
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                                                10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+54     M. BAER AND M. FRESE
+
+Table 1. Descriptive statistics, correlations, and interrater reliabilities
+Variable                                    M       SD         1        2         3         4         5        6         7
+
+1. Size1                                  5.79     0.70      —
+2. Industry codes2                        0.40     0.50     0.29  —
+3. Process innovativeness                 2.75     0.52     0.01 0.12         (0.74)
+4. Climate for initiative                 3.26     0.55      0.03 0.02          0.55y (0.84)
+5. Climate for psychological safety       3.57     0.42      0.07  0.06          0.50y 0.70y       (0.81)
+6. Firm goal achievement                  3.39     0.64      0.15 0.05          0.49y 0.70y        0.49y (0.80)
+7. Return on assets 1997                  9.61     9.30     0.19  0.27          0.20   0.38y       0.30* 0.34*          —
+8. Return on assets 1998                  8.61     8.28     0.31* 0.29          0.13   0.38y       0.38y 0.41y         0.52y
+Note: Within-group interrater reliabilities are presented on the diagonal and represent average values for the 47 companies.
+1
+  Value is the natural logarithm.
+2
+  0 ¼ manufacturing, 1 ¼ non-manufacturing.
+*p < 0.05; y p < 0.01.
+
+company is doing with regard to its own goals and in comparison with its direct competitors. This two-
+item measure of subjective performance was chosen for this study despite the fact that there are some
+disadvantages to measures of subjective performance. We adopted this type of assessment because
+firms in our sample come from different industries and are likely to have diverse goals and subjective
+perceptual assessments of firm performance are particularly appropriate when firms have diverse goals
+(Fey & Beamish, 2001). Second, since certain sectors might be more successful than others, this mea-
+sure is sensitive to potential sector differences with regard to firm success by capturing a focal firm’s
+performance relative to the performance of relevant competitors. Our 2-item measure of firm goal
+achievement was taken from Van Dyck, Frese, and Sonnentag (2002—submitted manuscript) and
+was translated into German. The two items were ‘How successful is your organization in comparison
+to other companies in the same line of industry and of (about) the same size?’ and ‘To what degree has
+your organization achieved its most important goals?’ ( ¼ 0.83). The correlation between this mea-
+sure of firm performance and return on assets 1998 was 0.41 ( p < 0.01) (see Table 1).
+   We also used a common accounting-based measure to capture firm profitability: return on assets.
+Return on assets was calculated by dividing annual profit plus interest expense by averaged invested
+capital with data taken directly from the profit and loss account. Return on assets is a relevant measure
+of operating efficiency as it reflects a company’s long-term financial strength. Bühner (1990) used
+return on assets to investigate the success of corporate mergers, arguing that this measure is appropri-
+ate due to its accurate evaluation of a company’s profit strength. Moreover, return on assets is a fre-
+quently used measure of company profitability (e.g., Daft, Sormunen, & Parks, 1988; Miller &
+Leiblein, 1996; Snell & Youndt, 1995), and was the profitability ratio most consistently reported by
+Hoppenstedt (1999). Finally, the use of accounting-based performance measures such as return on
+assets facilitates comparing results with recent work on the relation between popular management
+techniques and corporate performance by Staw and Epstein (2000), who also used return on assets
+as a measure of economic performance, among others.
+   The indicator of firm profitability used in this study was taken from a database published by
+Hoppenstedt (1999). We collected data in the fall of 1998 at a time when information on financial per-
+formance for 1998 was not yet available. Firms report their financial results usually at the end of the
+year and it takes Hoppenstedt a while to process the information, calculate the various profitability
+ratios, and release their bimonthly-published CD-ROM. We actually used the data on return on assets
+1998, which refer to the period between January and December 1998 and became available in the sum-
+mer and fall of 1999. This is the most important variable for our study because it is objective, it does
+not come from the same source as the climate variables, and it is the index that most likely is already
+the result of process innovations that took place during the previous two years. Hoppenstedt did not
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                              J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                                  10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                  INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY                 55
+
+
+report return on assets for companies that made losses but rather approximated their return on assets
+with zero. This was the case for six companies in our sample and to avoid a reduction in sample size we
+used Hoppenstedt’s approximation for return on assets 1998 for those companies. To control for the
+effects of prior firm performance, we also collected data on return on assets 1997 (Hoppenstedt, 1999)
+and, again, we used the approximation suggested by Hoppenstedt in cases where firms had made
+losses. This was the case for four companies. The correlation between return on assets 1997 and return
+on assets 1998 was 0.52 ( p < 0.01) (see Table 1).
+
+
+Level of analysis
+
+For a construct to exist on the organizational level, two criteria must be met (Edmondson, 1999; Kenny
+& LaVoie, 1985). First, the construct must be conceptually meaningful on the organizational level. We
+have argued above that this is indeed the case. Also, the measures used in this study refer to the orga-
+nization as a whole rather than to individual behaviors and attitudes. Second, individual judgments to
+assess organizational dimensions must converge such that there is good within-group agreement. To
+test whether there was homogeneity or agreement within organizations on the ratings of process
+innovativeness, climate for initiative, climate for psychological safety, and firm goal achievement,
+we used the estimate of within-group interrater reliability rWG developed by James, Demaree, and
+Wolf (1984). According to George and Bettenhausen (1990), the interpretation of this within-group
+interrater reliability coefficient is similar to the interpretation of other kinds of reliability coefficients.
+A value of 0.70 or above is considered good within-group interrater agreement.
+   James et al. (1984) proposed a process for controlling for the spurious influences of response biases
+such as social desirability and positive leniency on the estimates of interrater reliability. To allow for
+the control of the effects of positive leniency and social desirability resulting in a negatively skewed
+null distribution, James et al. (1984) calculated the expected variance for skewed distributions with a
+small, moderate, and large negative skew for 5-point scales. We used the ratio of skewness to its stan-
+dard error as an indicator of the strength of skewness and checked individual items comprising the
+process innovativeness, climate for initiative, climate for psychological safety, and firm goal achieve-
+ment scales. In general, items were mildly negatively skewed and accordingly we used the expected
+variance for distributions possessing a small skew suggested by James et al. (1984) (ESS2 ¼ 1.34).
+Using the formula for multiple-item estimator rWG(J) (James et al., 1984, p. 88), we estimated
+within-group interrater reliabilities for each of the 47 companies for process innovativeness, climate
+for initiative, climate for psychological safety, and firm goal achievement and then calculated an aver-
+age for each of the four aggregated variables. As shown in Table 1, the average within-organization
+interrater reliability for process innovativeness, climate for initiative, climate for psychological safety,
+and firm goal achievement was 0.74, 0.84, 0.81, and 0.80, respectively. Overall, values of interrater
+reliability were well above 0.70, indicating an acceptable level of agreement within organizations
+and justifying aggregation of data to the organizational level. Accordingly, we averaged the intra-
+organization responses to represent a firm-level score. All further analyses are based on these data.
+
+
+Control variables
+
+Industry and size differences between companies in the sample could have independent effects on firm
+profitability, and hence explain the direct effects of climate as well as the interaction effects between
+climate and process innovativeness. Therefore, we used industry and firm size as control variables in
+our regressions. Hoppenstedt (1999) provided information on industry sectors as well as the average
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                  J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                             10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+56    M. BAER AND M. FRESE
+
+
+number of employees for each company. As an indicator of industry codes we used a dummy variable
+representing manufacturing versus non-manufacturing companies, and as an indicator of firm size we
+used the natural logarithm of average number of employees. Average number of employees was logged
+to normalize its distribution. The correlation between return on assets 1998 and industry codes and firm
+size was 0.29 ( p < 0.10) and 0.31 ( p < 0.05), respectively (see Table 1). These correlations suggest
+that non-manufacturing and smaller companies tend to be more profitable. In addition to controlling
+for industry and firm size, we used prior firm profitability (return on assets 1997) as a control variable
+in regressions predicting return on assets 1998.
+
+
+
+Results
+
+Table 1 shows means, standard deviations, within-group interrater reliabilities, and correlations
+between survey variables and return on assets. Waterson et al. (1999) reported that the most commonly
+used process innovations in the United Kingdom were Supply-Chain Partnering, TQM, JIT, Team-
+Based Working, and Integrated Computer-Based Technology. The means in Table 4 (Appendix) show
+that the German companies surveyed reported a similar degree of change in these process innovations.
+Our findings correspond with those obtained by Waterson et al. (1999), enhancing confidence in the
+reliability of our results.
+   As is shown in Table 1, there was a high correlation between the two climate factors (r ¼ 0.70). To
+establish the discriminant validity of the climate for initiative versus the climate for psychological
+safety construct, we performed confirmatory factor analyses (CFA) using LISREL 8 with individual-
+level data and compared a two-factor model with a single-factor model collapsing both constructs. To
+assess overall model fit, we used several goodness-of-fit indices: the chi-square goodness-of-fit index,
+the adjusted goodness-of-fit index (AGFI), the incremental fit index (IFI, Bollen, 1989), the compara-
+tive fit index (CFI, Bentler, 1990), and the root mean square error of approximation (RMSEA, Brown
+& Cudeck, 1993). Following Brown and Cudeck’s (1993) suggestion, RMSEA values of less than 0.05
+were assumed to indicate a good fit between the hypothesized model and the observed data. For the
+other subjective fit indices, we used the commonly employed cut-off value of 0.90.
+   The one-factor solution did not show an acceptable fit (2(df) ¼ 202.45 (77), p ¼ 0.00, AGFI ¼ 0.79,
+CFI ¼ 0.89, IFI ¼ 0.89, RMSEA ¼ 0.10). The two-factor solution had an acceptable overall fit
+(2(df) ¼ 104.02 (76), p ¼ 0.018, AGFI ¼ 0.88, CFI ¼ 0.97, IFI ¼ 0.97, RMSEA ¼ 0.05) and described
+the data significantly better than the one-factor model (2(df) ¼ 98.43 (1), p ¼ 0.00, AIC ¼ 96.43).
+Modification indices for both models suggested allowing within-scale correlated error variances in two
+cases, indicating that two items of each scale shared more common variance than was captured by the
+common factor. Since this is not a problem regarding the differential validity of the two constructs, we
+re-ran analyses with modified models. The overall fit improved for both models, with the one-factor
+model yielding a moderate fit (2(df) ¼ 140.12 (75), p ¼ 0.00, AGFI ¼ 0.84, CFI ¼ 0.94, IFI ¼ 0.94,
+RMSEA ¼ 0.07) and the two-factor model showing an excellent fit (2(df) ¼ 69.69 (74), p ¼ 0.62,
+AGFI ¼ 0.92, CFI ¼ 1.00, IFI ¼ 1.00, RMSEA ¼ 0.00). Again, the two-factor structure described the
+data significantly better (2(df) ¼ 70.43 (1), p ¼ 0.00, AIC ¼ 190.68). Thus, both overall fit statis-
+tics as well as nested model comparisons suggest that there was sufficient discriminant validity among
+the two climate constructs.
+   Since the correlation between the two climate factors is 0.70, multicollinearity is a problem when
+conducting regression analyses (Cohen & Cohen, 1983). We conducted separate regression analyses
+for climate for initiative and climate for psychological safety rather than introducing both in one
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                               J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                              10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY               57
+
+
+regression analysis. We used moderated hierarchical regression analyses with centered independent
+variables (Aiken & West, 1991). In step 1, industry codes, firm size, prior firm profitability, and process
+innovativeness were introduced. Prior firm profitability was entered only in regressions predicting
+return on assets 1998. In step 2, either climate for initiative or psychological safety was entered. In
+step 3, the interaction terms between climate and innovativeness were added. Tables 2 and 3 show
+the results of the moderated hierarchical regression analyses.
+   Hypotheses 1 and 3 predict that climate for initiative and psychological safety will be positively asso-
+ciated with firm performance. Climate for initiative was significantly related to firm goal achievement
+(R2 ¼ 0.26, p < 0.01) and return on assets (R2 ¼ 0.06, p < 0.05). Climate for psychological safety
+also significantly predicted firm goal achievement (R2 ¼ 0.08, p < 0.05) and return on assets
+(R2 ¼ 0.07, p < 0.05). These results support Hypotheses 1 and 3 and suggest that companies that
+encourage their employees to engage in self-starting behaviors and provide a personally non-threatening
+work environment are more successful in terms of firm goal achievement and return on assets.
+   We also found support for moderator effects of both climate for initiative and psychological safety.
+The climate for initiative—process innovativeness interaction term accounted for significant incre-
+mental variance in firm goal achievement (R2 ¼ 0.05, p < 0.05) and in return on assets
+(R2 ¼ 0.09, p < 0.01). These findings indicate that climate for initiative moderates the relation
+between process innovativeness and firm performance, supporting Hypothesis 2. Hypothesis 4, which
+predicts climate for psychological safety will moderate the relation between process innovativeness
+and firm performance, was supported for return on assets (R2 ¼ 0.06, p < 0.05). There was no sig-
+nificant increase in explained variance in firm goal achievement, however (R2 ¼ 0.03, p < 0.10).
+Thus, we found only partial support for the moderator hypothesis for climate for psychological safety.
+   To assess the nature of interactions, we plotted the significant climate—process innovativeness
+interaction terms for return on assets (Aiken & West, 1991). Consistent with our expectations, we
+found moderators that reversed the direction of the relation between predictor and criterion, indicating
+that strong climates for initiative and psychological safety were associated with a positive relation
+between process innovativeness and profitability, whereas low levels of climates for initiative and psy-
+chological safety were associated with a negative relation between process innovativeness and return
+on assets (Figure 1a and b).
+
+
+
+Discussion
+
+The goal of this study was to test whether two climate factors—initiative and psychological safety—
+have both direct and moderating effects on firm performance in mid-sized companies. We have argued
+that process innovations should be accompanied by a climate that allows for an active approach toward
+work and interpersonal risk-taking to be successful. Overall, our results support our hypotheses.
+Hypotheses 1 and 3 state that there are direct relations between climates for initiative and psycholo-
+gical safety and firm performance; this was indeed the case. Thus, psychological safety is not only
+related to group performance, as shown by Edmondson (1999), but also to performance in mid-sized
+companies. Since aggregation of our organization-level construct was supported by the interrater reli-
+abilities on company climate, the results on the relation with company performance provide additional
+justification for thinking of a climate for psychological safety not only as a team-level construct, but
+also as an organizational-level construct.
+      Our results also support the conversion of the individual-level construct of personal initiative
+(Frese et al., 1997) into a climate for initiative construct. Koop, De Reu, and Frese (2000) and Zempel
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                                                                                                                                                                                                                                                           58
+
+
+
+
+                                                                  Table 2. Hierarchical regression analyses of return on assets 1998 on climate for initiative and climate for psychological safety
+                                                                                                                                                                                                                                                                                                                                           M. BAER AND M. FRESE
+
+
+
+
+                                                                                                                                             Climate for initiative                                                                                    Climate for psychological safety
+
+                                                                                                                      Step 1                               Step 2                                 Step 3                                Step 1                              Step 2                               Step 3
+
+
+
+
+                       Copyright # 2003 John Wiley & Sons, Ltd.
+                                                                  Variable                                                        t                                     t                                     t                                    t                                  t                                   t
+
+                                                                  Size1                                      0.19         1.40               0.21               1.64               0.18              1.44               0.19            1.40              0.23             1.80             0.23 1.82
+                                                                  Industry codes2                             0.12          0.89                0.13                0.95                0.19               1.49                0.12             0.89               0.09              0.69              0.13  1.04
+                                                                  Return on assets 1997                       0.44          3.24y               0.35                2.48*               0.18               1.20                0.44             3.24y              0.37              2.78y             0.29  2.15*
+                                                                  Process innovativeness                      0.06          0.43               0.09               0.61               0.13              0.90                0.06             0.43              0.10             0.67             0.09 0.64
+                                                                  Climate                                                                       0.30                1.92*               0.42               2.75y                                                   0.33              2.23*             0.42  2.81y
+                                                                  Climate  process innovativeness                                                                                      0.35               2.63y                                                                                       0.26  2.02*
+                                                                  R2                                           0.33                                0.39                                 0.48                                     0.33                                0.40                              0.46
+                                                                  F                                            5.15y                               5.11y                                6.04y                                    5.15y                               5.50y                             5.61y
+                                                                  R2                                                                              0.06                                 0.09                                                                         0.07                              0.06
+                                                                  F                                                                               3.67*                                6.94y                                                                        4.96*                             4.09*
+                                                                  1
+                                                                   Value is the natural logarithm.
+                                                                  2
+                                                                   0 ¼ manufacturing; 1 ¼ non-manufacturing.
+                                                                  Significance levels are two-tailed for control variables and one-tailed for hypothesized effects.
+                                                                  *p < 0.05; y p < 0.01.
+
+
+
+
+                       J. Organiz. Behav. 24, 45–68 (2003)
+10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+                                                                  Table 3. Hierarchical regression analyses of firm goal achievement on climate for initiative and climate for psychological safety
+                                                                                                                                                 Climate for initiative                                                                                       Climate for psychological safety
+
+                                                                                                                      Step 1                               Step 2                                  Step 3                                Step 1                               Step 2                              Step 3
+
+
+
+
+                       Copyright # 2003 John Wiley & Sons, Ltd.
+                                                                  Variable                                                        t                                     t                                     t                                    t                                  t                                   t
+                                                                      1
+                                                                  Size                                         0.17            1.24               0.13                1.20                0.18                1.62               0.17              1.24              0.13              0.99               0.14             1.10
+                                                                  Industry codes2                              0.06            0.44               0.02                0.18                0.04                0.33               0.06              0.44              0.01              0.10               0.03             0.24
+                                                                  Process innovativeness                       0.50            3.76y              0.15                1.19                0.13                1.03               0.50              3.76y             0.33              2.25*              0.33             2.27*
+                                                                  Climate                                                                         0.61                4.78y               0.65                5.25y                                                  0.31              2.13*              0.37             2.44y
+                                                                  Climate  process innovativeness                                                                                        0.23                2.22*                                                                                       0.19             1.45
+                                                                  R2                                           0.26                              0.52                                     0.57                                   0.26                                0.34                                 0.37
+                                                                  F                                            5.14y                            11.52y                                   11.07y                                  5.14y                               5.30y                                4.78y
+                                                                  R2                                                                            0.26                                     0.05                                                                       0.08                                 0.03
+                                                                  F                                                                            22.85y                                    4.93*                                                                      4.53*                                2.11
+                                                                  1
+                                                                   Value is the natural logarithm.
+                                                                  2
+                                                                   0 ¼ manufacturing; 1 ¼ non-manufacturing.
+                                                                  Significance levels are two-tailed for control variables and one-tailed for hypothesized effects.
+                                                                  *p < 0.05; y p < 0.01.
+                                                                                                                                                                                                                                                                                                                                           INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY
+
+
+
+
+                       J. Organiz. Behav. 24, 45–68 (2003)
+                                                                                                                                                                                                                                                                                                                                           59
+
+
+
+
+10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+                                                                                                                       10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+60    M. BAER AND M. FRESE
+
+
+
+
+Figure 1(a). Interaction of climate for initiative (—— low climate; —      high climate) and process innovativeness
+on return on assets 1998. (b) Interaction of climate for psychological safety (—— low climate;
+                               and process innovativeness on return on assets 1998
+                                                                                                —      high climate)
+
+
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                      J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                              10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY               61
+
+
+(1999) have shown that individual personal initiative by an owner relates to small and microbusiness
+success. Our results go one step further to show that climate for initiative can be used on an aggregated
+company level and that it is related to performance in mid-sized companies.
+   We also found support for our moderator Hypotheses 2 and 4. Climates for initiative and psycho-
+logical safety moderated the relations between process innovativeness and company performance,
+although climate for psychological safety affected only one of the dependent variables: return on
+assets. Thus, the results are more clear-cut for the moderating role of climate for initiative than for
+climate for psychological safety. It is of theoretical and practical importance that the moderators were
+of the so-called C type, which reverse the direction of the relation between predictor and criterion
+(Podsakoff et al., 1995). As Figure 1 reveals, companies that did not innovate were moderately profit-
+able and successful. However, companies with a high degree of process innovativeness but with low
+levels of climates for initiative and psychological safety were actually worse off than if they had not
+innovated at all. Only companies with a high degree of process innovativeness and high levels of
+climates for initiative and psychological safety did better than those companies that did not innovate.
+Thus, innovation is not enough and needs to be complemented by climates for initiative and psycho-
+logical safety to be brought to its full potential.
+   The hierarchical regression analyses revealed that process innovativeness and performance were
+only partially related. Beta values for process innovativeness in the regressions including climate
+for initiative or climate for psychological safety predicting return on assets 1998 were not significant
+( ¼  0.09, p > 0.05 and  ¼  0.10, p > 0.05, respectively). Moreover, process innovativeness sig-
+nificantly predicted firm goal achievement only in the regression including climate for psychological
+safety but not in the regression including climate for initiative ( ¼ 0.33, p < 0.05 and  ¼ 0.15,
+p > 0.05, respectively). These results indicate that innovation in and of itself is not enough to produce
+high profitability. However, innovativeness was strongly related to the two climate factors, suggesting
+that climate may be an important factor in a firm’s decision on whether to innovate the process of pro-
+duction and services. West (1990) also argued for the importance of psychological safety to produce
+innovations. Edmondson (1999) showed that psychological safety leads to team learning and better
+team performance. A history of innovativeness and climates for initiative and psychological safety
+may reinforce each other.
+   The correlation between climate for initiative and climate for psychological safety was quite high
+(r ¼ 0.70), which may be due to two reasons. First, conceptually, the two variables should be related
+because there should be a reciprocal relation between climate for psychological safety and climate for
+initiative. It is easier to show initiative when one feels safe in a company or a group to speak up without
+risking too much. On the other hand, organizations that have a history of supporting initiative make
+people feel safe because people in those organizations have successfully taken actions before without
+being negatively sanctioned. Second, aggregated variables often show high correlations because indi-
+vidual error variance is reduced (correlation between the two climate factors is 0.58 on the individual
+level of analysis).
+   Overall, our results break new ground in the literature on innovation by identifying a complex set of
+relations between process innovativeness, climates, and organizational performance. Looking at an
+objective indicator of company performance, we found strong support for a direct and moderating
+effect of climate. Our findings support the view that climates for initiative and psychological safety
+are complementary assets without which process innovations may not be realized to their full potential.
+Both climate factors are critical contingencies to the relation between process innovations and perfor-
+mance, and are argued to help achieve a competitive advantage in two ways. First, climates for initia-
+tive and psychological safety support the quality of the implementation process. Second, both climate
+factors are important to the success of modern process innovations since these innovations are char-
+acterized by an increased focus on interdependency, personal responsibility, autonomy, and flexibility,
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                            10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+62    M. BAER AND M. FRESE
+
+
+making climates for initiative and psychological safety critical in ensuring enhanced organizational
+performance.
+
+
+Limitations
+Our study was not able to test all causal hypotheses (climate causing growth in company performance
+and company performance causing climate changes). On the one hand, we controlled not only for
+industry and firm size but also for prior performance when predicting return on assets 1998, thereby
+investigating the direct and interactive effects of both climate dimensions on change in return on
+assets. Thus, the results reject the reverse causation hypothesis that prior return on assets was respon-
+sible for the relations between the two climate variables and change in return on assets. Assuming
+some temporal stability of organizational climate, the results indicate that climates for initiative and
+psychological safety play an important role in directly and indirectly determining organizational per-
+formance. On the other hand, it is possible that there is a long-term effect of organizational perfor-
+mance on climate changes. Our hypothesis is actually that both causal mechanisms play a role:
+climate causing changes in company performance and company performance causing climate changes.
+The literature on company failures supports such reasoning. Failing companies often show hectic and
+reactive ways of handling a crisis, leading to increased centralization, formalization, standardization,
+and routinization (Staw, Sandelands, & Dutton, 1981; Weitzel, & Jonsson, 1989), and consequently, to
+low levels of climate for initiative and psychological safety, which in turn reduce company perfor-
+mance.
+   Although we instructed the contact person in each company to distribute the questionnaires to a
+representative cross-section of that company’s management, we did not name the managers that the
+contact person should distribute the questionnaires to because no such information was available. This
+data collection strategy might have introduced some bias into the climate ratings since the contact per-
+son might have distributed the questionnaires to like-minded colleagues. However, there is at least
+some evidence that this might not have been the case. Among other background information, respon-
+dents were asked to indicate their position in the company. An analysis of the data indicated that man-
+agers in various positions (e.g., CEO, CFO, Plant Director) and from various departments (e.g.,
+Production, Marketing, Sales, Finance, Human Resources) within each company participated, provid-
+ing us with some confidence that the contact person followed our instructions. Nevertheless, like-
+minded spirits might work in various positions and departments, thus the evidence found does not fully
+rule out a response bias.
+   In a related manner, response bias might have been introduced by using top management assess-
+ments of organizational climate. While such bias is likely to be similar across the surveyed companies,
+such assessments might be positively biased which likely results in some restriction of range of the
+climate variables. However, restriction in range in the assessment of the climate constructs would
+attenuate existing effects, which otherwise might be even stronger.
+   Finally, our study was done in Germany on medium-sized firms. The German economy is based
+heavily on medium-sized firms that are often very successful (Simon, 1996). An obvious question
+is whether it is possible to generalize the findings in this study to other countries. Since many of
+the concepts used in this study are rather new, we do not yet have a body of research in this area. How-
+ever, a few studies point to some degree of generalizability of the results. For example, Edmondson
+(1999) has shown a relation between psychological safety in groups with team learning and perfor-
+mance in the US. In their study of 40 companies in the UK, Kangis and Williams (2000) found support
+for a relation between the extent to which coworkers were described as being trusting, friendly, and
+cooperative and company performance. Our results are in line with these findings. Personal initiative
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                              J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                            10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                               INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY              63
+
+
+by the owner of micro and small-scale businesses has also been shown to be important for firm per-
+formance in two studies in Germany and Africa (Koop et al., 2000; Zempel, 1999). Thus, there is some
+evidence that suggests generalizability. It would be helpful, however, to do more studies on the com-
+pany level to assess generalizability.
+
+
+Practical implications
+
+Given the consistent interactions between the process innovations and the climate factors, we would
+argue that systematic efforts to enhance climates for initiative and safety is especially important to
+companies that want to introduce a process innovation. The idea that to remain competitive, process
+innovation is essential—a common idea in management—needs to be seriously modified. Effective
+process innovation can only be achieved if strong climates for initiative and psychological safety exist
+in the company.
+   Climates for initiative and psychological safety are also important to increase company performance
+irrespective of the degree of change in process innovations and they may themselves also lead to a
+higher degree of innovativeness by a firm. Therefore, we think that the centerpiece of any change pro-
+cess in companies should be to increase climate factors such as psychological safety and initiative
+before larger changes and innovations are tackled. Another implication of this study refers to change
+management. Change processes have often been described as suffering under resistance to change
+(Coch & French, 1948; French & Bell, 1995). The change processes that appear when process innova-
+tion is introduced require not only no resistance to change, but an active, initiating approach to deal
+with problems of implementation. Therefore, our results suggest that climates for initiative and psy-
+chological safety should be incorporated into conceptualizations of change management processes.
+
+
+
+Acknowledgements
+
+The authors gratefully acknowledge the support of Verlag Hoppenstedt GmbH for providing their mea-
+sures free of charge and dealing with our questions on how the measures were calculated. We wish to
+thank Nina Keith for her help in performing the confirmatory factor analysis and Nico Boedeker for
+collecting additional financial information. This article greatly benefited from the comments of Laura
+Kinsell and Elizabeth Morrison and the helpful feedback provided by the two anonymous JOB
+reviewers.
+
+
+
+Author biographies
+
+Markus Baer is a PhD student in Organizational Behavior in the Department of Business Adminis-
+tration at the University of Illinois at Urbana-Champaign. His current research focuses on examining
+the impact of individual differences and the social environment on creativity and innovation in indi-
+viduals and groups.
+Michael Frese, Professor at University of Giessen, Germany, Visiting Professor at London Business
+School, and President of the International Association of Applied Psychology received his PhD at the
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                              J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                                    10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+64    M. BAER AND M. FRESE
+
+
+Technical University of Berlin. His research interests are in the areas of entrepreneurship, personal
+initiative, cross-cultural issues, performance, training, and errors.
+
+
+
+References
+
+Aichele, C. (1997). Kennzahlenbasierte Geschäftsprozeßanalyse [Index-based business process analysis].
+  Wiesbaden: Gabler.
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting interactions. Newbury Park, CA:
+  Sage.
+Bentler, P. M. (1990). Comparative fit indexes in structural models. Psychological Bulletin, 107, 238–246.
+Bolden, R., Waterson, P., Warr, P., Clegg, C., & Wall, T. (1997). A new taxonomy of modern manufacturing
+  practices. International Journal of Operations and Production Management, 11, 1112–1130.
+Bollen, K. A. (1989). Structural equations with latent variables. New York, NY: Wiley.
+Brown, M. W., & Cudeck, R. (1993). Alternative ways of assessing model fit. In K. A. Bollen, & J. S. Long (Eds.),
+  Testing structural equation models (pp. 136–162). Newbury Park, CA: Sage.
+Brown, S. P., & Leigh, T. W. (1996). A new look at psychological climate and its relationship to job involvement,
+  effort, and performance. Journal of Applied Psychology, 81, 358–368.
+Bühner, R. (1990). Der Jahresabschlußerfolg von Unternehmenszusammenschlüssen [The success of corporate
+  mergers]. Zeitschrift für Betriebswirtschaft, 60, 1275–1294.
+Coch, L., & French, J. R. P. (1948). Overcoming resistance to change. Human Relations, 19, 39–56.
+Cohen, J., & Cohen, P. (1983). Applied multiple regression/correlational analysis for the behavioral sciences.
+  Hillsdale, NJ: Erlbaum.
+Crant, J. M. (1995). The proactive personality scale and objective job performance among real estate agents.
+  Journal of Applied Psychology, 80, 532–537.
+Daft, R. L., Sormunen, J., & Parks, D. (1988). Chief executive scanning, environmental characteristics, and
+  company performance: an empirical study. Strategic Management Journal, 9, 123–139.
+Dean, J. W., & Snell, S. A. (1991). Integrated manufacturing and job design: moderating effects of organizational
+  inertia. Academy of Management Journal, 34, 774–804.
+Denison, D. R. (1990). Corporate culture and organizational effectiveness. New York, NY: John Wiley & Sons.
+Denison, D. R. (1996). What is the difference between organizational culture and organizational climate? A
+  native’s point of view on a decade of paradigm wars. Academy of Management Review, 21, 619–654.
+Detert, J. R., Schroeder, R. G., & Mauriel, J. J. (2000). A framework for linking culture and improvement
+  initiatives in organizations. Academy of Management Review, 25, 850–863.
+Douglas, T. J., & Judge, W. Q. (2001). Total quality management implementation and competitive advantage: the
+  role of structural control and exploration. Academy of Management Journal, 44, 158–169.
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science
+  Quarterly, 44, 350–383.
+Emery, C. R., Summers, T. P., & Surak, J. G. (1996). The role of organizational climate in the implementation of
+  total quality management. Journal of Managerial Issues, 8, 484–496.
+Fey, C. F., & Beamish, P. W. (2001). Organizational climate similarity and performance: international joint
+  ventures in Russia. Organization Studies, 22, 853–882.
+French, W. L., & Bell, C. H., Jr. (1995). Organization development. Englewood Cliffs, NJ: Prentice-Hall.
+Frese, M., Kring, W., Soose, A., & Zempel, J. (1996). Personal initiative at work: differences between East and
+  West Germany. Academy of Management Journal, 39, 37–63.
+Frese, M., Fay, D., Hilburger, T., Leng, K., & Tag, A. (1997). The conception of personal initiative:
+  operationalization, reliability and validity in two German samples. Journal of Occupational and Organizational
+  Psychology, 70, 139–161.
+Frese, M., Teng, E., & Wijnen, C. J. D. (1999). Helping to improve suggestion systems: predictors of giving
+  suggestions in companies. Journal of Organizational Behavior, 20, 1139–1155.
+George, J. M., & Bettenhausen, K. (1990). Understanding prosocial behavior, sales performance, and turnover: a
+  group-level analysis in a service context. Journal of Applied Psychology, 75, 698–709.
+Glick, W. H. (1985). Conceptualizing and measuring organizational and psychological climate: pitfall in
+  multilevel research. Academy of Management Review, 10, 601–616.
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                    J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                                         10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                    INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY                      65
+
+Glick, W. H. (1988). Response: organizations are not central tendencies. Shadowboxing in the dark, round 2.
+  Academy of Management Review, 13, 133–137.
+Hacker, W. (1992). Expertenkönnen [Expert knowledge]. Göttingen: Verlag für Angewandte Psychologie.
+Hammer, M., & Champy, J. (1993). Re-engineering the corporation: A manifesto for business revolution. London:
+  Nicholas Brierley Publishing.
+Handfield, R. B., & Nichols, E. Z. (1998). Introduction to supply chain management. London: Prentice Hall.
+Harmon, R. L. (1992). Reinventing the factory. New York, NY: Macmillan.
+Hill, M. (1994). Computer-integrated manufacturing: elements and totality. In J. Storey (Ed.), New wave
+  manufacturing strategies: Organizational and human resource management dimensions. London: Paul
+  Chapman.
+Ho, S.-J., K., Chan, L., & Kidwell, R. E., Jr. (1999). The implementation of business process reengineering in
+  American and Canadian hospitals. Health Care Management Review, 24, 19–31.
+Hoppenstedt. (1998). Bilanzdaten: Deutsche Bilanzen. Darmstadt: Verlag Hoppenstedt GmbH.
+Hoppenstedt. (1999). Bilanzdaten: Deutsche Bilanzen. Darmstadt: Verlag Hoppenstedt GmbH.
+Imai, M. (1986). Kaizen: The key to Japan’s competitive success. New York, NY: McGraw-Hill.
+Innovation in industry. (February 20th 1999). The Economist, p. A1.
+James, L. R. (1982). Aggregation bias in estimates of perceptual agreement. Journal of Applied Psychology, 67,
+  219–229.
+James, L. R., Demaree, R. G., & Wolf, G. (1984). Estimating within-group interrater reliability with and without
+  response bias. Journal of Applied Psychology, 69, 85–98.
+James, L. R., Joyce, W. F., & Slocum, J. W., Jr. (1988). Comment: organizations do not cognize. Academy of
+  Management Review, 13, 129–132.
+Kahn, W. A. (1990). Psychological conditions of personal engagement and disengagement at work. Academy of
+  Management Journal, 33, 692–724.
+Kangis, P., & Williams, D. G. S. (2000). Organisational climate and corporate performance: an empirical
+  investigation. Management Decision, 38, 531–540.
+Kenny, D. A., & LaVoie, L. (1985). Separating individual and group effects. Journal of Personality and Social
+  Psychology, 48, 339–348.
+Klein, K. J., Dansereau, F., & Hall, R. J. (1994). Levels issues in theory development, data collection, and analysis.
+  Academy of Management Review, 19, 195–229.
+Klepper, R., & Jones, W. O. (1997). Outsourcing information technology, systems and services. London: Prentice
+  Hall.
+Koop, S., De Reu, T., & Frese, M. (2000). Sociodemographic factors, entrepreneurial orientation, personal
+  initiative, and environmental problems in Uganda. In M. Frese (Ed.), Success and failure of microbusiness
+  owners in Africa: A psychological approach (pp. 55–76). Westport, CT: Quorum.
+Kusiak, A. (1992). Concurrent engineering: Automation, tools and techniques. London: John Wiley & Sons.
+Marcoulides, G. A., & Heck, R. H. (1993). Organizational culture and performance: proposing and testing a
+  model. Organization Science, 4, 209–225.
+Miller, K. D., & Leiblein, M. J. (1996). Corporate risk-return relations: returns variability versus downside risk.
+  Academy of Management Journal, 39, 91–122.
+Morrison, E. W., & Phelps, C. C. (1999). Taking charge at work: extrarole efforts to initiate workplace change.
+  Academy of Management Journal, 42, 403–419.
+Oakland, J. S. (1989). Total quality management. Oxford: Heinemann.
+Parker, S. K. (1998). Enhancing role breadth self-efficacy: the role of job enrichment and other organizational
+  interventions. Journal of Applied Psychology, 83, 835–852.
+Parker, S. K., & Wall, T. D. (1996). Job design and modern manufacturing. In P. B. Warr (Ed.), Psychology at Work
+  (pp. 333–359). London: Penguin Group.
+Pedler, M., Burgoyne, J. G., & Boydell, T. (1991). The learning company: A strategy for sustainable development.
+  London: McGraw-Hill.
+Podsakoff, P. M., MacKenzie, S. B., Ahearne, M., & Bommer, W. H. (1995). Searching for a needle in a haystack:
+  trying to identify the illusive moderators of leadership behaviors. Journal of Management, 21, 422–470.
+Reichers, A. E., & Schneider, B. (1990). Climate and culture: an evolution of constructs. In B. Schneider (Ed.),
+  Organizational climate and culture (pp. 5–39). San Francisco, CA: Jossey-Bass.
+Salas, E., Dickinson, T. L., Converse, S. A., & Tannenbaum, S. I. (1992). Toward an understanding of team
+  performance and training. In R. W. Swezey, & E. Salas (Eds.), Teams: Their training and performance.
+  Norwood, NJ: Ablex Publishing Corporation.
+Schein, E. H. (1985). Organizational culture and leadership. San Francisco, CA: Jossey-Bass.
+
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                       J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                                      10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+66    M. BAER AND M. FRESE
+
+Schneider, B. (1985). Organizational behavior. Annual Review of Psychology, 36, 573–611.
+Schneider, B., & Reichers, A. E. (1983). On the etiology of climates. Personnel Psychology, 36, 19–39.
+Seibert, S. E., Crant, J. M., & Kraimer, M. L. (1999). Proactive personality and career success. Journal of Applied
+  Psychology, 84, 416–427.
+Seidler, J. (1974). On using informants: a technique for collecting quantitative data and controlling measurement
+  error in organizational analysis. American Sociological Review, 39, 816–831.
+Simon, H. (1996). The hidden champions: Lessons from 500 of the world’s best unknown companies. Cambridge,
+  MA: Harvard Business School Press.
+Snell, S. A., & Youndt, M. (1995). Human resource management and firm performance: testing a contingency
+  model of executive controls. Journal of Management, 21, 711–737.
+Staw, B. M., & Epstein, L. D. (2000). What bandwagons bring: effects of popular management techniques on
+  corporate performance, reputation, and CEO pay. Administrative Science Quarterly, 45, 523–556.
+Staw, B. M., Sandelands L. E., & Dutton, J. E. (1981). Threat-rigidity effects in organizational behavior: a
+  multilevel analysis. Administrative Science Quarterly, 26, 501–524.
+Stetzer, A., & Morgeson, F. P. (1997). Organizational climate and ineffectiveness: evidence from 25 outdoor work
+  crew divisions. Journal of Quality Management, 2, 251–265.
+Tailby, S., & Turnbull, P. (1987). Learning to manage Just-in-Time. Personnel Management, January, 16–19.
+Tracy, D. (1992). Ten steps to empowerment: A common-sense guide to managing people. New York, NY: Quill.
+Victor, B., Boynton, A., & Stephens-Jahng, T. (2000). The effective design of work under total quality
+  management. Organization Science, 11, 102–117.
+Wall, T. D., & Jackson, P. R. (1995). New manufacturing initiatives and shopfloor job design. In A. Howard (Ed.),
+  The changing nature of work (pp. 139–174). San Francisco, CA: Jossey-Bass.
+Wall, T. D., Jackson, P. R., & Davids, K. (1992). Operator work design and robotics system performance: a
+  serendipitous field study. Journal of Applied Psychology, 77, 353–362.
+Waterson, P. E., Clegg, C. W., Bolden, R., Pepper, K., Warr, P. B., & Wall, T. D. (1999). The use and effectiveness
+  of modern manufacturing practices: a survey of UK industry. International Journal of Production Research, 37,
+  2271–2292.
+Weitzel, W., & Jonsson, E. (1989). Decline in organizations: a literature integration and extension. Administrative
+  Science Quarterly, 34, 91–109.
+West, M. A. (1990). The social psychology of innovation in groups. In M. A. West, & J. L. Farr (Eds.), Innovation
+  and creativity at work: Psychological and organizational strategies (pp. 309–335). Chichester: Wiley.
+Womack, J. P. (1996). The psychology of lean production. Applied Psychology: An International Review, 45, 119–
+  152.
+Womack, J. P., Jones, D. T., & Roos, D. (1990). The machine that changed the world. New York, NY: Maxwell
+  Macmillian.
+Wright, B. M., & Cordery, J. L. (1999). Production uncertainty as a contextual moderator of employee reactions to
+  job design. Journal of Applied Psychology, 84, 456–463.
+Zempel, J. (1999). Selbständigkeit in den neuen Bundesländern: Prädiktoren, Erfolgsfaktoren und Folgen—
+  Ergebnisse einer Längsschnittuntersuchung [Self-employment in the new German states: predictors, success
+  factors, and consequences—results of a longitudinal study]. In K. Moser, B. Batinic, & J. Zempel (Eds.),
+  Unternehmerisches erfolgreiches Handeln (pp. 69–91). Göttingen: Verlag für Angewandte Psychologie.
+
+
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                     J. Organiz. Behav. 24, 45–68 (2003)
+
+                                                                                                                                                                         Appendix
+                                                                  Table 4. Definitions of process innovations
+                                                                  Process innovation                                                M                      SD                   Definition
+
+                                                                   1. Business process reengineering (BPR)                         3.14                   0.80                  Radical approach to redesign and slim down operations and production processes to
+                                                                                                                                                                                eliminate unnecessary procedures. Essential characteristics of BPR are: customer
+                                                                                                                                                                                orientation, increase in process-related teamwork, and the transition from highly
+                                                                                                                                                                                specialized workers to teams (Hammer & Champy, 1993).
+                                                                   2. Supply-chain partnering                                      2.88                   0.62                  An informational network with other relevant companies for the purpose of
+                                                                                                                                                                                overlapping company improvement in customer orientation and resource utilization
+                                                                                                                                                                                (Handfield & Nichols, 1998).
+                                                                   3. Learning culture                                             2.73                   0.70                  A continuously changing company with the goal of facilitating constant learning to
+                                                                                                                                                                                its employees (Pedler et al., 1991).
+                                                                   4. Decentralization                                             2.77                   0.69                  The decentralization of tasks, competencies, and responsibilities in primary
+
+
+
+
+                       Copyright # 2003 John Wiley & Sons, Ltd.
+                                                                                                                                                                                production areas (Aichele, 1997).
+                                                                   5. Team-based work                                              2.92                   0.72                  Set of people who interact towards a common objective, have a limited time-span of
+                                                                                                                                                                                membership, and a specific function to perform (Salas et al., 1992).
+                                                                   6. Simultaneous engineering                                     2.75                   0.65                  The development of products in shorter time periods, at lower costs, and of higher
+                                                                                                                                                                                quality through integrated teamwork (simultaneous design and manufacturing of
+                                                                                                                                                                                product) on all production processes (Kusiak, 1992).
+                                                                   7. Total quality management (TQM)                               3.05                   0.78                  A long-term, integrated strategy to facilitate and improve the quality of goods and
+                                                                                                                                                                                services through the help of all employees. Essential characteristics are: quality
+                                                                                                                                                                                consciousness, customer orientation, continuous improvement, and process
+                                                                                                                                                                                orientation (Oakland, 1989).
+                                                                   8. Computer-integrated manufacturing (CIM)                      2.93                   0.81                  Integrated information processing for operational and technical tasks. Essential
+                                                                                                                                                                                characteristics: process-oriented design of operations and their automation and
+                                                                                                                                                                                support through integrated information-processing systems (Hill, 1994).
+                                                                   9. Lean production                                              2.60                   0.64                  Production strategy characterized by: (1) team-oriented work organization; (2)
+                                                                                                                                                                                reduction of hierarchy; (3) transfer of responsibility to where goods or services are
+                                                                                                                                                                                produced; and (4) integration of planning, development, and production of a product
+                                                                                                                                                                                to realize the goals of customer orientation and cost reduction (Womack, 1996).
+                                                                  10. Outsourcing                                                  2.67                   0.92                  Sub-contracting business processes to external agents (Klepper & Jones, 1997).
+                                                                  11. Empowerment                                                  2.26                   0.63                  Delegation of responsibility and decision-making to lower levels of hierarchy
+                                                                                                                                                                                (Tracy, 1992).
+                                                                  12. Just-in-time production (JIT)                                2.35                   0.79                  Establishment of a material and information flow throughout the entire production
+                                                                                                                                                                                process to attain a customer demand-oriented delivery service. Essential
+                                                                                                                                                                                characteristics of JIT are: integrated information processing, manufacturing
+                                                                                                                                                                                                                                                                                                                                           INNOVATION, CLIMATE, INITIATIVE, AND PSYCHOLOGICAL SAFETY
+
+
+
+
+                                                                                                                                                                                segmentation, production-synchronized supply, and the reduction of storage costs
+                                                                                                                                                                                (Womack et al., 1990).
+
+
+
+
+                       J. Organiz. Behav. 24, 45–68 (2003)
+                                                                                                                                                                                                                                                                                                                                           67
+
+
+
+
+10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+                                                                                                               10991379, 2003, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/job.179 by University Of Georgia Libraries, Wiley Online Library on [27/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+68    M. BAER AND M. FRESE
+
+Table 5. Climate for initiative items
+People in our company actively attack problems.
+Whenever something goes wrong, people in our company search for a solution immediately.
+Whenever there is a chance to get actively involved, people in our company take it.
+People in our company take initiative immediately—more often than in other companies.
+People in our company use opportunities quickly in order to attain goals.
+People in our company usually do more than they are asked to do.
+People in our company are particularly good at realizing ideas.
+
+
+
+
+Table 6. Climate for psychological safety items
+
+In our company some employees are rejected for being different.
+When someone in our company makes a mistake, it is often held against them.
+No one in our company would deliberately act in a way that undermines others’ efforts.
+It is difficult to ask others for help in our company.
+In our company one is free to take risks.
+The people in our company value others’ unique skills and talents.
+As an employee in our company one is able to bring up problems and tough issues.
+
+
+
+
+Copyright # 2003 John Wiley & Sons, Ltd.                                 J. Organiz. Behav. 24, 45–68 (2003)
+
