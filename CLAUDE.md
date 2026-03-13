@@ -30,9 +30,11 @@ PS Text Analysis/
 ├── figures/               ← 시각화 PNG
 ├── scripts/
 │   ├── PS_TidyText_Analysis.R   ← 메인 분석 스크립트
+│   ├── generate_report.py       ← APA 7 Word 보고서 생성 (python-docx)
 │   ├── PS correlation.R         ← 상관분석 스크립트
 │   └── PS_PDFfiles_R code.txt   ← 초기 코드 참고용
-└── discussion/            ← 세션별 의사결정 기록 md 파일
+├── discussion/            ← 세션별 의사결정 기록 md 파일
+└── 2026-03-12_PS-TidyText-Analysis-Report.docx  ← APA 7 최종 보고서
 ```
 
 ---
