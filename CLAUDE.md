@@ -78,6 +78,33 @@ PS Text Analysis/
 - `key_bigrams` 목록은 결과 보고 필요 시 수정 가능
 - 논문 추가 시 PDF를 `PS_PDFfiles/`에 넣으면 자동으로 캐싱됨
 
+### 2026-03-12 | APA 7 보고서 생성 및 표/그림 삽입
+
+**완료한 작업:**
+- python-docx로 APA 7 스타일 Word 보고서 생성 (`scripts/generate_report.py`)
+- 30개 참고문헌 WebSearch로 hallucination check 완료 (28개 DOI 확인, 2개 수동 검증 권고)
+- 보고서 본문 내 표 3개 + 그림 5개 맥락에 맞게 삽입
+  - Table 1 (서론 후): 논문 20편 개요 (저자/연도/저널/초점)
+  - Table 2 (bigram 결과절): Top 20 bigrams + 한글 의미
+  - Figure 1: PS_bigram_top20.png
+  - Table 3 (TF-IDF 결과절): 논문별 특징 bigram
+  - Figure 2: PS_tfidf_by_paper.png, Figure 3: PS_bigram_by_paper.png
+  - Figure 4: PS_bigram_network.png, Figure 5: PS_yearly_trend.png
+- GitHub push 완료
+
+**산출물:**
+- `2026-03-12_PS-TidyText-Analysis-Report.docx` (표 3개, 그림 5개 포함)
+- `scripts/generate_report.py` (APA 7 문서 생성 스크립트)
+
+**해결한 이슈:**
+- pandoc 미설치 → python-docx로 전환 (`pip3 install python-docx`)
+- TF-IDF 표에 인용 노이즈(`asq june`, `lance frazier`) 포함 → Python에서 노이즈 패턴 필터링
+- APA 7 표 세로선 제거: OxmlElement로 left/right/insideV 경계선 'none' 설정
+
+**다음 세션 참고 사항:**
+- 보고서 재생성: `python3 scripts/generate_report.py` 실행
+- 표/그림 내용 수정 시 `generate_report.py` 내 해당 섹션만 수정
+
 ---
 
 <!-- 새 세션 작업 시 아래 형식으로 추가 -->
